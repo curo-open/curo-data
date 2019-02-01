@@ -3245,6 +3245,7 @@
 "Y0041","0","","Iniciálne a kontrolné vyšetrenie u kapitovaného poistenca s artériovou hypertenziou"
 "Y0042","0","","Iniciálne a kontrolné vyšetrenie u kapitovaného poistenca s dyslipidémiou"
 "1b","0","","Telemedicína"
+"H0004.KO","0","","Kontrolné vyšetrenie Hypertenzie/Lipidémie, služi na monitoring vykonanie(nie je preplácané)"
 "8+PPH1","250","","Pripočítateľná položka PPH1 k výkonu 8 pre poisťovňu Dôvera"
 "8+PREDOP","250","","Pripočítateľná položka k výkonu 8 za predoperačné vyšetrenie pre poisťovňu Dôvera"
 "8+4571a","250","","Pripočítateľná položka k výkonu 8 za materiál k CRP pre poisťovňu Dôvera"
