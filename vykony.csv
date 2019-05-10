@@ -2527,7 +2527,7 @@ kod,body,typ,nazov
 159X,180,,Výsledok TOKS neznámy (nevrátený alebo znehodnotený test)
 159Z,180,,Výsledok TOKS negatívny
 15A,60,,
-15B,120,,
+15b,120,,
 15BR,120,,Zhodnotenie výsledkov a záver
 15C,100,,
 15D,150,,
@@ -2591,15 +2591,15 @@ kod,body,typ,nazov
 253B,4000,,
 258A,110,SVaLZ,
 25A,200,,
-260A,150,,
+260a,150,,
 2800B,1000,,
 2812O,450,,
 285A,160,,
 297A,50,,
 297B,50,,
 298A,150,SVaLZ,
-299A,60,,
-299B,100,,
+299a,60,,
+299b,100,,
 299C,100,,
 299D,180,SVaLZ,
 3002A,380,,
