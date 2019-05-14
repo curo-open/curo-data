@@ -1,0 +1,35 @@
+---
+-
+  id:          A31236020
+  lastName:    Test
+  firstName:   Karol
+  dtValidFrom: '2007-01-01T00:00:00.000Z'
+  dtValidTo:
+  dtSuspendFrom:
+  dtSuspendTo:
+  pzs:
+    - N00023020201
+  zp:
+    - 27
+    - 25
+    - 24
+  JRUZID:      '00020201240'
+  pzsRec:
+    ico:         '00624365'
+    id:          N00023020201
+    name:        MUDr. Karol Mika, praktický lekár pre dospelých
+    addr:        Internátna 10
+    city:        Banská Bystrica
+    zip:         '97404'
+    addr_ou:     Internátna  10
+    city_ou:     Banská Bystrica
+    zip_ou:      '97401'
+    dtValidFrom: '2007-01-01T00:00:00.000Z'
+    dtValidTo:
+    dtSuspendFrom:
+    dtSuspendTo:
+    zp:
+      - 27
+      - 25
+      - 24
+    JRUZID:      '00020462461'
