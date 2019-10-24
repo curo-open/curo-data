@@ -15,6 +15,36 @@
     - 24
   JRUZID:
 -
+  id:          A83476005
+  lastName:    Škorňová
+  firstName:   Ingrid
+  dtValidFrom: '2019-01-01T00:00:00.000Z'
+  dtValidTo:
+  dtSuspendFrom:
+  dtSuspendTo:
+  pzs:
+    - P83216005201
+  zp:
+    - 27
+    - 25
+    - 24
+  JRUZID:
+-
+  id:          A52948049
+  lastName:    Kovačková
+  firstName:   Jana
+  dtValidFrom: '2019-01-01T00:00:00.000Z'
+  dtValidTo:
+  dtSuspendFrom:
+  dtSuspendTo:
+  pzs:
+    - P69446049201
+  zp:
+    - 27
+    - 25
+    - 24
+  JRUZID:
+-
   id:          A70961020
   lastName:    Tomková
   firstName:   Táňa
@@ -28,7 +58,7 @@
     - 27
     - 25
     - 24
-  JRUZID:      
+  JRUZID:
   pzsRec:
     ico:         '46223495'
     id:          P76520020201
@@ -47,7 +77,7 @@
       - 27
       - 25
       - 24
-    JRUZID:     
+    JRUZID:
 -
   id:          A83476005
   lastName:    Škorňová
@@ -58,6 +88,21 @@
   dtSuspendTo:
   pzs:
     - P83216005201
+  zp:
+    - 27
+    - 25
+    - 24
+  JRUZID:
+-
+  id:          A34614020
+  lastName:    Borodovčáková
+  firstName:   Michaela
+  dtValidFrom: '2019-01-01T00:00:00.000Z'
+  dtValidTo:
+  dtSuspendFrom:
+  dtSuspendTo:
+  pzs:
+    - P91151020228
   zp:
     - 27
     - 25
