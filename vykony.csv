@@ -3261,3 +3261,19 @@ D54+OPG,200,,Pripočítateľná položka OPG k výkonu D54
 3677aR,180,,Triacylglyceroly
 FotoR,,,Pripočítateľné položky k výkonom RTG
 PACSR,,,Pripočítateľné položky k výkonom RTG
+4+CHRSTAR,200,,Výkon 4 s pripočítateľnou položkou CHRSTAR
+8+CHRSTAR,250,,Výkon 8 s pripočítateľnou položkou CHRSTAR
+1+TELEKON,80,,Výkon 1 s pripočítateľnou položkou TELEKON
+8+HYPVST,250,,Výkon 8 s pripočítateľnou položkou HYPVST
+4+HYPKON,200,,Výkon 4 s pripočítateľnou položkou HYPKON
+4+HYPSTA,200,,Výkon 4 s pripočítateľnou položkou HYPSTA
+160+HYPSTA,390,,Výkon 160 s pripočítateľnou položkou HYPSTA
+4+SKOR01,200,,Výkon 4 s pripočítateľnou položkou SKOR01
+8+SKOR01,250,,Výkon 8 s pripočítateľnou položkou SKOR01
+4+SKOR02,200,,Výkon 4 s pripočítateľnou položkou SKOR02
+8+SKOR02,250,,Výkon 8 s pripočítateľnou položkou SKOR02
+4+SKOR03,200,,Výkon 4 s pripočítateľnou položkou SKOR03
+8+SKOR03,250,,Výkon 8 s pripočítateľnou položkou SKOR03
+4+SKOR04,200,,Výkon 4 s pripočítateľnou položkou SKOR04
+8+SKOR04,250,,Výkon 8 s pripočítateľnou položkou SKOR04
+4+SKOR04,200,,Výkon 4 s pripočítateľnou položkou SKOR04
