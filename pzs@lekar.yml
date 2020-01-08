@@ -108,3 +108,37 @@
     - 25
     - 24
   JRUZID:
+-
+  id:          A49260012
+  lastName:    Laskovský
+  firstName:   Ján
+  dtValidFrom: '2020-01-01T00:00:00.000Z'
+  dtValidTo:
+  dtSuspendFrom:
+  dtSuspendTo:
+  pzs:
+    - P73960012201
+  zp:
+    - 27
+    - 25
+    - 24
+  JRUZID:
+  pzsRec:
+    ico:         '52550796'
+    id:          P73960012201
+    name:        SL - UROLÓGIA, s. r. o.
+    addr:        Sládkovičova 1338/18
+    city:        Stará Ľubovňa
+    zip:         '06401'
+    addr_ou:     Sládkovičova 1338/18
+    city_ou:     Stará Ľubovňa
+    zip_ou:      '06401'
+    dtValidFrom: '2020-01-01T00:00:00.000Z'
+    dtValidTo:
+    dtSuspendFrom:
+    dtSuspendTo:
+    zp:
+      - 27
+      - 25
+      - 24
+    JRUZID:
