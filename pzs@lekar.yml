@@ -1,35 +1,5 @@
 ---
 -
-  id:          A98262020
-  lastName:    Dorovská
-  firstName:   Jana
-  dtValidFrom: '2019-01-01T00:00:00.000Z'
-  dtValidTo:
-  dtSuspendFrom:
-  dtSuspendTo:
-  pzs:
-    - P79023020202
-  zp:
-    - 27
-    - 25
-    - 24
-  JRUZID:
--
-  id:          A83476005
-  lastName:    Škorňová
-  firstName:   Ingrid
-  dtValidFrom: '2019-01-01T00:00:00.000Z'
-  dtValidTo:
-  dtSuspendFrom:
-  dtSuspendTo:
-  pzs:
-    - P83216005201
-  zp:
-    - 27
-    - 25
-    - 24
-  JRUZID:
--
   id:          A52948049
   lastName:    Kovačková
   firstName:   Jana
@@ -133,6 +103,40 @@
     addr_ou:     Sládkovičova 1338/18
     city_ou:     Stará Ľubovňa
     zip_ou:      '06401'
+    dtValidFrom: '2020-01-01T00:00:00.000Z'
+    dtValidTo:
+    dtSuspendFrom:
+    dtSuspendTo:
+    zp:
+      - 27
+      - 25
+      - 24
+    JRUZID:
+-
+  id:          A71357012
+  lastName:    Kollárik
+  firstName:   Boris
+  dtValidFrom: '2020-01-01T00:00:00.000Z'
+  dtValidTo:
+  dtSuspendFrom:
+  dtSuspendTo:
+  pzs:
+    - P06204012201
+  zp:
+    - 27
+    - 25
+    - 24
+  JRUZID:
+  pzsRec:
+    ico:         '45288631'
+    id:          P06204012201
+    name:        URO clinic, s. r. o.
+    addr:        Partizánska 2
+    city:        Bratislava
+    zip:         '81103'
+    addr_ou:     Partizánska 2
+    city_ou:     Bratislava
+    zip_ou:      '81103'
     dtValidFrom: '2020-01-01T00:00:00.000Z'
     dtValidTo:
     dtSuspendFrom:
