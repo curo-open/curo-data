@@ -146,3 +146,37 @@
       - 25
       - 24
     JRUZID:
+-
+  id:          A93930003
+  lastName:    Chalková
+  firstName:   Viera
+  dtValidFrom: '2020-01-01T00:00:00.000Z'
+  dtValidTo:
+  dtSuspendFrom:
+  dtSuspendTo:
+  pzs:
+    - O40755003201
+  zp:
+    - 27
+    - 25
+    - 24
+  JRUZID:
+  pzsRec:
+    ico:         '35914793'
+    id:          O40755003201
+    name:        Ružinovská poliklinika, a.s.
+    addr:        Ružinovská 10
+    city:        Bratislava
+    zip:         '82007'
+    addr_ou:     Partizánska 2
+    city_ou:     Bratislava
+    zip_ou:      '82007'
+    dtValidFrom: '2020-01-01T00:00:00.000Z'
+    dtValidTo:
+    dtSuspendFrom:
+    dtSuspendTo:
+    zp:
+      - 27
+      - 25
+      - 24
+    JRUZID:
