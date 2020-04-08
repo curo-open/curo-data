@@ -3277,3 +3277,7 @@ PACSR,,,Pripočítateľné položky k výkonom RTG
 4+SKOR04,200,,Výkon 4 s pripočítateľnou položkou SKOR04
 8+SKOR04,250,,Výkon 8 s pripočítateľnou položkou SKOR04
 4+SKOR04,200,,Výkon 4 s pripočítateľnou položkou SKOR04
+20201,0,,Totálna náhrada chrupu
+20202,0,,Parciálna náhrada chrupu
+12101,0,,Zhotovenie koruniek ktoré nie sú súčasťou fixnej náhrady
+12105,0,,Zhotovenie koruniek ktoré nie sú súčasťou fixnej náhrady
