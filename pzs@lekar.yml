@@ -214,3 +214,38 @@
       - 25
       - 24
     JRUZID:
+# http://ngdev.xtmotion.com/issue/CR-5376
+-
+  id:          A51208020
+  lastName:    Prekopová
+  firstName:   Jana
+  dtValidFrom: '2020-01-01T00:00:00.000Z'
+  dtValidTo:
+  dtSuspendFrom:
+  dtSuspendTo:
+  pzs:
+    - P98077020201
+  zp:
+    - 27
+    - 25
+    - 24
+  JRUZID:
+  pzsRec:
+    ico:         ''
+    id:          P98077020201
+    name:        INT - AM, s.r.o.
+    addr:        Slatinka nad Bebravou 104
+    city:        Slatinka nad Bebravou
+    zip:         '95653'
+    addr_ou:     Slatinka nad Bebravou 104
+    city_ou:     Slatinka nad Bebravou
+    zip_ou:      '95653'
+    dtValidFrom: '2020-01-01T00:00:00.000Z'
+    dtValidTo:
+    dtSuspendFrom:
+    dtSuspendTo:
+    zp:
+      - 27
+      - 25
+      - 24
+    JRUZID:
