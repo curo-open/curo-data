@@ -249,3 +249,38 @@
       - 25
       - 24
     JRUZID:
+# CR-5383 potrebujeme pridat lekara
+-
+  id:          A54022049
+  lastName:    Verešpejová Jadvišová
+  firstName:   Zuzana
+  dtValidFrom: '2020-01-01T00:00:00.000Z'
+  dtValidTo:
+  dtSuspendFrom:
+  dtSuspendTo:
+  pzs:
+    - P30385049204
+  zp:
+    - 27
+    - 25
+    - 24
+  JRUZID:
+  pzsRec:
+    ico:         '36562882'
+    id:          P30385049204
+    name:        KARDIOCENTRUM  NITRA s.r.o
+    addr:        Špitálska 1
+    city:        Nitra
+    zip:         '94901'
+    addr_ou:     Slatinka nad Bebravou 104
+    city_ou:     Slatinka nad Bebravou
+    zip_ou:      '95653'
+    dtValidFrom: '2020-01-01T00:00:00.000Z'
+    dtValidTo:
+    dtSuspendFrom:
+    dtSuspendTo:
+    zp:
+      - 27
+      - 25
+      - 24
+    JRUZID:
