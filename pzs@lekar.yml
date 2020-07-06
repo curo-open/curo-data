@@ -272,9 +272,9 @@
     addr:        Špitálska 1
     city:        Nitra
     zip:         '94901'
-    addr_ou:     Slatinka nad Bebravou 104
-    city_ou:     Slatinka nad Bebravou
-    zip_ou:      '95653'
+    addr_ou:     Špitálska 1
+    city_ou:     Nitra
+    zip_ou:      '94901'
     dtValidFrom: '2020-01-01T00:00:00.000Z'
     dtValidTo:
     dtSuspendFrom:
