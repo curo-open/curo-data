@@ -284,3 +284,38 @@
       - 25
       - 24
     JRUZID:
+# CR-5498 kod PZS pre lekara ze je chybny - treba asi pridat
+-
+  id:          A70961020
+  lastName:    Tomková
+  firstName:   Táňa
+  dtValidFrom: '2020-01-01T00:00:00.000Z'
+  dtValidTo:
+  dtSuspendFrom:
+  dtSuspendTo:
+  pzs:
+    - P76620020201
+  zp:
+    - 27
+    - 25
+    - 24
+  JRUZID:
+  pzsRec:
+    ico:         null
+    id:          P76620020201
+    name:        Ambulancia Mora, s.r.o
+    addr:        Drieňová 36
+    city:        Bratislava
+    zip:         '821 02'
+    addr_ou:     Drieňová 36
+    city_ou:     Bratislava
+    zip_ou:      '821 02'
+    dtValidFrom: '2020-01-01T00:00:00.000Z'
+    dtValidTo:
+    dtSuspendFrom:
+    dtSuspendTo:
+    zp:
+      - 27
+      - 25
+      - 24
+    JRUZID:
