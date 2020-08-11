@@ -341,7 +341,7 @@
     name:        VINOVA Group s.r.o.
     addr:        Býčia medza 931/2
     city:        Salka
-    zip:         94137
+    zip:         '94137'
     addr_ou:     Býčia medza 931/2
     city_ou:     Salka
     zip_ou:      94137
