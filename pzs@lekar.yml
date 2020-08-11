@@ -287,7 +287,7 @@
 # CR-5498 kod PZS pre lekara ze je chybny - treba asi pridat
 -
   id:          A70961020
-  lastName:    Tomková
+  lastName:    MUDr. Tomková
   firstName:   Táňa
   dtValidFrom: '2020-01-01T00:00:00.000Z'
   dtValidTo:
@@ -304,12 +304,47 @@
     ico:         null
     id:          P76620020201
     name:        Ambulancia Mora, s.r.o
-    addr:        Drieňová 36
+    addr:        Driak vie aj eňová 36
     city:        Bratislava
     zip:         '821 02'
     addr_ou:     Drieňová 36
     city_ou:     Bratislava
     zip_ou:      '821 02'
+    dtValidFrom: '2020-01-01T00:00:00.000Z'
+    dtValidTo:
+    dtSuspendFrom:
+    dtSuspendTo:
+    zp:
+      - 27
+      - 25
+      - 24
+    JRUZID:
+# monika: dr. Klucho chce doplniť lekára
+-
+  id:          A03416020
+  lastName:    MUDr. Varga
+  firstName:   Viktória
+  dtValidFrom: '2020-01-01T00:00:00.000Z'
+  dtValidTo:
+  dtSuspendFrom:
+  dtSuspendTo:
+  pzs:
+    - P69706020201
+  zp:
+    - 27
+    - 25
+    - 24
+  JRUZID:
+  pzsRec:
+    ico:         null
+    id:          P69706020201
+    name:        VINOVA Group s.r.o.
+    addr:        Býčia medza 931/2
+    city:        Salka
+    zip:         94137
+    addr_ou:     Býčia medza 931/2
+    city_ou:     Salka
+    zip_ou:      94137
     dtValidFrom: '2020-01-01T00:00:00.000Z'
     dtValidTo:
     dtSuspendFrom:
