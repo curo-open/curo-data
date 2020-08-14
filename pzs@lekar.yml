@@ -354,3 +354,37 @@
       - 25
       - 24
     JRUZID:
+# https://curois.freshdesk.com/a/tickets/2113
+-
+  id:          A34478004
+  lastName:    Orbanová
+  firstName:   Darina
+  dtValidFrom: '2020-01-01T00:00:00.000Z'
+  dtValidTo:
+  dtSuspendFrom:
+  dtSuspendTo:
+  pzs:
+    - P52806004201
+  zp:
+    - 27
+    - 25
+    - 24
+  JRUZID:
+  pzsRec:
+    ico:         null
+    id:          P52806004201
+    name:        MUDr. Darina Orbanová, s.r.o.
+    addr:        Kláštorská 82
+    city:        Nitra
+    zip:         '94901'
+    addr_ou:     Kláštorská 82
+    city_ou:     Nitra
+    zip_ou:      '94901'
+    dtValidFrom: '2020-01-01T00:00:00.000Z'
+    dtValidTo:
+    dtSuspendFrom:
+    dtSuspendTo:
+    zp:
+      - 25
+      - 24
+    JRUZID:
