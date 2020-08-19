@@ -387,8 +387,43 @@
     zp:
       - 25
       - 24
+      - 27
     JRUZID:
 -
   delete:      true
   id:          A34478004
   pzs:         P52806004202
+-
+  id:          A61716088
+  lastName:    Žurkovský
+  firstName:   Ivan
+  dtValidFrom: '2020-01-01T00:00:00.000Z'
+  dtValidTo:
+  dtSuspendFrom:
+  dtSuspendTo:
+  pzs:
+    - P89851068201
+  zp:
+    - 27
+    - 25
+    - 24
+  JRUZID:
+  pzsRec:
+    ico:         null
+    id:          P89851068201
+    name:        Východoslovenský ústav srdcových a cievnych chorôb, a.s.
+    addr:        Ondavská 8
+    city:        Košice
+    zip:         ''
+    addr_ou:     Ondavská 8
+    city_ou:     Košice
+    zip_ou:      ''
+    dtValidFrom: '2020-01-01T00:00:00.000Z'
+    dtValidTo:
+    dtSuspendFrom:
+    dtSuspendTo:
+    zp:
+      - 25
+      - 24
+      - 27
+    JRUZID:
