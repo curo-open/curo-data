@@ -389,10 +389,10 @@
       - 24
       - 27
     JRUZID:
--
-  delete:      true
-  id:          A34478004
-  pzs:         P52806004202
+#-
+#  delete:      true
+#  id:          A34478004
+#  pzs:         P52806004202
 -
   id:          A61716088
   lastName:    Žurkovský
