@@ -3244,7 +3244,7 @@ Y0018,0,,Klasická masáž 1 časti tela + elektroliečba + individuálna telesn
 Y0023,0,,Vstupné vyšetrenie pre poskytnutie /indikáciu/ SVLZ zdravotného výkonu Y0018
 Y0041,0,,Iniciálne a kontrolné vyšetrenie u kapitovaného poistenca s artériovou hypertenziou
 Y0042,0,,Iniciálne a kontrolné vyšetrenie u kapitovaného poistenca s dyslipidémiou
-1b,0,,Telemedicína
+1b,160,,Telemedicína
 H0004.KO,0,,"Kontrolné vyšetrenie Hypertenzie/Lipidémie, služi na monitoring vykonanie(nie je preplácané)"
 8+PPH1,250,,Pripočítateľná položka PPH1 k výkonu 8 pre poisťovňu Dôvera
 8+PREDOP,250,,Pripočítateľná položka k výkonu 8 za predoperačné vyšetrenie pre poisťovňu Dôvera
@@ -3278,3 +3278,4 @@ PACSR,,,Pripočítateľné položky k výkonom RTG
 20202,0,,Parciálna náhrada chrupu
 12101,0,,Zhotovenie koruniek ktoré nie sú súčasťou fixnej náhrady
 12105,0,,Zhotovenie koruniek ktoré nie sú súčasťou fixnej náhrady
+629b+AGTC,,,Skríningový antigénový test SARS-CoV-2 + AGTC
