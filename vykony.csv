@@ -3278,4 +3278,5 @@ PACSR,,,Pripočítateľné položky k výkonom RTG
 20202,0,,Parciálna náhrada chrupu
 12101,0,,Zhotovenie koruniek ktoré nie sú súčasťou fixnej náhrady
 12105,0,,Zhotovenie koruniek ktoré nie sú súčasťou fixnej náhrady
-629b+AGTC,,,Skríningový antigénový test SARS-CoV-2 + AGTC
+629a+AGTC,,,Skríningový antigénový test SARS-CoV-2 + AGTC
+629b+AGTC,,,Skríningový antigénový test SARS-CoV-2 imunoflorescenčnou metódou + AGTC
