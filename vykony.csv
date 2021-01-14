@@ -3280,6 +3280,6 @@ PACSR,,,Pripočítateľné položky k výkonom RTG
 12105,0,,Zhotovenie koruniek ktoré nie sú súčasťou fixnej náhrady
 629a+AGTC,,,Skríningový antigénový test SARS-CoV-2 + AGTC
 629b+AGTC,,,Skríningový antigénový test SARS-CoV-2 imunoflorescenčnou metódou + AGTC
-159a+FOB,200,,Výkon 159a s pripočítateľnou položkou FOB
-159z+FOB,200,,Výkon 159z s pripočítateľnou položkou FOB
-159x+FOB,200,,Výkon 159x s pripočítateľnou položkou FOB
+159a+FOB,180,,Výkon 159a s pripočítateľnou položkou FOB
+159z+FOB,180,,Výkon 159z s pripočítateľnou položkou FOB
+159x+FOB,180,,Výkon 159x s pripočítateľnou položkou FOB
