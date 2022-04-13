@@ -3028,15 +3028,6 @@ kod,body,typ,nazov
 63R,200,,Neurologické vyšetrenie orientačné
 667a,600,,
 70b,40,,
-71.CHZP,35,soc,Vystavenie tlačiva Hlásenie choroby z povolania.
-71.DPN,35,soc,Vystavenie potvrdenia o dočasnej pracovnej neschopnosti.
-71.EULS,35,soc,Lekárska správa v prípade dočasnej pracovnej neschopnosti pre uplatnenie nároku na dávku v inom členskom štáte EÚ).
-71.OCR,35,soc,Vystavenie potvrdenia o potrebe ošetrovania alebo starostlivosti.
-71.PPM,35,soc,Vystavenie potvrdenia o očakávanom dni pôrodu.
-71.REGR,35,soc,Regresné hlásenie.
-71.TDPN,35,soc,Vystavenie preukazu o trvaní dočasnej pracovnej neschopnosti.
-71.URAZ,35,soc,Správa alebo hlásenie o úraze.
-71.VYR,35,soc,Vystavenie potvrdenia o potrebe preradenia na inú prácu.
 7168a,8000,SVaLZ,
 7169a,500,SVaLZ,
 7170a,800,SVaLZ,
@@ -3065,6 +3056,18 @@ kod,body,typ,nazov
 728C,390,,
 728d,2000,,
 738A,350,,Dychový test na Helicobacter pylori
+71.CHZP,35,soc,Vystavenie tlačiva Hlásenie choroby z povolania.
+71.DPN,35,soc,Vystavenie potvrdenia o dočasnej pracovnej neschopnosti.
+71.EULS,35,soc,Lekárska správa v prípade dočasnej pracovnej neschopnosti pre uplatnenie nároku na dávku v inom členskom štáte EÚ).
+71.OCR,35,soc,Vystavenie potvrdenia o potrebe ošetrovania alebo starostlivosti.
+71.PPM,35,soc,Vystavenie potvrdenia o očakávanom dni pôrodu.
+71.REGR,35,soc,Regresné hlásenie.
+71.TDPN,35,soc,Vystavenie preukazu o trvaní dočasnej pracovnej neschopnosti.
+71.URAZ,35,soc,Správa alebo hlásenie o úraze.
+71.VYR,35,soc,Vystavenie potvrdenia o potrebe preradenia na inú prácu.
+71.UTEH,35,soc,Vystavenie potvrdenia o skončení tehotenstva.
+71.TDOS,35,soc,Vvystavenie potvrdenia o trvaní poskytovania osobnej a celodennej starostlivosti.
+71.UDOS,35,soc,Vystavenie potvrdenia o skončení poskytovania, resp., potreby osobnej a celodennej starostlivosti.
 74.BODN,300,soc,"Vystavenie lekárskeho nálezu, alebo výpis zo zdravotnej dokumentácie na účely vystavenia bodového ohodnotenia pracovného úrazu."
 74.BODS,300,soc,"Vystavenie lekárskeho nálezu, alebo výpis zo zdravotnej dokumentácie na účely vystavenia bodového ohodnotenia sťaženia spoločenského uplatnenia."
 74.PZAK,300,soc,"Vystavenie lekárskeho nálezu, alebo výpis zo zdravotnej dokumentácie na účely sociálneho poistenia podľa osobitného predpisu."
