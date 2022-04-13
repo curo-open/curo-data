@@ -3067,7 +3067,7 @@ kod,body,typ,nazov
 71.VYR,35,soc,Vystavenie potvrdenia o potrebe preradenia na inú prácu.
 71.UTEH,35,soc,Vystavenie potvrdenia o skončení tehotenstva.
 71.TDOS,35,soc,Vvystavenie potvrdenia o trvaní poskytovania osobnej a celodennej starostlivosti.
-71.UDOS,35,soc,Vystavenie potvrdenia o skončení poskytovania, resp., potreby osobnej a celodennej starostlivosti.
+71.UDOS,35,soc,"Vystavenie potvrdenia o skončení poskytovania, resp., potreby osobnej a celodennej starostlivosti."
 74.BODN,300,soc,"Vystavenie lekárskeho nálezu, alebo výpis zo zdravotnej dokumentácie na účely vystavenia bodového ohodnotenia pracovného úrazu."
 74.BODS,300,soc,"Vystavenie lekárskeho nálezu, alebo výpis zo zdravotnej dokumentácie na účely vystavenia bodového ohodnotenia sťaženia spoločenského uplatnenia."
 74.PZAK,300,soc,"Vystavenie lekárskeho nálezu, alebo výpis zo zdravotnej dokumentácie na účely sociálneho poistenia podľa osobitného predpisu."
