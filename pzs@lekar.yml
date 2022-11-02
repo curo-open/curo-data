@@ -1,9 +1,12 @@
 ---
+# example how to remove a lekar (including all his per-PZS entries)
 # this way a lekar can be deleted
 #-
 #  delete:      true
 #  id:          A34478004
 #  pzs:         P52806004202
+
+# example how to add a lekar-per-PZS manually
 -
   id:          A52948049
   lastName:    Kovačková
@@ -69,54 +72,54 @@
     - 24
   JRUZID:
 -
-  id:          A34614020
-  lastName:    Borodovčáková
-  firstName:   Michaela
-  dtValidFrom: '2019-01-01T00:00:00.000Z'
-  dtValidTo:
-  dtSuspendFrom:
-  dtSuspendTo:
-  pzs:
-    - P91151020228
-  zp:
-    - 27
-    - 25
-    - 24
-  JRUZID:
--
-  id:          A49260012
-  lastName:    Laskovský
-  firstName:   Ján
-  dtValidFrom: '2020-01-01T00:00:00.000Z'
-  dtValidTo:
-  dtSuspendFrom:
-  dtSuspendTo:
-  pzs:
-    - P73960012201
-  zp:
-    - 27
-    - 25
-    - 24
-  JRUZID:
-  pzsRec:
-    ico:         '52550796'
-    id:          P73960012201
-    name:        SL - UROLÓGIA, s. r. o.
-    addr:        Sládkovičova 1338/18
-    city:        Stará Ľubovňa
-    zip:         '06401'
-    addr_ou:     Sládkovičova 1338/18
-    city_ou:     Stará Ľubovňa
-    zip_ou:      '06401'
-    dtValidFrom: '2020-01-01T00:00:00.000Z'
-    dtValidTo:
-    dtSuspendFrom:
-    dtSuspendTo:
-    zp:
-      - 27
-      - 25
-      - 24
-    JRUZID:
+#  id:          A34614020
+#  lastName:    Borodovčáková
+#  firstName:   Michaela
+#  dtValidFrom: '2019-01-01T00:00:00.000Z'
+#  dtValidTo:
+#  dtSuspendFrom:
+#  dtSuspendTo:
+#  pzs:
+#    - P91151020228
+#  zp:
+#    - 27
+#    - 25
+#    - 24
+#  JRUZID:
+#-
+#  id:          A49260012
+#  lastName:    Laskovský
+#  firstName:   Ján
+#  dtValidFrom: '2020-01-01T00:00:00.000Z'
+#  dtValidTo:
+#  dtSuspendFrom:
+#  dtSuspendTo:
+#  pzs:
+#    - P73960012201
+#  zp:
+#    - 27
+#    - 25
+#    - 24
+#  JRUZID:
+#  pzsRec:
+#    ico:         '52550796'
+#    id:          P73960012201
+#    name:        SL - UROLÓGIA, s. r. o.
+#    addr:        Sládkovičova 1338/18
+#    city:        Stará Ľubovňa
+#    zip:         '06401'
+#    addr_ou:     Sládkovičova 1338/18
+#    city_ou:     Stará Ľubovňa
+#    zip_ou:      '06401'
+#    dtValidFrom: '2020-01-01T00:00:00.000Z'
+#    dtValidTo:
+#    dtSuspendFrom:
+#    dtSuspendTo:
+#    zp:
+#      - 27
+#      - 25
+#      - 24
+#    JRUZID:
 -
   id:          A71357012
   lastName:    Kollárik
@@ -220,40 +223,40 @@
       - 24
     JRUZID:
 # http://ngdev.xtmotion.com/issue/CR-5376
--
-  id:          A51208020
-  lastName:    Prekopová
-  firstName:   Jana
-  dtValidFrom: '2020-01-01T00:00:00.000Z'
-  dtValidTo:
-  dtSuspendFrom:
-  dtSuspendTo:
-  pzs:
-    - P98077020201
-  zp:
-    - 27
-    - 25
-    - 24
-  JRUZID:
-  pzsRec:
-    ico:         ''
-    id:          P98077020201
-    name:        INT - AM, s.r.o.
-    addr:        Slatinka nad Bebravou 104
-    city:        Slatinka nad Bebravou
-    zip:         '95653'
-    addr_ou:     Slatinka nad Bebravou 104
-    city_ou:     Slatinka nad Bebravou
-    zip_ou:      '95653'
-    dtValidFrom: '2020-01-01T00:00:00.000Z'
-    dtValidTo:
-    dtSuspendFrom:
-    dtSuspendTo:
-    zp:
-      - 27
-      - 25
-      - 24
-    JRUZID:
+#-
+#  id:          A51208020
+#  lastName:    Prekopová
+#  firstName:   Jana
+#  dtValidFrom: '2020-01-01T00:00:00.000Z'
+#  dtValidTo:
+#  dtSuspendFrom:
+#  dtSuspendTo:
+#  pzs:
+#    - P98077020201
+#  zp:
+#    - 27
+#    - 25
+#    - 24
+#  JRUZID:
+#  pzsRec:
+#    ico:         ''
+#    id:          P98077020201
+#    name:        INT - AM, s.r.o.
+#    addr:        Slatinka nad Bebravou 104
+#    city:        Slatinka nad Bebravou
+#    zip:         '95653'
+#    addr_ou:     Slatinka nad Bebravou 104
+#    city_ou:     Slatinka nad Bebravou
+#    zip_ou:      '95653'
+#    dtValidFrom: '2020-01-01T00:00:00.000Z'
+#    dtValidTo:
+#    dtSuspendFrom:
+#    dtSuspendTo:
+#    zp:
+#      - 27
+#      - 25
+#      - 24
+#    JRUZID:
 # CR-5383 potrebujeme pridat lekara
 -
   id:          A54022049
@@ -290,75 +293,75 @@
       - 24
     JRUZID:
 # CR-5498 kod PZS pre lekara ze je chybny - treba asi pridat
--
-  id:          A70961020
-  lastName:    MUDr. Tomková
-  firstName:   Táňa
-  dtValidFrom: '2020-01-01T00:00:00.000Z'
-  dtValidTo:
-  dtSuspendFrom:
-  dtSuspendTo:
-  pzs:
-    - P76620020201
-  zp:
-    - 27
-    - 25
-    - 24
-  JRUZID:
-  pzsRec:
-    ico:         null
-    id:          P76620020201
-    name:        Ambulancia Mora, s.r.o
-    addr:        Driak vie aj eňová 36
-    city:        Bratislava
-    zip:         '821 02'
-    addr_ou:     Drieňová 36
-    city_ou:     Bratislava
-    zip_ou:      '821 02'
-    dtValidFrom: '2020-01-01T00:00:00.000Z'
-    dtValidTo:
-    dtSuspendFrom:
-    dtSuspendTo:
-    zp:
-      - 27
-      - 25
-      - 24
-    JRUZID:
+#-
+#  id:          A70961020
+#  lastName:    MUDr. Tomková
+#  firstName:   Táňa
+#  dtValidFrom: '2020-01-01T00:00:00.000Z'
+#  dtValidTo:
+#  dtSuspendFrom:
+#  dtSuspendTo:
+#  pzs:
+#    - P76620020201
+#  zp:
+#    - 27
+#    - 25
+#    - 24
+#  JRUZID:
+#  pzsRec:
+#    ico:         null
+#    id:          P76620020201
+#    name:        Ambulancia Mora, s.r.o
+#    addr:        Driak vie aj eňová 36
+#    city:        Bratislava
+#    zip:         '821 02'
+#    addr_ou:     Drieňová 36
+#    city_ou:     Bratislava
+#    zip_ou:      '821 02'
+#    dtValidFrom: '2020-01-01T00:00:00.000Z'
+#    dtValidTo:
+#    dtSuspendFrom:
+#    dtSuspendTo:
+#    zp:
+#      - 27
+#      - 25
+#      - 24
+#    JRUZID:
 # monika: dr. Klucho chce doplniť lekára
--
-  id:          A03416020
-  lastName:    MUDr. Varga
-  firstName:   Viktória
-  dtValidFrom: '2020-01-01T00:00:00.000Z'
-  dtValidTo:
-  dtSuspendFrom:
-  dtSuspendTo:
-  pzs:
-    - P69706020201
-  zp:
-    - 27
-    - 25
-    - 24
-  JRUZID:
-  pzsRec:
-    ico:         null
-    id:          P69706020201
-    name:        VINOVA Group s.r.o.
-    addr:        Býčia medza 931/2
-    city:        Salka
-    zip:         '94137'
-    addr_ou:     Býčia medza 931/2
-    city_ou:     Salka
-    zip_ou:      94137
-    dtValidFrom: '2020-01-01T00:00:00.000Z'
-    dtValidTo:
-    dtSuspendFrom:
-    dtSuspendTo:
-    zp:
-      - 27
-      - 25
-      - 24
-    JRUZID:
+#-
+#  id:          A03416020
+#  lastName:    MUDr. Varga
+#  firstName:   Viktória
+#  dtValidFrom: '2020-01-01T00:00:00.000Z'
+#  dtValidTo:
+#  dtSuspendFrom:
+#  dtSuspendTo:
+#  pzs:
+#    - P69706020201
+#  zp:
+#    - 27
+#    - 25
+#    - 24
+#  JRUZID:
+#  pzsRec:
+#    ico:         null
+#    id:          P69706020201
+#    name:        VINOVA Group s.r.o.
+#    addr:        Býčia medza 931/2
+#    city:        Salka
+#    zip:         '94137'
+#    addr_ou:     Býčia medza 931/2
+#    city_ou:     Salka
+#    zip_ou:      94137
+#    dtValidFrom: '2020-01-01T00:00:00.000Z'
+#    dtValidTo:
+#    dtSuspendFrom:
+#    dtSuspendTo:
+#    zp:
+#      - 27
+#      - 25
+#      - 24
+#    JRUZID:
 # https://curois.freshdesk.com/a/tickets/2113
 -
   id:          A34478004
