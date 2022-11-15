@@ -1,6 +1,6 @@
 # NCZI xml patches
 
-- sposob ako doplnit/prepisat NCZO XML
+- sposob ako doplnit/prepisat NCZI XML
 - pre kazdy XML subor moze tu existovat jeho dalsi doplnok
 - jednotlive polozky budu merged (podla `codeValue`, alebo `Skratka`; case=insensitive)
 - pokial ma byt polozka **len pridana**, potom musi XML polozky obsahovat:
