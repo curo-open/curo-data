@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Ciselnik xmlns="http://eHealth.gov.sk/JRUZ/v1">
+    <PolozkaCiselnika_Zoznam>
+        <PolozkaCiselnika>
+            <codeValue>_1</codeValue>
+            <displayName>Komplexné predoperačné vyšetrenie vrátane odberov krvi, zhodnotenie laboratórnych a
+                prístrojových vyšetrení.
+            </displayName>
+            <Skratka>60b</Skratka>
+            <Popis>Komplexné predoperačné vyšetrenie vrátane odberov krvi, zhodnotenie laboratórnych a prístrojových
+                vyšetrení.
+            </Popis>
+        </PolozkaCiselnika>
+
+    </PolozkaCiselnika_Zoznam>
+</Ciselnik>

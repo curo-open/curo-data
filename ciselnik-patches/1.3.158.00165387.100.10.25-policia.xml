@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Ciselnik xmlns="http://eHealth.gov.sk/JRUZ/v1">
+    <PolozkaCiselnika_Zoznam>
+        <PolozkaCiselnika>
+            <codeValue></codeValue>
+            <displayName>špecifická prehliadka policajtov</displayName>
+            <Skratka>Z17</Skratka>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue></codeValue>
+            <displayName>špecifická prehliadka hasičov</displayName>
+            <Skratka>Z06</Skratka>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue></codeValue>
+            <displayName>mimoriadna prehliadka pre príslušníkov HaZZ, policajného zboru, pre príslušníkov Železničnej
+                polície a pre letecký personál
+            </displayName>
+            <Skratka>K95</Skratka>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue></codeValue>
+            <displayName>výstupná prehliadky prísl. HaZZ, PZ</displayName>
+            <Skratka>K96</Skratka>
+        </PolozkaCiselnika>
+    </PolozkaCiselnika_Zoznam>
+</Ciselnik>

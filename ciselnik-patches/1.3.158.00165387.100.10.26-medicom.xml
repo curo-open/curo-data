@@ -1,0 +1,2020 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Ciselnik xmlns="http://eHealth.gov.sk/JRUZ/v1">
+    <PolozkaCiselnika_Zoznam>
+
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Pod radou sa rozumie poskytnutie informácií pacientovi alebo zákonnému zástupcovi v súvislosti
+                so zdravotným stavom. Výkon pod kódom 1 nemožno vykazovať súčasne s inými výkonmi. Výkon nemožno
+                vykazovať pre telefonické objednávanie pacienta.
+            </displayName>
+            <Skratka>1</Skratka>
+            <Popis>Pod radou sa rozumie poskytnutie informácií pacientovi alebo zákonnému zástupcovi v súvislosti so
+                zdravotným stavom. Výkon pod kódom 1 nemožno vykazovať súčasne s inými výkonmi. Výkon nemožno vykazovať
+                pre telefonické objednávanie pacienta.
+            </Popis>
+            <Body>80</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Rady, aj cez telefon, medzi 19.oo - 08.oo hod. (Obsah rady vid</displayName>
+            <Skratka>2</Skratka>
+            <Popis>Rady, aj cez telefon, medzi 19.oo - 08.oo hod. (Obsah rady vid</Popis>
+            <Body>200</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>"Štandardné vyšetrenie jedného orgánového systému - kontrolné vyšetrenie. Súčasťou výkonu je
+                anamnéza, popis terajšieho ochorenia, objektívny nález, odoslanie na laboratórne, prístrojové alebo
+                odborné vyšetrenie - vypísanie žiadaniek, záver, vypísani
+            </displayName>
+            <Skratka>4</Skratka>
+            <Popis>"Štandardné vyšetrenie jedného orgánového systému - kontrolné vyšetrenie. Súčasťou výkonu je
+                anamnéza, popis terajšieho ochorenia, objektívny nález, odoslanie na laboratórne, prístrojové alebo
+                odborné vyšetrenie - vypísanie žiadaniek, záver, vypísani
+            </Popis>
+            <Body>200</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Štandardné fyzikálne vyšetrenie jedného orgánového systému - kontrolné vyšetrenie, na základe
+                symptomatologickej anamnézy vrátane rady a dokumentácie cez deň v sobotu, v nedeľu, počas sviatkov a 31.
+                decembra. Výkon môže vykazovať lekár všeobecnej sta
+            </displayName>
+            <Skratka>5</Skratka>
+            <Popis>Štandardné fyzikálne vyšetrenie jedného orgánového systému - kontrolné vyšetrenie, na základe
+                symptomatologickej anamnézy vrátane rady a dokumentácie cez deň v sobotu, v nedeľu, počas sviatkov a 31.
+                decembra. Výkon môže vykazovať lekár všeobecnej sta
+            </Popis>
+            <Body>350</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Štandardné fyzikálne vyšetrenie jedného orgánového systému na základe symptomatologickej
+                anamnézy vrátane rady a dokumentácie medzi 19.00 - 7.00 hodinou. Výkon môže vykazovať lekár všeobecnej
+                starostlivosti.
+            </displayName>
+            <Skratka>6</Skratka>
+            <Popis>Štandardné fyzikálne vyšetrenie jedného orgánového systému na základe symptomatologickej anamnézy
+                vrátane rady a dokumentácie medzi 19.00 - 7.00 hodinou. Výkon môže vykazovať lekár všeobecnej
+                starostlivosti.
+            </Popis>
+            <Body>400</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Štandardné vyšetrenie dvoch alebo viacerých orgánových systémov. Súčasťou výkonu je anamnéza,
+                opis terajšieho ochorenia, objektívny nález, odoslanie na laboratórne, prístrojové alebo odborné
+                vyšetrenie - vypísanie žiadaniek, záver, vypísanie receptov
+            </displayName>
+            <Skratka>8</Skratka>
+            <Popis>Štandardné vyšetrenie dvoch alebo viacerých orgánových systémov. Súčasťou výkonu je anamnéza, opis
+                terajšieho ochorenia, objektívny nález, odoslanie na laboratórne, prístrojové alebo odborné vyšetrenie -
+                vypísanie žiadaniek, záver, vypísanie receptov
+            </Popis>
+            <Body>250</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>"Rozbor a plánovanie cielených terapeutických postupov na ovplyvnenie chronických ochorení
+                alebo ochorení viacerých orgánových systémov na účely racionálnej farmakoterapie, vrátanie rád,
+                dokumentácie. Výkon môže vykázať lekár špecializovanej starostl
+            </displayName>
+            <Skratka>10</Skratka>
+            <Popis>"Rozbor a plánovanie cielených terapeutických postupov na ovplyvnenie chronických ochorení alebo
+                ochorení viacerých orgánových systémov na účely racionálnej farmakoterapie, vrátanie rád, dokumentácie.
+                Výkon môže vykázať lekár špecializovanej starostl
+            </Popis>
+            <Body>180</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Posudenie ohrozenia zivota alebo jeho zasad- nej zmeny vply</displayName>
+            <Skratka>11</Skratka>
+            <Popis>Posudenie ohrozenia zivota alebo jeho zasad- nej zmeny vply</Popis>
+            <Body>300</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Usmernenie a koordinácia terapeutických opatrení počas trvalej opatery telesne, duševne alebo
+                inak závažne postihnutého dieťaťa alebo mladistvého do dosiahnutia 18. roku veku, podľa potreby s
+                angažovaním zodpovednej osoby (osôb) pri jednom ošetrení.
+            </displayName>
+            <Skratka>12</Skratka>
+            <Popis>Usmernenie a koordinácia terapeutických opatrení počas trvalej opatery telesne, duševne alebo inak
+                závažne postihnutého dieťaťa alebo mladistvého do dosiahnutia 18. roku veku, podľa potreby s angažovaním
+                zodpovednej osoby (osôb) pri jednom ošetrení.
+            </Popis>
+            <Body>300</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Test mentálnych funkcií v geriatrii.</displayName>
+            <Skratka>16</Skratka>
+            <Popis>Test mentálnych funkcií v geriatrii.</Popis>
+            <Body>180</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Vizita a vysetrenie (osetrenie) v lozkovej osetrovacej osetrujucim per</displayName>
+            <Skratka>18</Skratka>
+            <Popis>Vizita a vysetrenie (osetrenie) v lozkovej osetrovacej osetrujucim per</Popis>
+            <Body>150</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Vizita v lozkovej osetrovacej jednotke s oset- rujucim persona</displayName>
+            <Skratka>22</Skratka>
+            <Popis>Vizita v lozkovej osetrovacej jednotke s oset- rujucim persona</Popis>
+            <Body>150</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Návšteva (v pracovnom čase).</displayName>
+            <Skratka>25</Skratka>
+            <Popis>Návšteva (v pracovnom čase).</Popis>
+            <Body>285</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Návšteva mimo riadneho pracovného času lekára, vykonaná ihneď po výzve z dôvodov ochorenia,
+                vyžaduje sa časový údaj.
+            </displayName>
+            <Skratka>26</Skratka>
+            <Popis>Návšteva mimo riadneho pracovného času lekára, vykonaná ihneď po výzve z dôvodov ochorenia, vyžaduje
+                sa časový údaj.
+            </Popis>
+            <Body>500</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Urgentna navsteva</displayName>
+            <Skratka>27</Skratka>
+            <Popis>Urgentna navsteva</Popis>
+            <Body>720</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Návšteva v noci vyžiadaná a vykonaná medzi 22.00 a 7.00 hodinou, vyžaduje sa časový údaj o
+                vyžiadaní a vykonaní návštevy.
+            </displayName>
+            <Skratka>29</Skratka>
+            <Popis>Návšteva v noci vyžiadaná a vykonaná medzi 22.00 a 7.00 hodinou, vyžaduje sa časový údaj o vyžiadaní
+                a vykonaní návštevy.
+            </Popis>
+            <Body>900</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Príplatok k výkonom pod kódmi 26 a 29 za návštevu vyžiadanú a vykonanú v sobotu, v nedeľu,
+                počas sviatkov a 31. decembra.
+            </displayName>
+            <Skratka>30</Skratka>
+            <Popis>Príplatok k výkonom pod kódmi 26 a 29 za návštevu vyžiadanú a vykonanú v sobotu, v nedeľu, počas
+                sviatkov a 31. decembra.
+            </Popis>
+            <Body>450</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Sprevadzanie pacienta do nemocnice</displayName>
+            <Skratka>33</Skratka>
+            <Popis>Sprevadzanie pacienta do nemocnice</Popis>
+            <Body>500</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Poskytnutie odpovede lekára inému lekárovi na základe telefonickej konzultácie.</displayName>
+            <Skratka>35</Skratka>
+            <Popis>Poskytnutie odpovede lekára inému lekárovi na základe telefonickej konzultácie.</Popis>
+            <Body>100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Poskytnutie odpovede lekára inému lekárovi na základe telefonickej konzultácie v noci medzi
+                20.00 až 07.00 hodinou.
+            </displayName>
+            <Skratka>36</Skratka>
+            <Popis>Poskytnutie odpovede lekára inému lekárovi na základe telefonickej konzultácie v noci medzi 20.00 až
+                07.00 hodinou.
+            </Popis>
+            <Body>200</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Cez deň (za každú začatú polhodinu).</displayName>
+            <Skratka>40</Skratka>
+            <Popis>Cez deň (za každú začatú polhodinu).</Popis>
+            <Body>200</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>V noci medzi 20.00 a 7.00 hodinou (za každú začatú polhodinu). Zotrvávanie pri pacientovi sa
+                nemôže vykazovať pri ošetrovaní pacienta v ambulancii a v súvislosti s ambulantne podanou anestéziou.
+            </displayName>
+            <Skratka>41</Skratka>
+            <Popis>V noci medzi 20.00 a 7.00 hodinou (za každú začatú polhodinu). Zotrvávanie pri pacientovi sa nemôže
+                vykazovať pri ošetrovaní pacienta v ambulancii a v súvislosti s ambulantne podanou anestéziou.
+            </Popis>
+            <Body>400</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Konzílium v zdravotníckom zariadení je konziliárne posúdenie zdravotného stavu pacienta,
+                vystavenie písomného nálezu a odporúčanie ďalšieho diagnostického a terapeutického postupu v ambulantnom
+                alebo ústavnom zdravotníckom zariadení pacienta odborným
+            </displayName>
+            <Skratka>44</Skratka>
+            <Popis>Konzílium v zdravotníckom zariadení je konziliárne posúdenie zdravotného stavu pacienta, vystavenie
+                písomného nálezu a odporúčanie ďalšieho diagnostického a terapeutického postupu v ambulantnom alebo
+                ústavnom zdravotníckom zariadení pacienta odborným
+            </Popis>
+            <Body>600</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Komplexné vyšetrenie pacienta (kompletná anamnéza, vyšetrenie všetkých orgánových systémov,
+                založenie zdravotnej dokumentácie, diagnostický záver, liečebný plán a (alebo) zaradenie do dispenzárnej
+                starostlivosti, odoslanie pacienta na ďalšie laborató
+            </displayName>
+            <Skratka>60</Skratka>
+            <Popis>Komplexné vyšetrenie pacienta (kompletná anamnéza, vyšetrenie všetkých orgánových systémov, založenie
+                zdravotnej dokumentácie, diagnostický záver, liečebný plán a (alebo) zaradenie do dispenzárnej
+                starostlivosti, odoslanie pacienta na ďalšie laborató
+            </Popis>
+            <Body>350</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Komplexné vyšetrenie na posúdenie zdravotného stavu osoby pred vycestovaním do zahraničia,
+                alebo ak sa vrátila z rizikových oblastí sveta, na vylúčenie importovaných nákaz.
+            </displayName>
+            <Skratka>61</Skratka>
+            <Popis>Komplexné vyšetrenie na posúdenie zdravotného stavu osoby pred vycestovaním do zahraničia, alebo ak
+                sa vrátila z rizikových oblastí sveta, na vylúčenie importovaných nákaz.
+            </Popis>
+            <Body>600</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Cielené vyšetrenie dvoch alebo viacerých orgánových systémov alebo dispenzárna kontrola
+                (cielená anamnéza, resp. anamnéza od poslednej kontroly), popis subjektívnych obtiaží, objektívny nález,
+                vypísanie správy, záver, vypracovanie plánu do nasledujúc
+            </displayName>
+            <Skratka>62</Skratka>
+            <Popis>Cielené vyšetrenie dvoch alebo viacerých orgánových systémov alebo dispenzárna kontrola (cielená
+                anamnéza, resp. anamnéza od poslednej kontroly), popis subjektívnych obtiaží, objektívny nález,
+                vypísanie správy, záver, vypracovanie plánu do nasledujúc
+            </Popis>
+            <Body>250</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Dôkladné vyšetrenie jedného orgánového systému alebo kontrolné vyšetrenie vrátane rád a
+                dokumentácie.
+            </displayName>
+            <Skratka>63</Skratka>
+            <Popis>Dôkladné vyšetrenie jedného orgánového systému alebo kontrolné vyšetrenie vrátane rád a
+                dokumentácie.
+            </Popis>
+            <Body>200</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Pri výkonoch pod kódmi 4 až 8.</displayName>
+            <Skratka>64</Skratka>
+            <Popis>Pri výkonoch pod kódmi 4 až 8.</Popis>
+            <Body>70</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Pri výkonoch pod kódmi 61, 62, 63 a pri výkonoch v rádiológii a v rádioterapii.</displayName>
+            <Skratka>65</Skratka>
+            <Popis>Pri výkonoch pod kódmi 61, 62, 63 a pri výkonoch v rádiológii a v rádioterapii.</Popis>
+            <Body>100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Opätovné vystavenie lekárskeho predpisu alebo lekárskeho poukazu.</displayName>
+            <Skratka>70</Skratka>
+            <Popis>Opätovné vystavenie lekárskeho predpisu alebo lekárskeho poukazu.</Popis>
+            <Body>50</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Vystavenie tlačiva Hlásenie choroby z povolania, hlásenie profesionálnej otravy, iného
+                poškodenia zdravia pri práci, vystavenie potvrdenia o zistení choroby z povolania, potvrdenia o návšteve
+                u lekára, u klinického logopéda alebo klinického psychológ
+            </displayName>
+            <Skratka>71</Skratka>
+            <Popis>Vystavenie tlačiva Hlásenie choroby z povolania, hlásenie profesionálnej otravy, iného poškodenia
+                zdravia pri práci, vystavenie potvrdenia o zistení choroby z povolania, potvrdenia o návšteve u lekára,
+                u klinického logopéda alebo klinického psychológ
+            </Popis>
+            <Body>35</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Správa o chorobe len na osobitné vyžiadanie zdravotnej poisťovne, napríklad návrh na liečbu v
+                zahraničí zdravotnej poisťovni členského štátu Európskej únie.
+            </displayName>
+            <Skratka>73</Skratka>
+            <Popis>Správa o chorobe len na osobitné vyžiadanie zdravotnej poisťovne, napríklad návrh na liečbu v
+                zahraničí zdravotnej poisťovni členského štátu Európskej únie.
+            </Popis>
+            <Body>150</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Vystavenie lekárskeho nálezu, alebo výpis zo zdravotnej dokumentácie na účely</displayName>
+            <Skratka>74</Skratka>
+            <Popis>Vystavenie lekárskeho nálezu, alebo výpis zo zdravotnej dokumentácie na účely</Popis>
+            <Body>300</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Podrobná lekárska správa inému lekárovi v prípade, ak sa neodovzdáva kompletná zdravotná
+                dokumentácia (napríklad pri odchode pacienta do iného štátu a podobne).
+            </displayName>
+            <Skratka>78</Skratka>
+            <Popis>Podrobná lekárska správa inému lekárovi v prípade, ak sa neodovzdáva kompletná zdravotná dokumentácia
+                (napríklad pri odchode pacienta do iného štátu a podobne).
+            </Popis>
+            <Body>180</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Celková intravenózna anestézia do 30 minút trvania výkonu. Anestetický výkon, ktorého čistý čas
+                anestézie nepresiahol 30 min. Anestetiká, analgetiká alebo iné látky používané v anesteziológii sa
+                aplikujú výhradne intravenóznym spôsobom, bez použitia
+            </displayName>
+            <Skratka>80</Skratka>
+            <Popis>Celková intravenózna anestézia do 30 minút trvania výkonu. Anestetický výkon, ktorého čistý čas
+                anestézie nepresiahol 30 min. Anestetiká, analgetiká alebo iné látky používané v anesteziológii sa
+                aplikujú výhradne intravenóznym spôsobom, bez použitia
+            </Popis>
+            <Body>2981</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Inhalačná anestézia /maskou, endotracheálnou kanylou a podobne/. Použitie výhradne inhalačnej
+                anestézie, t.j. bez použitia i.v, i.m alebo rektálnych aplikačných foriem úvodu anestézie, t.j. použitie
+                len plynných anestetík aj na úvod do anestézie a po
+            </displayName>
+            <Skratka>83</Skratka>
+            <Popis>Inhalačná anestézia /maskou, endotracheálnou kanylou a podobne/. Použitie výhradne inhalačnej
+                anestézie, t.j. bez použitia i.v, i.m alebo rektálnych aplikačných foriem úvodu anestézie, t.j. použitie
+                len plynných anestetík aj na úvod do anestézie a po
+            </Popis>
+            <Body>5800</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Intramuskulárna alebo rektálna anestézia bez použitia inhalačných anestetík./ anestézia
+                spravidla jednorázovým podaním anestetika /i.m, per rectum./, bez intubácie, relaxácie a UVP, bez
+                inhalačných anestetík vrátane N20, prípustné je podávanie kyslík
+            </displayName>
+            <Skratka>84</Skratka>
+            <Popis>Intramuskulárna alebo rektálna anestézia bez použitia inhalačných anestetík./ anestézia spravidla
+                jednorázovým podaním anestetika /i.m, per rectum./, bez intubácie, relaxácie a UVP, bez inhalačných
+                anestetík vrátane N20, prípustné je podávanie kyslík
+            </Popis>
+            <Body>2969</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Celková kombinovaná anestézia aplikovaná endotracheálnou kanylou s použitím svalových
+                relaxancií a UVP. /kombinovaná celková anestézia s ľubovoľným spôsobom úvodu /i.v,i.m a pod/ s
+                ľubovoľným inhalačným anestetikom /kmi a analgetikami aplikovaná endo
+            </displayName>
+            <Skratka>87</Skratka>
+            <Popis>Celková kombinovaná anestézia aplikovaná endotracheálnou kanylou s použitím svalových relaxancií a
+                UVP. /kombinovaná celková anestézia s ľubovoľným spôsobom úvodu /i.v,i.m a pod/ s ľubovoľným inhalačným
+                anestetikom /kmi a analgetikami aplikovaná endo
+            </Popis>
+            <Body>6241</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Spinálna anestézia s použitím katétra, kontinuálna spinálna anestézia s použitím katétra alebo
+                kombinovaná spinálna a epidurálna anestézia s použitím katétra, alebo epidurálna anestézia s použitím
+                katétra. /Zavedenie katétra do spinálneho kanála za ú
+            </displayName>
+            <Skratka>90</Skratka>
+            <Popis>Spinálna anestézia s použitím katétra, kontinuálna spinálna anestézia s použitím katétra alebo
+                kombinovaná spinálna a epidurálna anestézia s použitím katétra, alebo epidurálna anestézia s použitím
+                katétra. /Zavedenie katétra do spinálneho kanála za ú
+            </Popis>
+            <Body>5975</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Preventívne vyšetrenie na krv v stolici za použitia troch testovacích papierikov v rámci
+                opatrení na včasnú diagnostiku ochorenia na rakovinu, dodatok k výkonom podľa č. 157, 158 a 160. Výkon
+                môže vykazovať lekár so špecializáciou všeobecné lekárstvo
+            </displayName>
+            <Skratka>159</Skratka>
+            <Popis>Preventívne vyšetrenie na krv v stolici za použitia troch testovacích papierikov v rámci opatrení na
+                včasnú diagnostiku ochorenia na rakovinu, dodatok k výkonom podľa č. 157, 158 a 160. Výkon môže
+                vykazovať lekár so špecializáciou všeobecné lekárstvo
+            </Popis>
+            <Body>180</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Základná preventívna prehliadka. Výkon obsahuje komplexné vyšetrenie v rámci základnej
+                preventívnej prehliadky vrátane prehliadky v rámci prevencie kardiovaskulárnych chorôb. Obsah vyšetrenia
+                je zhodný s výkonom pod kódom 60. Výkon môže vykazovať lek
+            </displayName>
+            <Skratka>160</Skratka>
+            <Popis>Základná preventívna prehliadka. Výkon obsahuje komplexné vyšetrenie v rámci základnej preventívnej
+                prehliadky vrátane prehliadky v rámci prevencie kardiovaskulárnych chorôb. Obsah vyšetrenia je zhodný s
+                výkonom pod kódom 60. Výkon môže vykazovať lek
+            </Popis>
+            <Body>350</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Vykonanie interrupcie, ktorá nie je v rozpore s predpismi, pred 12. týždňom gravidity, prípadne
+                s rozšírením maternicového hrdla vrátane preverenie indikácie.
+            </displayName>
+            <Skratka>195</Skratka>
+            <Popis>Vykonanie interrupcie, ktorá nie je v rozpore s predpismi, pred 12. týždňom gravidity, prípadne s
+                rozšírením maternicového hrdla vrátane preverenie indikácie.
+            </Popis>
+            <Body>800</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Obväz s výnimkou rýchlych obväzov a sprejov, očných a ušných klapiek, trojuholníkových šatiek,
+                hotových náplastí alebo hotových kravatových obväzov na rany. Obväzy podľa výkonu pod kódom 200 sa
+                nemôžu nevykazovať, keď slúžia na krytie rán, ktoré vzni
+            </displayName>
+            <Skratka>200</Skratka>
+            <Popis>Obväz s výnimkou rýchlych obväzov a sprejov, očných a ušných klapiek, trojuholníkových šatiek,
+                hotových náplastí alebo hotových kravatových obväzov na rany. Obväzy podľa výkonu pod kódom 200 sa
+                nemôžu nevykazovať, keď slúžia na krytie rán, ktoré vzni
+            </Popis>
+            <Body>70</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Sadrová rukavica, sadrový prst.</displayName>
+            <Skratka>225</Skratka>
+            <Popis>Sadrová rukavica, sadrový prst.</Popis>
+            <Body>90</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Odber arteriálnej krvi (otvorený odberový systém) punkciou artérie.</displayName>
+            <Skratka>251</Skratka>
+            <Popis>Odber arteriálnej krvi (otvorený odberový systém) punkciou artérie.</Popis>
+            <Body>75</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Injekcia intrakutánna, subkutánna, submukózna, subkonjuktiválna alebo intramuskulárna.
+            </displayName>
+            <Skratka>252</Skratka>
+            <Popis>Injekcia intrakutánna, subkutánna, submukózna, subkonjuktiválna alebo intramuskulárna.</Popis>
+            <Body>70</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Injekcia intravenózna.</displayName>
+            <Skratka>253</Skratka>
+            <Popis>Injekcia intravenózna.</Popis>
+            <Body>100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Injekcia intraartikulárna.</displayName>
+            <Skratka>255</Skratka>
+            <Popis>Injekcia intraartikulárna.</Popis>
+            <Body>110</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Injekcia do subarachnoidálneho priestoru.</displayName>
+            <Skratka>257</Skratka>
+            <Popis>Injekcia do subarachnoidálneho priestoru.</Popis>
+            <Body>420</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Infúzia intravenózna v trvaní viac ako 30 minú vrátane výmeny infúznych fliaš.</displayName>
+            <Skratka>272</Skratka>
+            <Popis>Infúzia intravenózna v trvaní viac ako 30 minú vrátane výmeny infúznych fliaš.</Popis>
+            <Body>280</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Odobratie, príprava a odoslanie sterového materiálu na mikrobiologické vyšetrenie, prípadne aj
+                fixácia vrátane nákladov. Výkony pod kódmi 157, 161, 167, 297 a 298 sa viackrát popri sebe nemôžu
+                vykazovať.
+            </displayName>
+            <Skratka>298</Skratka>
+            <Popis>Odobratie, príprava a odoslanie sterového materiálu na mikrobiologické vyšetrenie, prípadne aj
+                fixácia vrátane nákladov. Výkony pod kódmi 157, 161, 167, 297 a 298 sa viackrát popri sebe nemôžu
+                vykazovať.
+            </Popis>
+            <Body>80</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Punkcia malého kĺbu.</displayName>
+            <Skratka>300</Skratka>
+            <Popis>Punkcia malého kĺbu.</Popis>
+            <Body>120</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Elektrokardioskopia v akútnom prípade.</displayName>
+            <Skratka>325</Skratka>
+            <Popis>Elektrokardioskopia v akútnom prípade.</Popis>
+            <Body>100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Epikutánny test pri každom ošetrovanom prípade, za každý test.</displayName>
+            <Skratka>346</Skratka>
+            <Popis>Epikutánny test pri každom ošetrovanom prípade, za každý test.</Popis>
+            <Body>30</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Konjunktiválny provokačný test, prípadne obojstranne na aktuálny dôkaz alergénov alebo
+                subkutánny provokačný test.
+            </displayName>
+            <Skratka>355</Skratka>
+            <Popis>Konjunktiválny provokačný test, prípadne obojstranne na aktuálny dôkaz alergénov alebo subkutánny
+                provokačný test.
+            </Popis>
+            <Body>90</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Nazálny provokačný test, prípadne obojstranne na aktuálny dôkaz alergénov s jednotlivým alebo
+                kombinovaným extraktom, prípadne rozličnou koncentráciou alebo ako dôkaz nešpecifickej hyperreaktivity
+                nosa vrátane nákladov, za každý test (najviac dva tes
+            </displayName>
+            <Skratka>356</Skratka>
+            <Popis>Nazálny provokačný test, prípadne obojstranne na aktuálny dôkaz alergénov s jednotlivým alebo
+                kombinovaným extraktom, prípadne rozličnou koncentráciou alebo ako dôkaz nešpecifickej hyperreaktivity
+                nosa vrátane nákladov, za každý test (najviac dva tes
+            </Popis>
+            <Body>120</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Ošetrenie na hyposenzibilizáciu (desenzibilizáciu) subkutánnou alergénovou injekciou, za každé
+                ošetrenie.
+            </displayName>
+            <Skratka>359</Skratka>
+            <Popis>Ošetrenie na hyposenzibilizáciu (desenzibilizáciu) subkutánnou alergénovou injekciou, za každé
+                ošetrenie.
+            </Popis>
+            <Body>90</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Digitálne vyšetrenie konečníka, prípadne aj prostaty. Výkon pod kódom 360 sa nevykazuje popri
+                výkonoch pod kódmi 1 až 8, 12, 13, 15a, 60 až 63, 101 až 105, 157, 162 až 166.
+            </displayName>
+            <Skratka>360</Skratka>
+            <Popis>Digitálne vyšetrenie konečníka, prípadne aj prostaty. Výkon pod kódom 360 sa nevykazuje popri
+                výkonoch pod kódmi 1 až 8, 12, 13, 15a, 60 až 63, 101 až 105, 157, 162 až 166.
+            </Popis>
+            <Body>60</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Základné testovacie metódy, goniometrické vyšetrenie.</displayName>
+            <Skratka>503</Skratka>
+            <Popis>Základné testovacie metódy, goniometrické vyšetrenie.</Popis>
+            <Body>80</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Špeciálne vyšetrovacie metódy. Svalový test, vyšetrenie skrátených a oslabených svalov,
+                zreťazenia, vývojová diagnostika dieťaťa, ergodiagnostické testovanie, špeciálne vyšetrenie chrbtice na
+                počítačovom dynamometri a iné špecifické funkčné metódy.
+            </displayName>
+            <Skratka>504</Skratka>
+            <Popis>Špeciálne vyšetrovacie metódy. Svalový test, vyšetrenie skrátených a oslabených svalov, zreťazenia,
+                vývojová diagnostika dieťaťa, ergodiagnostické testovanie, špeciálne vyšetrenie chrbtice na počítačovom
+                dynamometri a iné špecifické funkčné metódy.
+            </Popis>
+            <Body>300</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Mäkké a mobilizačné techniky na chrbtici, periférnych kĺboch a svaloch. Špecializované liečebné
+                výkony s cieľom upraviť funkčnú poruchu v oblasti pohybového systému (špeciálne mäkké techniky,
+                PIR-postizometrická relaxácia, AGR-antigravitačná relaxáci
+            </displayName>
+            <Skratka>509</Skratka>
+            <Popis>Mäkké a mobilizačné techniky na chrbtici, periférnych kĺboch a svaloch. Špecializované liečebné
+                výkony s cieľom upraviť funkčnú poruchu v oblasti pohybového systému (špeciálne mäkké techniky,
+                PIR-postizometrická relaxácia, AGR-antigravitačná relaxáci
+            </Popis>
+            <Body>220</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Cielená odborná inštruktáž - oboznámenie pacienta s používaním a obsluhou jednoduchých
+                technických a kompenzačných pomôcok, zariadení a prístrojov (peroneálny stimulátor, TENS, skoliostop,
+                myostimulátor, ortézy, protézy), inštruktáž o posturálnej živ
+            </displayName>
+            <Skratka>510</Skratka>
+            <Popis>Cielená odborná inštruktáž - oboznámenie pacienta s používaním a obsluhou jednoduchých technických a
+                kompenzačných pomôcok, zariadení a prístrojov (peroneálny stimulátor, TENS, skoliostop, myostimulátor,
+                ortézy, protézy), inštruktáž o posturálnej živ
+            </Popis>
+            <Body>150</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Individuálna liečebná telesná výchova II. Individuálna kombinovaná LTV zameraná na niekoľko
+                cieľov, vyžadujúca mimoriadnu fyzickú a psychickú záťaž. Vzhľadom na povahu postihnutia si vyžaduje
+                kombináciu viacerých postupov a metodík (napr. reedukáciu
+            </displayName>
+            <Skratka>513</Skratka>
+            <Popis>Individuálna liečebná telesná výchova II. Individuálna kombinovaná LTV zameraná na niekoľko cieľov,
+                vyžadujúca mimoriadnu fyzickú a psychickú záťaž. Vzhľadom na povahu postihnutia si vyžaduje kombináciu
+                viacerých postupov a metodík (napr. reedukáciu
+            </Popis>
+            <Body>250</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Dychová gymnastika. Individuálna dychová gymnastika vrátane podporných ošetrení, trvanie
+                najmenej 10 minút za jednu dychovú gymnastiku.
+            </displayName>
+            <Skratka>520</Skratka>
+            <Popis>Dychová gymnastika. Individuálna dychová gymnastika vrátane podporných ošetrení, trvanie najmenej 10
+                minút za jednu dychovú gymnastiku.
+            </Popis>
+            <Body>80</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Nácvik kontinencie, za 1 výkon</displayName>
+            <Skratka>521</Skratka>
+            <Popis>Nácvik kontinencie, za 1 výkon</Popis>
+            <Body>80</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Špeciálne polohovanie. Odborné preventívne a liečebné polohovanie tela a segmentov končatín s
+                prípadným využitím polohovacích pomôcok
+            </displayName>
+            <Skratka>522</Skratka>
+            <Popis>Špeciálne polohovanie. Odborné preventívne a liečebné polohovanie tela a segmentov končatín s
+                prípadným využitím polohovacích pomôcok
+            </Popis>
+            <Body>290</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Liečba chladom</displayName>
+            <Skratka>544</Skratka>
+            <Popis>Liečba chladom</Popis>
+            <Body>80</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Elektroliečba. Liečebné využitie galvanického prúdu (ionizácia, galvanizácia), diadynamických
+                prúdov a amplitúdovo modulovaných prúdov, elektrogymnastika, za jedno ošetrenie.
+            </displayName>
+            <Skratka>556</Skratka>
+            <Popis>Elektroliečba. Liečebné využitie galvanického prúdu (ionizácia, galvanizácia), diadynamických prúdov
+                a amplitúdovo modulovaných prúdov, elektrogymnastika, za jedno ošetrenie.
+            </Popis>
+            <Body>270</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Elektrostimulácia. Cielená elektrostimulácia prispastických alebo chabých obrnách, za jedno
+                ošetrenie. 20 krát.
+            </displayName>
+            <Skratka>559</Skratka>
+            <Popis>Elektrostimulácia. Cielená elektrostimulácia prispastických alebo chabých obrnách, za jedno
+                ošetrenie. 20 krát.
+            </Popis>
+            <Body>300</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Magnetoterapia. Liečebná aplikácia pulzného magnetického poľa na segment, končatinu, celé telo.
+                10 krát.
+            </displayName>
+            <Skratka>570</Skratka>
+            <Popis>Magnetoterapia. Liečebná aplikácia pulzného magnetického poľa na segment, končatinu, celé telo. 10
+                krát.
+            </Popis>
+            <Body>240</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Fototerapia III. Ožarovanie celého tela pomocou UV žiarenia, za jedno ožiarenie. Ak sú súčasne
+                ošetrovaní viacerí pacienti UV žiarením, môže sa výkon pod kódom 575 vykazovať len raz.
+            </displayName>
+            <Skratka>575</Skratka>
+            <Popis>Fototerapia III. Ožarovanie celého tela pomocou UV žiarenia, za jedno ožiarenie. Ak sú súčasne
+                ošetrovaní viacerí pacienti UV žiarením, môže sa výkon pod kódom 575 vykazovať len raz.
+            </Popis>
+            <Body>80</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Fototerapia IV. Ožiarenie spektrálne vymedzeným UV žiaričom, za jedno ošetrenie</displayName>
+            <Skratka>576</Skratka>
+            <Popis>Fototerapia IV. Ožiarenie spektrálne vymedzeným UV žiaričom, za jedno ošetrenie</Popis>
+            <Body>130</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Monitorovanie základných funkcií krvného obehu s plynulým alebo prerušovaným meraním krvného
+                tlaku a (alebo) s plynulým alebo prerušovaným meraním pulzu vrátane dokumentácie. Jednotlivé meranie
+                krvného tlaku a pulzu sa nemôže vykazovať podľa výkonu p
+            </displayName>
+            <Skratka>600</Skratka>
+            <Popis>Monitorovanie základných funkcií krvného obehu s plynulým alebo prerušovaným meraním krvného tlaku a
+                (alebo) s plynulým alebo prerušovaným meraním pulzu vrátane dokumentácie. Jednotlivé meranie krvného
+                tlaku a pulzu sa nemôže vykazovať podľa výkonu p
+            </Popis>
+            <Body>450</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Elektrokardiografické (EKG) vyšetrenie, štandardné 12-zvodové zosnímanie. Výkon môže vykonávať
+                kardiológ, angiológ, internista.
+            </displayName>
+            <Skratka>603</Skratka>
+            <Popis>Elektrokardiografické (EKG) vyšetrenie, štandardné 12-zvodové zosnímanie. Výkon môže vykonávať
+                kardiológ, angiológ, internista.
+            </Popis>
+            <Body>275</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>EKG vyšetrenie v pokoji najmenej s 12 zvodmi, ako aj počas fyzikálne definovanej a
+                reprodukovateľnej záťaže a po nej s nepretržitou kontrolou priebehu EKG krivky vrátane opakovaného
+                merania tlaku krvi (ergometria). Výkon môže vykonávať kardiológ, int
+            </displayName>
+            <Skratka>604</Skratka>
+            <Popis>EKG vyšetrenie v pokoji najmenej s 12 zvodmi, ako aj počas fyzikálne definovanej a reprodukovateľnej
+                záťaže a po nej s nepretržitou kontrolou priebehu EKG krivky vrátane opakovaného merania tlaku krvi
+                (ergometria). Výkon môže vykonávať kardiológ, int
+            </Popis>
+            <Body>410</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Meranie minutového objemu termodilučným spôsobom.</displayName>
+            <Skratka>631</Skratka>
+            <Popis>Meranie minutového objemu termodilučným spôsobom.</Popis>
+            <Body>400</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Záznam pulzu alebo meranie tlaku na artériách prstov vrátane registrácie. Výkon môže vykonávať
+                angiológ a cievny chirurg.
+            </displayName>
+            <Skratka>655</Skratka>
+            <Popis>Záznam pulzu alebo meranie tlaku na artériách prstov vrátane registrácie. Výkon môže vykonávať
+                angiológ a cievny chirurg.
+            </Popis>
+            <Body>130</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Vyšetrenie úsilného výdychu - spirometria</displayName>
+            <Skratka>690</Skratka>
+            <Popis>Vyšetrenie úsilného výdychu - spirometria</Popis>
+            <Body>60</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Vyšetrenie acidobázy a tenzie krvných plynov z arteriálnej krvi</displayName>
+            <Skratka>721</Skratka>
+            <Popis>Vyšetrenie acidobázy a tenzie krvných plynov z arteriálnej krvi</Popis>
+            <Body>300</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Thorakoskopia, mediastinoskopia.</displayName>
+            <Skratka>727</Skratka>
+            <Popis>Thorakoskopia, mediastinoskopia.</Popis>
+            <Body>1500</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Ezofagoskopia, prípadne aj probatórna excízia a (alebo) punkcia.</displayName>
+            <Skratka>740</Skratka>
+            <Popis>Ezofagoskopia, prípadne aj probatórna excízia a (alebo) punkcia.</Popis>
+            <Body>946</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>"Gastroskopia a (alebo) parciálne vyšetrenie dvanástnika, prípadne aj ezofagoskopia, probatórna
+                excízia, punkcia; pri gastroskopii aj /alebo potvrdenie ureázy vrátane nákladov."
+            </displayName>
+            <Skratka>741</Skratka>
+            <Popis>"Gastroskopia a (alebo) parciálne vyšetrenie dvanástnika, prípadne aj ezofagoskopia, probatórna
+                excízia, punkcia; pri gastroskopii aj /alebo potvrdenie ureázy vrátane nákladov."
+            </Popis>
+            <Body>1646</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Diagnostická laparoskopia s diagnostickou excíziou a punkcia alebo adhéziolýza a odber
+                materiálu na cytologické vyšetrenie prípadne biopsiu.
+            </displayName>
+            <Skratka>770</Skratka>
+            <Popis>Diagnostická laparoskopia s diagnostickou excíziou a punkcia alebo adhéziolýza a odber materiálu na
+                cytologické vyšetrenie prípadne biopsiu.
+            </Popis>
+            <Body>1250</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Naloženie alebo výmena pesaru, v prípade potreby okluzívneho pesaru z terapeutických dôvodov
+                (descensus, prolaps a pod.).
+            </displayName>
+            <Skratka>1090</Skratka>
+            <Popis>Naloženie alebo výmena pesaru, v prípade potreby okluzívneho pesaru z terapeutických dôvodov
+                (descensus, prolaps a pod.).
+            </Popis>
+            <Body>50</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Tónové prahové audiometrické vyšetrenie u dospelých obojstranne.</displayName>
+            <Skratka>1591</Skratka>
+            <Popis>Tónové prahové audiometrické vyšetrenie u dospelých obojstranne.</Popis>
+            <Body>300</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Prvotné nastavenie rečového procesora kochleárnej protézy.</displayName>
+            <Skratka>1601</Skratka>
+            <Popis>Prvotné nastavenie rečového procesora kochleárnej protézy.</Popis>
+            <Body>500</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Audiometrické vyšetrenie prahového tónu (stanovenie prahu sluchu s 8 - 12 skúšobnými
+                frekvenciami alebo s kontinuálnym meraním frekvencie) aj s určením šírky intenzity podľa potreby vrátane
+                nadprahového audiometrického vyšetrenia (SISI, FLOWER, LISCH
+            </displayName>
+            <Skratka>1602</Skratka>
+            <Popis>Audiometrické vyšetrenie prahového tónu (stanovenie prahu sluchu s 8 - 12 skúšobnými frekvenciami
+                alebo s kontinuálnym meraním frekvencie) aj s určením šírky intenzity podľa potreby vrátane nadprahového
+                audiometrického vyšetrenia (SISI, FLOWER, LISCH
+            </Popis>
+            <Body>200</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Katetrizácia močového mechúra, v prípade potreby s výplachom, instilácia medikamentov a (alebo)
+                výplach krvných zrazenín u muža alebo chlapca.
+            </displayName>
+            <Skratka>1722</Skratka>
+            <Popis>Katetrizácia močového mechúra, v prípade potreby s výplachom, instilácia medikamentov a (alebo)
+                výplach krvných zrazenín u muža alebo chlapca.
+            </Popis>
+            <Body>300</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Katetrizácia močového mechúra, v prípade potreby s výplachom, instilácia medikamentov a (alebo)
+                vypláchnutie krvných zrazenín u ženy.
+            </displayName>
+            <Skratka>1723</Skratka>
+            <Popis>Katetrizácia močového mechúra, v prípade potreby s výplachom, instilácia medikamentov a (alebo)
+                vypláchnutie krvných zrazenín u ženy.
+            </Popis>
+            <Body>375</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Prvé ošetrenie malej rany.</displayName>
+            <Skratka>2000</Skratka>
+            <Popis>Prvé ošetrenie malej rany.</Popis>
+            <Body>100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Excízia malého kúska sliznice alebo kože (malý benígny tumor, napríklad epulis, hyperplázia,
+                leukoplakia, probatórna excízia) alebo excízia malého, v koži uloženého nádoru.
+            </displayName>
+            <Skratka>2100</Skratka>
+            <Popis>Excízia malého kúska sliznice alebo kože (malý benígny tumor, napríklad epulis, hyperplázia,
+                leukoplakia, probatórna excízia) alebo excízia malého, v koži uloženého nádoru.
+            </Popis>
+            <Body>160</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Otvorenie kĺbu ruky alebo nohy, podľa potreby aj drenáž ako samostatný výkon.</displayName>
+            <Skratka>2456</Skratka>
+            <Popis>Otvorenie kĺbu ruky alebo nohy, podľa potreby aj drenáž ako samostatný výkon.</Popis>
+            <Body>600</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Tracheotómia.</displayName>
+            <Skratka>2600</Skratka>
+            <Popis>Tracheotómia.</Popis>
+            <Body>1000</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Nácvik pacienta s anus praeternaturalis, ako irigáciou vyprázdňovať črevá.</displayName>
+            <Skratka>2722</Skratka>
+            <Popis>Nácvik pacienta s anus praeternaturalis, ako irigáciou vyprázdňovať črevá.</Popis>
+            <Body>160</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Extrakcia dočasného zuba alebo koreňa. Jednoduchá extrakcia.</displayName>
+            <Skratka>3000</Skratka>
+            <Popis>Extrakcia dočasného zuba alebo koreňa. Jednoduchá extrakcia.</Popis>
+            <Body>50</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Zhotovenie výrezu</displayName>
+            <Skratka>3252</Skratka>
+            <Popis>Zhotovenie výrezu</Popis>
+            <Body>450</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Ožarovanie, každé pole. Pri ožarovaní Cs sa každá frakcia môže vykazovať dvakrát.</displayName>
+            <Skratka>3256</Skratka>
+            <Popis>Ožarovanie, každé pole. Pri ožarovaní Cs sa každá frakcia môže vykazovať dvakrát.</Popis>
+            <Body>500</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Pohovor s pacientom s onkologickým ochorením pri progredujúcom, liečbou neovplyvnenom nádorovom
+                ochorení.
+            </displayName>
+            <Skratka>3292</Skratka>
+            <Popis>Pohovor s pacientom s onkologickým ochorením pri progredujúcom, liečbou neovplyvnenom nádorovom
+                ochorení.
+            </Popis>
+            <Body>450</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Zložitejšie a časovo náročnejšie projektívne techniky (ZTT, Hand-test, Szondi, Wartegov test,
+                Lüscher-veľký a podobne), do dvoch testov v jednom prípade.
+            </displayName>
+            <Skratka>3359</Skratka>
+            <Popis>Zložitejšie a časovo náročnejšie projektívne techniky (ZTT, Hand-test, Szondi, Wartegov test,
+                Lüscher-veľký a podobne), do dvoch testov v jednom prípade.
+            </Popis>
+            <Body>700</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Výplach oka.</displayName>
+            <Skratka>3423</Skratka>
+            <Popis>Výplach oka.</Popis>
+            <Body>150</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Kompletný dôkaz základných patologických súčastí moču, za každú vzorku od pacienta
+            </displayName>
+            <Skratka>3525</Skratka>
+            <Popis>Kompletný dôkaz základných patologických súčastí moču, za každú vzorku od pacienta</Popis>
+            <Body>50</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Nekompletný dôkaz najviac troch z uvedených základných patologických súčastí moču, za každú
+                pacientsku vzorku
+            </displayName>
+            <Skratka>3526</Skratka>
+            <Popis>Nekompletný dôkaz najviac troch z uvedených základných patologických súčastí moču, za každú
+                pacientsku vzorku
+            </Popis>
+            <Body>35</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>stanovenie mernej hmotnosti (hustoty) v telovej tekutine</displayName>
+            <Skratka>3527</Skratka>
+            <Popis>stanovenie mernej hmotnosti (hustoty) v telovej tekutine</Popis>
+            <Body>30</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Kyselina acetoctová</displayName>
+            <Skratka>3530</Skratka>
+            <Popis>Kyselina acetoctová</Popis>
+            <Body>30</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Rivaltova skúška</displayName>
+            <Skratka>3535</Skratka>
+            <Popis>Rivaltova skúška</Popis>
+            <Body>30</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Kyselina vanilmandľová</displayName>
+            <Skratka>3542</Skratka>
+            <Popis>Kyselina vanilmandľová</Popis>
+            <Body>50</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Chylomikrónový test</displayName>
+            <Skratka>3552</Skratka>
+            <Popis>Chylomikrónový test</Popis>
+            <Body>50</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Stanovenie hematokritu centrifugáciou</displayName>
+            <Skratka>3590</Skratka>
+            <Popis>Stanovenie hematokritu centrifugáciou</Popis>
+            <Body>100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>stanovenie sedimentačnej rýchlosti krviniek</displayName>
+            <Skratka>3592</Skratka>
+            <Popis>stanovenie sedimentačnej rýchlosti krviniek</Popis>
+            <Body>50</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Mikroskopické vyšetrenie natívneho preparátu po jednoduchej príprave, prípadne fázovým
+                kontrastom alebo v tmavom poli.
+            </displayName>
+            <Skratka>3600</Skratka>
+            <Popis>Mikroskopické vyšetrenie natívneho preparátu po jednoduchej príprave, prípadne fázovým kontrastom
+                alebo v tmavom poli.
+            </Popis>
+            <Body>95</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Glukóza</displayName>
+            <Skratka>3671</Skratka>
+            <Popis>Glukóza</Popis>
+            <Body>40</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>ALT</displayName>
+            <Skratka>3692</Skratka>
+            <Popis>ALT</Popis>
+            <Body>60</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Kyslá fosfatáza</displayName>
+            <Skratka>3702</Skratka>
+            <Popis>Kyslá fosfatáza</Popis>
+            <Body>90</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Prostatická fosfatáza</displayName>
+            <Skratka>3703</Skratka>
+            <Popis>Prostatická fosfatáza</Popis>
+            <Body>120</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Chymotrypsín</displayName>
+            <Skratka>3742</Skratka>
+            <Popis>Chymotrypsín</Popis>
+            <Body>900</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Protrombínový čas (Quick, tromboplastínový čas)</displayName>
+            <Skratka>3842</Skratka>
+            <Popis>Protrombínový čas (Quick, tromboplastínový čas)</Popis>
+            <Body>95</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Aktivovaný parciálny tromboplastínový čas (APTT)</displayName>
+            <Skratka>3852</Skratka>
+            <Popis>Aktivovaný parciálny tromboplastínový čas (APTT)</Popis>
+            <Body>150</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Vysokogradientová izolácia bielkovín alebo organel</displayName>
+            <Skratka>4252</Skratka>
+            <Popis>Vysokogradientová izolácia bielkovín alebo organel</Popis>
+            <Body>1000</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Okultné krvácanie v stolici (OBTI)</displayName>
+            <Skratka>4303</Skratka>
+            <Popis>Okultné krvácanie v stolici (OBTI)</Popis>
+            <Body>300</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>C-reaktívny proteín (CRP)</displayName>
+            <Skratka>4548</Skratka>
+            <Popis>C-reaktívny proteín (CRP)</Popis>
+            <Body>360</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Apoproteín B</displayName>
+            <Skratka>4570</Skratka>
+            <Popis>Apoproteín B</Popis>
+            <Body>1100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>C-reaktívny proteín</displayName>
+            <Skratka>4571</Skratka>
+            <Popis>C-reaktívny proteín</Popis>
+            <Body>380</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Artrografia, vrátane skiaskopie, ramenných a kolenných kĺbov, za každú projekciu</displayName>
+            <Skratka>5025</Skratka>
+            <Popis>Artrografia, vrátane skiaskopie, ramenných a kolenných kĺbov, za každú projekciu</Popis>
+            <Body>800</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>HRCT pľúc</displayName>
+            <Skratka>5207</Skratka>
+            <Popis>HRCT pľúc</Popis>
+            <Body>8000</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>USG vyšetrenie hornej časti brucha (pečeň, žlčník, žlčové cesty, pankreas, obličky, slezina,
+                retroperitoneálne LU, aorta, prípadne aj chorobne zmenené časti GIT-u a podbruška)
+            </displayName>
+            <Skratka>5300</Skratka>
+            <Popis>USG vyšetrenie hornej časti brucha (pečeň, žlčník, žlčové cesty, pankreas, obličky, slezina,
+                retroperitoneálne LU, aorta, prípadne aj chorobne zmenené časti GIT-u a podbruška)
+            </Popis>
+            <Body>1700</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Scintigrafia mozgu</displayName>
+            <Skratka>5400</Skratka>
+            <Popis>Scintigrafia mozgu</Popis>
+            <Body>3500</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>MR v oblasti krku alebo krčnej chrbtice</displayName>
+            <Skratka>5605</Skratka>
+            <Popis>MR v oblasti krku alebo krčnej chrbtice</Popis>
+            <Body>30000</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Elektrokardiografické (EKG) vyšetrenie, štandardné 12-zvodové zosnímanie. Výkon môže vykonávať
+                kardiológ, angiológ, internista.
+            </displayName>
+            <Skratka>5702</Skratka>
+            <Popis>Elektrokardiografické (EKG) vyšetrenie, štandardné 12-zvodové zosnímanie. Výkon môže vykonávať
+                kardiológ, angiológ, internista.
+            </Popis>
+            <Body>550</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Príplatok za doplnkové elektrokardiografické zvody, 15-zvodové EKG, etážové zvody, Frankove
+                zvody, pravokomorové zvody, za zápis každého z uvedených zvodov. Výkon môže vykonávať kardiológ,
+                angiológ, internista.
+            </displayName>
+            <Skratka>5703</Skratka>
+            <Popis>Príplatok za doplnkové elektrokardiografické zvody, 15-zvodové EKG, etážové zvody, Frankove zvody,
+                pravokomorové zvody, za zápis každého z uvedených zvodov. Výkon môže vykonávať kardiológ, angiológ,
+                internista.
+            </Popis>
+            <Body>60</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Vektokardiografia - zosnímanie. Výkon môže vykonávať kardiológ.</displayName>
+            <Skratka>5704</Skratka>
+            <Popis>Vektokardiografia - zosnímanie. Výkon môže vykonávať kardiológ.</Popis>
+            <Body>450</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Telemetrické elektrokardiografické vyšetrenie - zosnímanie. Výkon môže vykazovať kardiológ,
+                angiológ, internista.
+            </displayName>
+            <Skratka>5707</Skratka>
+            <Popis>Telemetrické elektrokardiografické vyšetrenie - zosnímanie. Výkon môže vykazovať kardiológ, angiológ,
+                internista.
+            </Popis>
+            <Body>650</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Vyšetrenie variability srdcovej frekvencie (HRV). Výkon môže vykazovať kardiológ a
+                internista.
+            </displayName>
+            <Skratka>5714</Skratka>
+            <Popis>Vyšetrenie variability srdcovej frekvencie (HRV). Výkon môže vykazovať kardiológ a internista.
+            </Popis>
+            <Body>450</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>24-hodinové monitorovanie tlaku krvi - naloženie a zosnímanie. Výkon môže vykazovať kardiológ a
+                internista.
+            </displayName>
+            <Skratka>5715</Skratka>
+            <Popis>24-hodinové monitorovanie tlaku krvi - naloženie a zosnímanie. Výkon môže vykazovať kardiológ a
+                internista.
+            </Popis>
+            <Body>750</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Duplexné vyšetrenie extrakraniálnych mozgových artérií (B-mód a PW Doppler).</displayName>
+            <Skratka>5742</Skratka>
+            <Popis>Duplexné vyšetrenie extrakraniálnych mozgových artérií (B-mód a PW Doppler).</Popis>
+            <Body>2000</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>tenolýza šľachy</displayName>
+            <Skratka>9233</Skratka>
+            <Popis>tenolýza šľachy</Popis>
+            <Body>0</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>incízia perianálneho abscesu</displayName>
+            <Skratka>9319</Skratka>
+            <Popis>incízia perianálneho abscesu</Popis>
+            <Body>0</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>turbinoplastika</displayName>
+            <Skratka>9715</Skratka>
+            <Popis>turbinoplastika</Popis>
+            <Body>0</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Trojplôšková výplň zuba.</displayName>
+            <Skratka>V03</Skratka>
+            <Popis>Trojplôšková výplň zuba.</Popis>
+            <Body>270</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName></displayName>
+            <Skratka>V03s</Skratka>
+            <Popis></Popis>
+            <Body>270</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Odobratie krvi venepunkciou do jednej striekačky alebo do jednej skúmavky, vrátane odberovej
+                súpravy, za každú súpravu.
+            </displayName>
+            <Skratka>250a</Skratka>
+            <Popis>Odobratie krvi venepunkciou do jednej striekačky alebo do jednej skúmavky, vrátane odberovej súpravy,
+                za každú súpravu.
+            </Popis>
+            <Body>80</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Odber a odoslanie biologického materiálu na bakteriologické, sérologické, mykologické,
+                virologické a parazitologické vyšetrenie.
+            </displayName>
+            <Skratka>299a</Skratka>
+            <Popis>Odber a odoslanie biologického materiálu na bakteriologické, sérologické, mykologické, virologické a
+                parazitologické vyšetrenie.
+            </Popis>
+            <Body>60</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Očkovanie.</displayName>
+            <Skratka>252b</Skratka>
+            <Popis>Očkovanie.</Popis>
+            <Body>70</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Očkovanie proti chrípke</displayName>
+            <Skratka>252c</Skratka>
+            <Popis>Očkovanie proti chrípke</Popis>
+            <Body>70</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Preventívne vyšetrenie na krv v stolici za použitia troch testovacích papierikov v rámci
+                opatrení na včasnú diagnostiku ochorenia na rakovinu, dodatok k výkonu pod kódom 160. Výkon môže
+                vykazovať lekár všeobecnej starostlivosti vtedy, ak ho sám uskut
+            </displayName>
+            <Skratka>159a</Skratka>
+            <Popis>Preventívne vyšetrenie na krv v stolici za použitia troch testovacích papierikov v rámci opatrení na
+                včasnú diagnostiku ochorenia na rakovinu, dodatok k výkonu pod kódom 160. Výkon môže vykazovať lekár
+                všeobecnej starostlivosti vtedy, ak ho sám uskut
+            </Popis>
+            <Body>180</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Elektrokardiografické (EKG) vyšetrenie, štandardné 12-zvodové zosnímanie. Výkon môže vykonávať
+                kardiológ, angiológ, internista.
+            </displayName>
+            <Skratka>5702p</Skratka>
+            <Popis>Elektrokardiografické (EKG) vyšetrenie, štandardné 12-zvodové zosnímanie. Výkon môže vykonávať
+                kardiológ, angiológ, internista.
+            </Popis>
+            <Body>550</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Prehliadky študentov a pracovníkov vykazujúcich práce, pri ktorých je ohrozenie chorobou z
+                povolania, priemyselnou otravou alebo iným poškodením zdravia (riziková práca). Škodliviny sú uvedené v
+                Zozname chorôb z povolania. Za každú prehliadku.
+            </displayName>
+            <Skratka>160a</Skratka>
+            <Popis>Prehliadky študentov a pracovníkov vykazujúcich práce, pri ktorých je ohrozenie chorobou z povolania,
+                priemyselnou otravou alebo iným poškodením zdravia (riziková práca). Škodliviny sú uvedené v Zozname
+                chorôb z povolania. Za každú prehliadku.
+            </Popis>
+            <Body>390</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Diagnostické EKG</displayName>
+            <Skratka>5702c</Skratka>
+            <Popis>Diagnostické EKG</Popis>
+            <Body>500</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Návšteva sestry v rámci vyhľadávania TBC a kontroly DDOT.</displayName>
+            <Skratka>25a</Skratka>
+            <Popis>Návšteva sestry v rámci vyhľadávania TBC a kontroly DDOT.</Popis>
+            <Body>200</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Ochranné očkovanie perorálnou vakcínou, napríklad proti poliomyelitíde.</displayName>
+            <Skratka>252a</Skratka>
+            <Popis>Ochranné očkovanie perorálnou vakcínou, napríklad proti poliomyelitíde.</Popis>
+            <Body>30</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Injekčná anestézia.</displayName>
+            <Skratka>A02</Skratka>
+            <Popis>Injekčná anestézia.</Popis>
+            <Body>60</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Odber krvi do uzavretého systému, alebo odber pri podozrení na infekčné ochorenie, za každú
+                odberovú súpravu.
+            </displayName>
+            <Skratka>250b</Skratka>
+            <Popis>Odber krvi do uzavretého systému, alebo odber pri podozrení na infekčné ochorenie, za každú odberovú
+                súpravu.
+            </Popis>
+            <Body>150</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Odber arteriálnej krvi (uzavretý odberový systém) punkciou artérie. Pri podaní injekcie v rámci
+                prvej pomoci (lekári všeobecnej a špecializovanej zdravotnej starostlivosti, lekári rýchlej
+                zdravotníckej pomoci, lekári lekárskej služby prvej pomoci (LS
+            </displayName>
+            <Skratka>251a</Skratka>
+            <Popis>Odber arteriálnej krvi (uzavretý odberový systém) punkciou artérie. Pri podaní injekcie v rámci prvej
+                pomoci (lekári všeobecnej a špecializovanej zdravotnej starostlivosti, lekári rýchlej zdravotníckej
+                pomoci, lekári lekárskej služby prvej pomoci (LS
+            </Popis>
+            <Body>115</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Odber arteriálnej krvi (otvorený odberový systém) punkciou artérie.</displayName>
+            <Skratka>251b</Skratka>
+            <Popis>Odber arteriálnej krvi (otvorený odberový systém) punkciou artérie.</Popis>
+            <Body>140</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Preventívne vyšetrenie na krv v stolici za použitia troch testovacích papierikov v rámci
+                opatrení na včasnú diagnostiku ochorenia na rakovinu, dodatok k výkonu pod kódom 160. Výkon môže
+                vykazovať lekár všeobecnej starostlivosti vtedy, ak poistenca po
+            </displayName>
+            <Skratka>159x</Skratka>
+            <Popis>Preventívne vyšetrenie na krv v stolici za použitia troch testovacích papierikov v rámci opatrení na
+                včasnú diagnostiku ochorenia na rakovinu, dodatok k výkonu pod kódom 160. Výkon môže vykazovať lekár
+                všeobecnej starostlivosti vtedy, ak poistenca po
+            </Popis>
+            <Body>180</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Preventívne vyšetrenie na krv v stolici za použitia troch testovacích papierikov v rámci
+                opatrení na včasnú diagnostiku ochorenia na rakovinu, dodatok k výkonu pod kódom 160. Výkon môže
+                vykazovať lekár všeobecnej starostlivosti vtedy, ak ho sám uskut
+            </displayName>
+            <Skratka>159z</Skratka>
+            <Popis>Preventívne vyšetrenie na krv v stolici za použitia troch testovacích papierikov v rámci opatrení na
+                včasnú diagnostiku ochorenia na rakovinu, dodatok k výkonu pod kódom 160. Výkon môže vykazovať lekár
+                všeobecnej starostlivosti vtedy, ak ho sám uskut
+            </Popis>
+            <Body>180</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Odber a odoslanie biologického materiálu na bakteriologické, sérologické, mykologické,
+                virologické a parazitologické vyšetrenie pri dôvodnom podozrení na infekčné ochorenie vrátane
+                dezinfekcie.
+            </displayName>
+            <Skratka>299b</Skratka>
+            <Popis>Odber a odoslanie biologického materiálu na bakteriologické, sérologické, mykologické, virologické a
+                parazitologické vyšetrenie pri dôvodnom podozrení na infekčné ochorenie vrátane dezinfekcie.
+            </Popis>
+            <Body>100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Vykonanie jednoduchého zdravotného výkonu: napríklad kontrola krvného tlaku pri liečení
+                hypertenzie I. stupňa podľa Svetovej zdravotníckej organizácie, odstránenie stehov, lokálne ošetrenie
+                podnebných mandlí, aplikácia liečiv, napríklad do vonkajšieh
+            </displayName>
+            <Skratka>4a</Skratka>
+            <Popis>Vykonanie jednoduchého zdravotného výkonu: napríklad kontrola krvného tlaku pri liečení hypertenzie
+                I. stupňa podľa Svetovej zdravotníckej organizácie, odstránenie stehov, lokálne ošetrenie podnebných
+                mandlí, aplikácia liečiv, napríklad do vonkajšieh
+            </Popis>
+            <Body>80</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>C-reaktívny proteín</displayName>
+            <Skratka>4571a</Skratka>
+            <Popis>C-reaktívny proteín</Popis>
+            <Body>380</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName></displayName>
+            <Skratka>H0001</Skratka>
+            <Popis></Popis>
+            <Body>0</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Vyhodnotenie EKG v prípade, že odborný lekár s príslušnou špecializáciou EKG len vyhodnotí.
+                Nejde o automatické prístrojové vyhodnotenie.
+            </displayName>
+            <Skratka>603a</Skratka>
+            <Popis>Vyhodnotenie EKG v prípade, že odborný lekár s príslušnou špecializáciou EKG len vyhodnotí. Nejde o
+                automatické prístrojové vyhodnotenie.
+            </Popis>
+            <Body>150</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Zhotovenie EKG záznamu s najmenej 12 zvodmi bez opisu.</displayName>
+            <Skratka>15c</Skratka>
+            <Popis>Zhotovenie EKG záznamu s najmenej 12 zvodmi bez opisu.</Popis>
+            <Body>100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Príplatok k výkonu pod kódom 5702 u detí do 6 rokov.</displayName>
+            <Skratka>5702a</Skratka>
+            <Popis>Príplatok k výkonu pod kódom 5702 u detí do 6 rokov.</Popis>
+            <Body>150</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Preventívne vyšetrenie celkového cholesterolu v 11. a 17. roku života a celkového cholesterolu
+                a triacylglycerolov v 40. roku života. Okrem odberu sa vykazuje cielená anamnéza, posúdenie genetickej
+                záťaže, posúdenie laboratórnych výsledkov, v prípade
+            </displayName>
+            <Skratka>159b</Skratka>
+            <Popis>Preventívne vyšetrenie celkového cholesterolu v 11. a 17. roku života a celkového cholesterolu a
+                triacylglycerolov v 40. roku života. Okrem odberu sa vykazuje cielená anamnéza, posúdenie genetickej
+                záťaže, posúdenie laboratórnych výsledkov, v prípade
+            </Popis>
+            <Body>100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Odber krvi do uzavretého systému</displayName>
+            <Skratka>250br</Skratka>
+            <Popis>Odber krvi do uzavretého systému</Popis>
+            <Body>150</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Analýza čeľustnoortopedických modelov pri rázštepoch.</displayName>
+            <Skratka>O05a</Skratka>
+            <Popis>Analýza čeľustnoortopedických modelov pri rázštepoch.</Popis>
+            <Body>550</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Ošetrenie sťaženého prerezávania zuba múdrosti.</displayName>
+            <Skratka>C07</Skratka>
+            <Popis>Ošetrenie sťaženého prerezávania zuba múdrosti.</Popis>
+            <Body>60</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Sterilný odber venóznej krvi pri podozrení na vysoko infekčnú nákazu (napr. SARS, EBOLA),
+                vrátane transportu v špeciálnom kontajneri.
+            </displayName>
+            <Skratka>250f</Skratka>
+            <Popis>Sterilný odber venóznej krvi pri podozrení na vysoko infekčnú nákazu (napr. SARS, EBOLA), vrátane
+                transportu v špeciálnom kontajneri.
+            </Popis>
+            <Body>320</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Edukácia pacienta, nácvik a kontrola správnej inhalačnej techniky.</displayName>
+            <Skratka>10e</Skratka>
+            <Popis>Edukácia pacienta, nácvik a kontrola správnej inhalačnej techniky.</Popis>
+            <Body>180</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Krátka správa lekára lekárskej služby prvej pomoci ošetrujúcemu lekárovi.</displayName>
+            <Skratka>71b</Skratka>
+            <Popis>Krátka správa lekára lekárskej služby prvej pomoci ošetrujúcemu lekárovi.</Popis>
+            <Body>45</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Čeľustnoortopedická konzultácia.</displayName>
+            <Skratka>O01</Skratka>
+            <Popis>Čeľustnoortopedická konzultácia.</Popis>
+            <Body>150</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Komplexné predoperačné vyšetrenie, vrátane zhodnotenia výsledkov laboratórnych a prístrojových
+                vyšetrení. Súčasťou výkonu je aj kompletná lekárska správa. Výkon pod kódom 60a sa nemôže vykazovať
+                súčasne s výkonmi pod kódmi 60, 62, 63. Výkon možno vyk
+            </displayName>
+            <Skratka>60a</Skratka>
+            <Popis>Komplexné predoperačné vyšetrenie, vrátane zhodnotenia výsledkov laboratórnych a prístrojových
+                vyšetrení. Súčasťou výkonu je aj kompletná lekárska správa. Výkon pod kódom 60a sa nemôže vykazovať
+                súčasne s výkonmi pod kódmi 60, 62, 63. Výkon možno vyk
+            </Popis>
+            <Body>500</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Komplexné predoperačné vyšetrenie vrátane odberov krvi, zhodnotenie laboratórnych a
+                prístrojových vyšetrení.
+            </displayName>
+            <Skratka>60b</Skratka>
+            <Popis>Komplexné predoperačné vyšetrenie vrátane odberov krvi, zhodnotenie laboratórnych a prístrojových
+                vyšetrení.
+            </Popis>
+            <Body>500</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Odčítanie Mantoux.</displayName>
+            <Skratka>70b</Skratka>
+            <Popis>Odčítanie Mantoux.</Popis>
+            <Body>40</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Kontrolné zhodnotenie prebiehajúcej liečby pacientky, bez gynekologického fyzikálneho
+                vyšetrenia.
+            </displayName>
+            <Skratka>63a</Skratka>
+            <Popis>Kontrolné zhodnotenie prebiehajúcej liečby pacientky, bez gynekologického fyzikálneho vyšetrenia.
+            </Popis>
+            <Body>100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Odobratie krvi venepunkciou do jednej striekačky alebo do jednej skúmavky, vrátane odberovej
+                súpravy, za každú súpravu.
+            </displayName>
+            <Skratka>250d</Skratka>
+            <Popis>Odobratie krvi venepunkciou do jednej striekačky alebo do jednej skúmavky, vrátane odberovej súpravy,
+                za každú súpravu.
+            </Popis>
+            <Body>160</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Elektroanalgézia TENS. 10 krát.</displayName>
+            <Skratka>562a</Skratka>
+            <Popis>Elektroanalgézia TENS. 10 krát.</Popis>
+            <Body>130</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Liečba ultrazvukom. Liečebná aplikácia ultrazvuku, statické, semistatické, dynamické ozvučenie,
+                za jedno ošetrenie. 10 krát.
+            </displayName>
+            <Skratka>561a</Skratka>
+            <Popis>Liečba ultrazvukom. Liečebná aplikácia ultrazvuku, statické, semistatické, dynamické ozvučenie, za
+                jedno ošetrenie. 10 krát.
+            </Popis>
+            <Body>400</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>EKG</displayName>
+            <Skratka>5702z</Skratka>
+            <Popis>EKG</Popis>
+            <Body>550</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Elektroliečba. Liečebné využitie galvanického prúdu (ionizácia, galvanizácia), diadynamických
+                prúdov, interferenčných a amplitúdovo modulovaných prúdov, elektrogymnastika, za jedno ošetrenie.
+            </displayName>
+            <Skratka>556a</Skratka>
+            <Popis>Elektroliečba. Liečebné využitie galvanického prúdu (ionizácia, galvanizácia), diadynamických prúdov,
+                interferenčných a amplitúdovo modulovaných prúdov, elektrogymnastika, za jedno ošetrenie.
+            </Popis>
+            <Body>490</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Odstránenie zubného povlaku alebo zubného kameňa.</displayName>
+            <Skratka>N03</Skratka>
+            <Popis>Odstránenie zubného povlaku alebo zubného kameňa.</Popis>
+            <Body>50</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Sterilný odber venóznej krvi pri podozrení na vysoko infekčnú nákazu (napr. SARS, EBOLA),
+                vrátane transportu v špeciálnom kontajneri.
+            </displayName>
+            <Skratka>250c</Skratka>
+            <Popis>Sterilný odber venóznej krvi pri podozrení na vysoko infekčnú nákazu (napr. SARS, EBOLA), vrátane
+                transportu v špeciálnom kontajneri.
+            </Popis>
+            <Body>160</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>odber venóznej krvi</displayName>
+            <Skratka>250x</Skratka>
+            <Popis>odber venóznej krvi</Popis>
+            <Body>155</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Cielená odborná inštruktáž I. Inštruktáž a oboznámenie pacienta s používaním a obsluhou
+                jednoduchých technických a kompenzačných pomôcok, zariadení a prístrojov (peroneálny stimulátor, TENS,
+                skoliostop, myostimulátor, ortézy, protézy), inštruktáž o p
+            </displayName>
+            <Skratka>510a</Skratka>
+            <Popis>Cielená odborná inštruktáž I. Inštruktáž a oboznámenie pacienta s používaním a obsluhou jednoduchých
+                technických a kompenzačných pomôcok, zariadení a prístrojov (peroneálny stimulátor, TENS, skoliostop,
+                myostimulátor, ortézy, protézy), inštruktáž o p
+            </Popis>
+            <Body>150</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Mäkké a mobilizačné techniky na chrbtici, periférnych kĺboch a svaloch. Špecializované liečebné
+                výkony s cieľom upraviť funkčnú poruchu v oblasti pohybového systému (špeciálne mäkké techniky,
+                PIR-postizometrická relaxácia, AGR-antigravitačná relaxáci
+            </displayName>
+            <Skratka>509a</Skratka>
+            <Popis>Mäkké a mobilizačné techniky na chrbtici, periférnych kĺboch a svaloch. Špecializované liečebné
+                výkony s cieľom upraviť funkčnú poruchu v oblasti pohybového systému (špeciálne mäkké techniky,
+                PIR-postizometrická relaxácia, AGR-antigravitačná relaxáci
+            </Popis>
+            <Body>220</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Zhotovenie EKG záznamu s najmenej 12 zvodmi bez opisu.</displayName>
+            <Skratka>15p</Skratka>
+            <Popis>Zhotovenie EKG záznamu s najmenej 12 zvodmi bez opisu.</Popis>
+            <Body>100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Stratifikácia rizika cievnej mozgovej príhody (CMP) nad 40 rokov.</displayName>
+            <Skratka>H0006</Skratka>
+            <Popis>Stratifikácia rizika cievnej mozgovej príhody (CMP) nad 40 rokov.</Popis>
+            <Body>100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Ošetrenie akútneho hypertenzného stavu.</displayName>
+            <Skratka>H0005</Skratka>
+            <Popis>Ošetrenie akútneho hypertenzného stavu.</Popis>
+            <Body>100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Iniciálne vyšetrenie u poistenca s arteriálnou hypertenziou alebo ošetrenie akútneho
+                hypertenzného stavu
+            </displayName>
+            <Skratka>H0003</Skratka>
+            <Popis>Iniciálne vyšetrenie u poistenca s arteriálnou hypertenziou alebo ošetrenie akútneho hypertenzného
+                stavu
+            </Popis>
+            <Body>100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Repozícia subluxovaného alebo luxovaného zuba, nalomenej alveoly alebo alveolárneho výbežku.
+            </displayName>
+            <Skratka>C61</Skratka>
+            <Popis>Repozícia subluxovaného alebo luxovaného zuba, nalomenej alveoly alebo alveolárneho výbežku.</Popis>
+            <Body>500</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Kvantitatívne INR vyšetrenie v ambulancii VLD</displayName>
+            <Skratka>H0007</Skratka>
+            <Popis>Kvantitatívne INR vyšetrenie v ambulancii VLD</Popis>
+            <Body>100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Kontrolné vyšetrenie u poistenca s arteriálnou hypertenziou jeden krát za 6 mesiacov
+            </displayName>
+            <Skratka>H0004</Skratka>
+            <Popis>Kontrolné vyšetrenie u poistenca s arteriálnou hypertenziou jeden krát za 6 mesiacov</Popis>
+            <Body>100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Stanovenie indexu ABI oscilometrickou metódou</displayName>
+            <Skratka>H0008</Skratka>
+            <Popis>Stanovenie indexu ABI oscilometrickou metódou</Popis>
+            <Body>100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName></displayName>
+            <Skratka>3842a</Skratka>
+            <Popis></Popis>
+            <Body>0</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Vystavenie návrhu na kúpeľnú starostlivosť.</displayName>
+            <Skratka>75a</Skratka>
+            <Popis>Vystavenie návrhu na kúpeľnú starostlivosť.</Popis>
+            <Body>250</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Moč chemicky</displayName>
+            <Skratka>3525r</Skratka>
+            <Popis>Moč chemicky</Popis>
+            <Body>50</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Extrakcia mliečneho zuba alebo koreňa.</displayName>
+            <Skratka>E01</Skratka>
+            <Popis>Extrakcia mliečneho zuba alebo koreňa.</Popis>
+            <Body>60</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>_</codeValue>
+            <displayName>Manuálna repozícia luxácie TMK.</displayName>
+            <Skratka>T01</Skratka>
+            <Popis>Manuálna repozícia luxácie TMK.</Popis>
+            <Body>100</Body>
+            <Priplatok></Priplatok>
+        </PolozkaCiselnika>
+
+    </PolozkaCiselnika_Zoznam>
+</Ciselnik>
