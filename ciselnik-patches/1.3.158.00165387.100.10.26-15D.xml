@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Ciselnik xmlns="http://eHealth.gov.sk/JRUZ/v1">
+    <PolozkaCiselnika_Zoznam>
+        <PolozkaCiselnika>
+            <operation>insert</operation>
+            <codeValue></codeValue>
+            <displayName>Zhodnotenie rtg dokumentácie, ak nie je vykonané pracoviskom RTG, vrátane popisu v zdravotnej dokumentácii.</displayName>
+            <Skratka>15D</Skratka>
+            <Popis></Popis>
+            <Body>150</Body>
+            <typ>SVaLZ</typ>
+        </PolozkaCiselnika>
+    </PolozkaCiselnika_Zoznam>
+</Ciselnik>
