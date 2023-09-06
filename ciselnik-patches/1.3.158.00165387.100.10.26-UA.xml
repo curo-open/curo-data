@@ -11,6 +11,7 @@
                 a toho istého ochorenia iba raz. Viacnásobné vykazovanie výkonov sa zdôvodnuje.
             </Popis>
             <Skratka>10U</Skratka>
+            <Body>180</Body>
             <codeValue>00000466565</codeValue>
             <displayName>Rozbor a plánovanie cielených terapeutických postupov na ovplyvnenie chronických ochorení alebo
                 ochorení viacerých orgánových systémov na účely racionálnej farmakoterapie vrátane rád, dokumentácie. Vý
@@ -20,6 +21,7 @@
         <PolozkaCiselnika>
             <Popis>Návšteva (v pracovnom čase).</Popis>
             <Skratka>25U</Skratka>
+            <Body>285</Body>
             <codeValue>00000466623</codeValue>
             <displayName>Návšteva (v pracovnom čase).</displayName>
             <operation>insert</operation>
@@ -29,6 +31,7 @@
                 sa časový údaj návštevy.
             </Popis>
             <Skratka>26U</Skratka>
+            <Body>500</Body>
             <codeValue>00000466631</codeValue>
             <displayName>Návšteva mimo riadneho pracovného času lekára vykonaná ihneď po výzve z dôvodov ochorenia,
                 vyžaduje sa časový údaj návštevy.
@@ -43,6 +46,7 @@
                 minút).
             </Popis>
             <Skratka>60U</Skratka>
+            <Body>350</Body>
             <codeValue>00000466730</codeValue>
             <displayName>Komplexné vyšetrenie pacienta (kompletná anamnéza, vyšetrenie všetkých orgánových systémov,
                 založenie zdravotnej dokumentácie, diagnostický záver, liečebný plán a (alebo) zaradenie do dispenzárnej
@@ -57,6 +61,7 @@
                 vyšetrenie. Ak sa vyšetrenie vykonalo v laboratóriu, môže ho vykazovať laboratórium.
             </Popis>
             <Skratka>159AU</Skratka>
+            <Body>180</Body>
             <codeValue>00000467357</codeValue>
             <displayName>Preventívne vyšetrenie na krv v stolici s použitím troch testovacích papierikov v rámci
                 opatrení na včasnú diagnostiku ochorenia na rakovinu, dodatok k výkonu pod kódom 160. Výkon môže
@@ -70,6 +75,7 @@
                 s výkonom pod kódom 60. Výkon môže vykazovať lekár všeobecnej starostlivosťi.
             </Popis>
             <Skratka>160U</Skratka>
+            <Body>350</Body>
             <codeValue>00000467373</codeValue>
             <displayName>Základná preventívna prehliadka. Výkon obsahuje komplexné vyšetrenie v rámci základnej
                 preventívnej prehliadky vrátane prehliadky v rámci prevencie kardiovaskulárnych chorôb. Obsah vyšetrenia
@@ -80,6 +86,7 @@
         <PolozkaCiselnika>
             <Popis>Vyšetrenie a včasné rozpoznanie hroziacej straty sebestačnosti u starých ľudí.</Popis>
             <Skratka>163U</Skratka>
+            <Body>200</Body>
             <codeValue>00000467464</codeValue>
             <displayName>Vyšetrenie a včasné rozpoznanie hroziacej straty sebestačnosti u starých ľudí.</displayName>
             <operation>insert</operation>
@@ -87,6 +94,7 @@
         <PolozkaCiselnika>
             <Popis>Očkovanie.</Popis>
             <Skratka>252BU</Skratka>
+            <Body>70</Body>
             <codeValue>00000467878</codeValue>
             <displayName>Očkovanie.</displayName>
             <operation>insert</operation>
@@ -96,6 +104,7 @@
                 za každú súpravu.
             </Popis>
             <Skratka>250DU</Skratka>
+            <Body>160</Body>
             <codeValue>00000478305</codeValue>
             <displayName>Odobratie krvi venepunkciou do jednej striekačky alebo do jednej skúmavky vrátane odberovej
                 súpravy, za každú súpravu.
@@ -107,6 +116,7 @@
                 kardiológ, angiológ, internista.
             </Popis>
             <Skratka>5702U</Skratka>
+            <Body>550</Body>
             <codeValue>00000494187</codeValue>
             <displayName>Elektrokardiografické (EKG) vyšetrenie, štandardné 12-zvodové zosnímanie. Výkon môže vykonávat
                 kardiológ, angiológ, internista.
@@ -118,6 +128,7 @@
                 a internista.
             </Popis>
             <Skratka>5715U</Skratka>
+            <Body>750</Body>
             <codeValue>00000494302</codeValue>
             <displayName>24-hodinové monitorovanie tlaku krvi - naloženie a zosnímanie. Výkon môže vykazovať kardiológ
                 a internista.
@@ -129,6 +140,7 @@
                 vykazovať kardiológ a internista.
             </Popis>
             <Skratka>5716U</Skratka>
+            <Body>240</Body>
             <codeValue>00000494310</codeValue>
             <displayName>Počítačové vyhodnotenie dlhodobého monitorovania tlaku krvi a zhodnotenie nálezu lekárom. Výkon
                 môže vykazovať kardiológ a internista.
@@ -138,6 +150,7 @@
         <PolozkaCiselnika>
             <Popis>Stanovenie indexu ABI oscilometrickou metódou</Popis>
             <Skratka>H0008U</Skratka>
+            <Body>0</Body>
             <codeValue>02089552141</codeValue>
             <displayName>Stanovenie indexu ABI oscilometrickou metódou</displayName>
             <operation>insert</operation>
@@ -147,6 +160,7 @@
                 pacient užíva dlhšie ako 3 mesiace a nebola realizovaná zmena dávkovania lieku
             </Popis>
             <Skratka>70U</Skratka>
+            <Body>50</Body>
             <codeValue>02089691105</codeValue>
             <displayName>Opätovné lekárske vystavenie receptov a (alebo) poukazov na základe požiadavky pacienta
                 prostredníctvom elektronickej pošty, SMS alebo telefónu
@@ -156,6 +170,7 @@
         <PolozkaCiselnika>
             <Popis>Očkovanie proti chrípke</Popis>
             <Skratka>252CU</Skratka>
+            <Body>70</Body>
             <codeValue>02089714667</codeValue>
             <displayName>Očkovanie proti chrípke</displayName>
             <operation>insert</operation>
@@ -163,6 +178,7 @@
         <PolozkaCiselnika>
             <Popis>C - reaktívny proteín</Popis>
             <Skratka>4571AU</Skratka>
+            <Body>380</Body>
             <codeValue>02089716514</codeValue>
             <displayName>C - reaktívny proteín</displayName>
             <operation>insert</operation>
@@ -172,6 +188,7 @@
                 kardiológ, angiológ, internista.
             </Popis>
             <Skratka>5702PU</Skratka>
+            <Body>550</Body>
             <codeValue>02089719112</codeValue>
             <displayName>Elektrokardiografické (EKG) vyšetrenie, štandardné 12-zvodové zosnímanie. Výkon môže vykonávať
                 kardiológ, angiológ, internista.
@@ -183,6 +200,7 @@
                 vyšetrení
             </Popis>
             <Skratka>60BU</Skratka>
+            <Body>0</Body>
             <codeValue>02089719450</codeValue>
             <displayName>Komplexné predoperačné vyšetrenie vrátane odberov krvi, zhodnotenia laboratórnych
                 a prístrojových vyšetrení
@@ -194,6 +212,7 @@
                 vzťahu
             </Popis>
             <Skratka>H0003U</Skratka>
+            <Body>0</Body>
             <codeValue>02089725747</codeValue>
             <displayName>Iniciálne vyšetrenie u poistenca s arteriálnou hypertenziou alebo šetrenie akútneho
                 hypertenzného vzťahu
@@ -203,6 +222,7 @@
         <PolozkaCiselnika>
             <Popis>Kontrolné vyšetrenie u poistenca s arteriálnou hypertenziou jedenkrát za 6 mesiacov</Popis>
             <Skratka>H0004U</Skratka>
+            <Body>0</Body>
             <codeValue>02089725754</codeValue>
             <displayName>Kontrolné vyšetrenie u poistenca s arteriálnou hypertenziou jedenkrát za 6 mesiacov
             </displayName>
@@ -211,6 +231,7 @@
         <PolozkaCiselnika>
             <Popis>Ošetrenie akútneho hypertenzného stavu</Popis>
             <Skratka>H0005U</Skratka>
+            <Body>0</Body>
             <codeValue>02089725762</codeValue>
             <displayName>Ošetrenie akútneho hypertenzného stavu</displayName>
             <operation>insert</operation>
@@ -218,6 +239,7 @@
         <PolozkaCiselnika>
             <Popis>Stratifikácia rizika cievnej mozgovej príhody (CMP) nad 40 rokov</Popis>
             <Skratka>H0006U</Skratka>
+            <Body>0</Body>
             <codeValue>02089725770</codeValue>
             <displayName>Stratifikácia rizika cievnej mozgovej príhody (CMP) nad 40 rokov</displayName>
             <operation>insert</operation>
@@ -225,6 +247,7 @@
         <PolozkaCiselnika>
             <Popis>Preventívne vyšetrenie na okultné krvácanie v stolici</Popis>
             <Skratka>159ZU</Skratka>
+            <Body>180</Body>
             <codeValue>02089731844</codeValue>
             <displayName>Preventívne vyšetrenie na okultné krvácanie v stolici</displayName>
             <operation>insert</operation>
@@ -232,6 +255,7 @@
         <PolozkaCiselnika>
             <Popis>Preventívne vyšetrenie na okultné krvácanie v stolici</Popis>
             <Skratka>159XU</Skratka>
+            <Body>180</Body>
             <codeValue>02089731851</codeValue>
             <displayName>Preventívne vyšetrenie na okultné krvácanie v stolici</displayName>
             <operation>insert</operation>
@@ -263,6 +287,7 @@
                 diagnostickým alebo liečebným postupom vrátane farmakoterapie.
             </Popis>
             <Skratka>1BU</Skratka>
+            <Body>160</Body>
             <codeValue>02089894014</codeValue>
             <displayName>Konzultácia prostredníctvom elektronickej pošty alebo telefonicky</displayName>
             <operation>insert</operation>
@@ -277,6 +302,7 @@
         <PolozkaCiselnika>
             <Popis>Zdravotný výkon vykonáva lekár s odbornosťou: 001,020,022,046,049,056,068.</Popis>
             <Skratka>H0007U</Skratka>
+            <Body>0</Body>
             <codeValue>02089940163</codeValue>
             <displayName>Meranie INR z kapilárnej krvi podľa zmluvne dohodnutých podmienok</displayName>
             <operation>insert</operation>
