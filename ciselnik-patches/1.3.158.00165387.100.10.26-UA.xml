@@ -3,6 +3,15 @@
 <Ciselnik>
     <PolozkaCiselnika_Zoznam>
         <PolozkaCiselnika>
+            <Popis>Mesačná úhrada za starostlivosť občana a z Ukrajiny</Popis>
+            <Skratka>KPU</Skratka>
+            <codeValue></codeValue>
+            <displayName>Nurná podpísaná formálna dohoda o poskytovaní zdravotnej starostlivosti; vykazuje sa s
+                diagnózou Z00.0
+            </displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
             <Popis>Rozbor a plánovanie cielených terapeutických postupov na ovplyvnenie chronických ochorení alebo
                 ochorení viacerých orgánových systémov na účely racionálnej farmakoterapie vrátane rád, dokumentácie.
                 Výkon môže vykázat lekár špecializovanej starostlivosťi podla § 8 ods. 3 zákona c. 576/2004 Z. z.
