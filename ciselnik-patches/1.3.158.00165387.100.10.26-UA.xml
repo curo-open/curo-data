@@ -3,12 +3,12 @@
 <Ciselnik>
     <PolozkaCiselnika_Zoznam>
         <PolozkaCiselnika>
-            <Popis>Mesačná úhrada za starostlivosť občana a z Ukrajiny</Popis>
+            <Popis>Nutná podpísaná formálna dohoda o poskytovaní zdravotnej starostlivosti; vykazuje sa s
+                diagnózou Z00.0
+             </Popis>
             <Skratka>KPU</Skratka>
             <codeValue></codeValue>
-            <displayName>Nurná podpísaná formálna dohoda o poskytovaní zdravotnej starostlivosti; vykazuje sa s
-                diagnózou Z00.0
-            </displayName>
+            <displayName>Mesačná úhrada za starostlivosť občana a z Ukrajiny</displayName>
             <operation>insert</operation>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
