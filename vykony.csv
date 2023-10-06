@@ -3320,3 +3320,8 @@ H0004+EDU,0,,"Výkon H0004 s pripočítateľnou položkou EDU"
 1A03007,1200,,"Kontrolné diabetologické vyšetrenie pri liečbe inzulínovou pumpou"
 1A02072,1300,,"Cielené artrologické vyšetrenie"
 10+EDU,0,,"Výkon 10 s pripočítateľnou položkou EDU"
+H0003U+EDU,0,,"Výkon H0003U s pripočítateľnou položkou EDU"
+H0004U+EDU,0,,"Výkon H0004U s pripočítateľnou položkou EDU"
+159AU+FOB,180,,Výkon 159AU s pripočítateľnou položkou FOB
+159ZU+FOB,180,,Výkon 159ZU s pripočítateľnou položkou FOB
+159XU+FOB,180,,Výkon 159XU s pripočítateľnou položkou FOB
