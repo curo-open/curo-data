@@ -289,5 +289,54 @@
             <displayName>Stanovenie indexu ABI oscilometrickou metódou</displayName>
             <operation>insert</operation>
         </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>1. preventívna prehliadka, bazálne vyšetrenie novorodenca. Výkon vykazuje lekár s príslušnou špecializáciou po prepustení novorodenca z ústavnej starostlivosti.</Popis>
+            <Skratka>142U</Skratka>
+            <codeValue>00000467100</codeValue>
+            <displayName>1. preventívna prehliadka, bazálne vyšetrenie novorodenca. Výkon vykazuje lekár s príslušnou špecializáciou po prepustení novorodenca z ústavnej starostlivosti.</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>2. preventívna prehliadka, vykazuje sa do 4. týždna života dieťaťa. Výkon vykazuje lekár s príslušnou špecializáciou ako druhú preventívnu prehliadku v prvom mesiaci života dieťaťa podla tohto zákona vrátane vyšetrenia psychomotorického vývinu a antropometrických meraní.</Popis>
+            <Skratka>143U</Skratka>
+            <codeValue>00000467118</codeValue>
+            <displayName>2. preventívna prehliadka, vykazuje sa do 4. týždna života dieťaťa. Výkon vykazuje lekár s príslušnou špecializáciou ako druhú preventívnu prehliadku v prvom mesiaci života dieťaťa podľa tohto zákona </displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>4. preventívna prehliadka sa vykazuje v 8. až 10. týždni života (vrátane vyšetrenia psychomotorického vývinu a antropometrických meraní).</Popis>
+            <Skratka>144U</Skratka>
+            <codeValue>00000467134</codeValue>
+            <displayName>4. preventívna prehliadka sa vykazuje v 8. až 10. týždni života (vrátane vyšetrenia psychomotorického vývinu a antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>5. preventívna prehliadka sa vykazuje v 3. až 4. mesiaci života dieťaťa (vrátane antropometrických meraní).</Popis>
+            <Skratka>145U</Skratka>
+            <codeValue>00000467142</codeValue>
+            <displayName>5. preventívna prehliadka sa vykazuje v 3. až 4. mesiaci života dieťaťa (vrátane antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>7. preventívna prehliadka sa vykazuje v 7. až 8. mesiaci života dieťaťa (vrátane antropometrických meraní).</Popis>
+            <Skratka>146U</Skratka>
+            <codeValue>00000467167</codeValue>
+            <displayName>7. preventívna prehliadka sa vykazuje v 7. až 8. mesiaci života dieťaťa (vrátane antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>11. preventívna prehliadka sa vykazuje v 3. roku života dieťaťa (vrátane antropometrických meraní).</Popis>
+            <Skratka>148U</Skratka>
+            <codeValue>00000467209</codeValue>
+            <displayName>11. preventívna prehliadka sa vykazuje v 3. roku života dieťaťa (vrátane antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>15. preventívna prehliadka sa vykazuje v 11. roku života dieťaťa (vrátane antropometrických meraní).</Popis>
+            <Skratka>149U</Skratka>
+            <codeValue>00000467241</codeValue>
+            <displayName>15. preventívna prehliadka sa vykazuje v 11. roku života dieťaťa (vrátane antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
     </PolozkaCiselnika_Zoznam>
 </Ciselnik>
