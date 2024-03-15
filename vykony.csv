@@ -3298,9 +3298,9 @@ PACSR,,,Pripočítateľné položky k výkonom RTG
 H0003+EDU,0,,"Výkon H0003 s pripočítateľnou položkou EDU"
 H0004+EDU,0,,"Výkon H0004 s pripočítateľnou položkou EDU"
 252L+PP05,,,Výkon 252L s pripočítateľnou položkou PP05 - očkovanie deti
-60U,350,,"Equivalent výkonu 60 pre UA utečencov"
-62U,350,,"Equivalent výkonu 62 pre UA utečencov"
-63U,350,,"Equivalent výkonu 63 pre UA utečencov"
+60U,,,"Equivalent výkonu 60 pre UA utečencov"
+62U,,,"Equivalent výkonu 62 pre UA utečencov"
+63U,,,"Equivalent výkonu 63 pre UA utečencov"
 5308.DO10,1500,SVaLZ,"Ultrazvukové vyšetrenie obidvoch prsníkov, axíl a regionálnych lymfatických uzlín."
 5092.DO10,1500,SVaLZ,"Mamografia bilaterálna (štandardná mamografia - v dvoch projekciách každý prsník aj so zobrazením axíl)"
 5092a.DO10,1500,SVaLZ,"Mamografia unilaterálna - v dvoch projekciách so zobrazením axily"
