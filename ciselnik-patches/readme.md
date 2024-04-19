@@ -38,3 +38,6 @@
 - codesystemId: 1.3.158.00165387.100.10.159 #  prejav
 - codesystemId: 1.3.158.00165387.100.10.87  #  merjednotka
 ```
+
+## ukrajina
+- ciselnik-patches/1.3.158.00165387.100.10.26-UA.xml

@@ -1,15 +1,6 @@
 <Ciselnik>
     <PolozkaCiselnika_Zoznam>
         <PolozkaCiselnika>
-            <Popis>Nutná podpísaná formálna dohoda o poskytovaní zdravotnej starostlivosti; vykazuje sa s
-                diagnózou Z00.0
-            </Popis>
-            <Skratka>KPU</Skratka>
-            <codeValue></codeValue>
-            <displayName>Mesačná úhrada za starostlivosť občana a z Ukrajiny</displayName>
-            <operation>insert</operation>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
             <Popis>Prvé vyšetrenie v rámci predpôrodnej starostlivosťi o tehotné s určením termínu pôrodu vrátane zisťovania anamnézy a vystavenia materského preukazu, ako aj rád tehotnej o starostlivosťi v gravidite vrátane vyšetrenia TK, pulzu, hmotnosti a výkonu pod kódom 101.</Popis>
             <Skratka>102U</Skratka>
             <codeValue>00000466946</codeValue>
@@ -59,10 +50,136 @@
             <operation>insert</operation>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Popis>Konzultácia  s pacientom prostredníctvom doložiteľnej elektronickej komunikácie (webová aplikácia, videohovor) v online prostredí, ktoré je zabezpečené, prípadne umožňuje aj zdieľanie zdravotnej dokumentácie, realizáciu fotografii pacienta/vyšetrovaného orgánu pre pridanie do zdravotnej dokumentácie a obsahuje: cielenú anamnézu, resp. anamnézu od poslednej  kontroly a popis subjektívnych ťažkostí vo vzťahu k dvom alebo viacerým orgánovým systémom alebo k psychickej poruche; zhodnotenie výsledkov; vypísanie receptov, prípadne vypísanie žiadaniek na ďalšie vyšetrenie; poučenie pacienta; diagnostický záver; určenie dátumu ďalšej konzultácie alebo kontroly, prípadne záznam o odporučení neodkladnej návštevy iného lekára.</Popis>
-            <Skratka>11AU</Skratka>
-            <codeValue>02089893818</codeValue>
-            <displayName>Konzultácia prostredníctvom rozšírenej elektronickej komunikácie v online prostredí (webová aplikácia, videohovor)</displayName>
+            <Popis>1. preventívna prehliadka, bazálne vyšetrenie novorodenca. Výkon vykazuje lekár s príslušnou špecializáciou po prepustení novorodenca z ústavnej starostlivosti.</Popis>
+            <Skratka>142U</Skratka>
+            <codeValue>00000467100</codeValue>
+            <displayName>1. preventívna prehliadka, bazálne vyšetrenie novorodenca. Výkon vykazuje lekár s príslušnou špecializáciou po prepustení novorodenca z ústavnej starostlivosti.</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>2. preventívna prehliadka, vykazuje sa do 4. týždna života dieťaťa. Výkon vykazuje lekár s príslušnou špecializáciou ako druhú preventívnu prehliadku v prvom mesiaci života dieťaťa podla tohto zákona vrátane vyšetrenia psychomotorického vývinu a antropometrických meraní.</Popis>
+            <Skratka>143U</Skratka>
+            <codeValue>00000467118</codeValue>
+            <displayName>2. preventívna prehliadka, vykazuje sa do 4. týždna života dieťaťa. Výkon vykazuje lekár s príslušnou špecializáciou ako druhú preventívnu prehliadku v prvom mesiaci života dieťaťa podľa tohto zákona </displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>3. preventívna prehliadka sa vykazuje v 5. až 7. týždni života dieťaťa (vrátane vyšetrenia psychomotorického vývinu a antropometrických meraní).</Popis>
+            <Skratka>143aU</Skratka>
+            <codeValue>00000467126</codeValue>
+            <displayName>3. preventívna prehliadka sa vykazuje v 5. až 7. týždni života dieťaťa (vrátane vyšetrenia psychomotorického vývinu a antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>4. preventívna prehliadka sa vykazuje v 8. až 10. týždni života (vrátane vyšetrenia psychomotorického vývinu a antropometrických meraní).</Popis>
+            <Skratka>144U</Skratka>
+            <codeValue>00000467134</codeValue>
+            <displayName>4. preventívna prehliadka sa vykazuje v 8. až 10. týždni života (vrátane vyšetrenia psychomotorického vývinu a antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>5. preventívna prehliadka sa vykazuje v 3. až 4. mesiaci života dieťaťa (vrátane antropometrických meraní).</Popis>
+            <Skratka>145U</Skratka>
+            <codeValue>00000467142</codeValue>
+            <displayName>5. preventívna prehliadka sa vykazuje v 3. až 4. mesiaci života dieťaťa (vrátane antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>6. preventívna prehliadka sa vykazuje v 5. až 6. mesiaci života dieťaťa (vrátane antropometrických meraní).</Popis>
+            <Skratka>145aU</Skratka>
+            <codeValue>00000467159</codeValue>
+            <displayName>6. preventívna prehliadka sa vykazuje v 5. až 6. mesiaci života dieťaťa (vrátane antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>7. preventívna prehliadka sa vykazuje v 7. až 8. mesiaci života dieťaťa (vrátane antropometrických meraní).</Popis>
+            <Skratka>146U</Skratka>
+            <codeValue>00000467167</codeValue>
+            <displayName>7. preventívna prehliadka sa vykazuje v 7. až 8. mesiaci života dieťaťa (vrátane antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>8. preventívna prehliadka sa vykazuje v 9. až 10. mesiaci života dieťaťa (vrátane antropometrických meraní).</Popis>
+            <Skratka>146aU</Skratka>
+            <codeValue>00000467175</codeValue>
+            <displayName>8. preventívna prehliadka sa vykazuje v 9. až 10. mesiaci života dieťaťa (vrátane antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>9. preventívna prehliadka sa vykazuje v 11. až 12. mesiaci života dieťaťa (vrátane antropometrických meraní).</Popis>
+            <Skratka>146bU</Skratka>
+            <codeValue>00000467183</codeValue>
+            <displayName>9. preventívna prehliadka sa vykazuje v 11. až 12. mesiaci života dieťaťa (vrátane antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>10. preventívna prehliadka sa vykazuje v 18. mesiaci života dieťaťa (vrátane antropometrických meraní).</Popis>
+            <Skratka>146cU</Skratka>
+            <codeValue>00000467191</codeValue>
+            <displayName>10. preventívna prehliadka sa vykazuje v 18. mesiaci života dieťaťa (vrátane antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>11. preventívna prehliadka sa vykazuje v 3. roku života dieťaťa (vrátane antropometrických meraní).</Popis>
+            <Skratka>148U</Skratka>
+            <codeValue>00000467209</codeValue>
+            <displayName>11. preventívna prehliadka sa vykazuje v 3. roku života dieťaťa (vrátane antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>12. preventívna prehliadka sa vykazuje v 5. roku života dieťaťa (vrátane antropometrických meraní).</Popis>
+            <Skratka>148aU</Skratka>
+            <codeValue>00000467217</codeValue>
+            <displayName>12. preventívna prehliadka sa vykazuje v 5. roku života dieťaťa (vrátane antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>13. preventívna prehliadka sa vykazuje v 6. roku života alebo v 7. roku života dieťaťa, ak poistenec nenastúpil školskú dochádzku (vrátane antropometrických meraní).</Popis>
+            <Skratka>148bU</Skratka>
+            <codeValue>00000467225</codeValue>
+            <displayName>13. preventívna prehliadka sa vykazuje v 6. roku života alebo v 7. roku života dieťaťa, ak poistenec nenastúpil školskú dochádzku (vrátane antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>14. preventívna prehliadka sa vykazuje v 9. roku života dieťaťa (vrátane antropometrických meraní).</Popis>
+            <Skratka>148cU</Skratka>
+            <codeValue>00000467233</codeValue>
+            <displayName>14. preventívna prehliadka sa vykazuje v 9. roku života dieťaťa (vrátane antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>15. preventívna prehliadka sa vykazuje v 11. roku života dieťaťa (vrátane antropometrických meraní).</Popis>
+            <Skratka>149U</Skratka>
+            <codeValue>00000467241</codeValue>
+            <displayName>15. preventívna prehliadka sa vykazuje v 11. roku života dieťaťa (vrátane antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>16. preventívna prehliadka sa vykazuje v 13. roku života dieťaťa (vrátane antropometrických meraní).</Popis>
+            <Skratka>149aU</Skratka>
+            <codeValue>00000467258</codeValue>
+            <displayName>16. preventívna prehliadka sa vykazuje v 13. roku života dieťaťa (vrátane antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>17. preventívna prehliadka sa vykazuje v 15. roku života dieťaťa (vrátane antropometrických meraní).</Popis>
+            <Skratka>149bU</Skratka>
+            <codeValue>00000467266</codeValue>
+            <displayName>17. preventívna prehliadka sa vykazuje v 15. roku života dieťaťa (vrátane antropometrických meraní).</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>Vstupná prehliadka žiakov stredných škôl a stredných odborných ucilíšt (vrátane antropometrických meraní). Táto prehliadka sa vykazuje iba u žiakov, ktorí menia lekára všeobecnej starostlivosťi. V prípade vyšetrenia lekárom so špecializáciou v odbore dorastové lekárstvo táto prehliadka zahŕňa aj posúdenie spôsobilosťi na výkon povolania.</Popis>
+            <Skratka>149cU</Skratka>
+            <codeValue>00000467274</codeValue>
+            <displayName>Vstupná prehliadka žiakov stredných škôl a stredných odborných učilíšť (vrátane antropometrických meraní). Táto prehliadka sa vykazuje iba u žiakov, ktorí menia lekára všeobecnej starostlivosti. V prí</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>Preventívna prehliadka v 17. roku života dieťaťa. Ďalšie preventívne prehliadky sa vykazujú raz za 2 roky.</Popis>
+            <Skratka>149dU</Skratka>
+            <codeValue>00000467282</codeValue>
+            <displayName>Preventívna prehliadka v 17. roku života dieťaťa. Ďalšie preventívne prehliadky sa vykazujú raz za 2 roky.</displayName>
             <operation>insert</operation>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -73,24 +190,10 @@
             <operation>insert</operation>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Popis>Preventívne vyšetrenie na krv v stolici s použitím troch testovacích papierikov v rámci opatrení na včasnú diagnostiku ochorenia na rakovinu, dodatok k výkonu pod kódom 160. Výkon môže vykazovať lekár všeobecnej starostlivosťi vtedy, ak ho sám uskutočnil. Výkon sa môže vykazovať za celé preventívne vyšetrenie. Ak sa vyšetrenie vykonalo v laboratóriu, môže ho vykazovať laboratórium.</Popis>
-            <Skratka>159AU</Skratka>
-            <codeValue>00000467357</codeValue>
-            <displayName>Preventívne vyšetrenie na krv v stolici s použitím troch testovacích papierikov v rámci opatrení na včasnú diagnostiku ochorenia na rakovinu, dodatok k výkonu pod kódom 160. Výkon môže vykazovať lekár</displayName>
-            <operation>insert</operation>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Popis>Preventívne vyšetrenie na okultné krvácanie v stolici</Popis>
-            <Skratka>159XU</Skratka>
-            <codeValue>02089731851</codeValue>
-            <displayName>Preventívne vyšetrenie na okultné krvácanie v stolici</displayName>
-            <operation>insert</operation>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Popis>Preventívne vyšetrenie na okultné krvácanie v stolici</Popis>
-            <Skratka>159ZU</Skratka>
-            <codeValue>02089731844</codeValue>
-            <displayName>Preventívne vyšetrenie na okultné krvácanie v stolici</displayName>
+            <Popis>Preventívne vyšetrenie celkového cholesterolu v 11. a 17. roku života a celkového cholesterolu a triacylglycerolov v 40. roku života. Okrem odberu sa vykazuje cielená anamnéza, posúdenie genetickej zátaže, posúdenie laboratórnych výsledkov, v prípade pozitivity výsledkov, poučenie pacienta, vypísanie správy a odoslanie pacienta na dalšie vyšetrenie a liecenie k lekárovi špecializovanej starostlivosťi. Výkon vykazuje lekár všeobecnej starostlivosťi. Laboratórne vyšetrenia celkového cholesterolu a triacylglycerolov enzýmovou metódou vykonanou na SVALZ pracovisku sa vykazujú samostatne podla casti SVALZ.</Popis>
+            <Skratka>159bU</Skratka>
+            <codeValue>00000467365</codeValue>
+            <displayName>Preventívne vyšetrenie celkového cholesterolu v 11. a 17. roku života a celkového cholesterolu a triacylglycerolov v 40. roku života. Okrem odberu sa vykazuje cielená anamnéza, posúdenie genetickej zá</displayName>
             <operation>insert</operation>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -108,24 +211,10 @@
             <operation>insert</operation>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Popis>Konzultácia s pacientom prostredníctvom elektronickej pošty, SMS alebo telefonicky obsahuje: cielenú anamnézu, resp. anamnézu od poslednej  kontroly, vo vzťahu k jednému orgánovému systému ; popis subjektívnych ťažkostí; diagnostický záver; poučenie o diéte a životospráve; v prípade potreby určenie dátumu ďalšej konzultácie alebo kontroly, vrátane predpisu potrebných liekov/ZP, ktoré vyplynuli z konzultácie ohľadom zdravotného stavu; prípadne záznam o odporučení neodkladnej návštevy iného lekára; poskytnutie informácií pacientovi alebo zákonnému zástupcovi v súvislosti so zdravotným stavom s diagnostickým alebo liečebným postupom vrátane farmakoterapie.</Popis>
-            <Skratka>1BU</Skratka>
-            <codeValue>02089894014</codeValue>
-            <displayName>Konzultácia prostredníctvom elektronickej pošty alebo telefonicky</displayName>
-            <operation>insert</operation>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
             <Popis>Odobratie krvi venepunkciou do jednej striekačky alebo do jednej skúmavky vrátane odberovej súpravy, za každú súpravu.</Popis>
-            <Skratka>250DU</Skratka>
+            <Skratka>250dU</Skratka>
             <codeValue>00000478305</codeValue>
             <displayName>Odobratie krvi venepunkciou do jednej striekačky alebo do jednej skúmavky vrátane odberovej súpravy, za každú súpravu.</displayName>
-            <operation>insert</operation>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Popis>Očkovanie.</Popis>
-            <Skratka>252BU</Skratka>
-            <codeValue>00000467878</codeValue>
-            <displayName>Očkovanie.</displayName>
             <operation>insert</operation>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -133,6 +222,13 @@
             <Skratka>252CU</Skratka>
             <codeValue>02089714667</codeValue>
             <displayName>Očkovanie proti chrípke</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>Očkovanie.</Popis>
+            <Skratka>252bU</Skratka>
+            <codeValue>00000467878</codeValue>
+            <displayName>Očkovanie.</displayName>
             <operation>insert</operation>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -234,10 +330,10 @@
             <operation>insert</operation>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Popis>Cielené vyšetrenie pacienta s respiračným syndrómom pri pandémii COVID-19</Popis>
-            <Skratka>62AU</Skratka>
-            <codeValue>02089900894</codeValue>
-            <displayName>Cielené vyšetrenie pacienta s respiračným syndrómom pri pandémii COVID-19</displayName>
+            <Popis>Príplatok u dieťaťa vo veku do piatich rokov pri výkonoch - odber krvi, injekcie, infúzie, transfúzie, infiltrácie, implantácie, odobratie sterov, punkcie a pri výkone očkovania.</Popis>
+            <Skratka>67U</Skratka>
+            <codeValue>00000466797</codeValue>
+            <displayName>Príplatok u dieťaťa vo veku do piatich rokov pri výkonoch - odber krvi, injekcie, infúzie, transfúzie, infiltrácie, implantácie, odobratie sterov, punkcie a pri výkone očkovania.</displayName>
             <operation>insert</operation>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -245,6 +341,41 @@
             <Skratka>70U</Skratka>
             <codeValue>02089691105</codeValue>
             <displayName>Opätovné lekárske vystavenie receptov a (alebo) poukazov na základe požiadavky pacienta prostredníctvom elektronickej pošty, SMS alebo telefónu</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>Vyšetrenie psychomotorického vývinu dieťaťa vo vzťahu k hrubej a jemnej motorike, k reči a k sociálnym vzťahom podľa štandardnej stupnice vrátane dokumentácie. Pri výkone pod kódom 950 nemožno výkony pod kódmi 951 a 952 započítať.</Popis>
+            <Skratka>950U</Skratka>
+            <codeValue>00000469288</codeValue>
+            <displayName>Vyšetrenie psychomotorického vývinu dieťaťa vo vzťahu k hrubej a jemnej motorike, k reči a k sociálnym vzťahom podľa štandardnej stupnice vrátane dokumentácie. Pri výkone pod kódom 950 nemožno výkony </displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>Kontrolné vyšetrenie funkčného vývinu so skúškami zodpovedajúcimi veku (vnímavosť, sedenie, lezenie, chôdza) u dojčaťa.</Popis>
+            <Skratka>951U</Skratka>
+            <codeValue>00000469296</codeValue>
+            <displayName>Kontrolné vyšetrenie funkčného vývinu so skúškami zodpovedajúcimi veku (vnímavosť, sedenie, lezenie, chôdza) u dojčaťa.</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>Kontrolné vyšetrenie funkčného vývinu so skúškami zodpovedajúcimi veku (reč, pochopenie reči alebo sociálny vek) u batoliat.</Popis>
+            <Skratka>952U</Skratka>
+            <codeValue>00000469304</codeValue>
+            <displayName>Kontrolné vyšetrenie funkčného vývinu so skúškami zodpovedajúcimi veku (reč, pochopenie reči alebo sociálny vek) u batoliat.</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>Vyšetrenie funkčného vývinu so skúškami zodpovedajúcimi veku (reč, pochopenie reči alebo sociálny vek) u dieťaťa predškolského veku.</Popis>
+            <Skratka>953U</Skratka>
+            <codeValue>00000469312</codeValue>
+            <displayName>Vyšetrenie funkčného vývinu so skúškami zodpovedajúcimi veku (reč, pochopenie reči alebo sociálny vek) u dieťaťa predškolského veku.</displayName>
+            <operation>insert</operation>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Popis>Intenzifikovaná zdravotná starostlivosť pre rizikových poistencov s obezitou</Popis>
+            <Skratka>H0002U</Skratka>
+            <codeValue>02089725739</codeValue>
+            <displayName>Intenzifikovaná zdravotná starostlivosť pre rizikových poistencov s obezitou</displayName>
             <operation>insert</operation>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -287,55 +418,6 @@
             <Skratka>H0008U</Skratka>
             <codeValue>02089552141</codeValue>
             <displayName>Stanovenie indexu ABI oscilometrickou metódou</displayName>
-            <operation>insert</operation>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Popis>1. preventívna prehliadka, bazálne vyšetrenie novorodenca. Výkon vykazuje lekár s príslušnou špecializáciou po prepustení novorodenca z ústavnej starostlivosti.</Popis>
-            <Skratka>142U</Skratka>
-            <codeValue>00000467100</codeValue>
-            <displayName>1. preventívna prehliadka, bazálne vyšetrenie novorodenca. Výkon vykazuje lekár s príslušnou špecializáciou po prepustení novorodenca z ústavnej starostlivosti.</displayName>
-            <operation>insert</operation>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Popis>2. preventívna prehliadka, vykazuje sa do 4. týždna života dieťaťa. Výkon vykazuje lekár s príslušnou špecializáciou ako druhú preventívnu prehliadku v prvom mesiaci života dieťaťa podla tohto zákona vrátane vyšetrenia psychomotorického vývinu a antropometrických meraní.</Popis>
-            <Skratka>143U</Skratka>
-            <codeValue>00000467118</codeValue>
-            <displayName>2. preventívna prehliadka, vykazuje sa do 4. týždna života dieťaťa. Výkon vykazuje lekár s príslušnou špecializáciou ako druhú preventívnu prehliadku v prvom mesiaci života dieťaťa podľa tohto zákona </displayName>
-            <operation>insert</operation>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Popis>4. preventívna prehliadka sa vykazuje v 8. až 10. týždni života (vrátane vyšetrenia psychomotorického vývinu a antropometrických meraní).</Popis>
-            <Skratka>144U</Skratka>
-            <codeValue>00000467134</codeValue>
-            <displayName>4. preventívna prehliadka sa vykazuje v 8. až 10. týždni života (vrátane vyšetrenia psychomotorického vývinu a antropometrických meraní).</displayName>
-            <operation>insert</operation>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Popis>5. preventívna prehliadka sa vykazuje v 3. až 4. mesiaci života dieťaťa (vrátane antropometrických meraní).</Popis>
-            <Skratka>145U</Skratka>
-            <codeValue>00000467142</codeValue>
-            <displayName>5. preventívna prehliadka sa vykazuje v 3. až 4. mesiaci života dieťaťa (vrátane antropometrických meraní).</displayName>
-            <operation>insert</operation>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Popis>7. preventívna prehliadka sa vykazuje v 7. až 8. mesiaci života dieťaťa (vrátane antropometrických meraní).</Popis>
-            <Skratka>146U</Skratka>
-            <codeValue>00000467167</codeValue>
-            <displayName>7. preventívna prehliadka sa vykazuje v 7. až 8. mesiaci života dieťaťa (vrátane antropometrických meraní).</displayName>
-            <operation>insert</operation>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Popis>11. preventívna prehliadka sa vykazuje v 3. roku života dieťaťa (vrátane antropometrických meraní).</Popis>
-            <Skratka>148U</Skratka>
-            <codeValue>00000467209</codeValue>
-            <displayName>11. preventívna prehliadka sa vykazuje v 3. roku života dieťaťa (vrátane antropometrických meraní).</displayName>
-            <operation>insert</operation>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Popis>15. preventívna prehliadka sa vykazuje v 11. roku života dieťaťa (vrátane antropometrických meraní).</Popis>
-            <Skratka>149U</Skratka>
-            <codeValue>00000467241</codeValue>
-            <displayName>15. preventívna prehliadka sa vykazuje v 11. roku života dieťaťa (vrátane antropometrických meraní).</displayName>
             <operation>insert</operation>
         </PolozkaCiselnika>
     </PolozkaCiselnika_Zoznam>
