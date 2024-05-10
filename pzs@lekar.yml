@@ -309,6 +309,40 @@
       - 24
       - 27
     JRUZID:
+-
+  id:          A23028020
+  lastName:    Pashchenko
+  firstName:   Eva
+  dtValidFrom: '2020-01-01T00:00:00.000Z'
+  dtValidTo:
+  dtSuspendFrom:
+  dtSuspendTo:
+  pzs:
+    - N66407014201
+  zp:
+    - 27
+    - 25
+    - 24
+  JRUZID:
+  pzsRec:
+    ico:         null
+    id:          N66407014201
+    name:        Doktor-Vysoké Tatry, spol. s r.o.
+    addr:        Teplická 2178/53
+    city:        Poprad
+    zip:         '05801'
+    addr_ou:     Teplická 2178/53
+    city_ou:     Poprad
+    zip_ou:      '05801'
+    dtValidFrom: '2020-01-01T00:00:00.000Z'
+    dtValidTo:
+    dtSuspendFrom:
+    dtSuspendTo:
+    zp:
+      - 25
+      - 24
+      - 27
+    JRUZID:
 
 #-
 #  id:          A34614020
