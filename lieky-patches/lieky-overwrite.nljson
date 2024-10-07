@@ -53,4 +53,4 @@
 {"liekKod":"7556C","atc":"N02BF02"}
 {"liekKod":"7562C","atc":"N02BF02"}
 {"liekKod":"7568C","atc":"N02BF02"}
-{"liekKod":"6368E","atc":"J07BB03", nazov: "Fluenz nosová suspenzná aerodisperzia"}
+{"liekKod":"6368E","atc":"J07BB03", "nazov": "Fluenz nosová suspenzná aerodisperzia"}
