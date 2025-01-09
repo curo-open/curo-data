@@ -2,863 +2,11 @@
 <Ciselnik xmlns="http://eHealth.gov.sk/JRUZ/v1">
     <PolozkaCiselnika_Zoznam>
         <PolozkaCiselnika>
-            <Skratka>S0305</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0309</Skratka>
-            <lehota>270</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0330</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0335</Skratka>
-            <lehota>270</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0343</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0353</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0354</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0401</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0402</Skratka>
-            <lehota>45</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0403</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0404</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0405</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0406</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0407</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0408</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0409</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0410</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0411</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0412</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0413</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0414</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0415</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0416</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0417</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0418</Skratka>
-            <lehota>10</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0419</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0420</Skratka>
-            <lehota>15</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0421</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0423</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0424</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0425</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0426</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0427</Skratka>
-            <lehota>10</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0428</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0429</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0432</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0433</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0434</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0435</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0436</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0437</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0438</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0439</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0440</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0441</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0442</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0443</Skratka>
-            <lehota>10</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0501</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0502</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0504</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0507</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0508</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0509</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0510</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0511</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0512</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0513</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0514</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0515</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0517</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0519</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0521</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0522</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0523</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0524</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0525</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0526</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0527</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0528</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0532</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0534</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0535</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0536</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0537</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0539</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0541</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0542</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0601</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0602</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0603</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0604</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0605</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0606</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0801</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0804</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0806</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0807</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0810</Skratka>
-            <lehota>360</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0811</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0812</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0813</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0815</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0816</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0819</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0820</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0821</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0822</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0826</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0838</Skratka>
-            <lehota>120</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0840</Skratka>
-            <lehota>120</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0841</Skratka>
-            <lehota>120</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0904</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0905</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0906</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0907</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0908</Skratka>
-            <lehota>120</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0909</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0910</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0911</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0912</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0913</Skratka>
-            <lehota>120</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0914</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0919</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0920</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0921</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0922</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0923</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0924</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0929</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0930</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0931</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0933</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0934</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0935</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S0936</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1001</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1002</Skratka>
-            <lehota>21</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1003</Skratka>
-            <lehota>21</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1004</Skratka>
-            <lehota>21</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1005</Skratka>
-            <lehota>21</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1006</Skratka>
-            <lehota>21</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1007</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1013</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1014</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1015</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1016</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1017</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1018</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1019</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1021</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1022</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1023</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1024</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1025</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1026</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1027</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1034</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1035</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1036</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1037</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1038</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1039</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1040</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1041</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1042</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1044</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1045</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1046</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1101</Skratka>
-            <lehota>14</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1204</Skratka>
-            <lehota>120</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1221</Skratka>
-            <lehota>120</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1222</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1223</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1224</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1225</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1226</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1227</Skratka>
-            <lehota>120</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1310</Skratka>
-            <lehota>182</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1317</Skratka>
-            <lehota>182</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1318</Skratka>
-            <lehota>182</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1320</Skratka>
-            <lehota>395</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1322</Skratka>
-            <lehota>395</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1401</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1402</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1403</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1404</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1405</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1406</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1407</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1408</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1409</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1410</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1411</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1412</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1413</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1414</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1415</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1416</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1417</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1418</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1419</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1420</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
             <Skratka>S1421</Skratka>
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S1422</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1501</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1503</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1506</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1507</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1509</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1510</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1511</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1512</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1518</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1519</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1521</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1522</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1525</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1801</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1802</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1803</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1804</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1805</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1806</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1807</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1808</Skratka>
+            <Skratka>S0536</Skratka>
             <lehota>180</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -866,11 +14,39 @@
             <lehota>360</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S1902</Skratka>
-            <lehota>360</lehota>
+            <Skratka>S1808</Skratka>
+            <lehota>180</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S1903</Skratka>
+            <Skratka>S1806</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1804</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0807</Skratka>
+            <lehota>45</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0801</Skratka>
+            <lehota>45</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0512</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0511</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1310</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1905</Skratka>
             <lehota>360</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -878,15 +54,723 @@
             <lehota>360</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S1905</Skratka>
+            <Skratka>S1903</Skratka>
             <lehota>360</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1902</Skratka>
+            <lehota>360</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1507</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1404</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0914</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0910</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0908</Skratka>
+            <lehota>120</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0906</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0821</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0819</Skratka>
+            <lehota>45</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0813</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0603</Skratka>
+            <lehota>120</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0522</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0354</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0353</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1322</Skratka>
+            <lehota>395</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1320</Skratka>
+            <lehota>425</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1318</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1317</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1415</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1414</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1411</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1410</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0924</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0922</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0921</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0826</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1419</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1418</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1417</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1034</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0330</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0309</Skratka>
+            <lehota>270</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0305</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0510</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0509</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0502</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1227</Skratka>
+            <lehota>120</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1226</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1225</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1224</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1223</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1222</Skratka>
+            <lehota>270</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1221</Skratka>
+            <lehota>270</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1204</Skratka>
+            <lehota>120</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0343</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0335</Skratka>
+            <lehota>270</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0403</Skratka>
+            <lehota>120</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0402</Skratka>
+            <lehota>45</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0401</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0407</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0406</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0405</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0404</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0416</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0415</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0414</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0413</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0412</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0411</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0410</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0409</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0532</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0442</Skratka>
+            <lehota>45</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0441</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0440</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0438</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0437</Skratka>
+            <lehota>45</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0436</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0435</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0434</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0433</Skratka>
+            <lehota>120</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0432</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1503</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0601</Skratka>
+            <lehota>120</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0515</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0514</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0513</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0508</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0507</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0504</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0501</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1510</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0528</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0527</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0525</Skratka>
+            <lehota>120</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0524</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0523</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0519</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0517</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1519</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1412</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0542</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0541</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0539</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0537</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0535</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0534</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1501</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1407</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1406</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1401</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1416</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0812</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0806</Skratka>
+            <lehota>45</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0804</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0905</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0822</Skratka>
+            <lehota>45</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0820</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0816</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0811</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0810</Skratka>
+            <lehota>360</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S2856</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S2854</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0841</Skratka>
+            <lehota>120</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0840</Skratka>
+            <lehota>120</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0838</Skratka>
+            <lehota>120</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1014</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1019</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0913</Skratka>
+            <lehota>120</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0912</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0911</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0909</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0907</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0904</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1025</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1027</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1026</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0923</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0920</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0919</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1039</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1046</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0936</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0935</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0934</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0933</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0931</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0930</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S0929</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1007</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1006</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1005</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1004</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1003</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1002</Skratka>
+            <lehota>45</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1001</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1511</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1402</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1017</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1015</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1013</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1405</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1021</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1044</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1042</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1041</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1040</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1038</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1037</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1036</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1035</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1101</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1403</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1409</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1408</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1422</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1525</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1512</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1509</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1506</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1518</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1522</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1521</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1801</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1807</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1805</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1803</Skratka>
+            <lehota>270</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S1802</Skratka>
+            <lehota>270</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Skratka>S1906</Skratka>
-            <lehota>360</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S1907</Skratka>
             <lehota>360</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -894,28 +778,24 @@
             <lehota>180</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
+            <Skratka>S1907</Skratka>
+            <lehota>360</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
             <Skratka>S2001</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2002</Skratka>
-            <lehota>120</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2004</Skratka>
-            <lehota>120</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2006</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2009</Skratka>
-            <lehota>90</lehota>
+            <lehota>395</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Skratka>S2101</Skratka>
             <lehota>360</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S2009</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S2002</Skratka>
+            <lehota>120</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Skratka>S2102</Skratka>
@@ -930,11 +810,11 @@
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S2202</Skratka>
+            <Skratka>S2203</Skratka>
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S2203</Skratka>
+            <Skratka>S2202</Skratka>
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -942,11 +822,7 @@
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S2302</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2303</Skratka>
+            <Skratka>S2305</Skratka>
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -954,43 +830,11 @@
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S2305</Skratka>
+            <Skratka>S2303</Skratka>
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S2401</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2402</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2403</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2404</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2405</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2406</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2407</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2408</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2409</Skratka>
+            <Skratka>S2302</Skratka>
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -998,7 +842,31 @@
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S2411</Skratka>
+            <Skratka>S2409</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S2407</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S2405</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S2404</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S2403</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S2402</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S2401</Skratka>
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1006,28 +874,8 @@
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S2502</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2503</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2506</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2508</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2509</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2511</Skratka>
-            <lehota>30</lehota>
+            <Skratka>S2406</Skratka>
+            <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Skratka>S2601</Skratka>
@@ -1038,51 +886,7 @@
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S2603</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2702</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2709</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2717</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2719</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2720</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2721</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2722</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2723</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2831</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2832</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2833</Skratka>
+            <Skratka>S2835</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1090,11 +894,15 @@
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S2835</Skratka>
+            <Skratka>S2833</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S2854</Skratka>
+            <Skratka>S2832</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S2831</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1102,11 +910,7 @@
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S2856</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2866</Skratka>
+            <Skratka>S2868</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1114,7 +918,7 @@
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S2868</Skratka>
+            <Skratka>S2866</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1122,11 +926,7 @@
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S2902</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2903</Skratka>
+            <Skratka>S2905</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1134,99 +934,11 @@
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S2905</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2906</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2907</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2908</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2909</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2910</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2911</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2912</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S2913</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
             <Skratka>S3101</Skratka>
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S3104</Skratka>
-            <lehota>14</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3107</Skratka>
-            <lehota>14</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3403</Skratka>
-            <lehota>14</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3404</Skratka>
-            <lehota>14</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3502</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3503</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3504</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3505</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3506</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3601</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3602</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3603</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3604</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3605</Skratka>
+            <Skratka>S3607</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1234,7 +946,23 @@
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S3607</Skratka>
+            <Skratka>S3605</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S3604</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S3603</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S3602</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S3601</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1242,31 +970,7 @@
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S3706</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3708</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3710</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3711</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3712</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3713</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S3717</Skratka>
+            <Skratka>S4202</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1274,47 +978,7 @@
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S4202</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S4501</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S4502</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S4503</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S4504</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S4505</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S4506</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S4507</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S4508</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S4509</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S4510</Skratka>
+            <Skratka>S4512</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1322,15 +986,27 @@
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S4512</Skratka>
+            <Skratka>S4510</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S4513</Skratka>
+            <Skratka>S4509</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S4514</Skratka>
+            <Skratka>S4504</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S4503</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S4502</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S4501</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1338,191 +1014,71 @@
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S4516</Skratka>
+            <Skratka>S4514</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S5101</Skratka>
-            <lehota>90</lehota>
+            <Skratka>S4506</Skratka>
+            <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S5102</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5103</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5104</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5105</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5106</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5107</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5108</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5109</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5110</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5111</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5112</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5121</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5122</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5123</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5124</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5125</Skratka>
-            <lehota>120</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5126</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5127</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5128</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5129</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5130</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5131</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5132</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5133</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5134</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5135</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5136</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5137</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5138</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5139</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5140</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5141</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5142</Skratka>
-            <lehota>160</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5143</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5144</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5145</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5150</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5151</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5152</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5153</Skratka>
-            <lehota>120</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5154</Skratka>
-            <lehota>120</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5155</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5156</Skratka>
+            <Skratka>S7015</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S5157</Skratka>
+            <Skratka>S7013</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S5158</Skratka>
+            <Skratka>S6517</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6515</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6514</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S7014</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6512</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6620</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5403</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6004</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S7011</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6801</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6002</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6001</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5160</Skratka>
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1530,179 +1086,235 @@
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S5160</Skratka>
+            <Skratka>S5158</Skratka>
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S5161</Skratka>
+            <Skratka>S5157</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S5162</Skratka>
-            <lehota>15</lehota>
+            <Skratka>S5156</Skratka>
+            <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S5163</Skratka>
+            <Skratka>S5155</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5141</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5140</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5139</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5138</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5137</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5136</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5135</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5134</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5133</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5132</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5131</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5130</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5129</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5128</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5127</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5126</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5125</Skratka>
             <lehota>120</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S5164</Skratka>
-            <lehota>60</lehota>
+            <Skratka>S5124</Skratka>
+            <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S5165</Skratka>
-            <lehota>30</lehota>
+            <Skratka>S5123</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5122</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5121</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5112</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5111</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5110</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5109</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5108</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5107</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5106</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5105</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5104</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5103</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5102</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5101</Skratka>
+            <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Skratka>S5166</Skratka>
             <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S5167</Skratka>
-            <lehota>15</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5168</Skratka>
+            <Skratka>S5165</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S5169</Skratka>
+            <Skratka>S5164</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5163</Skratka>
+            <lehota>120</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5162</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S5401</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5402</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5403</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5404</Skratka>
+            <Skratka>S5161</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S5405</Skratka>
-            <lehota>60</lehota>
+            <Skratka>S5145</Skratka>
+            <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S5406</Skratka>
-            <lehota>30</lehota>
+            <Skratka>S5144</Skratka>
+            <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S5501</Skratka>
-            <lehota>395</lehota>
+            <Skratka>S5143</Skratka>
+            <lehota>90</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S5502</Skratka>
-            <lehota>395</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5503</Skratka>
-            <lehota>395</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5504</Skratka>
-            <lehota>395</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5505</Skratka>
-            <lehota>395</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5531</Skratka>
-            <lehota>395</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5532</Skratka>
-            <lehota>395</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5533</Skratka>
-            <lehota>395</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5534</Skratka>
-            <lehota>395</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5535</Skratka>
-            <lehota>395</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5536</Skratka>
-            <lehota>395</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S5537</Skratka>
-            <lehota>395</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6001</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6002</Skratka>
-            <lehota>21</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6003</Skratka>
-            <lehota>21</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6004</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6005</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6011</Skratka>
-            <lehota>180</lehota>
+            <Skratka>S5142</Skratka>
+            <lehota>160</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Skratka>S6012</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6013</Skratka>
-            <lehota>60</lehota>
+            <Skratka>S6011</Skratka>
+            <lehota>180</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6016</Skratka>
-            <lehota>60</lehota>
+            <Skratka>S5154</Skratka>
+            <lehota>120</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6017</Skratka>
-            <lehota>60</lehota>
+            <Skratka>S5153</Skratka>
+            <lehota>120</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6018</Skratka>
-            <lehota>60</lehota>
+            <Skratka>S5168</Skratka>
+            <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6019</Skratka>
-            <lehota>60</lehota>
+            <Skratka>S5167</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5152</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5151</Skratka>
+            <lehota>90</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5150</Skratka>
+            <lehota>180</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Skratka>S6020</Skratka>
             <lehota>180</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6027</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6028</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6029</Skratka>
+            <Skratka>S6016</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1710,35 +1322,11 @@
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6032</Skratka>
+            <Skratka>S6029</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6033</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6035</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6036</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6103</Skratka>
-            <lehota>14</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6104</Skratka>
-            <lehota>14</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6201</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6203</Skratka>
+            <Skratka>S6027</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1746,11 +1334,7 @@
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6213</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6214</Skratka>
+            <Skratka>S6218</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1758,31 +1342,7 @@
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6216</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6217</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6218</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6220</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6222</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6223</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6224</Skratka>
+            <Skratka>S5401</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1790,12 +1350,120 @@
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6229</Skratka>
+            <Skratka>S5537</Skratka>
+            <lehota>395</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5536</Skratka>
+            <lehota>395</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5535</Skratka>
+            <lehota>395</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5534</Skratka>
+            <lehota>395</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5533</Skratka>
+            <lehota>395</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5532</Skratka>
+            <lehota>395</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5531</Skratka>
+            <lehota>395</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5505</Skratka>
+            <lehota>395</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5504</Skratka>
+            <lehota>395</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5503</Skratka>
+            <lehota>395</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5502</Skratka>
+            <lehota>395</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S5501</Skratka>
+            <lehota>395</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6005</Skratka>
+            <lehota>180</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6003</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6013</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6234</Skratka>
+            <Skratka>S6036</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6035</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6033</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6032</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6028</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6203</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6201</Skratka>
             <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6224</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6223</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6222</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6217</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6216</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6214</Skratka>
+            <lehota>60</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S6229</Skratka>
+            <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Skratka>S6242</Skratka>
@@ -1810,14 +1478,6 @@
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6247</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6248</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
             <Skratka>S6251</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
@@ -1826,91 +1486,15 @@
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6501</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6502</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6503</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6504</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6505</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6506</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6507</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6508</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6509</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6510</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6511</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6512</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
             <Skratka>S6513</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6514</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6515</Skratka>
-            <lehota>30</lehota>
+            <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Skratka>S6516</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6517</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
             <Skratka>S6518</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6519</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6520</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6521</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6522</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1922,47 +1506,7 @@
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6525</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6526</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6527</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6528</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6529</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6530</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6601</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6602</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6603</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6604</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6605</Skratka>
+            <Skratka>S6616</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1970,59 +1514,27 @@
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6607</Skratka>
+            <Skratka>S6605</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6608</Skratka>
+            <Skratka>S6604</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6609</Skratka>
+            <Skratka>S6603</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6610</Skratka>
+            <Skratka>S6602</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6611</Skratka>
+            <Skratka>S6601</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6612</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6613</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6614</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6615</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6616</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6617</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6618</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6619</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6620</Skratka>
+            <Skratka>S6622</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -2030,87 +1542,7 @@
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6622</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6623</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6624</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6625</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6626</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6627</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6628</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6629</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6630</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6631</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6632</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6633</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6634</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6635</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6636</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6637</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6638</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6639</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6640</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6641</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6642</Skratka>
+            <Skratka>S6619</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -2118,107 +1550,7 @@
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6644</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6645</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6646</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6647</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6648</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6649</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6650</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6651</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6652</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6653</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6801</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6804</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6805</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6806</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6808</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6809</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6811</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6814</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6815</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6816</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6818</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6819</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6820</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6821</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6822</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6823</Skratka>
+            <Skratka>S6641</Skratka>
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -2226,35 +1558,15 @@
             <lehota>180</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6825</Skratka>
-            <lehota>30</lehota>
+            <Skratka>S6823</Skratka>
+            <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6826</Skratka>
-            <lehota>30</lehota>
+            <Skratka>S6822</Skratka>
+            <lehota>180</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6827</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6828</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6830</Skratka>
-            <lehota>90</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6831</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6835</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6836</Skratka>
+            <Skratka>S6821</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -2262,59 +1574,19 @@
             <lehota>60</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S6901</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6902</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6904</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6905</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6906</Skratka>
-            <lehota>14</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6907</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6908</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6909</Skratka>
-            <lehota>14</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6911</Skratka>
-            <lehota>60</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6912</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S6913</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
             <Skratka>S6915</Skratka>
-            <lehota>14</lehota>
+            <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S7001</Skratka>
-            <lehota>20</lehota>
+            <Skratka>S7007</Skratka>
+            <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S7002</Skratka>
+            <Skratka>S7006</Skratka>
+            <lehota>30</lehota>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <Skratka>S7004</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -2322,39 +1594,11 @@
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S7004</Skratka>
-            <lehota>14</lehota>
+            <Skratka>S7002</Skratka>
+            <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S7006</Skratka>
-            <lehota>10</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7007</Skratka>
-            <lehota>10</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7010</Skratka>
-            <lehota>14</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7011</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7012</Skratka>
-            <lehota>10</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7013</Skratka>
-            <lehota>14</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7014</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7015</Skratka>
+            <Skratka>S7001</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -2362,79 +1606,11 @@
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S7017</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7018</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7019</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7020</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7021</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7022</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7023</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7024</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7025</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7026</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7027</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7028</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7029</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7030</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7031</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7038</Skratka>
-            <lehota>14</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7040</Skratka>
+            <Skratka>S7012</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S7041</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7043</Skratka>
+            <Skratka>S7010</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -2442,81 +1618,12 @@
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <Skratka>S7047</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7049</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7051</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7052</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7053</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7054</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7055</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7056</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7057</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7058</Skratka>
-            <lehota>30</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7059</Skratka>
+            <Skratka>S7043</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Skratka>S7201</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7202</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7203</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7204</Skratka>
-            <lehota>7</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7205</Skratka>
-            <lehota>21</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7206</Skratka>
-            <lehota>21</lehota>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7207</Skratka>
             <lehota>30</lehota>
         </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <Skratka>S7501</Skratka>
-            <lehota>180</lehota>
-        </PolozkaCiselnika>
-
     </PolozkaCiselnika_Zoznam>
 </Ciselnik>
