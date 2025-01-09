@@ -420,5 +420,41 @@
             <displayName>Stanovenie indexu ABI oscilometrickou metódou</displayName>
             <operation>insert</operation>
         </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>00000467357</codeValue>
+            <displayName>Preventívne vyšetrenie na krv v stolici s použitím troch testovacích papierikov v rámci opatrení na včasnú diagnostiku ochorenia na rakovinu, dodatok k výkonu pod kódom 160. Výkon môže vykazovať lekár</displayName>
+            <Skratka>159AU</Skratka>
+            <Popis>Preventívne vyšetrenie na krv v stolici s použitím troch testovacích papierikov v rámci opatrení na včasnú diagnostiku ochorenia na rakovinu, dodatok k výkonu pod kódom 160. Výkon môže vykazovať lekár všeobecnej starostlivosťi vtedy, ak ho sám uskutočnil. Výkon sa môže vykazovať za celé preventívne vyšetrenie. Ak sa vyšetrenie vykonalo v laboratóriu, môže ho vykazovať laboratórium.</Popis>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>02089731844</codeValue>
+            <displayName>Preventívne vyšetrenie na okultné krvácanie v stolici</displayName>
+            <Skratka>159ZU</Skratka>
+            <Popis>Preventívne vyšetrenie na okultné krvácanie v stolici</Popis>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>02089731851</codeValue>
+            <displayName>Preventívne vyšetrenie na okultné krvácanie v stolici</displayName>
+            <Skratka>159XU</Skratka>
+            <Popis>Preventívne vyšetrenie na okultné krvácanie v stolici</Popis>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>02089893818</codeValue>
+            <displayName>Konzultácia prostredníctvom rozšírenej elektronickej komunikácie v online prostredí (webová aplikácia, videohovor)</displayName>
+            <Skratka>11AU</Skratka>
+            <Popis>Konzultácia  s pacientom prostredníctvom doložiteľnej elektronickej komunikácie (webová aplikácia, videohovor) v online prostredí, ktoré je zabezpečené, prípadne umožňuje aj zdieľanie zdravotnej dokumentácie, realizáciu fotografii pacienta/vyšetrovaného orgánu pre pridanie do zdravotnej dokumentácie a obsahuje: cielenú anamnézu, resp. anamnézu od poslednej  kontroly a popis subjektívnych ťažkostí vo vzťahu k dvom alebo viacerým orgánovým systémom alebo k psychickej poruche; zhodnotenie výsledkov; vypísanie receptov, prípadne vypísanie žiadaniek na ďalšie vyšetrenie; poučenie pacienta; diagnostický záver; určenie dátumu ďalšej konzultácie alebo kontroly, prípadne záznam o odporučení neodkladnej návštevy iného lekára.</Popis>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>02089894014</codeValue>
+            <displayName>Konzultácia prostredníctvom elektronickej pošty alebo telefonicky</displayName>
+            <Skratka>1BU</Skratka>
+            <Popis>Konzultácia s pacientom prostredníctvom elektronickej pošty, SMS alebo telefonicky obsahuje: cielenú anamnézu, resp. anamnézu od poslednej  kontroly, vo vzťahu k jednému orgánovému systému ; popis subjektívnych ťažkostí; diagnostický záver; poučenie o diéte a životospráve; v prípade potreby určenie dátumu ďalšej konzultácie alebo kontroly, vrátane predpisu potrebných liekov/ZP, ktoré vyplynuli z konzultácie ohľadom zdravotného stavu; prípadne záznam o odporučení neodkladnej návštevy iného lekára; poskytnutie informácií pacientovi alebo zákonnému zástupcovi v súvislosti so zdravotným stavom s diagnostickým alebo liečebným postupom vrátane farmakoterapie.</Popis>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <codeValue>02089900894</codeValue>
+            <displayName>Cielené vyšetrenie pacienta s respiračným syndrómom pri pandémii COVID-19</displayName>
+            <Skratka>62AU</Skratka>
+            <Popis>Cielené vyšetrenie pacienta s respiračným syndrómom pri pandémii COVID-19</Popis>
+        </PolozkaCiselnika>
     </PolozkaCiselnika_Zoznam>
 </Ciselnik>
