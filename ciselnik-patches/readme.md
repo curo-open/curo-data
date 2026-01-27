@@ -48,9 +48,3 @@ folder `ciselnik-patches` moze obsahovat subory nazvane codeSchemaId.(xml|str)
 
 ## ukrajina
 - ciselnik-patches/1.3.158.00165387.100.10.26-UA.xml
-
-# new-year tasks
-
-- ked zacne novy rok treba:
-  - ?/pomocneZdroje/bin/nczi-202?/ <-- sem treba dat novy program nvzy-vykazy
-  - vytvorit novy ciselnik msluzba: `apps/curo-cs/lib/msluzba/msluzba-from-xlsx.js` (see exlanation in the file)
