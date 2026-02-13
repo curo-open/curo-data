@@ -2,7 +2,6 @@
 <Ciselnik xmlns="http://eHealth.gov.sk/JRUZ/v1">
     <PolozkaCiselnika_Zoznam>
         <PolozkaCiselnika>
-            <operation>insert</operation>
             <codeValue></codeValue>
             <displayName>Sledovanie vitálnych funkcií pacienta v domácom prostredí</displayName>
             <Skratka>1A06009</Skratka>
@@ -29,7 +28,6 @@
             <typ></typ>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
-            <operation>insert</operation>
             <codeValue></codeValue>
             <displayName>Vyhodnocovanie dlhodobého monitoringu vitálnych funkcií pacienta v domácom prostredí</displayName>
             <Skratka>1A06021</Skratka>
