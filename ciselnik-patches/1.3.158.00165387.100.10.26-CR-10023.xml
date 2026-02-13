@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Ciselnik xmlns="http://eHealth.gov.sk/JRUZ/v1">
+    <PolozkaCiselnika_Zoznam>
+        <PolozkaCiselnika>
+            <operation>insert</operation>
+            <codeValue></codeValue>
+            <displayName>Sledovanie vitálnych funkcií pacienta v domácom prostredí</displayName>
+            <Skratka>1A06009</Skratka>
+            <Popis></Popis>
+            <Body>285</Body>
+            <typ></typ>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <operation>insert</operation>
+            <codeValue></codeValue>
+            <displayName>Sledovanie vitálnych funkcií pacienta v domácom prostredí</displayName>
+            <Skratka>1A06009+TM3</Skratka>
+            <Popis></Popis>
+            <Body>285</Body>
+            <typ></typ>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <operation>insert</operation>
+            <codeValue></codeValue>
+            <displayName>Sledovanie vitálnych funkcií pacienta v domácom prostredí</displayName>
+            <Skratka>1A06009+TM5</Skratka>
+            <Popis></Popis>
+            <Body>285</Body>
+            <typ></typ>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <operation>insert</operation>
+            <codeValue></codeValue>
+            <displayName>Vyhodnocovanie dlhodobého monitoringu vitálnych funkcií pacienta v domácom prostredí</displayName>
+            <Skratka>1A06021</Skratka>
+            <Popis></Popis>
+            <Body>455</Body>
+            <typ></typ>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <operation>insert</operation>
+            <codeValue></codeValue>
+            <displayName>Vyhodnocovanie dlhodobého monitoringu vitálnych funkcií pacienta v domácom prostredí</displayName>
+            <Skratka>1A06021+TM4</Skratka>
+            <Popis></Popis>
+            <Body>455</Body>
+            <typ></typ>
+        </PolozkaCiselnika>
+        <PolozkaCiselnika>
+            <operation>insert</operation>
+            <codeValue></codeValue>
+            <displayName>Vyhodnocovanie dlhodobého monitoringu vitálnych funkcií pacienta v domácom prostredí</displayName>
+            <Skratka>1A06021+TM6</Skratka>
+            <Popis></Popis>
+            <Body>455</Body>
+            <typ></typ>
+        </PolozkaCiselnika>
+    </PolozkaCiselnika_Zoznam>
+</Ciselnik>
