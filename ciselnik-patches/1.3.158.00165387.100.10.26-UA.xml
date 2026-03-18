@@ -6,6 +6,7 @@
             <codeValue>00000466946</codeValue>
             <displayName>Prvé vyšetrenie v rámci predpôrodnej starostlivosti o tehotné s určením termínu pôrodu vrátane zisťovania anamnézy a vystavenia materského preukazu, ako aj rád tehotnej o starostlivosti v gravidite vr</displayName>
             <operation>insert</operation>
+            <Body>320</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Vyšetrenie a rady v priebehu gravidity s vyhodnotením výsledkov laboratórnych vyšetrení so zreteľom na riziká gravidity.</Popis>
@@ -13,6 +14,7 @@
             <codeValue>00000466953</codeValue>
             <displayName>Vyšetrenie a rady v priebehu gravidity s vyhodnotením výsledkov laboratórnych vyšetrení so zreteľom na riziká gravidity.</displayName>
             <operation>insert</operation>
+            <Body>200</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Vyšetrenie a rady šestonedielke v 6. až 8. týždni po pôrode, výkon sa môže vykazovať iba raz v súvislosti so šestonedelím.</Popis>
@@ -20,6 +22,7 @@
             <codeValue>00000466961</codeValue>
             <displayName>Vyšetrenie a rady šestonedielke v 6. až 8. týždni po pôrode, výkon sa môže vykazovať iba raz v súvislosti so šestonedelím.</displayName>
             <operation>insert</operation>
+            <Body>250</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Kolposkopia. Výkon pod kódom 1070 sa môže vykazovať pri výkonoch s kódmi 60, 62, 63 a 157.</Popis>
@@ -27,6 +30,7 @@
             <codeValue>00000469411</codeValue>
             <displayName>Kolposkopia. Výkon pod kódom 1070 sa môže vykazovať pri výkonoch s kódmi 60, 62, 63 a 157.</displayName>
             <operation>insert</operation>
+            <Body>150</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Ultrazvukové sledovanie tehotenstva vrátane biometrie a posúdenie vývoja orgánov vrátane obrazovej dokumentácie, za každé vyšetrenie.</Popis>
@@ -34,6 +38,7 @@
             <codeValue>00000466979</codeValue>
             <displayName>Ultrazvukové sledovanie tehotenstva vrátane biometrie a posúdenie vývoja orgánov vrátane obrazovej dokumentácie, za každé vyšetrenie.</displayName>
             <operation>insert</operation>
+            <Body>350</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Rozbor a plánovanie cielených terapeutických postupov na ovplyvnenie chronických ochorení alebo ochorení viacerých orgánových systémov na účely racionálnej farmakoterapie vrátane rád, dokumentácie. Výkon môže vykázat lekár špecializovanej starostlivosťi podla § 8 ods. 3 zákona c. 576/2004 Z. z. o zdravotnej starostlivosťi, službách súvisiacich s poskytovaním zdravotnej starostlivosťi a o zmene a doplnení niektorých zákonov (dalej len „lekár špecializovanej starostlivosťi“) u toho istého pacienta a toho istého ochorenia iba raz. Viacnásobné vykazovanie výkonov sa zdôvodnuje.</Popis>
@@ -41,6 +46,7 @@
             <codeValue>00000466565</codeValue>
             <displayName>Rozbor a plánovanie cielených terapeutických postupov na ovplyvnenie chronických ochorení alebo ochorení viacerých orgánových systémov na účely racionálnej farmakoterapie vrátane rád, dokumentácie. Vý</displayName>
             <operation>insert</operation>
+            <Body>180</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Externé kardiotokografické vyšetrenie (CTG). Výkon pod kódom 118 sa môže vykazovať za jeden deň aj v prípade dvojčiat a trojčiat, najviac dva razy.</Popis>
@@ -48,6 +54,7 @@
             <codeValue>00000467043</codeValue>
             <displayName>Externé kardiotokografické vyšetrenie (CTG). Výkon pod kódom 118 sa môže vykazovať za jeden deň aj v prípade dvojčiat a trojčiat, najviac dva razy.</displayName>
             <operation>insert</operation>
+            <Body>230</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>1. preventívna prehliadka, bazálne vyšetrenie novorodenca. Výkon vykazuje lekár s príslušnou špecializáciou po prepustení novorodenca z ústavnej starostlivosti.</Popis>
@@ -55,6 +62,7 @@
             <codeValue>00000467100</codeValue>
             <displayName>1. preventívna prehliadka, bazálne vyšetrenie novorodenca. Výkon vykazuje lekár s príslušnou špecializáciou po prepustení novorodenca z ústavnej starostlivosti.</displayName>
             <operation>insert</operation>
+            <Body>350</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>2. preventívna prehliadka, vykazuje sa do 4. týždna života dieťaťa. Výkon vykazuje lekár s príslušnou špecializáciou ako druhú preventívnu prehliadku v prvom mesiaci života dieťaťa podla tohto zákona vrátane vyšetrenia psychomotorického vývinu a antropometrických meraní.</Popis>
@@ -62,6 +70,7 @@
             <codeValue>00000467118</codeValue>
             <displayName>2. preventívna prehliadka, vykazuje sa do 4. týždna života dieťaťa. Výkon vykazuje lekár s príslušnou špecializáciou ako druhú preventívnu prehliadku v prvom mesiaci života dieťaťa podľa tohto zákona </displayName>
             <operation>insert</operation>
+            <Body>350</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>3. preventívna prehliadka sa vykazuje v 5. až 7. týždni života dieťaťa (vrátane vyšetrenia psychomotorického vývinu a antropometrických meraní).</Popis>
@@ -69,6 +78,7 @@
             <codeValue>00000467126</codeValue>
             <displayName>3. preventívna prehliadka sa vykazuje v 5. až 7. týždni života dieťaťa (vrátane vyšetrenia psychomotorického vývinu a antropometrických meraní).</displayName>
             <operation>insert</operation>
+            <Body>350</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>4. preventívna prehliadka sa vykazuje v 8. až 10. týždni života (vrátane vyšetrenia psychomotorického vývinu a antropometrických meraní).</Popis>
@@ -76,6 +86,7 @@
             <codeValue>00000467134</codeValue>
             <displayName>4. preventívna prehliadka sa vykazuje v 8. až 10. týždni života (vrátane vyšetrenia psychomotorického vývinu a antropometrických meraní).</displayName>
             <operation>insert</operation>
+            <Body>350</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>5. preventívna prehliadka sa vykazuje v 3. až 4. mesiaci života dieťaťa (vrátane antropometrických meraní).</Popis>
@@ -83,6 +94,7 @@
             <codeValue>00000467142</codeValue>
             <displayName>5. preventívna prehliadka sa vykazuje v 3. až 4. mesiaci života dieťaťa (vrátane antropometrických meraní).</displayName>
             <operation>insert</operation>
+            <Body>350</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>6. preventívna prehliadka sa vykazuje v 5. až 6. mesiaci života dieťaťa (vrátane antropometrických meraní).</Popis>
@@ -90,6 +102,7 @@
             <codeValue>00000467159</codeValue>
             <displayName>6. preventívna prehliadka sa vykazuje v 5. až 6. mesiaci života dieťaťa (vrátane antropometrických meraní).</displayName>
             <operation>insert</operation>
+            <Body>370</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>7. preventívna prehliadka sa vykazuje v 7. až 8. mesiaci života dieťaťa (vrátane antropometrických meraní).</Popis>
@@ -97,6 +110,7 @@
             <codeValue>00000467167</codeValue>
             <displayName>7. preventívna prehliadka sa vykazuje v 7. až 8. mesiaci života dieťaťa (vrátane antropometrických meraní).</displayName>
             <operation>insert</operation>
+            <Body>370</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>8. preventívna prehliadka sa vykazuje v 9. až 10. mesiaci života dieťaťa (vrátane antropometrických meraní).</Popis>
@@ -104,6 +118,7 @@
             <codeValue>00000467175</codeValue>
             <displayName>8. preventívna prehliadka sa vykazuje v 9. až 10. mesiaci života dieťaťa (vrátane antropometrických meraní).</displayName>
             <operation>insert</operation>
+            <Body>370</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>9. preventívna prehliadka sa vykazuje v 11. až 12. mesiaci života dieťaťa (vrátane antropometrických meraní).</Popis>
@@ -111,6 +126,7 @@
             <codeValue>00000467183</codeValue>
             <displayName>9. preventívna prehliadka sa vykazuje v 11. až 12. mesiaci života dieťaťa (vrátane antropometrických meraní).</displayName>
             <operation>insert</operation>
+            <Body>370</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>10. preventívna prehliadka sa vykazuje v 18. mesiaci života dieťaťa (vrátane antropometrických meraní).</Popis>
@@ -118,6 +134,7 @@
             <codeValue>00000467191</codeValue>
             <displayName>10. preventívna prehliadka sa vykazuje v 18. mesiaci života dieťaťa (vrátane antropometrických meraní).</displayName>
             <operation>insert</operation>
+            <Body>370</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>11. preventívna prehliadka sa vykazuje v 3. roku života dieťaťa (vrátane antropometrických meraní).</Popis>
@@ -125,6 +142,7 @@
             <codeValue>00000467209</codeValue>
             <displayName>11. preventívna prehliadka sa vykazuje v 3. roku života dieťaťa (vrátane antropometrických meraní).</displayName>
             <operation>insert</operation>
+            <Body>370</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>12. preventívna prehliadka sa vykazuje v 5. roku života dieťaťa (vrátane antropometrických meraní).</Popis>
@@ -132,6 +150,7 @@
             <codeValue>00000467217</codeValue>
             <displayName>12. preventívna prehliadka sa vykazuje v 5. roku života dieťaťa (vrátane antropometrických meraní).</displayName>
             <operation>insert</operation>
+            <Body>370</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>13. preventívna prehliadka sa vykazuje v 6. roku života alebo v 7. roku života dieťaťa, ak poistenec nenastúpil školskú dochádzku (vrátane antropometrických meraní).</Popis>
@@ -139,6 +158,7 @@
             <codeValue>00000467225</codeValue>
             <displayName>13. preventívna prehliadka sa vykazuje v 6. roku života alebo v 7. roku života dieťaťa, ak poistenec nenastúpil školskú dochádzku (vrátane antropometrických meraní).</displayName>
             <operation>insert</operation>
+            <Body>390</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>14. preventívna prehliadka sa vykazuje v 9. roku života dieťaťa (vrátane antropometrických meraní).</Popis>
@@ -146,6 +166,7 @@
             <codeValue>00000467233</codeValue>
             <displayName>14. preventívna prehliadka sa vykazuje v 9. roku života dieťaťa (vrátane antropometrických meraní).</displayName>
             <operation>insert</operation>
+            <Body>390</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>15. preventívna prehliadka sa vykazuje v 11. roku života dieťaťa (vrátane antropometrických meraní).</Popis>
@@ -153,6 +174,7 @@
             <codeValue>00000467241</codeValue>
             <displayName>15. preventívna prehliadka sa vykazuje v 11. roku života dieťaťa (vrátane antropometrických meraní).</displayName>
             <operation>insert</operation>
+            <Body>390</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>16. preventívna prehliadka sa vykazuje v 13. roku života dieťaťa (vrátane antropometrických meraní).</Popis>
@@ -160,6 +182,7 @@
             <codeValue>00000467258</codeValue>
             <displayName>16. preventívna prehliadka sa vykazuje v 13. roku života dieťaťa (vrátane antropometrických meraní).</displayName>
             <operation>insert</operation>
+            <Body>390</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>17. preventívna prehliadka sa vykazuje v 15. roku života dieťaťa (vrátane antropometrických meraní).</Popis>
@@ -167,6 +190,7 @@
             <codeValue>00000467266</codeValue>
             <displayName>17. preventívna prehliadka sa vykazuje v 15. roku života dieťaťa (vrátane antropometrických meraní).</displayName>
             <operation>insert</operation>
+            <Body>390</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Vstupná prehliadka žiakov stredných škôl a stredných odborných ucilíšt (vrátane antropometrických meraní). Táto prehliadka sa vykazuje iba u žiakov, ktorí menia lekára všeobecnej starostlivosťi. V prípade vyšetrenia lekárom so špecializáciou v odbore dorastové lekárstvo táto prehliadka zahŕňa aj posúdenie spôsobilosťi na výkon povolania.</Popis>
@@ -174,6 +198,7 @@
             <codeValue>00000467274</codeValue>
             <displayName>Vstupná prehliadka žiakov stredných škôl a stredných odborných učilíšť (vrátane antropometrických meraní). Táto prehliadka sa vykazuje iba u žiakov, ktorí menia lekára všeobecnej starostlivosti. V prí</displayName>
             <operation>insert</operation>
+            <Body>390</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Preventívna prehliadka v 17. roku života dieťaťa. Ďalšie preventívne prehliadky sa vykazujú raz za 2 roky.</Popis>
@@ -181,6 +206,7 @@
             <codeValue>00000467282</codeValue>
             <displayName>Preventívna prehliadka v 17. roku života dieťaťa. Ďalšie preventívne prehliadky sa vykazujú raz za 2 roky.</displayName>
             <operation>insert</operation>
+            <Body>390</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Vyšetrenie na včasnú diagnostiku rakoviny u ženy vrátane rád, ak vyšetrenie trvá dlhšie ako 20 minút. (Anamnéza, inšpekcia a palpácia prsníkov, inšpekcia genitálií, vyšetrenie per rectum, nastavenie spekula, gynekologické vyšetrenie vrátane odberu výteru na cytologické vyšetrenie.) Potrebné odbery na hematologické a biochemické vyšetrenie sa vykazujú osobitne. Výkony pod kódmi 155, 156 a 157 môže vykazovať gynekológ. Kolposkopické vyšetrenie sa môže vykazovať ako výkon pod kódom 1070. Vyšetrenia sa vykazujú v rozsahu urcenom v prílohe c. 2 zákona o rozsahu zdravotnej starostlivosťi.</Popis>
@@ -188,6 +214,7 @@
             <codeValue>00000467332</codeValue>
             <displayName>Vyšetrenie na včasnú diagnostiku rakoviny u ženy vrátane rád, ak vyšetrenie trvá dlhšie ako 20 minút. (Anamnéza, inšpekcia a palpácia prsníkov, inšpekcia genitálií, vyšetrenie per rectum, nastavenie s</displayName>
             <operation>insert</operation>
+            <Body>220</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Preventívne vyšetrenie celkového cholesterolu v 11. a 17. roku života a celkového cholesterolu a triacylglycerolov v 40. roku života. Okrem odberu sa vykazuje cielená anamnéza, posúdenie genetickej zátaže, posúdenie laboratórnych výsledkov, v prípade pozitivity výsledkov, poučenie pacienta, vypísanie správy a odoslanie pacienta na dalšie vyšetrenie a liecenie k lekárovi špecializovanej starostlivosťi. Výkon vykazuje lekár všeobecnej starostlivosťi. Laboratórne vyšetrenia celkového cholesterolu a triacylglycerolov enzýmovou metódou vykonanou na SVALZ pracovisku sa vykazujú samostatne podla casti SVALZ.</Popis>
@@ -195,6 +222,7 @@
             <codeValue>00000467365</codeValue>
             <displayName>Preventívne vyšetrenie celkového cholesterolu v 11. a 17. roku života a celkového cholesterolu a triacylglycerolov v 40. roku života. Okrem odberu sa vykazuje cielená anamnéza, posúdenie genetickej zá</displayName>
             <operation>insert</operation>
+            <Body>100</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Základná preventívna prehliadka. Výkon obsahuje komplexné vyšetrenie v rámci základnej preventívnej prehliadky vrátane prehliadky v rámci prevencie kardiovaskulárnych chorôb. Obsah vyšetrenia je zhodný s výkonom pod kódom 60. Výkon môže vykazovať lekár všeobecnej starostlivosťi.</Popis>
@@ -202,6 +230,7 @@
             <codeValue>00000467373</codeValue>
             <displayName>Základná preventívna prehliadka. Výkon obsahuje komplexné vyšetrenie v rámci základnej preventívnej prehliadky vrátane prehliadky v rámci prevencie kardiovaskulárnych chorôb. Obsah vyšetrenia je zhodn</displayName>
             <operation>insert</operation>
+            <Body>350</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Vyšetrenie a včasné rozpoznanie hroziacej straty sebestačnosti u starých ľudí.</Popis>
@@ -209,6 +238,7 @@
             <codeValue>00000467464</codeValue>
             <displayName>Vyšetrenie a včasné rozpoznanie hroziacej straty sebestačnosti u starých ľudí.</displayName>
             <operation>insert</operation>
+            <Body>200</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Odobratie krvi venepunkciou do jednej striekačky alebo do jednej skúmavky vrátane odberovej súpravy, za každú súpravu.</Popis>
@@ -216,6 +246,8 @@
             <codeValue>00000478305</codeValue>
             <displayName>Odobratie krvi venepunkciou do jednej striekačky alebo do jednej skúmavky vrátane odberovej súpravy, za každú súpravu.</displayName>
             <operation>insert</operation>
+            <Body>160</Body>
+            <typ>SVaLZ</typ>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Očkovanie proti chrípke</Popis>
@@ -223,6 +255,7 @@
             <codeValue>02089714667</codeValue>
             <displayName>Očkovanie proti chrípke</displayName>
             <operation>insert</operation>
+            <Body>70</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Očkovanie.</Popis>
@@ -230,6 +263,7 @@
             <codeValue>00000467878</codeValue>
             <displayName>Očkovanie.</displayName>
             <operation>insert</operation>
+            <Body>70</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Návšteva (v pracovnom čase).</Popis>
@@ -237,6 +271,7 @@
             <codeValue>00000466623</codeValue>
             <displayName>Návšteva (v pracovnom čase).</displayName>
             <operation>insert</operation>
+            <Body>285</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Návšteva mimo riadneho pracovného času lekára vykonaná ihneď po výzve z dôvodov ochorenia, vyžaduje sa časový údaj návštevy.</Popis>
@@ -244,6 +279,7 @@
             <codeValue>00000466631</codeValue>
             <displayName>Návšteva mimo riadneho pracovného času lekára vykonaná ihneď po výzve z dôvodov ochorenia, vyžaduje sa časový údaj návštevy.</displayName>
             <operation>insert</operation>
+            <Body>500</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Odobratie, príprava a odoslanie sterového materiálu na cytologické vyšetrenie, prípadne aj fixácia vrátane nákladov.</Popis>
@@ -251,6 +287,7 @@
             <codeValue>00000468215</codeValue>
             <displayName>Odobratie, príprava a odoslanie sterového materiálu na cytologické vyšetrenie, prípadne aj fixácia vrátane nákladov.</displayName>
             <operation>insert</operation>
+            <Body>50</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>C - reaktívny proteín</Popis>
@@ -258,6 +295,7 @@
             <codeValue>02089716514</codeValue>
             <displayName>C - reaktívny proteín</displayName>
             <operation>insert</operation>
+            <Body>380</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Vyšetrenie močového traktu a orgánov malej panvy u ženy (nemôže sa vykazovať s výkonom pod kódom 5300).</Popis>
@@ -265,6 +303,8 @@
             <codeValue>00000492298</codeValue>
             <displayName>Vyšetrenie močového traktu a orgánov malej panvy u ženy (nemôže sa vykazovať s výkonom pod kódom 5300).</displayName>
             <operation>insert</operation>
+            <Body>1000</Body>
+            <typ>SVaLZ</typ>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Ultrazvukové vyšetrenie intravaginálnou sondou (nemôže sa vykazovať s výkonom pod kódom 5303).</Popis>
@@ -272,6 +312,8 @@
             <codeValue>00000492314</codeValue>
             <displayName>Ultrazvukové vyšetrenie intravaginálnou sondou (nemôže sa vykazovať s výkonom pod kódom 5303).</displayName>
             <operation>insert</operation>
+            <Body>1200</Body>
+            <typ>SVaLZ</typ>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Ultrazvukové vyšetrenie obidvoch prsníkov, axíl a regionálnych lymfatických uzlín.</Popis>
@@ -279,6 +321,8 @@
             <codeValue>00000492355</codeValue>
             <displayName>Ultrazvukové vyšetrenie obidvoch prsníkov, axíl a regionálnych lymfatických uzlín.</displayName>
             <operation>insert</operation>
+            <Body>1500</Body>
+            <typ>SVaLZ</typ>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Elektrokardiografické (EKG) vyšetrenie, štandardné 12-zvodové zosnímanie. Výkon môže vykonávať kardiológ, angiológ, internista.</Popis>
@@ -286,6 +330,7 @@
             <codeValue>02089719112</codeValue>
             <displayName>Elektrokardiografické (EKG) vyšetrenie, štandardné 12-zvodové zosnímanie. Výkon môže vykonávať kardiológ, angiológ, internista.</displayName>
             <operation>insert</operation>
+            <Body>550</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Elektrokardiografické (EKG) vyšetrenie, štandardné 12-zvodové zosnímanie. Výkon môže vykonávat kardiológ, angiológ, internista.</Popis>
@@ -293,6 +338,8 @@
             <codeValue>00000494187</codeValue>
             <displayName>Elektrokardiografické (EKG) vyšetrenie, štandardné 12-zvodové zosnímanie. Výkon môže vykonávat kardiológ, angiológ, internista.</displayName>
             <operation>insert</operation>
+            <Body>550</Body>
+            <typ>SVaLZ</typ>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>24-hodinové monitorovanie tlaku krvi - naloženie a zosnímanie. Výkon môže vykazovať kardiológ a internista.</Popis>
@@ -300,6 +347,8 @@
             <codeValue>00000494302</codeValue>
             <displayName>24-hodinové monitorovanie tlaku krvi - naloženie a zosnímanie. Výkon môže vykazovať kardiológ a internista.</displayName>
             <operation>insert</operation>
+            <Body>750</Body>
+            <typ>SVaLZ</typ>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Počítačové vyhodnotenie dlhodobého monitorovania tlaku krvi a zhodnotenie nálezu lekárom. Výkon môže vykazovať kardiológ a internista.</Popis>
@@ -307,6 +356,8 @@
             <codeValue>00000494310</codeValue>
             <displayName>Počítačové vyhodnotenie dlhodobého monitorovania tlaku krvi a zhodnotenie nálezu lekárom. Výkon môže vykazovať kardiológ a internista.</displayName>
             <operation>insert</operation>
+            <Body>240</Body>
+            <typ>SVaLZ</typ>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Ultrazvukové sledovanie tehotenstva vrátane biometrie plodu, najviac trikrát počas fyziologického tehotenstva).</Popis>
@@ -314,6 +365,8 @@
             <codeValue>00000492496</codeValue>
             <displayName>Ultrazvukové sledovanie tehotenstva vrátane biometrie plodu, najviac trikrát počas fyziologického tehotenstva).</displayName>
             <operation>insert</operation>
+            <Body>600</Body>
+            <typ>SVaLZ</typ>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Komplexné predoperačné vyšetrenie vrátane odberov krvi, zhodnotenia laboratórnych a prístrojových vyšetrení</Popis>
@@ -321,6 +374,7 @@
             <codeValue>02089719450</codeValue>
             <displayName>Komplexné predoperačné vyšetrenie vrátane odberov krvi, zhodnotenia laboratórnych a prístrojových vyšetrení</displayName>
             <operation>insert</operation>
+            <Body>0</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Komplexné vyšetrenie pacienta (kompletná anamnéza, vyšetrenie všetkých orgánových systémov, založenie zdravotnej dokumentácie, diagnostický záver, liecebný plán a (alebo) zaradeňie do dispenzárnej starostlivosťi, odoslanie pacienta na dalšie laboratórne, prístrojové alebo odborné vyšetrenia – vypísanie žiadaniek, poučenie pacienta, vypísanie receptov a lekárskej správy (trvanie najmenej 30 minút).</Popis>
@@ -328,6 +382,7 @@
             <codeValue>00000466730</codeValue>
             <displayName>Komplexné vyšetrenie pacienta (kompletná anamnéza, vyšetrenie všetkých orgánových systémov, založenie zdravotnej dokumentácie, diagnostický záver, liečebný plán a (alebo) zaradenie do dispenzárnej sta</displayName>
             <operation>insert</operation>
+            <Body>350</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Príplatok u dieťaťa vo veku do piatich rokov pri výkonoch - odber krvi, injekcie, infúzie, transfúzie, infiltrácie, implantácie, odobratie sterov, punkcie a pri výkone očkovania.</Popis>
@@ -335,6 +390,7 @@
             <codeValue>00000466797</codeValue>
             <displayName>Príplatok u dieťaťa vo veku do piatich rokov pri výkonoch - odber krvi, injekcie, infúzie, transfúzie, infiltrácie, implantácie, odobratie sterov, punkcie a pri výkone očkovania.</displayName>
             <operation>insert</operation>
+            <Body>100</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Vystavenie receptov a/alebo poukazov elektronickou formou pre lieky/zdravotnícke pomôcky, ktoré pacient užíva dlhšie ako 3 mesiace a nebola realizovaná zmena dávkovania lieku</Popis>
@@ -342,6 +398,7 @@
             <codeValue>02089691105</codeValue>
             <displayName>Opätovné lekárske vystavenie receptov a (alebo) poukazov na základe požiadavky pacienta prostredníctvom elektronickej pošty, SMS alebo telefónu</displayName>
             <operation>insert</operation>
+            <Body>50</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Vyšetrenie psychomotorického vývinu dieťaťa vo vzťahu k hrubej a jemnej motorike, k reči a k sociálnym vzťahom podľa štandardnej stupnice vrátane dokumentácie. Pri výkone pod kódom 950 nemožno výkony pod kódmi 951 a 952 započítať.</Popis>
@@ -349,6 +406,7 @@
             <codeValue>00000469288</codeValue>
             <displayName>Vyšetrenie psychomotorického vývinu dieťaťa vo vzťahu k hrubej a jemnej motorike, k reči a k sociálnym vzťahom podľa štandardnej stupnice vrátane dokumentácie. Pri výkone pod kódom 950 nemožno výkony </displayName>
             <operation>insert</operation>
+            <Body>390</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Kontrolné vyšetrenie funkčného vývinu so skúškami zodpovedajúcimi veku (vnímavosť, sedenie, lezenie, chôdza) u dojčaťa.</Popis>
@@ -356,6 +414,7 @@
             <codeValue>00000469296</codeValue>
             <displayName>Kontrolné vyšetrenie funkčného vývinu so skúškami zodpovedajúcimi veku (vnímavosť, sedenie, lezenie, chôdza) u dojčaťa.</displayName>
             <operation>insert</operation>
+            <Body>250</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Kontrolné vyšetrenie funkčného vývinu so skúškami zodpovedajúcimi veku (reč, pochopenie reči alebo sociálny vek) u batoliat.</Popis>
@@ -363,6 +422,7 @@
             <codeValue>00000469304</codeValue>
             <displayName>Kontrolné vyšetrenie funkčného vývinu so skúškami zodpovedajúcimi veku (reč, pochopenie reči alebo sociálny vek) u batoliat.</displayName>
             <operation>insert</operation>
+            <Body>60</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Vyšetrenie funkčného vývinu so skúškami zodpovedajúcimi veku (reč, pochopenie reči alebo sociálny vek) u dieťaťa predškolského veku.</Popis>
@@ -370,6 +430,7 @@
             <codeValue>00000469312</codeValue>
             <displayName>Vyšetrenie funkčného vývinu so skúškami zodpovedajúcimi veku (reč, pochopenie reči alebo sociálny vek) u dieťaťa predškolského veku.</displayName>
             <operation>insert</operation>
+            <Body>110</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Intenzifikovaná zdravotná starostlivosť pre rizikových poistencov s obezitou</Popis>
@@ -377,6 +438,7 @@
             <codeValue>02089725739</codeValue>
             <displayName>Intenzifikovaná zdravotná starostlivosť pre rizikových poistencov s obezitou</displayName>
             <operation>insert</operation>
+            <Body>0</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Iniciálne vyšetrenie u poistenca s arteriálnou hypertenziou alebo šetrenie akútneho hypertenzného vzťahu</Popis>
@@ -384,6 +446,7 @@
             <codeValue>02089725747</codeValue>
             <displayName>Iniciálne vyšetrenie u poistenca s arteriálnou hypertenziou alebo šetrenie akútneho hypertenzného vzťahu</displayName>
             <operation>insert</operation>
+            <Body>0</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Kontrolné vyšetrenie u poistenca s arteriálnou hypertenziou jedenkrát za 6 mesiacov</Popis>
@@ -391,6 +454,7 @@
             <codeValue>02089725754</codeValue>
             <displayName>Kontrolné vyšetrenie u poistenca s arteriálnou hypertenziou jedenkrát za 6 mesiacov</displayName>
             <operation>insert</operation>
+            <Body>0</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Ošetrenie akútneho hypertenzného stavu</Popis>
@@ -398,6 +462,7 @@
             <codeValue>02089725762</codeValue>
             <displayName>Ošetrenie akútneho hypertenzného stavu</displayName>
             <operation>insert</operation>
+            <Body>0</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Stratifikácia rizika cievnej mozgovej príhody (CMP) nad 40 rokov</Popis>
@@ -405,6 +470,7 @@
             <codeValue>02089725770</codeValue>
             <displayName>Stratifikácia rizika cievnej mozgovej príhody (CMP) nad 40 rokov</displayName>
             <operation>insert</operation>
+            <Body>0</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Zdravotný výkon vykonáva lekár s odbornosťou: 001,020,022,046,049,056,068.</Popis>
@@ -412,6 +478,7 @@
             <codeValue>02089940163</codeValue>
             <displayName>Meranie INR z kapilárnej krvi podľa zmluvne dohodnutých podmienok</displayName>
             <operation>insert</operation>
+            <Body>0</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <Popis>Stanovenie indexu ABI oscilometrickou metódou</Popis>
@@ -419,6 +486,7 @@
             <codeValue>02089552141</codeValue>
             <displayName>Stanovenie indexu ABI oscilometrickou metódou</displayName>
             <operation>insert</operation>
+            <Body>0</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <codeValue>00000467357</codeValue>
@@ -426,6 +494,7 @@
             <Skratka>159AU</Skratka>
             <Popis>Preventívne vyšetrenie na krv v stolici s použitím troch testovacích papierikov v rámci opatrení na včasnú diagnostiku ochorenia na rakovinu, dodatok k výkonu pod kódom 160. Výkon môže vykazovať lekár všeobecnej starostlivosťi vtedy, ak ho sám uskutočnil. Výkon sa môže vykazovať za celé preventívne vyšetrenie. Ak sa vyšetrenie vykonalo v laboratóriu, môže ho vykazovať laboratórium.</Popis>
             <operation>insert</operation>
+            <Body>180</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <codeValue>02089731844</codeValue>
@@ -433,6 +502,7 @@
             <Skratka>159ZU</Skratka>
             <Popis>Preventívne vyšetrenie na okultné krvácanie v stolici</Popis>
             <operation>insert</operation>
+            <Body>180</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <codeValue>02089731851</codeValue>
@@ -440,6 +510,7 @@
             <Skratka>159XU</Skratka>
             <Popis>Preventívne vyšetrenie na okultné krvácanie v stolici</Popis>
             <operation>insert</operation>
+            <Body>180</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <codeValue>02089893818</codeValue>
@@ -454,6 +525,7 @@
             <Skratka>1BU</Skratka>
             <Popis>Konzultácia s pacientom prostredníctvom elektronickej pošty, SMS alebo telefonicky obsahuje: cielenú anamnézu, resp. anamnézu od poslednej  kontroly, vo vzťahu k jednému orgánovému systému ; popis subjektívnych ťažkostí; diagnostický záver; poučenie o diéte a životospráve; v prípade potreby určenie dátumu ďalšej konzultácie alebo kontroly, vrátane predpisu potrebných liekov/ZP, ktoré vyplynuli z konzultácie ohľadom zdravotného stavu; prípadne záznam o odporučení neodkladnej návštevy iného lekára; poskytnutie informácií pacientovi alebo zákonnému zástupcovi v súvislosti so zdravotným stavom s diagnostickým alebo liečebným postupom vrátane farmakoterapie.</Popis>
             <operation>insert</operation>
+            <Body>160</Body>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <codeValue>02089900894</codeValue>
