@@ -9318,3 +9318,18 @@
   pzsRec:
     id: P33021004202
     name: DoktorPro s.r.o.
+- id: A40692011
+  lastName: SAHAJ
+  firstName: Adrian
+  dtValidFrom: '2026-03-24T12:00:00.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P18138011201
+  zp:
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P18138011201
+    name: Orto-AS s.r.o.
