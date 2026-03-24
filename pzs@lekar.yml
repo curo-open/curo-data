@@ -1,16 +1,6 @@
----
-# example how to remove a lekar (including all his per-PZS entries)
-# this way a lekar can be deleted
-#-
-#  delete:      true
-#  id:          A34478004
-#  pzs:         P52806004202
-
-# example how to add a lekar-per-PZS manually
--
-  id:          A52948049
-  lastName:    Kovačková
-  firstName:   Jana
+- id: A52948049
+  lastName: Kovačková
+  firstName: Jana
   dtValidFrom: '2019-01-01T00:00:00.000Z'
   dtValidTo:
   dtSuspendFrom:
@@ -22,10 +12,9 @@
     - 25
     - 24
   JRUZID:
--
-  id:          A70961020
-  lastName:    Tomková
-  firstName:   Táňa
+- id: A70961020
+  lastName: Tomková
+  firstName: Táňa
   dtValidFrom: '2019-01-01T00:00:00.000Z'
   dtValidTo:
   dtSuspendFrom:
@@ -38,15 +27,15 @@
     - 24
   JRUZID:
   pzsRec:
-    ico:         '46223495'
-    id:          P76520020201
-    name:        MUDr. Táňa Tomková, všeobecný lekár pre dospelých
-    addr:        Furdekova  1
-    city:        Bratislava - mestská časť Petržalka
-    zip:         '85104'
-    addr_ou:     Furdekova  1
-    city_ou:     Bratislava - mestská časť Petržalka
-    zip_ou:      '85104'
+    ico: '46223495'
+    id: P76520020201
+    name: MUDr. Táňa Tomková, všeobecný lekár pre dospelých
+    addr: Furdekova  1
+    city: Bratislava - mestská časť Petržalka
+    zip: '85104'
+    addr_ou: Furdekova  1
+    city_ou: Bratislava - mestská časť Petržalka
+    zip_ou: '85104'
     dtValidFrom: '2019-01-01T00:00:00.000Z'
     dtValidTo:
     dtSuspendFrom:
@@ -56,10 +45,9 @@
       - 25
       - 24
     JRUZID:
--
-  id:          A83476005
-  lastName:    Škorňová
-  firstName:   Ingrid
+- id: A83476005
+  lastName: Škorňová
+  firstName: Ingrid
   dtValidFrom: '2019-01-01T00:00:00.000Z'
   dtValidTo:
   dtSuspendFrom:
@@ -71,10 +59,9 @@
     - 25
     - 24
   JRUZID:
--
-  id:          A71357012
-  lastName:    Kollárik
-  firstName:   Boris
+- id: A71357012
+  lastName: Kollárik
+  firstName: Boris
   dtValidFrom: '2020-01-01T00:00:00.000Z'
   dtValidTo:
   dtSuspendFrom:
@@ -87,15 +74,15 @@
     - 24
   JRUZID:
   pzsRec:
-    ico:         '45288631'
-    id:          P06204012201
-    name:        URO clinic, s. r. o.
-    addr:        Partizánska 2
-    city:        Bratislava
-    zip:         '81103'
-    addr_ou:     Partizánska 2
-    city_ou:     Bratislava
-    zip_ou:      '81103'
+    ico: '45288631'
+    id: P06204012201
+    name: URO clinic, s. r. o.
+    addr: Partizánska 2
+    city: Bratislava
+    zip: '81103'
+    addr_ou: Partizánska 2
+    city_ou: Bratislava
+    zip_ou: '81103'
     dtValidFrom: '2020-01-01T00:00:00.000Z'
     dtValidTo:
     dtSuspendFrom:
@@ -105,10 +92,9 @@
       - 25
       - 24
     JRUZID:
--
-  id:          A93930003
-  lastName:    Chalková
-  firstName:   Viera
+- id: A93930003
+  lastName: Chalková
+  firstName: Viera
   dtValidFrom: '2020-01-01T00:00:00.000Z'
   dtValidTo:
   dtSuspendFrom:
@@ -121,15 +107,15 @@
     - 24
   JRUZID:
   pzsRec:
-    ico:         '35914793'
-    id:          O40755003201
-    name:        Ružinovská poliklinika, a.s.
-    addr:        Ružinovská 10
-    city:        Bratislava
-    zip:         '82007'
-    addr_ou:     Ružinovská 10
-    city_ou:     Bratislava
-    zip_ou:      '82007'
+    ico: '35914793'
+    id: O40755003201
+    name: Ružinovská poliklinika, a.s.
+    addr: Ružinovská 10
+    city: Bratislava
+    zip: '82007'
+    addr_ou: Ružinovská 10
+    city_ou: Bratislava
+    zip_ou: '82007'
     dtValidFrom: '2020-01-01T00:00:00.000Z'
     dtValidTo:
     dtSuspendFrom:
@@ -139,10 +125,9 @@
       - 25
       - 24
     JRUZID:
--
-  id:          A97412001
-  lastName:    Ondrejkovičová
-  firstName:   Zdena
+- id: A97412001
+  lastName: Ondrejkovičová
+  firstName: Zdena
   dtValidFrom: '2020-01-01T00:00:00.000Z'
   dtValidTo:
   dtSuspendFrom:
@@ -155,15 +140,15 @@
     - 24
   JRUZID:
   pzsRec:
-    ico:         '36725561'
-    id:          P68276001201
-    name:        INT - AM, s.r.o.
-    addr:        M. Schneidera-Trnavského 8
-    city:        Bratislava
-    zip:         '84102'
-    addr_ou:     M. Schneidera-Trnavského 8
-    city_ou:     Bratislava
-    zip_ou:      '84102'
+    ico: '36725561'
+    id: P68276001201
+    name: INT - AM, s.r.o.
+    addr: M. Schneidera-Trnavského 8
+    city: Bratislava
+    zip: '84102'
+    addr_ou: M. Schneidera-Trnavského 8
+    city_ou: Bratislava
+    zip_ou: '84102'
     dtValidFrom: '2020-01-01T00:00:00.000Z'
     dtValidTo:
     dtSuspendFrom:
@@ -173,10 +158,9 @@
       - 25
       - 24
     JRUZID:
--
-  id:          A54022049
-  lastName:    Verešpejová Jadvišová
-  firstName:   Zuzana
+- id: A54022049
+  lastName: Verešpejová Jadvišová
+  firstName: Zuzana
   dtValidFrom: '2020-01-01T00:00:00.000Z'
   dtValidTo:
   dtSuspendFrom:
@@ -189,15 +173,15 @@
     - 24
   JRUZID:
   pzsRec:
-    ico:         '36562882'
-    id:          P30385049204
-    name:        KARDIOCENTRUM  NITRA s.r.o
-    addr:        Špitálska 1
-    city:        Nitra
-    zip:         '94901'
-    addr_ou:     Špitálska 1
-    city_ou:     Nitra
-    zip_ou:      '94901'
+    ico: '36562882'
+    id: P30385049204
+    name: KARDIOCENTRUM  NITRA s.r.o
+    addr: Špitálska 1
+    city: Nitra
+    zip: '94901'
+    addr_ou: Špitálska 1
+    city_ou: Nitra
+    zip_ou: '94901'
     dtValidFrom: '2020-01-01T00:00:00.000Z'
     dtValidTo:
     dtSuspendFrom:
@@ -207,10 +191,9 @@
       - 25
       - 24
     JRUZID:
--
-  id:          A34478004
-  lastName:    Orbanová
-  firstName:   Darina
+- id: A34478004
+  lastName: Orbanová
+  firstName: Darina
   dtValidFrom: '2020-01-01T00:00:00.000Z'
   dtValidTo:
   dtSuspendFrom:
@@ -223,15 +206,15 @@
     - 24
   JRUZID:
   pzsRec:
-    ico:         null
-    id:          P52806004201
-    name:        MUDr. Darina Orbanová, s.r.o.
-    addr:        Kláštorská 82
-    city:        Nitra
-    zip:         '94901'
-    addr_ou:     Kláštorská 82
-    city_ou:     Nitra
-    zip_ou:      '94901'
+    ico: null
+    id: P52806004201
+    name: MUDr. Darina Orbanová, s.r.o.
+    addr: Kláštorská 82
+    city: Nitra
+    zip: '94901'
+    addr_ou: Kláštorská 82
+    city_ou: Nitra
+    zip_ou: '94901'
     dtValidFrom: '2020-01-01T00:00:00.000Z'
     dtValidTo:
     dtSuspendFrom:
@@ -241,10 +224,9 @@
       - 24
       - 27
     JRUZID:
--
-  id:          A61716088
-  lastName:    Žurkovský
-  firstName:   Ivan
+- id: A61716088
+  lastName: Žurkovský
+  firstName: Ivan
   dtValidFrom: '2020-01-01T00:00:00.000Z'
   dtValidTo:
   dtSuspendFrom:
@@ -257,15 +239,15 @@
     - 24
   JRUZID:
   pzsRec:
-    ico:         null
-    id:          P89851068201
-    name:        Východoslovenský ústav srdcových a cievnych chorôb, a.s.
-    addr:        Ondavská 8
-    city:        Košice
-    zip:         ''
-    addr_ou:     Ondavská 8
-    city_ou:     Košice
-    zip_ou:      ''
+    ico: null
+    id: P89851068201
+    name: Východoslovenský ústav srdcových a cievnych chorôb, a.s.
+    addr: Ondavská 8
+    city: Košice
+    zip: ''
+    addr_ou: Ondavská 8
+    city_ou: Košice
+    zip_ou: ''
     dtValidFrom: '2020-01-01T00:00:00.000Z'
     dtValidTo:
     dtSuspendFrom:
@@ -275,10 +257,9 @@
       - 24
       - 27
     JRUZID:
--
-  id:          A61716088
-  lastName:    Žurkovský
-  firstName:   Ivan
+- id: A61716088
+  lastName: Žurkovský
+  firstName: Ivan
   dtValidFrom: '2020-01-01T00:00:00.000Z'
   dtValidTo:
   dtSuspendFrom:
@@ -291,15 +272,15 @@
     - 24
   JRUZID:
   pzsRec:
-    ico:         null
-    id:          P89851068101
-    name:        Východoslovenský ústav srdcových a cievnych chorôb, a.s.
-    addr:        Ondavská 8
-    city:        Košice
-    zip:         ''
-    addr_ou:     Ondavská 8
-    city_ou:     Košice
-    zip_ou:      ''
+    ico: null
+    id: P89851068101
+    name: Východoslovenský ústav srdcových a cievnych chorôb, a.s.
+    addr: Ondavská 8
+    city: Košice
+    zip: ''
+    addr_ou: Ondavská 8
+    city_ou: Košice
+    zip_ou: ''
     dtValidFrom: '2020-01-01T00:00:00.000Z'
     dtValidTo:
     dtSuspendFrom:
@@ -309,10 +290,9 @@
       - 24
       - 27
     JRUZID:
--
-  id:          A23028020
-  lastName:    Pashchenko
-  firstName:   Eva
+- id: A23028020
+  lastName: Pashchenko
+  firstName: Eva
   dtValidFrom: '2020-01-01T00:00:00.000Z'
   dtValidTo:
   dtSuspendFrom:
@@ -325,15 +305,15 @@
     - 24
   JRUZID:
   pzsRec:
-    ico:         null
-    id:          N66407014201
-    name:        Doktor-Vysoké Tatry, spol. s r.o.
-    addr:        Teplická 2178/53
-    city:        Poprad
-    zip:         '05801'
-    addr_ou:     Teplická 2178/53
-    city_ou:     Poprad
-    zip_ou:      '05801'
+    ico: null
+    id: N66407014201
+    name: Doktor-Vysoké Tatry, spol. s r.o.
+    addr: Teplická 2178/53
+    city: Poprad
+    zip: '05801'
+    addr_ou: Teplická 2178/53
+    city_ou: Poprad
+    zip_ou: '05801'
     dtValidFrom: '2020-01-01T00:00:00.000Z'
     dtValidTo:
     dtSuspendFrom:
@@ -343,160 +323,3 @@
       - 24
       - 27
     JRUZID:
-
-#-
-#  id:          A34614020
-#  lastName:    Borodovčáková
-#  firstName:   Michaela
-#  dtValidFrom: '2019-01-01T00:00:00.000Z'
-#  dtValidTo:
-#  dtSuspendFrom:
-#  dtSuspendTo:
-#  pzs:
-#    - P91151020228
-#  zp:
-#    - 27
-#    - 25
-#    - 24
-#  JRUZID:
-#-
-#  id:          A49260012
-#  lastName:    Laskovský
-#  firstName:   Ján
-#  dtValidFrom: '2020-01-01T00:00:00.000Z'
-#  dtValidTo:
-#  dtSuspendFrom:
-#  dtSuspendTo:
-#  pzs:
-#    - P73960012201
-#  zp:
-#    - 27
-#    - 25
-#    - 24
-#  JRUZID:
-#  pzsRec:
-#    ico:         '52550796'
-#    id:          P73960012201
-#    name:        SL - UROLÓGIA, s. r. o.
-#    addr:        Sládkovičova 1338/18
-#    city:        Stará Ľubovňa
-#    zip:         '06401'
-#    addr_ou:     Sládkovičova 1338/18
-#    city_ou:     Stará Ľubovňa
-#    zip_ou:      '06401'
-#    dtValidFrom: '2020-01-01T00:00:00.000Z'
-#    dtValidTo:
-#    dtSuspendFrom:
-#    dtSuspendTo:
-#    zp:
-#      - 27
-#      - 25
-#      - 24
-#    JRUZID:
-# http://ngdev.xtmotion.com/issue/CR-5376
-#-
-#  id:          A51208020
-#  lastName:    Prekopová
-#  firstName:   Jana
-#  dtValidFrom: '2020-01-01T00:00:00.000Z'
-#  dtValidTo:
-#  dtSuspendFrom:
-#  dtSuspendTo:
-#  pzs:
-#    - P98077020201
-#  zp:
-#    - 27
-#    - 25
-#    - 24
-#  JRUZID:
-#  pzsRec:
-#    ico:         ''
-#    id:          P98077020201
-#    name:        INT - AM, s.r.o.
-#    addr:        Slatinka nad Bebravou 104
-#    city:        Slatinka nad Bebravou
-#    zip:         '95653'
-#    addr_ou:     Slatinka nad Bebravou 104
-#    city_ou:     Slatinka nad Bebravou
-#    zip_ou:      '95653'
-#    dtValidFrom: '2020-01-01T00:00:00.000Z'
-#    dtValidTo:
-#    dtSuspendFrom:
-#    dtSuspendTo:
-#    zp:
-#      - 27
-#      - 25
-#      - 24
-#    JRUZID:
-# CR-5383 potrebujeme pridat lekara
-# CR-5498 kod PZS pre lekara ze je chybny - treba asi pridat
-#-
-#  id:          A70961020
-#  lastName:    MUDr. Tomková
-#  firstName:   Táňa
-#  dtValidFrom: '2020-01-01T00:00:00.000Z'
-#  dtValidTo:
-#  dtSuspendFrom:
-#  dtSuspendTo:
-#  pzs:
-#    - P76620020201
-#  zp:
-#    - 27
-#    - 25
-#    - 24
-#  JRUZID:
-#  pzsRec:
-#    ico:         null
-#    id:          P76620020201
-#    name:        Ambulancia Mora, s.r.o
-#    addr:        Driak vie aj eňová 36
-#    city:        Bratislava
-#    zip:         '821 02'
-#    addr_ou:     Drieňová 36
-#    city_ou:     Bratislava
-#    zip_ou:      '821 02'
-#    dtValidFrom: '2020-01-01T00:00:00.000Z'
-#    dtValidTo:
-#    dtSuspendFrom:
-#    dtSuspendTo:
-#    zp:
-#      - 27
-#      - 25
-#      - 24
-#    JRUZID:
-# monika: dr. Klucho chce doplniť lekára
-#-
-#  id:          A03416020
-#  lastName:    MUDr. Varga
-#  firstName:   Viktória
-#  dtValidFrom: '2020-01-01T00:00:00.000Z'
-#  dtValidTo:
-#  dtSuspendFrom:
-#  dtSuspendTo:
-#  pzs:
-#    - P69706020201
-#  zp:
-#    - 27
-#    - 25
-#    - 24
-#  JRUZID:
-#  pzsRec:
-#    ico:         null
-#    id:          P69706020201
-#    name:        VINOVA Group s.r.o.
-#    addr:        Býčia medza 931/2
-#    city:        Salka
-#    zip:         '94137'
-#    addr_ou:     Býčia medza 931/2
-#    city_ou:     Salka
-#    zip_ou:      94137
-#    dtValidFrom: '2020-01-01T00:00:00.000Z'
-#    dtValidTo:
-#    dtSuspendFrom:
-#    dtSuspendTo:
-#    zp:
-#      - 27
-#      - 25
-#      - 24
-#    JRUZID:
-# https://curois.freshdesk.com/a/tickets/2113
