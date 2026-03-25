@@ -794,7 +794,7 @@
     id: P44523020201
     name: Bibimed s.r.o.
 - id: A29504018
-  lastName: ONDRAK
+  lastName: GULÁNOVÁ
   firstName: Barbora
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
@@ -809,7 +809,7 @@
   JRUZID: null
   pzsRec:
     id: P12928018201
-    name: Poliklinika Bezručova, Bratislava
+    name: Cliniq s. r. o.
 - id: A30967049
   lastName: FTÁČNIKOVÁ
   firstName: Alena
@@ -1265,7 +1265,7 @@
     name: Cliniq s. r. o.
 - id: A42788020
   lastName: DERBAK
-  firstName: ' Yaroslav'
+  firstName: Yaroslav
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -1279,7 +1279,7 @@
   JRUZID: null
   pzsRec:
     id: P81875020201
-    name: LiptovMed s.r.o.
+    name: LiptovMed s.r.o. Jánošikovo nábrežie 1212/2 Liptovský Mikuláš
 - id: A43064020
   lastName: KUNÍKOVÁ
   firstName: Gabriela
@@ -1604,7 +1604,7 @@
     id: P27471808201
     name: KIDMED s.r.o.
 - id: A60835020
-  lastName: KOVÁČOVÁ
+  lastName: Kováčová
   firstName: Katarína
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
@@ -1617,7 +1617,7 @@
   JRUZID: null
   pzsRec:
     id: P88447020201
-    name: MARKO MEDIK, s.r.o., Cukrová 3, Bratislava
+    name: MARKO MEDIK s.r.o.
 - id: A61185020
   lastName: Bogdanová
   firstName: Adriana
@@ -1889,7 +1889,7 @@
   JRUZID: null
   pzsRec:
     id: N41327020201
-    name: APOLON, s.r.o., Kukorelliho 18, 08701 Giraltovce
+    name: APOLON, s.r.o., Kukorelliho 18, 087 01 Giraltovce
 - id: A72204050
   lastName: RENDEKOVÁ
   firstName: Erika
@@ -2180,7 +2180,7 @@
     id: P16363020201
     name: OBOTO s.r.o. Demandice
 - id: A80020008
-  lastName: HALKOVÁ
+  lastName: Halková
   firstName: Jana
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
@@ -2191,7 +2191,7 @@
   JRUZID: null
   pzsRec:
     id: P48427008202
-    name: KM - MED s.r.o.
+    name: KM-MED s.r.o.
 - id: A80815001
   lastName: Kotorová
   firstName: Natália
@@ -2518,8 +2518,8 @@
     id: O44282001201
     name: NZZ Interná ambulancia
 - id: A99415020
-  lastName: CHLEBO
-  firstName: JENČOVÁ Miroslava
+  lastName: Chlebo
+  firstName: Jenčová Miroslava
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -2533,7 +2533,7 @@
   JRUZID: null
   pzsRec:
     id: P54463020201
-    name: MOJA POLIKLINIKA
+    name: Moja Poliklinika sro, Bottova Martin
 - id: A95727020
   lastName: KOVÁČOVÁ
   firstName: Katarína
@@ -2788,10 +2788,10 @@
   JRUZID: null
   pzsRec:
     id: P12928004202
-    name: Cliniq s. r. o. Bezručova 5, 811 09 Bratislava
+    name: Cliniq s. r. o.
 - id: A44164020
-  lastName: KARIM
-  firstName: AZIZ Evelin
+  lastName: Karim
+  firstName: Aziz Evelin alebo Evelin Karim Aziz
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -2805,7 +2805,7 @@
   JRUZID: null
   pzsRec:
     id: P50438020201
-    name: PRAKTIKMED spol. s.r.o. BRATISLAVA
+    name: PRAKTIKMED spol. s.r.o.
 - id: A14968048
   lastName: ŠTURDÍK
   firstName: Igor
@@ -2922,7 +2922,7 @@
     id: P33034020203
     name: Palmed s.r.o.
 - id: A97958020
-  lastName: ČAJKOVÁ
+  lastName: Čajková
   firstName: Zlatica
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
@@ -2937,7 +2937,7 @@
   JRUZID: null
   pzsRec:
     id: P99032020202
-    name: OK AMBULANCIA, a.s.
+    name: OK Ambulancia - Martin
 - id: A02050020
   lastName: HOFFMANOVÁ
   firstName: Angeliki
@@ -2973,8 +2973,8 @@
     id: P60780020205
     name: Praktická Ambulancia, s.r.o.
 - id: A90709020
-  lastName: Gaburová
-  firstName: Simonka
+  lastName: JANČIOVÁ
+  firstName: Adela
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -2988,7 +2988,7 @@
   JRUZID: null
   pzsRec:
     id: P79023020201
-    name: RUŽINOVSKÁ POLIKLINIKA a.s.
+    name: Ružinovská poliklinika
 - id: A91505020
   lastName: Marcinková
   firstName: Štefánia
@@ -3035,7 +3035,7 @@
   JRUZID: null
   pzsRec:
     id: P74817008201
-    name: Elimedic s.r.o.
+    name: Elimedic s.r.o., Vrbovská 45, Ľubica
 - id: A66491008
   lastName: ŠLACHTOVSKÁ
   firstName: Elena
@@ -3166,7 +3166,7 @@
     name: LH med s.r.o.
 - id: A39638008
   lastName: KRČMÁRIKOVÁ
-  firstName: EVA
+  firstName: Eva
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -3367,7 +3367,7 @@
   JRUZID: null
   pzsRec:
     id: P75954020201
-    name: MITAMED s.r.o
+    name: MITAMED.s.r.o
 - id: A52395020
   lastName: Fulopová
   firstName: Jana
@@ -3521,7 +3521,7 @@
   JRUZID: null
   pzsRec:
     id: P94462004202
-    name: Mlynská dolina s.r.o.  Staré Grunty
+    name: Mlynská Dolina s.r.o., Staré Grunty 56, 841 04 Bratislava
 - id: A63116063
   lastName: HANÁKOVÁ
   firstName: Erika
@@ -3555,7 +3555,7 @@
   JRUZID: null
   pzsRec:
     id: P71408020201
-    name: Všeobecný lekár DNV, s.r.o. Istrijská 8B, 8A Bratislava
+    name: Všeobecný lekár DNV, s.r.o., Istrijská 8B, 8A Bratislava
 - id: A25604801
   lastName: Takáčová
   firstName: ''
@@ -3811,7 +3811,7 @@
   JRUZID: null
   pzsRec:
     id: P12928045201
-    name: Cliniq s. r. o., Bezručova 5, 811 09 Bratislava
+    name: Cliniq s. r. o.
 - id: A74702012
   lastName: ROMANČÍK
   firstName: Martin
@@ -4097,7 +4097,7 @@
     name: MDclinic
 - id: A60987015
   lastName: DLOUHÁ
-  firstName: Katarína
+  firstName: ' Katarína'
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -4109,7 +4109,7 @@
   JRUZID: null
   pzsRec:
     id: P22002015201
-    name: K&M, Saratovská 24, Bratislava s.r.o.
+    name: K&M Bratislava s.r.o., Saratovská 24, Bratislava Dúbravka
 - id: A52311020
   lastName: KOVÁČOVÁ
   firstName: VIktória
@@ -4194,7 +4194,7 @@
   JRUZID: null
   pzsRec:
     id: P23897020201
-    name: LV-Pro s.r.o. Dunajská Streda
+    name: LV-Pro s.r.o. Krátka 2195/14 Dunajská Streda
 - id: A63694020
   lastName: JAKABOVÁ
   firstName: Ľubica
@@ -4226,8 +4226,8 @@
     id: P74130015403
     name: EXCIMER spol. s.r.o., J Stanislava 20/E. 841 05 Bratislava
 - id: A29979020
-  lastName: Patrícia
-  firstName: Vrabeľ Barillová
+  lastName: Vrabeľ
+  firstName: Barillová Patrícia
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -4258,7 +4258,7 @@
   JRUZID: null
   pzsRec:
     id: P86690020201
-    name: RP-Med s.r.o. všeobecná ambulancia pre dospelých
+    name: RP-Med s.r.o. Všeobecná ambulancia pre dospelých
 - id: A84402008
   lastName: VISOLAJSKÁ
   firstName: Kristína
@@ -4408,8 +4408,8 @@
     id: P42535020201
     name: MiriaMed s.r.o.
 - id: A12040001
-  lastName: ŠKUNTA
-  firstName: Martin
+  lastName: Škunta
+  firstName: Jozef
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -4423,7 +4423,7 @@
   JRUZID: null
   pzsRec:
     id: P77253001203
-    name: InterPraktik s.r.o.Veličná
+    name: interná ambulancia Poliklinika J.D.Matejovie 542 Liptovský Hrádok
 - id: A61153003
   lastName: BÁNSKA
   firstName: Katarína
@@ -4457,7 +4457,7 @@
   JRUZID: null
   pzsRec:
     id: N19681154202
-    name: Národný ústav detskej TaRCH, n.o., Dolný Smokovec
+    name: Pediatrická gastroenterológia, hepatológia a výživa
 - id: A57549020
   lastName: Lelkes
   firstName: Imrich
@@ -4523,7 +4523,7 @@
   JRUZID: null
   pzsRec:
     id: N93673020201
-    name: Hormed,s.r.o.,Nižná
+    name: Hormed s.r.o., Závodná 480, 027 43 Nižná
 - id: A56551020
   lastName: Majerník
   firstName: Jozef
@@ -4690,7 +4690,7 @@
     name: Ambulancia Modrá, s.r.o.
 - id: A04728020
   lastName: SOBOŇA
-  firstName: Viliam st.
+  firstName: Viliam-st.
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -4706,7 +4706,7 @@
     id: P81095020202
     name: FNsP Nové Zámky, Slovenská 11
 - id: A85071001
-  lastName: Babalová
+  lastName: Babálová
   firstName: Černá Kristína
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
@@ -4721,7 +4721,7 @@
   JRUZID: null
   pzsRec:
     id: P24679001201
-    name: interná ambulancia BM
+    name: interná amb. J-pharm s.r.o
 - id: A55834020
   lastName: Cabanová
   firstName: Bronislava
@@ -4925,7 +4925,7 @@
     id: P27399020213
     name: PRO SANUS, a.s., Einsteinova 25, 85101 Bratislava
 - id: A52364001
-  lastName: PERNICKÝ
+  lastName: Pernický
   firstName: Miroslav
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
@@ -5200,7 +5200,7 @@
   JRUZID: null
   pzsRec:
     id: P49970011201
-    name: ORTOPORT s.r.o., Fedinova 9, Bratislava
+    name: ORTOPORT s.r.o.,   Fedinova 9, Bratislava
 - id: A69787001
   lastName: ŠIMALJAKOVÁ
   firstName: Mária
@@ -5374,8 +5374,8 @@
     id: P40707031209
     name: UNB ŠGN Podunajské Biskupice - Bratislava
 - id: A24114020
-  lastName: MAGÁH
-  firstName: Martin
+  lastName: Kmiecik
+  firstName: Alexandra
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -5389,7 +5389,7 @@
   JRUZID: null
   pzsRec:
     id: P59086020202
-    name: MEDANTE Clinic s.r.o.
+    name: MEDANTE Clinic, s.r.o
 - id: A72458020
   lastName: Uhlík
   firstName: Marián
@@ -5521,8 +5521,8 @@
     id: P91318020201
     name: Profi VLD, s.r.o.
 - id: A68101020
-  lastName: PARDUBSKÁ
-  firstName: Mária
+  lastName: KULIŠKOVÁ
+  firstName: Diana
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -5536,7 +5536,7 @@
   JRUZID: null
   pzsRec:
     id: P60780020202
-    name: Praktická ambulancia s.r.o. Seberíniho 1, Bratislava
+    name: Praktická ambulancia, s.r.o., Seberíniho 1, 821 03 Bratislava
 - id: A51658020
   lastName: El
   firstName: Khawajová Janka MUDr.
@@ -5845,8 +5845,8 @@
     id: P79359020201
     name: LUCAMED SK, s.r.o.
 - id: A48843020
-  lastName: CIBULOVÁ
-  firstName: Jana
+  lastName: ŠUNA
+  firstName: Dušan
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -5860,7 +5860,7 @@
   JRUZID: null
   pzsRec:
     id: P27399020206
-    name: PRO SANUS, a.s. , Einsteinova 25, 851 01 Bratislava
+    name: PRO SANUS, a.s., Einsteinova 25, 851 01 Bratislava
 - id: A38113011
   lastName: Varahram
   firstName: Ali, MUDr.
@@ -6013,8 +6013,8 @@
     id: P83759001201
     name: JUMED, s.r.o., Svätý Jur
 - id: A61215040
-  lastName: BERGENDIOVÁ
-  firstName: Katarína
+  lastName: Beľová
+  firstName: Monika
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -6028,7 +6028,7 @@
   JRUZID: null
   pzsRec:
     id: P05757040201
-    name: NZZ InumoVital Centrum, Jašíková 2, 821 03, Bratislava
+    name: NZZ ImunoVital Centrum
 - id: A91233001
   lastName: SEKURISOVÁ
   firstName: ' Katarína'
@@ -6269,7 +6269,7 @@
   JRUZID: null
   pzsRec:
     id: P84713020238
-    name: NOVAPHARM s.r.o, Tematínska 5/A, 851 05 Bratislava
+    name: NOVAPHARM, s.r.o., Tematínska 5/A, 851 05 Bratislava
 - id: A70782801
   lastName: REPKOVÁ
   firstName: Barbora
@@ -6333,7 +6333,7 @@
   JRUZID: null
   pzsRec:
     id: P75247077201
-    name: pharco s.r.o, Pavlovičova 3, Bratislava
+    name: pharco s.r.o. Pavlovičova 3, Bratislava
 - id: A39312027
   lastName: Korkošová
   firstName: Eva
@@ -6643,7 +6643,7 @@
   JRUZID: null
   pzsRec:
     id: P12928001201
-    name: Cliniq s.r.o, Poliklinika Bezručova,Bezručova 5, 811 09 Bratislava
+    name: Cliniq s.r.o., Bezručova5, 811 09 Bratislava
 - id: A97019009
   lastName: CHRÍBIKOVÁ
   firstName: Adela
@@ -6680,7 +6680,7 @@
     name: Nemocnica BORY, I.Kadlečíka 2, Bratislava
 - id: A95423011
   lastName: LAUDON
-  firstName: VILIAM
+  firstName: Viliam
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -6694,7 +6694,7 @@
   JRUZID: null
   pzsRec:
     id: P24720011201
-    name: Hipcentrum s.r.o.
+    name: HIPCENTRUM s.r.o.
 - id: A90378060
   lastName: CHUDÁ
   firstName: Stela
@@ -6857,7 +6857,7 @@
   JRUZID: null
   pzsRec:
     id: N68667004201
-    name: MUDr. Rentka Miroslav
+    name: MUDR. Miroslav Rentka
 - id: A44474056
   lastName: VANÍKOVÁ
   firstName: Mária
@@ -7098,7 +7098,7 @@
     name: MEDIPRACT, s.r.o.
 - id: A21600009
   lastName: KORKH
-  firstName: Nataliia
+  firstName: Natalia
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -7112,7 +7112,7 @@
   JRUZID: null
   pzsRec:
     id: P12928009202
-    name: Cliniq s.r.o., Poliklinika Bezručova, Bezručova 5, 811 09 Bratislava
+    name: Poliklinika Bezručova, CLINIQ s.r.o.
 - id: A12077007
   lastName: Sviteková
   firstName: Andrea
@@ -7206,7 +7206,7 @@
   JRUZID: null
   pzsRec:
     id: P49970011201
-    name: Ortoport s.r.o.
+    name: Ortoport s.r.o., Fedinova 9, 851 01 Bratislava
 - id: A45624009
   lastName: Vološin
   firstName: Igor
@@ -7240,7 +7240,7 @@
   JRUZID: null
   pzsRec:
     id: P42573020204
-    name: Cliniq s.r.o., Poliklinika Bezručova, Bezručova 5, 811 09 Bratislava
+    name: Centrum všeobecného lekárstva, Poliklinika Bezručova Bratislava
 - id: A88810020
   lastName: Galádová
   firstName: Ľubomíra
@@ -7493,8 +7493,8 @@
     id: P12928020201
     name: Cliniq s.r.o., Poliklina Bezručova, Bezručova 5, 811 09 Bratislava
 - id: A33307020
-  lastName: Lukáš
-  firstName: Vančo
+  lastName: Vančo
+  firstName: Lukáš
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -7575,7 +7575,7 @@
     name: NÚDCH Limbová 1 Bratislava
 - id: A22298004
   lastName: BONDROVÁ
-  firstName: Miroslava
+  firstName: Michaela
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -7589,7 +7589,7 @@
   JRUZID: null
   pzsRec:
     id: P12928004201
-    name: Cliniq s.r.o., Poliklinika Bezručova 5, 81109 Bratislava
+    name: Cliniq s.r.o., Poliklinika Bezručova 5, 81109
 - id: A74494014
   lastName: GRÉDI
   firstName: Viktor
@@ -7606,7 +7606,7 @@
   JRUZID: null
   pzsRec:
     id: P12928014201
-    name: Cliniq, s.r.o., Bezručova 3, 811 09 Bratislava
+    name: Cliniq s.r.o., Poliklinika Bezručova 5, 81109
 - id: A26443020
   lastName: KITKOVÁ
   firstName: Michaela
@@ -7819,7 +7819,7 @@
   JRUZID: null
   pzsRec:
     id: P63213020209
-    name: Ichtos s.r.o.
+    name: Ichtos s.r.o. Nová Dubnica
 - id: B70003802
   lastName: Kopecká
   firstName: Veronika
@@ -7838,8 +7838,8 @@
     id: P75834802201
     name: White Dent sro
 - id: A92819020
-  lastName: VAJO
-  firstName: TAMAŠKOVÁ TÍMEA
+  lastName: TIMEA
+  firstName: VAJO TAMAŠKOVÁ
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -7870,7 +7870,7 @@
   JRUZID: null
   pzsRec:
     id: P14640004201
-    name: Poliklinika Trenčianska, Trenčianska 53/B
+    name: Poliklinika TRENČIANSKA, Trenčianska 53/b, Bratislava
 - id: A62797020
   lastName: BENÁKOVÁ
   firstName: Lenka
@@ -7990,8 +7990,8 @@
     id: P33164020201
     name: CETMED s.r.o.
 - id: A24231001
-  lastName: ŠIRILOVÁ
-  firstName: ALICA
+  lastName: Širilová
+  firstName: Alica
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -8006,8 +8006,8 @@
     id: N90347001201
     name: ASM TN, s.r.o.
 - id: A95482064
-  lastName: VOGLOVÁ
-  firstName: VILMA
+  lastName: Voglová
+  firstName: Vilma
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -8104,7 +8104,7 @@
   JRUZID: null
   pzsRec:
     id: N73640001201
-    name: Chirint s.r.o.
+    name: CHIRINT, s.r.o.
 - id: A97470018
   lastName: ZGAŽAROVÁ
   firstName: Simona
@@ -8119,8 +8119,8 @@
     id: P03826018201
     name: DERMAREVOLTA, s.r.o.
 - id: A51290049
-  lastName: Litvínová
-  firstName: Jana
+  lastName: Litvinová
+  firstName: Janka
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -8134,7 +8134,7 @@
   JRUZID: null
   pzsRec:
     id: N36631049201
-    name: JALIT, s.r.o.
+    name: jalit s.r.o.
 - id: A54498011
   lastName: OLEXÍK
   firstName: Jaroslav
@@ -8750,8 +8750,8 @@
     id: P06480005201
     name: Kvalium s.r.o.
 - id: A48594063
-  lastName: Hofierková
-  firstName: Iveta
+  lastName: MUDr.
+  firstName: Hofierková Iveta
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -8904,7 +8904,7 @@
     name: KUBIMEDIC s.r.o.
 - id: A84676010
   lastName: LABAŠ
-  firstName: PETER
+  firstName: Peter
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
@@ -8918,7 +8918,7 @@
   JRUZID: null
   pzsRec:
     id: P24720010201
-    name: HIPCENTRUM s.r.o.
+    name: Hipcentrum s.r.o.
 - id: B38334802
   lastName: Šidlová
   firstName: Lucia
@@ -8974,7 +8974,7 @@
   JRUZID: null
   pzsRec:
     id: P88110802201
-    name: Martin Dental Center s.r.o.
+    name: Martin Dental Center s.r.o. Antolská 4 Bratislava
 - id: A09732007
   lastName: Znaková
   firstName: Denisa
@@ -9138,7 +9138,7 @@
     id: P12928020201
     name: Cliniq s.r.o. , Bezručova 5, 811 09 Bratislava
 - id: A98630020
-  lastName: Kubániová
+  lastName: KUBÁNIOVÁ
   firstName: Dominika
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
@@ -9153,9 +9153,9 @@
   JRUZID: null
   pzsRec:
     id: P59612020201
-    name: Radvaň VLD s.r.o.
+    name: RADVAŇ VLD s.r.o.
 - id: A69291020
-  lastName: Liptáková
+  lastName: LIPTÁKOVÁ
   firstName: Lívia
   dtValidFrom: '2026-03-24T12:00:00.000Z'
   dtValidTo: null
@@ -9170,7 +9170,7 @@
   JRUZID: null
   pzsRec:
     id: P99544020201
-    name: AmbiCare s.r.o.
+    name: AmbiCare s.r.o., Svätoplukova 427/40, Rimavská Sobota
 - id: a71100011
   lastName: MUDr.
   firstName: Ladislav Ledényi
