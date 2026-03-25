@@ -2,30 +2,30 @@
   lastName: Kovačková
   firstName: Jana
   dtValidFrom: '2019-01-01T00:00:00.000Z'
-  dtValidTo:
-  dtSuspendFrom:
-  dtSuspendTo:
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
   pzs:
     - P69446049201
   zp:
     - 27
     - 25
     - 24
-  JRUZID:
+  JRUZID: null
 - id: A70961020
   lastName: Tomková
   firstName: Táňa
   dtValidFrom: '2019-01-01T00:00:00.000Z'
-  dtValidTo:
-  dtSuspendFrom:
-  dtSuspendTo:
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
   pzs:
     - P76520020201
   zp:
     - 27
     - 25
     - 24
-  JRUZID:
+  JRUZID: null
   pzsRec:
     ico: '46223495'
     id: P76520020201
@@ -37,42 +37,42 @@
     city_ou: Bratislava - mestská časť Petržalka
     zip_ou: '85104'
     dtValidFrom: '2019-01-01T00:00:00.000Z'
-    dtValidTo:
-    dtSuspendFrom:
-    dtSuspendTo:
+    dtValidTo: null
+    dtSuspendFrom: null
+    dtSuspendTo: null
     zp:
       - 27
       - 25
       - 24
-    JRUZID:
+    JRUZID: null
 - id: A83476005
   lastName: Škorňová
   firstName: Ingrid
   dtValidFrom: '2019-01-01T00:00:00.000Z'
-  dtValidTo:
-  dtSuspendFrom:
-  dtSuspendTo:
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
   pzs:
     - P83216005201
   zp:
     - 27
     - 25
     - 24
-  JRUZID:
+  JRUZID: null
 - id: A71357012
   lastName: Kollárik
   firstName: Boris
   dtValidFrom: '2020-01-01T00:00:00.000Z'
-  dtValidTo:
-  dtSuspendFrom:
-  dtSuspendTo:
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
   pzs:
     - P06204012201
   zp:
     - 27
     - 25
     - 24
-  JRUZID:
+  JRUZID: null
   pzsRec:
     ico: '45288631'
     id: P06204012201
@@ -84,28 +84,28 @@
     city_ou: Bratislava
     zip_ou: '81103'
     dtValidFrom: '2020-01-01T00:00:00.000Z'
-    dtValidTo:
-    dtSuspendFrom:
-    dtSuspendTo:
+    dtValidTo: null
+    dtSuspendFrom: null
+    dtSuspendTo: null
     zp:
       - 27
       - 25
       - 24
-    JRUZID:
+    JRUZID: null
 - id: A93930003
   lastName: Chalková
   firstName: Viera
   dtValidFrom: '2020-01-01T00:00:00.000Z'
-  dtValidTo:
-  dtSuspendFrom:
-  dtSuspendTo:
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
   pzs:
     - O40755003201
   zp:
     - 27
     - 25
     - 24
-  JRUZID:
+  JRUZID: null
   pzsRec:
     ico: '35914793'
     id: O40755003201
@@ -117,28 +117,28 @@
     city_ou: Bratislava
     zip_ou: '82007'
     dtValidFrom: '2020-01-01T00:00:00.000Z'
-    dtValidTo:
-    dtSuspendFrom:
-    dtSuspendTo:
+    dtValidTo: null
+    dtSuspendFrom: null
+    dtSuspendTo: null
     zp:
       - 27
       - 25
       - 24
-    JRUZID:
+    JRUZID: null
 - id: A97412001
   lastName: Ondrejkovičová
   firstName: Zdena
   dtValidFrom: '2020-01-01T00:00:00.000Z'
-  dtValidTo:
-  dtSuspendFrom:
-  dtSuspendTo:
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
   pzs:
     - P68276001201
   zp:
     - 27
     - 25
     - 24
-  JRUZID:
+  JRUZID: null
   pzsRec:
     ico: '36725561'
     id: P68276001201
@@ -150,28 +150,28 @@
     city_ou: Bratislava
     zip_ou: '84102'
     dtValidFrom: '2020-01-01T00:00:00.000Z'
-    dtValidTo:
-    dtSuspendFrom:
-    dtSuspendTo:
+    dtValidTo: null
+    dtSuspendFrom: null
+    dtSuspendTo: null
     zp:
       - 27
       - 25
       - 24
-    JRUZID:
+    JRUZID: null
 - id: A54022049
   lastName: Verešpejová Jadvišová
   firstName: Zuzana
   dtValidFrom: '2020-01-01T00:00:00.000Z'
-  dtValidTo:
-  dtSuspendFrom:
-  dtSuspendTo:
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
   pzs:
     - P30385049204
   zp:
     - 27
     - 25
     - 24
-  JRUZID:
+  JRUZID: null
   pzsRec:
     ico: '36562882'
     id: P30385049204
@@ -183,28 +183,28 @@
     city_ou: Nitra
     zip_ou: '94901'
     dtValidFrom: '2020-01-01T00:00:00.000Z'
-    dtValidTo:
-    dtSuspendFrom:
-    dtSuspendTo:
+    dtValidTo: null
+    dtSuspendFrom: null
+    dtSuspendTo: null
     zp:
       - 27
       - 25
       - 24
-    JRUZID:
+    JRUZID: null
 - id: A34478004
   lastName: Orbanová
   firstName: Darina
   dtValidFrom: '2020-01-01T00:00:00.000Z'
-  dtValidTo:
-  dtSuspendFrom:
-  dtSuspendTo:
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
   pzs:
     - P52806004201
   zp:
     - 27
     - 25
     - 24
-  JRUZID:
+  JRUZID: null
   pzsRec:
     ico: null
     id: P52806004201
@@ -216,28 +216,28 @@
     city_ou: Nitra
     zip_ou: '94901'
     dtValidFrom: '2020-01-01T00:00:00.000Z'
-    dtValidTo:
-    dtSuspendFrom:
-    dtSuspendTo:
+    dtValidTo: null
+    dtSuspendFrom: null
+    dtSuspendTo: null
     zp:
       - 25
       - 24
       - 27
-    JRUZID:
+    JRUZID: null
 - id: A61716088
   lastName: Žurkovský
   firstName: Ivan
   dtValidFrom: '2020-01-01T00:00:00.000Z'
-  dtValidTo:
-  dtSuspendFrom:
-  dtSuspendTo:
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
   pzs:
     - P89851068201
   zp:
     - 27
     - 25
     - 24
-  JRUZID:
+  JRUZID: null
   pzsRec:
     ico: null
     id: P89851068201
@@ -249,28 +249,28 @@
     city_ou: Košice
     zip_ou: ''
     dtValidFrom: '2020-01-01T00:00:00.000Z'
-    dtValidTo:
-    dtSuspendFrom:
-    dtSuspendTo:
+    dtValidTo: null
+    dtSuspendFrom: null
+    dtSuspendTo: null
     zp:
       - 25
       - 24
       - 27
-    JRUZID:
+    JRUZID: null
 - id: A61716088
   lastName: Žurkovský
   firstName: Ivan
   dtValidFrom: '2020-01-01T00:00:00.000Z'
-  dtValidTo:
-  dtSuspendFrom:
-  dtSuspendTo:
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
   pzs:
     - P89851068101
   zp:
     - 27
     - 25
     - 24
-  JRUZID:
+  JRUZID: null
   pzsRec:
     ico: null
     id: P89851068101
@@ -282,28 +282,28 @@
     city_ou: Košice
     zip_ou: ''
     dtValidFrom: '2020-01-01T00:00:00.000Z'
-    dtValidTo:
-    dtSuspendFrom:
-    dtSuspendTo:
+    dtValidTo: null
+    dtSuspendFrom: null
+    dtSuspendTo: null
     zp:
       - 25
       - 24
       - 27
-    JRUZID:
+    JRUZID: null
 - id: A23028020
   lastName: Pashchenko
   firstName: Eva
   dtValidFrom: '2020-01-01T00:00:00.000Z'
-  dtValidTo:
-  dtSuspendFrom:
-  dtSuspendTo:
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
   pzs:
     - N66407014201
   zp:
     - 27
     - 25
     - 24
-  JRUZID:
+  JRUZID: null
   pzsRec:
     ico: null
     id: N66407014201
@@ -315,11 +315,9021 @@
     city_ou: Poprad
     zip_ou: '05801'
     dtValidFrom: '2020-01-01T00:00:00.000Z'
-    dtValidTo:
-    dtSuspendFrom:
-    dtSuspendTo:
+    dtValidTo: null
+    dtSuspendFrom: null
+    dtSuspendTo: null
     zp:
       - 25
       - 24
       - 27
-    JRUZID:
+    JRUZID: null
+- id: A40692011
+  lastName: SAHAJ
+  firstName: Adrian
+  dtValidFrom: '2026-03-24T13:51:23.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P18138011201
+  zp:
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P18138011201
+    name: Orto-AS s.r.o.
+- id: A03103020
+  lastName: HABOVDA
+  firstName: Lyubomýr
+  dtValidFrom: '2022-05-22T07:36:01.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P57012020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P57012020201
+    name: MEDACH s.r.o. Detvianska 3, Nové Zámky
+- id: A03416020
+  lastName: VARGA
+  firstName: VIKTÓRIA
+  dtValidFrom: '2020-08-21T05:41:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P69706020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P69706020201
+    name: VINOVA Group s.r.o.
+- id: A07269020
+  lastName: TÓTHOVÁ
+  firstName: Nóra
+  dtValidFrom: '2020-10-26T09:55:12.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P97506020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P97506020201
+    name: Norimed s.r.o.
+- id: A08642020
+  lastName: Potašová
+  firstName: Miriama
+  dtValidFrom: '2022-07-19T09:30:39.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P66191020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P66191020201
+    name: GP ambulance s.r.o.
+- id: A12313040
+  lastName: HAVRANOVÁ
+  firstName: Miriama
+  dtValidFrom: '2022-03-30T11:46:33.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P72324040201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P72324040201
+    name: Imuno-alergológia LBM s.r.o.
+- id: A14968048
+  lastName: ŠTURDÍK
+  firstName: Igor
+  dtValidFrom: '2022-05-10T06:56:37.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928048205
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928048205
+    name: Cliniq s. r. o. Bezručova 5, 811 09 Bratislava – mestská časť Staré Mesto
+- id: A14968048
+  lastName: ŠTURDÍK
+  firstName: Igor
+  dtValidFrom: '2022-03-18T11:46:29.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928048402
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928048402
+    name: Cliniq s. r. o.
+- id: A15593018
+  lastName: ANDRIICHUK
+  firstName: Vasyl
+  dtValidFrom: '2022-06-03T06:58:46.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928018202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928018202
+    name: Cliniq s. r. o.
+- id: A17493020
+  lastName: DAMMAK
+  firstName: Viera
+  dtValidFrom: '2022-07-29T11:36:32.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P04935020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P04935020201
+    name: Sorrisso, s.r.o.
+- id: A17919801
+  lastName: Krajčovič
+  firstName: Michal
+  dtValidFrom: '2022-07-29T07:11:15.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P36845037101
+  JRUZID: null
+  pzsRec:
+    id: P36845037101
+    name: Nemocnica sv. Michala Neurochirurg. amb.
+- id: A18283020
+  lastName: POPOVYCH
+  firstName: Vasyl
+  dtValidFrom: '2022-04-01T11:37:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P74079020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P74079020201
+    name: LIEČ-PREV RK s.r.o.
+- id: A18728020
+  lastName: HLAVATÁ
+  firstName: ALENA
+  dtValidFrom: '2022-03-14T11:30:21.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P42573020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P42573020201
+    name: Cliniq GP, s.r.o.
+- id: A19231020
+  lastName: ČULÁK
+  firstName: Martin
+  dtValidFrom: '2022-05-22T07:33:05.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P36845020208
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P36845020208
+    name: Nemocnica Sv. Michala Bratislava
+- id: A20555020
+  lastName: MUDr.
+  firstName: STANKOVIČ Ján
+  dtValidFrom: '2022-07-06T09:04:37.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P20052020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P20052020201
+    name: MedStan, s.r.o. Dulovo nám. 899/14 821 08 Bratislava
+- id: A20648004
+  lastName: Blaho
+  firstName: Andrej PhD
+  dtValidFrom: '2022-07-21T11:40:13.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P76086004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P76086004201
+    name: AB NEURO s.r.o.
+- id: A20723020
+  lastName: Ševčíková
+  firstName: Gabriela
+  dtValidFrom: '2022-06-16T08:16:27.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P86027020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P86027020201
+    name: Ševčíková Gabriela
+- id: A21034004
+  lastName: OTČENÁŠOVÁ
+  firstName: Lenka
+  dtValidFrom: '2020-10-27T11:02:32.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P71108004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P71108004201
+    name: NEURO KLINIK s.r.o.
+- id: A21953020
+  lastName: DAMMAK
+  firstName: Abdullah
+  dtValidFrom: '2022-07-29T11:35:39.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P04935020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P04935020201
+    name: Sorrisso, s.r.o.
+- id: A22415008
+  lastName: KOLENKOVÁ
+  firstName: Adriana
+  dtValidFrom: '2022-07-18T08:29:53.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N79217008201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N79217008201
+    name: ADRIAMED s.r.o., SNP 1, 083 01 Sabinov
+- id: A23364001
+  lastName: Siekel
+  firstName: Andrej
+  dtValidFrom: '2022-08-02T08:36:56.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P86027001801
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P86027001801
+    name: NsP Nové Mesto n/V internista
+- id: A23484020
+  lastName: BEŇOVÁ
+  firstName: Alena
+  dtValidFrom: '2021-02-24T06:51:42.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P20998020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P20998020201
+    name: MUDr. Beňová Alena s.r.o.
+- id: A23777020
+  lastName: HLAVIČKOVÁ
+  firstName: Zuzana
+  dtValidFrom: '2022-06-30T05:21:57.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P53089020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P53089020201
+    name: MUDr. Zuzana Hlavičková s.r.o.
+- id: A23885020
+  lastName: ARPÁS
+  firstName: FILIP JOZEF
+  dtValidFrom: '2020-10-01T04:45:24.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P84713020220
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P84713020220
+    name: Novapharm s.r.o.
+- id: A25230020
+  lastName: Bošelová
+  firstName: Andrea
+  dtValidFrom: '2022-07-18T09:52:06.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P91232020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P91232020202
+    name: Rafaelo, s.r.o.
+- id: A25360050
+  lastName: BOSÍKOVÁ
+  firstName: Ľudmila
+  dtValidFrom: '2022-02-18T14:36:28.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N54567050202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N54567050202
+    name: MEDIVASA s.r.o.
+- id: A25505020
+  lastName: REMIŠOVÁ
+  firstName: Andrea
+  dtValidFrom: '2022-08-11T11:38:01.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P60648020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P60648020202
+    name: MUDr. Andrea Remišová s.r.o.
+- id: A28290020
+  lastName: Bitterová
+  firstName: Bibiana
+  dtValidFrom: '2022-03-15T10:15:37.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P44523020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P44523020201
+    name: Bibimed s.r.o.
+- id: A29504018
+  lastName: ONDRAK
+  firstName: Barbora
+  dtValidFrom: '2024-12-16T13:22:13.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928018201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928018201
+    name: Poliklinika Bezručova, Bratislava
+- id: A30967049
+  lastName: FTÁČNIKOVÁ
+  firstName: Alena
+  dtValidFrom: '2022-06-23T06:16:55.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928049201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928049201
+    name: Cliniq s. r. o.
+- id: a31222020
+  lastName: KOHIAR
+  firstName: Essa
+  dtValidFrom: '2022-07-15T08:50:40.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - p73865020201
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: p73865020201
+    name: JA-SAN, spol. s r.o.
+- id: A31222020
+  lastName: KOHIAR
+  firstName: Essa
+  dtValidFrom: '2022-08-08T12:00:32.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P73865020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P73865020201
+    name: JA-SAN, spol. s r.o.
+- id: A31239009
+  lastName: PIŠKANINOVÁ
+  firstName: Milica
+  dtValidFrom: '2022-06-13T06:46:16.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928009201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928009201
+    name: Cliniq s. r. o.
+- id: A31570020
+  lastName: SÝKOROVÁ
+  firstName: MARTINA
+  dtValidFrom: '2020-09-28T10:27:12.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P23161020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P23161020201
+    name: Vaša ambulancia, s. r. o.
+- id: A32856001
+  lastName: Ďurkovská
+  firstName: Danica
+  dtValidFrom: '2020-11-03T07:23:28.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P24720001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P24720001201
+    name: Hipcentrum s.r.o.
+- id: A33134045
+  lastName: ČIERNY
+  firstName: Daniel
+  dtValidFrom: '2022-03-18T11:56:09.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928045202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928045202
+    name: Cliniq s. r. o.
+- id: A33134045
+  lastName: ČIERNY
+  firstName: Daniel
+  dtValidFrom: '2022-03-18T11:57:34.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928232501
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928232501
+    name: Cliniq s. r. o.
+- id: A33363048
+  lastName: GOJDIČOVÁ
+  firstName: Anna
+  dtValidFrom: '2022-03-18T12:05:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928048203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928048203
+    name: Cliniq s. r. o.
+- id: A33363048
+  lastName: GOJDIČOVÁ
+  firstName: Anna
+  dtValidFrom: '2022-03-18T12:03:28.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928048204
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928048204
+    name: Cliniq s. r. o.
+- id: A33363048
+  lastName: GOJDIČOVÁ
+  firstName: Anna
+  dtValidFrom: '2022-03-18T12:07:30.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928048401
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928048401
+    name: Cliniq s. r. o.
+- id: A33363048
+  lastName: GOJDIČOVÁ
+  firstName: Anna
+  dtValidFrom: '2022-03-18T12:08:54.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928048402
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928048402
+    name: Cliniq s. r. o.
+- id: A33451020
+  lastName: Bodo
+  firstName: Bartošová Miriam
+  dtValidFrom: '2022-05-13T06:58:25.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P36845020215
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P36845020215
+    name: Univ. Nemoc. sv. Michala a.s. Bratislava
+- id: A33927020
+  lastName: Eliášová
+  firstName: Daniela
+  dtValidFrom: '2021-10-20T09:42:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P09273020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P09273020201
+    name: Medik Sučany , s.r.o.
+- id: A35566008
+  lastName: Turlíková
+  firstName: Barbora
+  dtValidFrom: '2022-07-18T11:28:14.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P25794008201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P25794008201
+    name: Doktorka Barborka s.r.o.
+- id: A35835020
+  lastName: ROHÁČ
+  firstName: DUŠAN
+  dtValidFrom: '2022-08-09T09:51:45.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P70864020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P70864020201
+    name: Practic care, s.r.o.
+- id: A35919038
+  lastName: Guba
+  firstName: Dušan
+  dtValidFrom: '2022-04-08T12:43:20.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P42032038201
+  JRUZID: null
+  pzsRec:
+    id: P42032038201
+    name: Dr. Guba, s. r. o. ambulancia plastickej chirurgie
+- id: A37581020
+  lastName: PAPAJOVÁ
+  firstName: Zuzana
+  dtValidFrom: '2021-12-27T07:12:54.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P66657020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P66657020201
+    name: Wesper, a.s.
+- id: A38156020
+  lastName: FUXHOFFEROVÁ
+  firstName: Erika
+  dtValidFrom: '2022-08-03T08:01:54.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P36845020208
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P36845020208
+    name: Univerzitná nemocnica-nemocnica Sv. Michala
+- id: A38845001
+  lastName: HRDINOVÁ
+  firstName: Jana
+  dtValidFrom: '2022-05-02T18:32:55.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P71859001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P71859001201
+    name: NEDIK-MED s.r.o.
+- id: A39351020
+  lastName: KUBICA
+  firstName: Ignác
+  dtValidFrom: '2022-01-26T13:22:01.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P60780020213
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P60780020213
+    name: Praktická ambulancia s.r.o.
+- id: A39638008
+  lastName: KRČMÁRIKOVÁ
+  firstName: Eva
+  dtValidFrom: '2022-06-21T08:40:02.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - O98057008201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: O98057008201
+    name: všeobecný lekár pre deti a dorast
+- id: A39638008
+  lastName: KRČMÁRIKOVÁ
+  firstName: EVA
+  dtValidFrom: '2022-06-30T13:22:53.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - O98057008203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: O98057008203
+    name: Neštátna ambulancia Rišňovce
+- id: A39899018
+  lastName: Marková
+  firstName: Poisson Simona
+  dtValidFrom: '2021-11-12T09:33:05.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P17959018201
+  zp:
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P17959018201
+    name: MarkoDerma s.r.o.
+- id: A40834008
+  lastName: HOFFERIKOVÁ
+  firstName: Eva
+  dtValidFrom: '2022-06-20T12:27:25.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P66388008202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P66388008202
+    name: BabyHope, s.r.o., Nábrežná 3, 934 05 Levice
+- id: A41646004
+  lastName: CZÓKOLYOVÁ
+  firstName: IVETA
+  dtValidFrom: '2022-07-15T10:21:08.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P54006004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P54006004201
+    name: MEDIVA neurologická ambulancia, s.r.o.
+- id: A42021009
+  lastName: CHUDA
+  firstName: Matúš
+  dtValidFrom: '2022-06-13T06:48:46.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928009202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928009202
+    name: Cliniq s. r. o.
+- id: A42788020
+  lastName: DERBAK
+  firstName: ' Yaroslav'
+  dtValidFrom: '2022-08-25T07:17:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P81875020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P81875020201
+    name: LiptovMed s.r.o.
+- id: A43064020
+  lastName: KUNÍKOVÁ
+  firstName: Gabriela
+  dtValidFrom: '2022-06-27T12:00:28.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P09520020201
+  zp:
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P09520020201
+    name: KR GP, s.r.o.
+- id: A43099001
+  lastName: MUDr.
+  firstName: Martinková Dominika
+  dtValidFrom: '2022-01-26T13:20:06.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N22001001201
+  zp:
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N22001001201
+    name: Interná ambulancia Nemocnica Poprad a.s.
+- id: A43547020
+  lastName: Žitňanová
+  firstName: Mária
+  dtValidFrom: '2022-08-04T19:54:28.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P00255020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P00255020201
+    name: Curae s.r.o.
+- id: A43622020
+  lastName: SVITLICA
+  firstName: GRÉTA
+  dtValidFrom: '2022-07-22T12:16:05.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N81713020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N81713020201
+    name: Medipraktik Michalovce, s.r.o.
+- id: A44881001
+  lastName: HRDINA
+  firstName: Ivan
+  dtValidFrom: '2022-05-02T18:30:24.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P71859001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P71859001201
+    name: NEDIK-MED s.r.o.
+- id: A44881063
+  lastName: HRDINA
+  firstName: Ivan
+  dtValidFrom: '2022-05-02T18:31:27.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P71859063201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P71859063201
+    name: NEDIK-MED s.r.o.
+- id: A47516020
+  lastName: HALMO
+  firstName: Ivan
+  dtValidFrom: '2022-05-27T08:17:12.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P07596020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P07596020201
+    name: HALMO, s. r. o.
+- id: A48499801
+  lastName: UIAS
+  firstName: Ruslana
+  dtValidFrom: '2020-11-02T11:14:37.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P41668015201
+  JRUZID: null
+  pzsRec:
+    id: P41668015201
+    name: Mauro Simon optik
+- id: A50480011
+  lastName: Palko
+  firstName: Patrik
+  dtValidFrom: '2022-07-18T10:08:20.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P11154011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P11154011201
+    name: PP-ORTO
+- id: A50483005
+  lastName: Jánoška
+  firstName: Dalibor
+  dtValidFrom: '2022-04-07T08:54:38.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P56642005101
+  JRUZID: null
+  pzsRec:
+    id: P56642005101
+    name: Psychiatrická nemocnica Philippa Pinela
+- id: A51531004
+  lastName: Dulinová
+  firstName: Ivana
+  dtValidFrom: '2021-09-14T08:21:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P43979004204
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P43979004204
+    name: Nemocnica AGEL Košice-Šaca a.s.
+- id: A52022004
+  lastName: VARGOVÁ
+  firstName: Jana
+  dtValidFrom: '2021-11-08T09:40:16.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P74606004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P74606004201
+    name: Neurologická ambulancia Rožňava s.r.o.
+- id: A52210020
+  lastName: DIHENEŠČÍKOVÁ
+  firstName: Veronika
+  dtValidFrom: '2022-08-08T15:37:35.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P40684020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P40684020201
+    name: Med.LaVita s.r.o.
+- id: A52419020
+  lastName: TOMEČKOVÁ
+  firstName: Jana
+  dtValidFrom: '2022-05-16T06:25:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P13376020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P13376020201
+    name: LESAMED s.r.o.
+- id: A54223020
+  lastName: TKÁČOVÁ
+  firstName: Eva
+  dtValidFrom: '2022-06-13T08:42:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P78095020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P78095020201
+    name: Schwarzwasser Medica s.r.o. Poštová 59 Bernolákovo 90027
+- id: A54574019
+  lastName: Machanová
+  firstName: Jaroslava
+  dtValidFrom: '2021-10-05T11:44:51.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N50139019201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N50139019201
+    name: Všeobecná nemocnica s poliklinikou Lučenec n.o.
+- id: A55489322
+  lastName: HAVRILLA
+  firstName: Jozef
+  dtValidFrom: '2021-11-09T14:54:26.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N33067322201
+  JRUZID: null
+  pzsRec:
+    id: N33067322201
+    name: FNPO
+- id: A55643020
+  lastName: MARKO
+  firstName: Jozef
+  dtValidFrom: '2022-06-13T09:24:39.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P04035020201
+  zp:
+    - 24
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: P04035020201
+    name: RS Health Consulting s.r.o.
+- id: A57203020
+  lastName: Kuchyňová
+  firstName: Judita
+  dtValidFrom: '2022-07-26T08:53:06.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P42397020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P42397020201
+    name: HELIM s.r.o. súkromná ambulancia Hasičská 16 Lubochňa
+- id: A60482007
+  lastName: ČILJAK
+  firstName: Martin
+  dtValidFrom: '2022-08-11T08:44:04.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P27471808201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P27471808201
+    name: KIDMED s.r.o.
+- id: A60835020
+  lastName: KOVÁČOVÁ
+  firstName: Katarína
+  dtValidFrom: '2025-03-13T09:29:21.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P88447020201
+  zp:
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P88447020201
+    name: MARKO MEDIK, s.r.o., Cukrová 3, Bratislava
+- id: A61185020
+  lastName: Bogdanová
+  firstName: Adriana
+  dtValidFrom: '2022-05-31T12:44:33.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N84209020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N84209020201
+    name: NsP Sv. Jakuba n.o. Bardejov
+- id: A62397049
+  lastName: ČERVENEC
+  firstName: Ján
+  dtValidFrom: '2022-02-18T14:22:49.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N54567049202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N54567049202
+    name: MEDIVASA s.r.o.
+- id: A62501020
+  lastName: Dobríková
+  firstName: Katarína
+  dtValidFrom: '2022-05-13T07:50:55.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P70030020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P70030020201
+    name: MUDr. Katarína Dobríková, s.r.o.
+- id: A62790001
+  lastName: Smičíková
+  firstName: Lena
+  dtValidFrom: '2022-05-25T14:00:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P84715001202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P84715001202
+    name: Medcentrum s.r.o. J.Milca 33 Žilina
+- id: A63842007
+  lastName: Stolárová-Grmanová
+  firstName: Katarína
+  dtValidFrom: '2021-05-14T12:44:44.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - O85633008201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: O85633008201
+    name: Neštátna ambulancia pre deti a dorast
+- id: A64263020
+  lastName: Gešvandtner
+  firstName: Marián
+  dtValidFrom: '2022-07-13T08:18:59.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P59076020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P59076020202
+    name: MEDIP. s.r.o
+- id: A64788008
+  lastName: Hlavinka
+  firstName: Ľuboš
+  dtValidFrom: '2022-05-16T09:45:53.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P19582008201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P19582008201
+    name: PEDHO s. r. o. Ľudovíta Štúra 1564/44 Bardejov 085 01
+- id: A66721001
+  lastName: MAJERNÍKOVÁ
+  firstName: Gabriela
+  dtValidFrom: '2022-04-25T10:35:46.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P69337001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P69337001201
+    name: InterStorm sro.
+- id: A66902020
+  lastName: Rajzáková
+  firstName: Marcela
+  dtValidFrom: '2022-05-30T15:30:44.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P87482020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P87482020201
+    name: MUDr. Marcela Rajzáková s.r.o.
+- id: A67146012
+  lastName: ZVANCIGER
+  firstName: Marek
+  dtValidFrom: '2022-06-03T07:02:00.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928012201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928012201
+    name: Cliniq s. r. o.
+- id: A67987020
+  lastName: IDUNKOVÁ
+  firstName: Jana
+  dtValidFrom: '2022-08-04T09:19:41.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P49707020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P49707020201
+    name: LH med s.r.o.
+- id: A68601031
+  lastName: Hulíková
+  firstName: Mária
+  dtValidFrom: '2021-10-11T07:32:55.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N77024031207
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N77024031207
+    name: Ambulancia hematológie a transfúziológie
+- id: A69855020
+  lastName: KOMANICKÁ
+  firstName: Dominika
+  dtValidFrom: '2022-06-21T09:20:42.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N66391020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N66391020201
+    name: MEDITAM, s.r.o.
+- id: A69884049
+  lastName: Višňovský
+  firstName: Michal
+  dtValidFrom: '2022-05-16T10:04:56.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N33067049202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N33067049202
+    name: FNsP J.A.Reimna Prešov
+- id: A69992020
+  lastName: MIŠLAI
+  firstName: TIMEA
+  dtValidFrom: '2022-07-27T09:43:36.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P45507020211
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P45507020211
+    name: Železničné zdravotníctvo Košice, s.r.o.
+- id: A71140020
+  lastName: POLÁKOVÁ
+  firstName: Mária
+  dtValidFrom: '2024-05-23T06:36:33.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N41327020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N41327020201
+    name: APOLON, s.r.o., Kukorelliho 18, 08701 Giraltovce
+- id: A72204050
+  lastName: RENDEKOVÁ
+  firstName: Erika
+  dtValidFrom: '2022-05-02T18:28:02.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P71859050201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P71859050201
+    name: NEDIK-MED s.r.o.
+- id: A72204064
+  lastName: RENDEKOVÁ
+  firstName: Erika
+  dtValidFrom: '2022-05-02T18:29:14.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P71859064201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P71859064201
+    name: NEDIK-MED s.r.o.
+- id: A73082020
+  lastName: ŠAFÁROVÁ
+  firstName: Dominika
+  dtValidFrom: '2022-06-17T06:51:51.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P24720020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P24720020201
+    name: Hipcentrum s.r.o., Holubyho 41, Pezinok 90201
+- id: A73794008
+  lastName: Grmanová
+  firstName: Marta
+  dtValidFrom: '2020-11-04T13:19:53.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - O85633008201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: O85633008201
+    name: Ambulancia všeobecného lekára pre deti a dorast
+- id: A73794008
+  lastName: Stolárová
+  firstName: Grmanová Katarína
+  dtValidFrom: '2020-10-22T10:52:03.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P85633008201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P85633008201
+    name: Neštátna ambulancia pre deti a dorast
+- id: A74154020
+  lastName: MUDr.
+  firstName: Mazúch Zrubcová Zuzana
+  dtValidFrom: '2021-02-01T11:25:57.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P22415020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P22415020201
+    name: RODMED s.r.o.
+- id: A75632020
+  lastName: ARONOVÁ
+  firstName: STANISLAVA
+  dtValidFrom: '2022-06-28T15:03:18.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P50186020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P50186020201
+    name: PracticAll s.r.o.
+- id: A75677015
+  lastName: AGNER
+  firstName: Vladislav
+  dtValidFrom: '2021-10-04T11:32:09.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P29723020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P29723020201
+    name: P29723020201
+- id: A75723020
+  lastName: PITEĽ
+  firstName: BORIS
+  dtValidFrom: '2022-06-28T15:08:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P78568020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P78568020201
+    name: Stakmed s.r.o.
+- id: A76008020
+  lastName: Mokoš
+  firstName: Peter
+  dtValidFrom: '2022-06-16T11:14:37.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P82987020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P82987020202
+    name: všeobecný lekár NsP Myjava
+- id: A76037049
+  lastName: LŐRINCZOVÁ
+  firstName: MONIKA
+  dtValidFrom: '2022-08-09T14:26:55.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P27831049201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P27831049201
+    name: Kardiologická ambulancia MUDr. Fazekaša, s.r.o.
+- id: A76058015
+  lastName: PORUBANOVÁ
+  firstName: Miroslava
+  dtValidFrom: '2022-06-23T06:14:49.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928015201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928015201
+    name: Cliniq s. r. o.
+- id: A77082020
+  lastName: Šulov
+  firstName: Marián
+  dtValidFrom: '2022-08-11T05:32:59.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P72629020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P72629020201
+    name: Medical Centrum s.r.o., Martin
+- id: A77727020
+  lastName: JANÍK
+  firstName: Milan
+  dtValidFrom: '2022-08-08T09:44:37.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12849020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12849020201
+    name: Milval s.r.o. Všeob. amb.Štúrovo
+- id: A78008020
+  lastName: Mokoš
+  firstName: Peter
+  dtValidFrom: '2022-06-16T08:14:47.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P82987020202
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P82987020202
+    name: Mokoš Peter
+- id: A78277020
+  lastName: ŠABOVÁ
+  firstName: Lenka
+  dtValidFrom: '2022-04-05T07:02:44.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P60991020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P60991020201
+    name: LS-MEDIC s.r.o.
+- id: A79366020
+  lastName: Angelovič
+  firstName: Miroslav
+  dtValidFrom: '2022-04-11T12:18:25.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P16363020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P16363020201
+    name: OBOTO s.r.o. Demandice
+- id: A80020008
+  lastName: HALKOVÁ
+  firstName: Jana
+  dtValidFrom: '2022-07-14T12:14:01.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P48427008202
+  JRUZID: null
+  pzsRec:
+    id: P48427008202
+    name: KM - MED s.r.o.
+- id: A80815001
+  lastName: Kotorová
+  firstName: Natália
+  dtValidFrom: '2021-09-17T10:45:32.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P84713001204
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P84713001204
+    name: Novapharm, Šancová 10, Bratislava
+- id: A80856064
+  lastName: ČAMBOROVÁ
+  firstName: Natália
+  dtValidFrom: '2021-10-21T08:18:35.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P38811064201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P38811064201
+    name: Univerzitná nemocnica Martin
+- id: A81090049
+  lastName: Kiško
+  firstName: Oleksandr
+  dtValidFrom: '2022-01-11T09:10:38.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P66657049201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P66657049201
+    name: Wesper, a.s.
+- id: A82436056
+  lastName: JAKUBEK
+  firstName: Patrik
+  dtValidFrom: '2022-05-16T09:48:44.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P09262056201
+  zp:
+    - 24
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P09262056201
+    name: TOBAcare profil, s.r.o. Dom Zdravia Juh, M.R. Štefánika 2673 Vranov nad Topľou
+- id: A84298045
+  lastName: BRÁZDILOVÁ
+  firstName: Kristína
+  dtValidFrom: '2022-03-18T11:50:27.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928045201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928045201
+    name: Cliniq s. r. o.
+- id: A84298045
+  lastName: BRÁZDILOVÁ
+  firstName: Kristína
+  dtValidFrom: '2022-03-18T11:53:22.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928232501
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928232501
+    name: Cliniq s. r. o.
+- id: A84402008
+  lastName: VISOLAJSKÁ
+  firstName: Kristína
+  dtValidFrom: '2022-06-23T08:12:17.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P65948008201
+  JRUZID: null
+  pzsRec:
+    id: P65948008201
+    name: Jánskeho 4, Nitra
+- id: A86171049
+  lastName: Trejbal
+  firstName: Karol
+  dtValidFrom: '2022-01-17T12:26:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P66657049202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P66657049202
+    name: Wesper, a.s.
+- id: A86941020
+  lastName: Hrnčárová
+  firstName: Sylvia
+  dtValidFrom: '2022-07-15T08:08:09.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12009020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12009020201
+    name: Zdravie TN s.r.o všeobecný lekár
+- id: A87248010
+  lastName: ŽARNOVIČAN
+  firstName: Richard
+  dtValidFrom: '2022-05-02T18:16:42.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P29680010201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P29680010201
+    name: LC-CHIR s.r.o.
+- id: A87248013
+  lastName: ŽARNOVIČAN
+  firstName: Richard
+  dtValidFrom: '2022-05-02T18:17:57.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P29680010201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P29680010201
+    name: LC-CHIR s.r.o.
+- id: A88690020
+  lastName: Slobodník
+  firstName: Miroslav
+  dtValidFrom: '2021-10-01T06:41:05.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P56870020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P56870020201
+    name: VALRAD, s.r.o.
+- id: A89750045
+  lastName: Dubecká
+  firstName: Soňa
+  dtValidFrom: '2022-08-15T07:29:14.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P40707045201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P40707045201
+    name: Univerzitná nemocnica Bratislava
+- id: A90574020
+  lastName: PEREČÍNSKÁ
+  firstName: Katarína
+  dtValidFrom: '2022-04-01T11:40:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P57745020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P57745020201
+    name: Všeobecná ambulancia pre dospelých Šarišské Dravce
+- id: A91255020
+  lastName: HUDÁK
+  firstName: ŠTEFAN
+  dtValidFrom: '2022-07-21T08:52:45.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P70864020201
+  JRUZID: null
+  pzsRec:
+    id: P70864020201
+    name: Practic care, s.r.o.
+- id: A92011004
+  lastName: MUDr.
+  firstName: MIHÁLOVÁ Tatiana, PhD.
+  dtValidFrom: '2022-06-30T08:51:41.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928004201
+  zp:
+    - 24
+  JRUZID: null
+  pzsRec:
+    id: P12928004201
+    name: Cliniq s. r. o.
+- id: A92238001
+  lastName: KOLLÁROVÁ
+  firstName: Radka
+  dtValidFrom: '2022-07-20T11:46:55.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P81753001201
+  JRUZID: null
+  pzsRec:
+    id: P81753001201
+    name: Metská poliklinika Šurany
+- id: A92239060
+  lastName: MUDR.
+  firstName: Hartiníková Zuzana
+  dtValidFrom: '2021-02-11T11:38:19.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P29189060201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P29189060201
+    name: MUDR. Hartiníková Zuzana
+- id: A92711020
+  lastName: HLAVATÝ
+  firstName: TIBOR
+  dtValidFrom: '2022-03-14T11:27:48.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P42573020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P42573020202
+    name: Cliniq GP, s.r.o.
+- id: A99008001
+  lastName: MUDr.
+  firstName: Zuzana Adásková
+  dtValidFrom: '2021-04-15T10:12:47.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - O44282001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: O44282001201
+    name: NZZ Interná ambulancia
+- id: A99415020
+  lastName: CHLEBO
+  firstName: JENČOVÁ Miroslava
+  dtValidFrom: '2022-08-19T08:58:17.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P54463020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P54463020201
+    name: MOJA POLIKLINIKA
+- id: A95727020
+  lastName: KOVÁČOVÁ
+  firstName: Katarína
+  dtValidFrom: '2022-08-15T10:54:38.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P53300020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P53300020201
+    name: MediElic, s.r.o., CIZS, Nemocničná 1, Šala 92701
+- id: A77542010
+  lastName: HRIC
+  firstName: Milan
+  dtValidFrom: '2022-08-15T18:23:41.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P16521010401
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P16521010401
+    name: P16521010401
+- id: A19484801
+  lastName: KAJAN
+  firstName: Marek
+  dtValidFrom: '2022-08-16T09:13:23.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P50769010101
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P50769010101
+    name: P50769010101
+- id: A59175080
+  lastName: TÉGLÁSSY
+  firstName: Renáta
+  dtValidFrom: '2022-08-16T09:37:18.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P29723020201
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P29723020201
+    name: Benedictus MRM, s.r.o., Cukrová 12, Bratislava
+- id: A67987020
+  lastName: IDUNKOVÁ
+  firstName: Jana
+  dtValidFrom: '2022-08-16T10:41:41.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P49481020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P49481020201
+    name: Zdravá Župa, s.r.o.
+- id: A43829014
+  lastName: Hayatullah
+  firstName: Azimi
+  dtValidFrom: '2022-08-16T11:24:36.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P45904014201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P45904014201
+    name: AZIMED-ORL s.r.o.
+- id: A54747020
+  lastName: TURSKÁ
+  firstName: Jela
+  dtValidFrom: '2022-08-17T12:17:07.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P84346020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P84346020201
+    name: MUDr. TURSKÁ Jela s.r.o. všeobecná lekárka pre dospelých
+- id: A32909020
+  lastName: Bezáková
+  firstName: Danica
+  dtValidFrom: '2022-08-19T05:40:04.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P24514020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P24514020201
+    name: EL Medica s.r.o.
+- id: A58730020
+  lastName: Rybár
+  firstName: Miroslav
+  dtValidFrom: '2022-08-19T05:41:48.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P83432020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P83432020201
+    name: DAMED s.r.o.
+- id: A53026050
+  lastName: MARGITFALVIOVÁ
+  firstName: Jana
+  dtValidFrom: '2022-08-22T12:23:22.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928050201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928050201
+    name: Cliniq s. r. o.
+- id: A44534040
+  lastName: NOVOSADOVÁ
+  firstName: Helena
+  dtValidFrom: '2022-08-22T12:25:49.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928040201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928040201
+    name: Cliniq s. r. o.
+- id: A92998011
+  lastName: Török
+  firstName: Tomáš
+  dtValidFrom: '2022-08-22T12:27:48.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928011201
+    name: Cliniq s. r. o.
+- id: A67089011
+  lastName: HORÁK
+  firstName: Tomáš
+  dtValidFrom: '2022-08-22T12:29:17.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928011202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928011202
+    name: Cliniq s. r. o.
+- id: A84659012
+  lastName: LACHKOVIČOVÁ
+  firstName: Lívia
+  dtValidFrom: '2022-08-22T12:31:07.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928012202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928012202
+    name: Cliniq s. r. o.
+- id: A18154004
+  lastName: KREHEĽOVÁ
+  firstName: Ivana
+  dtValidFrom: '2023-03-23T08:45:25.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928004202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928004202
+    name: Cliniq s. r. o. Bezručova 5, 811 09 Bratislava
+- id: A44164020
+  lastName: KARIM
+  firstName: AZIZ Evelin
+  dtValidFrom: '2022-10-03T05:29:17.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P50438020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P50438020201
+    name: PRAKTIKMED spol. s.r.o. BRATISLAVA
+- id: A14968048
+  lastName: ŠTURDÍK
+  firstName: Igor
+  dtValidFrom: '2022-08-23T08:32:03.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928048204
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928048204
+    name: Gastroenterologické centrum Poliklinika Bezručova Bratislava
+- id: A70632008
+  lastName: FAIZI
+  firstName: Lal
+  dtValidFrom: '2022-08-24T19:00:51.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P25011008201
+  JRUZID: null
+  pzsRec:
+    id: P25011008201
+    name: LMF med s.r.o.
+- id: A06851020
+  lastName: RUSENOV
+  firstName: Marin Jr.
+  dtValidFrom: '2022-08-25T06:21:51.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P26573020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P26573020201
+    name: MEDMARU, s.r.o., Pri jazdiarni 1, 040 01 Košice
+- id: A85679020
+  lastName: KOŠÍKOVÁ
+  firstName: Jaroslava
+  dtValidFrom: '2022-08-25T11:53:08.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P96728020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P96728020201
+    name: JTK medical s.r.o.
+- id: A47882060
+  lastName: TURZOVÁ
+  firstName: Mária
+  dtValidFrom: '2022-08-25T12:00:35.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P96728060201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P96728060201
+    name: JTK medical s.r.o.
+- id: A08630004
+  lastName: URBANOVÁ
+  firstName: Ivana
+  dtValidFrom: '2022-08-30T08:45:54.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P61232004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P61232004201
+    name: Neospace
+- id: A78963020
+  lastName: Rutkovskyy
+  firstName: Andriy
+  dtValidFrom: '2022-09-05T07:47:23.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P33034020203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P33034020203
+    name: Palmed s.r.o.
+- id: A97958020
+  lastName: ČAJKOVÁ
+  firstName: Zlatica
+  dtValidFrom: '2022-11-04T10:02:52.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P99032020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P99032020202
+    name: OK AMBULANCIA, a.s.
+- id: A02050020
+  lastName: HOFFMANOVÁ
+  firstName: Angeliki
+  dtValidFrom: '2022-09-06T10:44:16.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P60780020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P60780020201
+    name: Praktická ambulancia s.r.o.
+- id: A37133020
+  lastName: MARTINÁKOVÁ
+  firstName: Monika
+  dtValidFrom: '2022-09-08T07:54:23.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P60780020205
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P60780020205
+    name: Praktická Ambulancia, s.r.o.
+- id: A90709020
+  lastName: Gaburová
+  firstName: Simonka
+  dtValidFrom: '2023-07-07T06:54:08.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P79023020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P79023020201
+    name: RUŽINOVSKÁ POLIKLINIKA a.s.
+- id: A91505020
+  lastName: Marcinková
+  firstName: Štefánia
+  dtValidFrom: '2022-09-09T05:11:36.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P50908020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P50908020201
+    name: MUDr. Šteffeková s.r.o.
+- id: A68308008
+  lastName: Achunonu
+  firstName: Maria
+  dtValidFrom: '2022-09-09T06:20:35.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P79802008201
+  JRUZID: null
+  pzsRec:
+    id: P79802008201
+    name: Ambulancia VLDD s.r.o.
+- id: A66491176
+  lastName: ŠLACHTOVSKÁ
+  firstName: Elena
+  dtValidFrom: '2022-09-09T07:46:13.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P74817008201
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P74817008201
+    name: Elimedic s.r.o.
+- id: A66491008
+  lastName: ŠLACHTOVSKÁ
+  firstName: Elena
+  dtValidFrom: '2022-09-09T07:51:39.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P74817008201
+  JRUZID: null
+  pzsRec:
+    id: P74817008201
+    name: Elimedic s.r.o.
+- id: A42169020
+  lastName: Zitrický
+  firstName: František
+  dtValidFrom: '2022-09-09T15:09:30.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P55931020201
+  zp:
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: P55931020201
+    name: MEDIPLUS Michalovce s.r.o.
+- id: A78345020
+  lastName: Porubän
+  firstName: Adam
+  dtValidFrom: '2022-09-12T08:36:09.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P35577020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P35577020201
+    name: TOP-MEDICA s.r.o.
+- id: A22903020
+  lastName: BÍROVÁ
+  firstName: Alena
+  dtValidFrom: '2022-09-13T12:27:21.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P23161020201
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P23161020201
+    name: AB VITALITA, s.r.o.
+- id: A94552022
+  lastName: CIGÁŇOVÁ
+  firstName: Viera
+  dtValidFrom: '2022-09-14T14:09:19.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P66867008201
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P66867008201
+    name: Zdravotné stredisko Záporožská 12
+- id: A47844001
+  lastName: KRCHŇÁKOVÁ
+  firstName: Ivana
+  dtValidFrom: '2022-09-14T14:22:14.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P24720001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P24720001201
+    name: Hipcentrum s.r.o.
+- id: A97015020
+  lastName: BOČKOVÁ
+  firstName: Miroslava
+  dtValidFrom: '2022-09-14T14:34:10.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P90284020203
+  zp:
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P90284020203
+    name: Merci, n.o. Babuškova 2 Bratislava
+- id: A38479020
+  lastName: GALLA
+  firstName: Karol
+  dtValidFrom: '2022-09-19T08:37:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P49707020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P49707020201
+    name: LH med s.r.o.
+- id: A39638008
+  lastName: KRČMÁRIKOVÁ
+  firstName: EVA
+  dtValidFrom: '2022-09-19T18:59:21.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - O98057008202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: O98057008202
+    name: Neštátna ambulancia Lehota
+- id: A40120045
+  lastName: CHLEPKOVÁ
+  firstName: Anna
+  dtValidFrom: '2022-09-20T12:20:12.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P91151045201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P91151045201
+    name: Ústredná vojenská nemocnica SNP Ružomberok FN
+- id: A87823050
+  lastName: BEDNÁRIK
+  firstName: Roman
+  dtValidFrom: '2022-09-21T05:50:50.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P29224050201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P29224050201
+    name: G-Pharma, s.r.o. Kapitulská 1 97401 Banská Bystrica
+- id: A50974004
+  lastName: Cuninková
+  firstName: Mária
+  dtValidFrom: '2022-09-21T08:38:00.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P54463004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P54463004201
+    name: Moja poliklinika a.s. MARTIN
+- id: A06597020
+  lastName: Šimurdová
+  firstName: Miroslava
+  dtValidFrom: '2022-09-25T12:33:36.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P26621020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P26621020201
+    name: SIMIAL s.r.o., ČK 85 25 , 02901 Námestovo
+- id: A13075020
+  lastName: HELIENKOVÁ
+  firstName: Katarína
+  dtValidFrom: '2022-09-28T09:53:23.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P49707020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P49707020201
+    name: Rodinný doktor Záporožská 12 85101 Bratislava
+- id: A68225011
+  lastName: KRAUSE
+  firstName: Róbert
+  dtValidFrom: '2022-09-28T09:58:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P17223011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P17223011201
+    name: END-ORT s.r.o. Hálkova 3 01001 Žilina
+- id: A94113004
+  lastName: Tarčák
+  firstName: Marek
+  dtValidFrom: '2022-09-30T10:19:12.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P70827004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P70827004201
+    name: NeurOne, n.o.
+- id: A89914010
+  lastName: WÁGNER
+  firstName: Erik
+  dtValidFrom: '2022-10-03T10:58:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N42231010202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N42231010202
+    name: Fakultná nemocnica s poliklinikou Banská Bystrica
+- id: A56418027
+  lastName: ŠAVELOVÁ
+  firstName: Eva
+  dtValidFrom: '2022-10-04T07:49:36.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P29189027201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P29189027201
+    name: Nemocničná a.s. Nemocnica Malacky
+- id: A58175020
+  lastName: TÉGLÁSSY
+  firstName: Renáta
+  dtValidFrom: '2022-10-11T11:50:13.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P29723020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P29723020201
+    name: Benediktus MRM, s.r.o. Cukrová 14, 81108 Bratislava
+- id: A34872020
+  lastName: Drienovská
+  firstName: Denisa
+  dtValidFrom: '2022-11-16T11:13:08.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P75954020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P75954020201
+    name: MITAMED s.r.o
+- id: A52395020
+  lastName: Fulopová
+  firstName: Jana
+  dtValidFrom: '2022-10-18T13:16:20.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P24215020202
+  zp:
+    - 24
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P24215020202
+    name: Prados sro
+- id: A71198001
+  lastName: MIKULOVÁ
+  firstName: Mária
+  dtValidFrom: '2022-10-20T06:20:33.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P50769001205
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P50769001205
+    name: Univerzitná NsP Milosrdní bratia, spol.s.r.o. nám SNP 10 81465 Bratislava
+- id: A52792018
+  lastName: POLAKOVIČOVÁ
+  firstName: Jana
+  dtValidFrom: '2022-10-28T05:50:11.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P11184018201
+  JRUZID: null
+  pzsRec:
+    id: P11184018201
+    name: ONKODERMA, s.r.o.
+- id: A57802018
+  lastName: DUCHOŇOVÁ
+  firstName: Michaela
+  dtValidFrom: '2022-11-07T13:45:16.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P02929018201
+  zp:
+    - 24
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P02929018201
+    name: SKIN CARE Šancová 110 83104 Bratislava
+- id: A30330009
+  lastName: SZABOVÁ
+  firstName: Bibiana
+  dtValidFrom: '2022-11-08T18:19:33.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P00708009201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P00708009201
+    name: GYNOSAN, s.r.o.
+- id: A27404020
+  lastName: DANIŠOVÁ
+  firstName: Anna
+  dtValidFrom: '2022-11-09T06:09:52.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P41531020201
+  JRUZID: null
+  pzsRec:
+    id: P41531020201
+    name: Zdravotné stredisko MUDr. Anna Danišová, s.r.o.
+- id: A88397005
+  lastName: Ondrušová
+  firstName: Silvia
+  dtValidFrom: '2022-11-14T07:46:38.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P77920005201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P77920005201
+    name: simaMENT s.r.o.
+- id: A59745008
+  lastName: TÓTHOVÁ
+  firstName: Katarína
+  dtValidFrom: '2022-11-14T12:52:04.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N22785008201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N22785008201
+    name: MUDr. Katarína Tóthová
+- id: A75046025
+  lastName: BALKO
+  firstName: Martin
+  dtValidFrom: '2022-11-18T10:23:18.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P33167025401
+  JRUZID: null
+  pzsRec:
+    id: P33167025401
+    name: ZÁCHRANNÁ SLUŽBA - Event Medical Solutions, s.r.o.
+- id: A18943004
+  lastName: Ľupták
+  firstName: ''
+  dtValidFrom: '2022-11-24T07:37:44.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P94462004202
+  zp:
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P94462004202
+    name: Mlynská dolina s.r.o.  Staré Grunty
+- id: A63116063
+  lastName: HANÁKOVÁ
+  firstName: Erika
+  dtValidFrom: '2022-11-22T09:42:15.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N84313063201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N84313063201
+    name: Pemax-Nefro, s.r.o., Nefrologická ambulancia, Sv. Jakuba 21, Bardejov
+- id: A67747020
+  lastName: Rutajová
+  firstName: ''
+  dtValidFrom: '2022-11-24T07:45:21.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P71408020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P71408020201
+    name: Všeobecný lekár DNV, s.r.o. Istrijská 8B, 8A Bratislava
+- id: A25604801
+  lastName: Takáčová
+  firstName: ''
+  dtValidFrom: '2022-11-24T12:21:46.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P40707015103
+  zp:
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: P40707015103
+    name: UNB Nemocnica sv C a M Bratislava
+- id: A55313045
+  lastName: Lukáč
+  firstName: ''
+  dtValidFrom: '2022-11-29T13:24:45.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P48071045101
+  JRUZID: null
+  pzsRec:
+    id: P48071045101
+    name: NÚRCH Piešťany
+- id: A88429088
+  lastName: Bindzárová
+  firstName: ''
+  dtValidFrom: '2022-11-30T09:27:33.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P40707031504
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P40707031504
+    name: UNB Nem. ak. L. Dérera Bratislava
+- id: A86166020
+  lastName: Fabianová
+  firstName: Andrea
+  dtValidFrom: '2022-12-01T12:34:58.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P50908020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P50908020201
+    name: MUDR.Šteffeková Darina r.r.o
+- id: A33595801
+  lastName: PISAREVA
+  firstName: ' Olga'
+  dtValidFrom: '2022-12-01T13:31:19.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P27399018203
+  JRUZID: null
+  pzsRec:
+    id: P27399018203
+    name: 'PRO SANUS, a.s., Einstainova 25, 851 01 Bratislava, Prevádzka: Jelačičova 7, 821 08 Bratislava'
+- id: A92760026
+  lastName: Hlavatý
+  firstName: Tibor
+  dtValidFrom: '2022-12-01T13:48:39.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P05757040201
+  JRUZID: null
+  pzsRec:
+    id: P05757040201
+    name: NZZ ImunoVital Centrum Jašíkova 2
+- id: A52366020
+  lastName: MACKOVÁ
+  firstName: EVA
+  dtValidFrom: '2022-12-05T13:54:38.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P55931020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P55931020201
+    name: Mediplus Michalovce, s.r.o.
+- id: A93158063
+  lastName: Durdíková
+  firstName: Lucia
+  dtValidFrom: '2022-12-07T09:43:39.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P86027063202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P86027063202
+    name: NsP Nové Mesto n/V nefrologická ambulancia
+- id: A45015001
+  lastName: Gimová
+  firstName: Mária
+  dtValidFrom: '2022-12-09T13:59:02.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P59086001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P59086001201
+    name: MEDANTE clinic s.r.o.
+- id: A14644020
+  lastName: MUDr.
+  firstName: Mgr. Štiak Peter
+  dtValidFrom: '2022-12-14T06:05:47.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P84715020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P84715020202
+    name: Medcentrum Žilina
+- id: A33059020
+  lastName: Hassan
+  firstName: Daniel
+  dtValidFrom: '2022-12-19T07:46:18.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P27399020212
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P27399020212
+    name: PRO SANUS, a.s.
+- id: A11200013
+  lastName: JAKUBČO
+  firstName: JÁN
+  dtValidFrom: '2022-12-19T11:27:47.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N33067013101
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N33067013101
+    name: Fakultná nemocnica s poliklinikou J. A. Reimana Prešov
+- id: A92084015
+  lastName: ALAKŠOVÁ
+  firstName: Tatiana
+  dtValidFrom: '2022-12-23T09:22:34.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P54224015201
+  zp:
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P54224015201
+    name: ŽMURK s.r.o. Oftamologická ambulancia Šustekova 2422/2, 85104 Bratislava
+- id: A08293015
+  lastName: HRUŠOVSKÁ
+  firstName: Dana
+  dtValidFrom: '2022-12-29T14:03:58.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928015201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928015201
+    name: Cliniq s. r. o.
+- id: A74702012
+  lastName: ROMANČÍK
+  firstName: Martin
+  dtValidFrom: '2022-12-29T14:05:08.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928012201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928012201
+    name: Cliniq s. r. o.
+- id: A50030045
+  lastName: BAKOŠOVÁ
+  firstName: Martina
+  dtValidFrom: '2023-01-26T15:41:53.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928045201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928045201
+    name: Cliniq s. r. o., Bezručova 5, 811 09 Bratislava
+- id: A74702012
+  lastName: ROMANČÍK
+  firstName: Martin
+  dtValidFrom: '2022-12-29T14:37:42.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928012401
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928012401
+    name: 012 JZS Urológia, Cliniq s . r. o. Bezručova 2531/5 Bratislava 81109
+- id: A31239009
+  lastName: PIŠKANINOVÁ
+  firstName: Milica
+  dtValidFrom: '2022-12-29T14:39:39.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928009401
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928009401
+    name: 009 - JZS Gynekológia, Cliniq s. r. o., Bezručova 2531/5 Bratislava 81109
+- id: A92998011
+  lastName: Török
+  firstName: Tomáš
+  dtValidFrom: '2022-12-29T14:42:09.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928011401
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928011401
+    name: 011 JZS Ortopédia, Cliniq s. r. o. , Bezručova 2531/5 Bratislava 81109
+- id: A67089011
+  lastName: HORÁK
+  firstName: Tomáš
+  dtValidFrom: '2022-12-29T14:44:28.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928011401
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928011401
+    name: 011 JZS Ortopédia, Cliniq s. r. o., Bezručova 2531/5 Bratislava, 81109
+- id: A84659012
+  lastName: LACHKOVIČOVÁ
+  firstName: Lívia
+  dtValidFrom: '2022-12-29T14:46:09.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928012401
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928012401
+    name: 012 JZS Urológia, Cliniq s. r. o., Bezručova 2531/5, Bratislava 81109
+- id: A73006801
+  lastName: KOZMON
+  firstName: Michael
+  dtValidFrom: '2023-01-03T14:15:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P19444011201
+  JRUZID: null
+  pzsRec:
+    id: P19444011201
+    name: Neurologická ambulancia FYZIOKLINIK, s.r.o., Mlynské nivy 61/A, 82105 Bratislava
+- id: A49155020
+  lastName: JOZEF
+  firstName: JÁN
+  dtValidFrom: '2023-01-10T12:47:21.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P59129020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P59129020201
+    name: MUDr. Ján Jozef, s.r.o.
+- id: A97015020
+  lastName: Bočková
+  firstName: Miroslava
+  dtValidFrom: '2023-01-13T06:40:46.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P05962020201
+  zp:
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P05962020201
+    name: Rimed, s.r.o.
+- id: A23372020
+  lastName: LORÁND
+  firstName: Allan
+  dtValidFrom: '2023-01-16T06:39:58.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P95540020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P95540020201
+    name: NEMESIA s.r.o.
+- id: A84287013
+  lastName: Kilian
+  firstName: Miroslav
+  dtValidFrom: '2023-01-18T08:31:45.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P04373011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P04373011201
+    name: Expert Medical Services s.r.o.
+- id: A26097004
+  lastName: STRAKA
+  firstName: Igor
+  dtValidFrom: '2023-01-18T08:48:51.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P89104004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P89104004201
+    name: Premedix
+- id: A35003020
+  lastName: ŽUFFOVÁ
+  firstName: Diana
+  dtValidFrom: '2023-01-19T05:57:51.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P02157020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P02157020201
+    name: Klemens Medical s.r.o. Ľ. Štúra 18, 94002 Nové Zámky
+- id: A38479020
+  lastName: Galla
+  firstName: Karol
+  dtValidFrom: '2023-01-19T11:48:50.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P49707020203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P49707020203
+    name: Všeobecný lekár pre dospelých
+- id: A59634020
+  lastName: GRYGORYK
+  firstName: Marta
+  dtValidFrom: '2023-01-24T05:40:46.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P81753020204
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P81753020204
+    name: Mestská poliklinika, SNP 2, Šurany
+- id: A27316040
+  lastName: MÁJOVSKÁ
+  firstName: Lucia
+  dtValidFrom: '2023-01-24T10:07:52.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P31683040203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P31683040203
+    name: Onkologický ústav sv. Alžbety, Bratislava
+- id: A67459011
+  lastName: Szabó
+  firstName: Mikuláš
+  dtValidFrom: '2023-01-24T13:36:16.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P04373011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P04373011201
+    name: Expert Medical Services s.r.o.
+- id: A34838020
+  lastName: Holzerová
+  firstName: Denisa
+  dtValidFrom: '2023-01-26T12:11:14.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P98355020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P98355020201
+    name: MDclinic
+- id: A60987015
+  lastName: DLOUHÁ
+  firstName: Katarína
+  dtValidFrom: '2025-02-27T08:21:20.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P22002015201
+  zp:
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P22002015201
+    name: K&M, Saratovská 24, Bratislava s.r.o.
+- id: A52311020
+  lastName: KOVÁČOVÁ
+  firstName: VIktória
+  dtValidFrom: '2023-02-02T10:01:35.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P38533020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P38533020201
+    name: KOVI praktik s.r.o.
+- id: A42629011
+  lastName: ČEMBOVÁ
+  firstName: Nikoleta
+  dtValidFrom: '2023-02-03T06:42:28.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P49970011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P49970011201
+    name: Ortoport s.r.o., Fedinova 9 Bratislava
+- id: A11344027
+  lastName: HRUŠKOVÁ
+  firstName: Monika
+  dtValidFrom: '2023-02-06T08:37:18.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P72361027201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P72361027201
+    name: Ambulancia FBLR
+- id: A40550020
+  lastName: SADLOŇOVÁ
+  firstName: ' Eva'
+  dtValidFrom: '2023-02-10T08:24:07.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P93330020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P93330020201
+    name: SPAOLO s.r.o
+- id: A38928020
+  lastName: OLLÁRYOVÁ
+  firstName: Veronika
+  dtValidFrom: '2023-06-06T11:37:04.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P23897020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P23897020201
+    name: LV-Pro s.r.o. Dunajská Streda
+- id: A63694020
+  lastName: JAKABOVÁ
+  firstName: Ľubica
+  dtValidFrom: '2023-02-15T08:32:55.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P04035020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P04035020201
+    name: RS Health Consulting s.r.o. Nové Zámky
+- id: A27483801
+  lastName: KOPÁLOVÁ
+  firstName: Kamila
+  dtValidFrom: '2023-02-16T09:24:40.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P74130015403
+  JRUZID: null
+  pzsRec:
+    id: P74130015403
+    name: EXCIMER spol. s.r.o., J Stanislava 20/E. 841 05 Bratislava
+- id: A29979020
+  lastName: Patrícia
+  firstName: Vrabeľ Barillová
+  dtValidFrom: '2023-03-07T07:22:07.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P36845020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P36845020202
+    name: Univerzitná nemocnica Nemocnica svätého Michala, a. s.
+- id: A88421020
+  lastName: PELIKÁN
+  firstName: Rudolf
+  dtValidFrom: '2023-02-20T13:25:45.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P86690020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P86690020201
+    name: RP-Med s.r.o. všeobecná ambulancia pre dospelých
+- id: A84402008
+  lastName: VISOLAJSKÁ
+  firstName: Kristína
+  dtValidFrom: '2023-02-23T15:42:55.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P35717008201
+  JRUZID: null
+  pzsRec:
+    id: P35717008201
+    name: Visped s.r.o., Čajkovského 44, 94911 Nitra
+- id: A84865020
+  lastName: HEČKO
+  firstName: Matej
+  dtValidFrom: '2023-02-28T12:34:06.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P13936020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P13936020201
+    name: JLQM s.r.o.
+- id: A63569001
+  lastName: Sládkovičová
+  firstName: Ľubica
+  dtValidFrom: '2023-03-01T08:36:50.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P79023001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P79023001201
+    name: Ružinovská Poliklinika s.s.
+- id: A11790020
+  lastName: Lóška
+  firstName: Libor
+  dtValidFrom: '2023-03-04T10:13:22.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P19483020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P19483020201
+    name: Ambulancia všeobecného lekára pre dospelých
+- id: A96757020
+  lastName: Jánošíková
+  firstName: Zuzana
+  dtValidFrom: '2023-03-07T08:24:14.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P79232020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P79232020201
+    name: ZDRAVOTNÉ STREDISKO Nitrianske Rudno
+- id: A69787001
+  lastName: KUČERA
+  firstName: Marek
+  dtValidFrom: '2023-03-07T13:15:46.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P49455020201
+  zp:
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P49455020201
+    name: VITACARE
+- id: A85225020
+  lastName: KRIŽALKOVIČ
+  firstName: Peter
+  dtValidFrom: '2023-03-10T08:10:56.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P36037020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P36037020201
+    name: Toppraktik s.r.o.
+- id: A18657020
+  lastName: RZHEVSKA
+  firstName: Kseniia
+  dtValidFrom: '2023-03-15T12:29:12.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P27399020207
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P27399020207
+    name: PROSANUS a.s. Einsteinova 25, 851 01 Bratislava
+- id: A54292020
+  lastName: ZAJACOVÁ
+  firstName: Miriam
+  dtValidFrom: '2023-03-16T07:51:34.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P42535020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P42535020201
+    name: MiriaMed s.r.o.
+- id: A12040001
+  lastName: ŠKUNTA
+  firstName: Martin
+  dtValidFrom: '2023-04-04T06:34:46.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P77253001203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P77253001203
+    name: InterPraktik s.r.o.Veličná
+- id: A61153003
+  lastName: BÁNSKA
+  firstName: Katarína
+  dtValidFrom: '2023-03-16T11:34:52.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P42915003201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P42915003201
+    name: Poliklinika Karlova Ves
+- id: A73699154
+  lastName: MICHNOVÁ
+  firstName: Zuzana
+  dtValidFrom: '2023-03-16T12:13:41.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N19681154202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N19681154202
+    name: Národný ústav detskej TaRCH, n.o., Dolný Smokovec
+- id: A57549020
+  lastName: Lelkes
+  firstName: Imrich
+  dtValidFrom: '2023-03-16T12:08:51.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P95852020201
+  zp:
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: P95852020201
+    name: LIMIMED s.r.o.
+- id: A98289019
+  lastName: UHRÍKOVÁ
+  firstName: Marcela
+  dtValidFrom: '2023-03-17T13:58:56.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N55857019201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N55857019201
+    name: POKO-POPRAD, s.r.o. Mnoheľova 842/2 05801 Poprad
+- id: A17944020
+  lastName: Štefanková
+  firstName: Ingrid
+  dtValidFrom: '2023-03-21T07:37:55.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P64308020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P64308020201
+    name: Prakt. a estet. medicína s.r.o.
+- id: A57607020
+  lastName: Horňáková
+  firstName: Gabriela
+  dtValidFrom: '2025-11-11T10:23:14.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N93673020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N93673020201
+    name: Hormed,s.r.o.,Nižná
+- id: A56551020
+  lastName: Majerník
+  firstName: Jozef
+  dtValidFrom: '2023-03-21T11:37:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P63620020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P63620020202
+    name: HEALTH MANAGEMENT GROUP s.r.o.
+- id: A30428801
+  lastName: MINARIČ
+  firstName: Šimon
+  dtValidFrom: '2023-03-28T12:30:35.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P40707015101
+  zp:
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: P40707015101
+    name: UNB, Nemocnica Ružinov Bratislava
+- id: A17493020
+  lastName: Dammak
+  firstName: Viera
+  dtValidFrom: '2023-03-30T08:18:12.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P04935020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P04935020202
+    name: SORISSO s.r.o
+- id: A80453004
+  lastName: Gabrišková
+  firstName: Monika
+  dtValidFrom: '2023-04-03T09:17:40.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P84713004203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P84713004203
+    name: NOVAPHARM s.r.o
+- id: A35997020
+  lastName: Süliová
+  firstName: Regina
+  dtValidFrom: '2023-04-04T05:18:14.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P58656020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P58656020201
+    name: PROMETEUM s.r.o.
+- id: A70052801
+  lastName: TÓTHOVÁ
+  firstName: Michaela
+  dtValidFrom: '2023-04-06T06:39:35.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P02929018202
+  JRUZID: null
+  pzsRec:
+    id: P02929018202
+    name: SKIN CARE s.r.o. , Strečnianska 13, 851 05 Bratislava
+- id: A75632020
+  lastName: ARONOVÁ
+  firstName: Stanislava
+  dtValidFrom: '2023-04-11T07:58:52.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P86144020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P86144020201
+    name: ORDINÁCIA s.r.o.
+- id: A29931020
+  lastName: Mišigová
+  firstName: Iva
+  dtValidFrom: '2023-04-11T12:47:00.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P87239020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P87239020201
+    name: DESPLAZARSA s.r.o. BRATISLAVA
+- id: A09749020
+  lastName: Štefinová
+  firstName: Zuzana
+  dtValidFrom: '2023-04-13T11:23:51.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P85834020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P85834020201
+    name: Zdravotné stredisko Šenkvice
+- id: A70961020
+  lastName: TOMKOVÁ
+  firstName: Táňa
+  dtValidFrom: '2023-04-14T14:43:50.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P76620020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P76620020201
+    name: Ambulancia Modrá, s.r.o.
+- id: A04728020
+  lastName: SOBOŇA
+  firstName: Viliam st.
+  dtValidFrom: '2023-04-19T07:51:47.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P81095020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P81095020202
+    name: FNsP Nové Zámky, Slovenská 11
+- id: A85071001
+  lastName: Babalová
+  firstName: Černá Kristína
+  dtValidFrom: '2023-04-27T09:19:18.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P24679001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P24679001201
+    name: interná ambulancia BM
+- id: A55834020
+  lastName: Cabanová
+  firstName: Bronislava
+  dtValidFrom: '2023-04-19T12:55:48.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P59248020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P59248020201
+    name: DUPPRA s.r.o.
+- id: A40655801
+  lastName: Čontofalská
+  firstName: Júlia
+  dtValidFrom: '2023-04-21T11:29:33.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P46969020201
+  JRUZID: null
+  pzsRec:
+    id: P46969020201
+    name: MediConty s.r.o.
+- id: A20137801
+  lastName: Tims
+  firstName: Lukáš
+  dtValidFrom: '2023-04-24T12:14:07.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P40707184802
+  zp:
+    - 24
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: P40707184802
+    name: Lekár
+- id: A15495009
+  lastName: Zakrevskaya
+  firstName: Kseniya
+  dtValidFrom: '2023-04-25T08:10:38.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P00489009201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P00489009201
+    name: Gynekológ
+- id: A01518020
+  lastName: Hatem
+  firstName: Ahmed Mohammed Abu Murad
+  dtValidFrom: '2023-04-25T10:11:27.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P76050020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P76050020202
+    name: H.A.M. Academy s.r.o.
+- id: A52893008
+  lastName: Maďarová
+  firstName: Jana
+  dtValidFrom: '2023-04-25T13:43:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P90994008201
+  JRUZID: null
+  pzsRec:
+    id: P90994008201
+    name: Madar Med s.r.io.
+- id: A09234020
+  lastName: Vlčko
+  firstName: Michal
+  dtValidFrom: '2023-04-26T05:11:20.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P60780020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P60780020202
+    name: Praktická Ambulancia s.r.o.
+- id: A97616045
+  lastName: Kilinger
+  firstName: Zdenko
+  dtValidFrom: '2023-04-26T08:36:34.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P40707045201
+  JRUZID: null
+  pzsRec:
+    id: P40707045201
+    name: reumatológ
+- id: A27536801
+  lastName: VARGA
+  firstName: SZMOLKOVÁ Melinda
+  dtValidFrom: '2023-04-27T05:08:38.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P23815020201
+  zp:
+    - 24
+  JRUZID: null
+  pzsRec:
+    id: P23815020201
+    name: MUDr. EMIL MILEV s.r.o. Nové Zámky
+- id: A54658001
+  lastName: SLEZÁKOVÁ
+  firstName: Laura
+  dtValidFrom: '2023-04-27T10:32:38.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928001201
+    name: Cliniq s. r. o., Bezručova 5, 811 09 Bratislava
+- id: A74702322
+  lastName: ROMANČÍK
+  firstName: Martin
+  dtValidFrom: '2023-04-27T10:33:58.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928322201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928322201
+    name: Cliniq s. r. o., Bezručova 5, 811 09 Bratislava
+- id: A22846801
+  lastName: Harsányi
+  firstName: Štefan
+  dtValidFrom: '2023-05-04T12:18:08.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P36845001101
+  JRUZID: null
+  pzsRec:
+    id: P36845001101
+    name: Univerzitná nemocnica - Nemocnica svätého Michala, a. s.
+- id: A51363020
+  lastName: Pažitná
+  firstName: Magdaléna
+  dtValidFrom: '2023-05-10T06:05:39.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P27399020213
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P27399020213
+    name: PRO SANUS, a.s., Einsteinova 25, 85101 Bratislava
+- id: A52364001
+  lastName: PERNICKÝ
+  firstName: Miroslav
+  dtValidFrom: '2023-05-24T10:44:13.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P24720001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P24720001201
+    name: Hipcentrum s.r.o., Holubyho 41, 90201 Pezinok
+- id: A69075801
+  lastName: Matúšek
+  firstName: Michal
+  dtValidFrom: '2023-05-11T06:36:33.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P40707027502
+  JRUZID: null
+  pzsRec:
+    id: P40707027502
+    name: UNB, Nem. Staré Mesto, Bratislava
+- id: A63116063
+  lastName: HANÁKOVÁ
+  firstName: Erika
+  dtValidFrom: '2022-11-22T09:42:15.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N84313208601
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N84313208601
+    name: Pemax-Nefro, s.r.o., Nefrologická ambulancia, Sv. Jakuba 21, Bardejov
+- id: A72112020
+  lastName: MAŠKULÍK
+  firstName: MARIÁN
+  dtValidFrom: '2023-05-19T11:54:34.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P39644020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P39644020201
+    name: MAŠ-LEK, s.r.o.
+- id: A04922020
+  lastName: BARANOVÁ
+  firstName: Diana
+  dtValidFrom: '2023-05-23T04:30:14.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P72508020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P72508020201
+    name: DIAGMED s.r.o. Mlynská 26, Košice
+- id: A86081049
+  lastName: Kyčina
+  firstName: Peter
+  dtValidFrom: '2023-05-24T06:35:40.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P38167049201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P38167049201
+    name: Heart consulting ,s.r.o. Štúrova 4330/25 Liptovský Mikuláš
+- id: A54990020
+  lastName: STAREKOVÁ
+  firstName: Miriam
+  dtValidFrom: '2023-05-24T12:43:42.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P27399020210
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P27399020210
+    name: PRO SANUS a.s. Bratislava
+- id: A22689020
+  lastName: Sandtnerová
+  firstName: Agnesa
+  dtValidFrom: '2023-05-31T07:18:20.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - R50192020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: R50192020201
+    name: Senecká 1595/23, Pezinok 90201
+- id: A00461020
+  lastName: ŠELMECIOVÁ
+  firstName: Petra
+  dtValidFrom: '2023-06-06T05:39:52.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P87029020201
+  JRUZID: null
+  pzsRec:
+    id: P87029020201
+    name: AGEL Clinic s.r.o.
+- id: A91437020
+  lastName: MONCOVÁ
+  firstName: Štefánia
+  dtValidFrom: '2023-06-06T08:34:51.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P59790020210
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P59790020210
+    name: Euromedix, a.s.
+- id: A13075020
+  lastName: MUDr.
+  firstName: Helienková Katarína
+  dtValidFrom: '2023-06-07T08:04:30.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P84788020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P84788020202
+    name: všeobecný lekár pre dospelých
+- id: A79806020
+  lastName: Mohamed
+  firstName: Abu Zaid
+  dtValidFrom: '2023-06-08T05:49:26.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N76389020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N76389020201
+    name: LEK HUMANITA s.r.o.
+- id: A98569020
+  lastName: Baloghová
+  firstName: Zuzana
+  dtValidFrom: '2023-06-08T08:30:55.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P47776020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P47776020201
+    name: všeobecný lekár
+- id: A42272801
+  lastName: SEDLÁKOVÁ
+  firstName: Jana
+  dtValidFrom: '2023-06-08T12:22:35.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - p40707027502
+  JRUZID: null
+  pzsRec:
+    id: p40707027502
+    name: UNB, Nem. Staré Mesto, Bratislava
+- id: A67747020
+  lastName: Rutaiová
+  firstName: Martina
+  dtValidFrom: '2023-06-08T13:15:50.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P71408050201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P71408050201
+    name: Všeobecný lekár DNV
+- id: A50315004
+  lastName: SIEBERTOVÁ
+  firstName: Ivona
+  dtValidFrom: '2023-06-12T11:20:58.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P59086004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P59086004201
+    name: MEDANTE Clinic. s.r.o.
+- id: A50003011
+  lastName: ŽABKA
+  firstName: Martin
+  dtValidFrom: '2025-06-25T11:56:12.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P49970011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P49970011201
+    name: ORTOPORT s.r.o., Fedinova 9, Bratislava
+- id: A69787001
+  lastName: ŠIMALJAKOVÁ
+  firstName: Mária
+  dtValidFrom: '2023-06-13T09:27:11.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P40707018101
+  zp:
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P40707018101
+    name: UNB Nem. Staré Mesto, Bratislava
+- id: A43695020
+  lastName: TALAFOVÁ
+  firstName: HANA
+  dtValidFrom: '2023-06-16T06:47:33.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P23906020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P23906020201
+    name: Ambulancia všeobecného lekárstva - G G ambulancia, s. r. o.
+- id: A05356048
+  lastName: Zelinková
+  firstName: Zuzana
+  dtValidFrom: '2023-06-16T09:21:39.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P25534048203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P25534048203
+    name: gastroenterológ
+- id: A91179801
+  lastName: POHANKA
+  firstName: Pavol
+  dtValidFrom: '2023-06-19T11:12:28.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P66051975801
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P66051975801
+    name: Liptovská nemocnica s poliklinikou MUDr.Ivana Stodolu Liptovský Mikuláš
+- id: A87596011
+  lastName: REŽUCHA
+  firstName: Robert
+  dtValidFrom: '2023-06-19T14:31:23.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P16826011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P16826011201
+    name: Ortoped 7, s.r.o.
+- id: A66285020
+  lastName: MOCHNÁČ
+  firstName: TOMÁŠ
+  dtValidFrom: '2023-06-20T10:53:53.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P45360020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P45360020201
+    name: TOMCARE, s.r.o.
+- id: A73006801
+  lastName: KOZMON
+  firstName: Michal
+  dtValidFrom: '2023-06-22T06:44:08.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P94462004202
+  JRUZID: null
+  pzsRec:
+    id: P94462004202
+    name: Medicínske zariadenie Mlynská dolina s.r.o., Staré Grunty 56, 841 04 Bratislava
+- id: A57363011
+  lastName: Ševcech
+  firstName: Boris
+  dtValidFrom: '2023-06-26T08:14:52.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P16521011401
+  zp:
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: P16521011401
+    name: ortopéd
+- id: B81427016
+  lastName: FEDOROVÁ
+  firstName: Katarína
+  dtValidFrom: '2023-06-26T08:28:22.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P31683802214
+  JRUZID: null
+  pzsRec:
+    id: P31683802214
+    name: Onkologický ústav sv. Alžbety Bratislava
+- id: A03558801
+  lastName: URBANOVÁ
+  firstName: EVA
+  dtValidFrom: '2023-06-26T13:46:51.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N35733020201
+  zp:
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N35733020201
+    name: MED-AID, s.r.o.
+- id: A06428031
+  lastName: BARTOVIČ
+  firstName: BEDNÁROVÁ JANKA
+  dtValidFrom: '2023-06-27T08:26:10.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P40707031209
+  zp:
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P40707031209
+    name: UNB ŠGN Podunajské Biskupice - Bratislava
+- id: A24114020
+  lastName: MAGÁH
+  firstName: Martin
+  dtValidFrom: '2024-06-04T07:56:36.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P59086020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P59086020202
+    name: MEDANTE Clinic s.r.o.
+- id: A72458020
+  lastName: Uhlík
+  firstName: Marián
+  dtValidFrom: '2023-07-10T06:45:39.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P24465020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P24465020202
+    name: MUHLIK s.r.o., Brnenská 330, Kúty
+- id: A70605014
+  lastName: LESAY
+  firstName: Michal
+  dtValidFrom: '2023-07-11T08:04:53.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P02828014202
+  JRUZID: null
+  pzsRec:
+    id: P02828014202
+    name: Centrum Kramáre spol. s.r.o.
+- id: A34203020
+  lastName: SOJKOVÁ
+  firstName: Jaroslava
+  dtValidFrom: '2023-07-12T06:23:03.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P35383020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P35383020201
+    name: FaMa Med s.r.o., P. Horova 14, 841 07 Bratislava
+- id: A49173010
+  lastName: MIHALEĆKO
+  firstName: Ján
+  dtValidFrom: '2023-07-12T10:38:10.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P96713010201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P96713010201
+    name: MEDLIFE plus, s.r.o.
+- id: A70950020
+  lastName: VAITOVIČOVÁ
+  firstName: Mária
+  dtValidFrom: '2023-07-17T08:44:37.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P43979187502
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P43979187502
+    name: Nemocnica AGEL Košice - Šaca, a.s.
+- id: A97015020
+  lastName: Bočková
+  firstName: Miroslava
+  dtValidFrom: '2023-07-26T06:10:41.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P49707020202
+  zp:
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P49707020202
+    name: LH med s.r.o.
+- id: A69050001
+  lastName: Turanská
+  firstName: Monika
+  dtValidFrom: '2023-07-26T06:23:01.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P49707001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P49707001201
+    name: LH med s.r.o., Malacky
+- id: A23154020
+  lastName: MUDr.
+  firstName: Zuzana Mačudová
+  dtValidFrom: '2023-08-03T10:06:12.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P91318020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P91318020201
+    name: Profi VLD, s.r.o.
+- id: A68101020
+  lastName: PARDUBSKÁ
+  firstName: Mária
+  dtValidFrom: '2023-08-22T09:27:40.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P60780020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P60780020202
+    name: Praktická ambulancia s.r.o. Seberíniho 1, Bratislava
+- id: A51658020
+  lastName: El
+  firstName: Khawajová Janka MUDr.
+  dtValidFrom: '2023-08-17T07:35:10.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P94003020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P94003020201
+    name: všeobecný lekár pre dospelých
+- id: A89375004
+  lastName: ŠELIGOVÁ
+  firstName: ' Slavomíra'
+  dtValidFrom: '2023-08-21T09:09:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P89104004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P89104004201
+    name: Premedix, Jelšová 1, 831 01 Bratislava
+- id: A62151013
+  lastName: Barinka
+  firstName: Jozef
+  dtValidFrom: '2023-09-05T08:48:06.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P49970011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P49970011201
+    name: ORTOPORT, s.r.o.
+- id: A09334020
+  lastName: Laurov
+  firstName: Pavol
+  dtValidFrom: '2023-09-06T14:07:59.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P39798020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P39798020201
+    name: PLZCH s.r.o.
+- id: A38452020
+  lastName: Haraga
+  firstName: Andrej
+  dtValidFrom: '2023-09-07T10:09:02.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P78858020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P78858020201
+    name: Varia Medica s.r.o.
+- id: A51862001
+  lastName: Medžo
+  firstName: Ivan
+  dtValidFrom: '2023-09-07T10:41:42.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P34055001201
+  JRUZID: null
+  pzsRec:
+    id: P34055001201
+    name: Sempersa s.r.o.
+- id: A60427048
+  lastName: Melichar
+  firstName: Tomáš
+  dtValidFrom: '2023-09-19T10:02:12.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P95589048201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P95589048201
+    name: IMUNO GASTRO TOP s.r.o.
+- id: A55073004
+  lastName: BOROVSKÁ
+  firstName: Jana
+  dtValidFrom: '2023-09-19T12:55:58.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928004201
+    name: Cliniq s.r.o.
+- id: A34194020
+  lastName: BALÁŽOVÁ
+  firstName: Lucia
+  dtValidFrom: '2023-09-27T13:30:15.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P84713020234
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P84713020234
+    name: NOVAPHARM, s.r.o., ProCare, Priemyselná 12, 962 01 Žiar nad Hronom
+- id: A47314045
+  lastName: Ujvári
+  firstName: Ivan
+  dtValidFrom: '2023-09-29T06:25:24.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P48413045201
+  JRUZID: null
+  pzsRec:
+    id: P48413045201
+    name: Reumatológ, s.r.o.
+- id: A32848008
+  lastName: HAZAY
+  firstName: DANA
+  dtValidFrom: '2023-09-29T08:33:21.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P27495008201
+  JRUZID: null
+  pzsRec:
+    id: P27495008201
+    name: MEDICPED, s.r.o.
+- id: A90904068
+  lastName: Javiľaková
+  firstName: Jana
+  dtValidFrom: '2023-10-09T07:22:55.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N34535068201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N34535068201
+    name: Nemocnica Dr. Vojtecha Alexandra v Kežmarku n.o.
+- id: A01113801
+  lastName: POLLÁKOVÁ
+  firstName: ALEXANDRA
+  dtValidFrom: '2023-10-09T10:22:51.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P86847015402
+  JRUZID: null
+  pzsRec:
+    id: P86847015402
+    name: 3F, s.r.o., Mikrochirurgia oka
+- id: A51329023
+  lastName: ŠTEFÁNIKOVÁ
+  firstName: Silvia
+  dtValidFrom: '2023-10-09T13:35:55.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928009201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928009201
+    name: Cliniq s.r.o.
+- id: A87716045
+  lastName: MAGYAR
+  firstName: Róbert
+  dtValidFrom: '2023-10-18T09:19:22.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P07438045201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P07438045201
+    name: REMEDIUM, s.r.o.
+- id: A77339025
+  lastName: Ožvoldová
+  firstName: Kristína
+  dtValidFrom: '2023-10-23T12:49:49.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P79294025401
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P79294025401
+    name: SAPIENTIA, s.r.o.
+- id: A70961020
+  lastName: Tomková
+  firstName: Táňa MUDr.
+  dtValidFrom: '2023-10-25T09:40:20.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P25854020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P25854020201
+    name: TT-MED. s.r.o., Drieňová 38, Bratislava
+- id: A74027020
+  lastName: Makyšová
+  firstName: Marta
+  dtValidFrom: '2023-10-25T11:46:27.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P49018020205
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P49018020205
+    name: Winterklinik s.r.o
+- id: A21086020
+  lastName: Hraboš
+  firstName: ''
+  dtValidFrom: '2023-11-02T09:57:07.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P79359020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P79359020201
+    name: LUCAMED SK, s.r.o.
+- id: A48843020
+  lastName: CIBULOVÁ
+  firstName: Jana
+  dtValidFrom: '2023-11-03T09:59:21.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P27399020206
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P27399020206
+    name: PRO SANUS, a.s. , Einsteinova 25, 851 01 Bratislava
+- id: A38113011
+  lastName: Varahram
+  firstName: Ali, MUDr.
+  dtValidFrom: '2023-11-06T12:06:04.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P49970011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P49970011201
+    name: ORTOPORT, s.r.o.
+- id: A89777020
+  lastName: Jakubovičová
+  firstName: Veronika
+  dtValidFrom: '2023-11-06T13:11:47.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P48069020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P48069020201
+    name: Pro vobis s.r.o
+- id: A95871020
+  lastName: RANDUS
+  firstName: Vladimír
+  dtValidFrom: '2023-11-10T06:11:32.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P79294020201
+  zp:
+    - 24
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P79294020201
+    name: Nemocnica sv. Michala
+- id: A32422013
+  lastName: ŠIMKO
+  firstName: Peter
+  dtValidFrom: '2023-11-10T10:33:23.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P25534013201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P25534013201
+    name: Nemocnica Bory, a.s.
+- id: A74312064
+  lastName: Taniwallová
+  firstName: Alida
+  dtValidFrom: '2023-11-15T11:05:30.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P25534064201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P25534064201
+    name: Nemocnica Bory
+- id: A52766001
+  lastName: MUDr.
+  firstName: Jana Zvarová
+  dtValidFrom: '2023-11-15T13:07:12.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P79186001203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P79186001203
+    name: Nemocnica AAGEL Žiar nad Hronom a Banská Štiavnica s.r.o.
+- id: A10168020
+  lastName: Reiffová
+  firstName: Dagmar MUDr.
+  dtValidFrom: '2023-11-23T12:53:50.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P60780020209
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P60780020209
+    name: Praktická Ambulancia s.r.o. Račianska 26F 83102 Bratislava
+- id: A60653020
+  lastName: PRUŽINCOVÁ
+  firstName: Daniela
+  dtValidFrom: '2023-11-23T13:32:56.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P33668020201
+  zp:
+    - 24
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: P33668020201
+    name: Poliklinika AGEL
+- id: A00664001
+  lastName: KROČKOVÁ
+  firstName: ''
+  dtValidFrom: '2023-11-30T12:22:16.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P83759001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P83759001201
+    name: JUMED, s.r.o., Svätý Jur
+- id: A61215040
+  lastName: BERGENDIOVÁ
+  firstName: Katarína
+  dtValidFrom: '2024-03-18T06:53:04.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P05757040201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P05757040201
+    name: NZZ InumoVital Centrum, Jašíková 2, 821 03, Bratislava
+- id: A91233001
+  lastName: SEKURISOVÁ
+  firstName: ' Katarína'
+  dtValidFrom: '2023-12-05T07:57:54.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P40707001205
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P40707001205
+    name: UNB, Nem. Staré Mesto Bratislava
+- id: A06053020
+  lastName: Pružincová
+  firstName: Daniela
+  dtValidFrom: '2023-12-07T11:31:54.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P33668020201
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P33668020201
+    name: Poliklinika AGEL Žiar nad Hronom s.r.o. Priemyselná 12 96501 Žiar nad Hronom
+- id: A11735020
+  lastName: ČECHOVÁ
+  firstName: Monika
+  dtValidFrom: '2023-12-15T08:17:54.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P42573020203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P42573020203
+    name: Centrum všeobecného lekárstva, Poliklinika Bezručova Bratislava
+- id: A58435020
+  lastName: Homolová
+  firstName: Ľudmila
+  dtValidFrom: '2023-12-15T10:16:22.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P42573020204
+  JRUZID: null
+  pzsRec:
+    id: P42573020204
+    name: Centrum všeobecného lekárstva Poliklinika Bezručova
+- id: I24848828
+  lastName: Eršeková
+  firstName: Frederika Mária
+  dtValidFrom: '2023-12-20T13:52:26.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12776141201
+  JRUZID: null
+  pzsRec:
+    id: P12776141201
+    name: LOGOPÉDIA NITRA, s.r.o.
+- id: A67828004
+  lastName: Gorejová
+  firstName: Mária
+  dtValidFrom: '2023-12-27T12:46:59.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P82987004203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P82987004203
+    name: neurologická ambulancia
+- id: A38129027
+  lastName: BOSÁKOVÁ
+  firstName: Zuzana
+  dtValidFrom: '2024-01-03T08:35:29.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N84209027202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N84209027202
+    name: NSP Sv. Jakuba Bardejov
+- id: A60561015
+  lastName: GAŠPÁRKOVÁ
+  firstName: Barbora
+  dtValidFrom: '2024-01-03T09:10:45.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P36845015101
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P36845015101
+    name: Nemocnica svätého Michala, a.s.
+- id: A67187801
+  lastName: GAŠPÁRKOVÁ
+  firstName: ''
+  dtValidFrom: '2024-01-03T09:19:09.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P36845015101
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P36845015101
+    name: Nemocnica svätého Michala, a.s.
+- id: A25330064
+  lastName: REDHAMMEROVÁ
+  firstName: Andrea
+  dtValidFrom: '2024-01-17T07:06:01.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P50769064201
+  JRUZID: null
+  pzsRec:
+    id: P50769064201
+    name: Univerzitná NsP, Milosrdní bratia, spol. s.r.o. nám. SNP 10, 814 65 Bratislava
+- id: A45659007
+  lastName: Vojteková
+  firstName: Zuzana
+  dtValidFrom: '2024-01-17T11:32:22.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P83652008201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P83652008201
+    name: ARS CURANDI s.r.o.
+- id: A30674007
+  lastName: Kuráková
+  firstName: Hana
+  dtValidFrom: '2024-01-17T12:16:36.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P01881008201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P01881008201
+    name: BABY-MEDCARE s.r.o.
+- id: A87100068
+  lastName: LÉVAY
+  firstName: Ján
+  dtValidFrom: '2024-01-17T13:30:33.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P90887068201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P90887068201
+    name: Poliklinika PROFY, Prievozská 6, Bratislava
+- id: A83519010
+  lastName: Ladko
+  firstName: Pavol
+  dtValidFrom: '2024-01-18T06:04:36.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P17427010201
+  zp:
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: P17427010201
+    name: Medicare - Strečianska 13, 85106
+- id: A33908020
+  lastName: NOVÁKOVÁ
+  firstName: Daniela
+  dtValidFrom: '2024-02-09T07:21:26.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P84713020238
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P84713020238
+    name: NOVAPHARM s.r.o, Tematínska 5/A, 851 05 Bratislava
+- id: A70782801
+  lastName: REPKOVÁ
+  firstName: Barbora
+  dtValidFrom: '2024-01-23T08:43:34.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P96198008201
+  JRUZID: null
+  pzsRec:
+    id: P96198008201
+    name: EPIKA, s.r.o., Mýtna 5, 811 07 Bratislava
+- id: A84788011
+  lastName: BALÁŽ
+  firstName: Róbert
+  dtValidFrom: '2024-01-25T06:53:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P08955011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P08955011201
+    name: Senior House ReFit
+- id: A72869020
+  lastName: EISNER
+  firstName: Alan
+  dtValidFrom: '2024-01-25T08:56:09.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P27399020211
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P27399020211
+    name: PRO SANUS, a.s. Einsteinova 25 851 01 Bratislava
+- id: A09691011
+  lastName: HORŇÁK
+  firstName: Tomáš
+  dtValidFrom: '2024-02-15T13:16:02.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P75247077201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P75247077201
+    name: pharco s.r.o, Pavlovičova 3, Bratislava
+- id: A39312027
+  lastName: Korkošová
+  firstName: Eva
+  dtValidFrom: '2024-02-19T08:34:00.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P83574027201
+  JRUZID: null
+  pzsRec:
+    id: P83574027201
+    name: Rehab Medica, Hlavná 709 Nová Dedinka
+- id: A41355004
+  lastName: Bojnanská
+  firstName: Eva
+  dtValidFrom: '2024-02-20T06:51:18.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P84713004209
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P84713004209
+    name: NOVAPHARM, s.r.o. Tematínska 5/A 851 05 Bratislava
+- id: A87980020
+  lastName: HATALOVÁ
+  firstName: Daniela
+  dtValidFrom: '2024-02-21T09:46:11.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P84713020236
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P84713020236
+    name: NOVAPHARM, s.r.o. Tematínska 5/A 851 05 Bratislava
+- id: A64855014
+  lastName: BUJNOVÁ
+  firstName: Lucia
+  dtValidFrom: '2024-02-27T22:14:55.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928014201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928014201
+    name: Poliklinika Bezručova, Bezručova 5, BA
+- id: A48208154
+  lastName: ČIERNA
+  firstName: Iveta
+  dtValidFrom: '2024-02-27T22:18:18.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928154201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928154201
+    name: Poliklinika Bezručova, Bezručova 5, BA
+- id: A32126154
+  lastName: SZÉKYOVÁ
+  firstName: Dagmar
+  dtValidFrom: '2024-02-27T22:20:01.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928154202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928154202
+    name: Poliklinika Bezručova, Bezručova 5, BA
+- id: A82113020
+  lastName: GAJDOŠ
+  firstName: Ondrej
+  dtValidFrom: '2024-02-29T09:26:22.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P61854020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P61854020201
+    name: Christ Cross Medical s.r.o.
+- id: A74702109
+  lastName: ROMANČÍK
+  firstName: Martin
+  dtValidFrom: '2024-02-29T14:10:23.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928109201
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P12928109201
+    name: Cliniq s.r.o., Poliklinika Bezučova, Bezručova 5, 81109 BA
+- id: A51329533
+  lastName: Štefániková
+  firstName: Silvia
+  dtValidFrom: '2024-02-29T14:15:20.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928533501
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P12928533501
+    name: Cliniq s.r.o., Poliklinika Bezručova, Bezručova 5, 81109 BA
+- id: A06851020
+  lastName: RUSENOV
+  firstName: MARIN
+  dtValidFrom: '2024-03-08T13:53:03.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P70864020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P70864020201
+    name: PRACTIC CARE, s.r.o.
+- id: A73492011
+  lastName: Zaťková
+  firstName: Veronika
+  dtValidFrom: '2024-03-13T10:06:54.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P24720011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P24720011201
+    name: Hipcentrum s.r.o.
+- id: A82733007
+  lastName: Golindei
+  firstName: Liliia
+  dtValidFrom: '2024-03-20T09:27:11.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P91699008201
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P91699008201
+    name: MedGol s.r.o.
+- id: A46160018
+  lastName: Drobná
+  firstName: '  Ingrid'
+  dtValidFrom: '2024-03-21T10:53:40.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P66657018203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P66657018203
+    name: wesper,  a.s.  jurkovičová  19,  080001  Prešov
+- id: A68582049
+  lastName: OROLÍNOVÁ
+  firstName: Mária
+  dtValidFrom: '2024-03-25T13:47:52.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P76239049201
+  JRUZID: null
+  pzsRec:
+    id: P76239049201
+    name: Nemocnica AGEL Levoča a.s.
+- id: A68582049
+  lastName: OROLÍNOVÁ
+  firstName: Mária
+  dtValidFrom: '2024-03-25T13:48:54.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P76239015202
+  JRUZID: null
+  pzsRec:
+    id: P76239015202
+    name: Nemocnica AGEL Levoča a.s.
+- id: A89429031
+  lastName: BINDZÁROVÁ
+  firstName: Kristína
+  dtValidFrom: '2024-03-26T08:15:08.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P40707031207
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P40707031207
+    name: UNB Nem. ak. L. Dérera Bratislava
+- id: A71778533
+  lastName: KLIMOVÁ
+  firstName: Katarína
+  dtValidFrom: '2024-03-28T09:05:29.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928533501
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P12928533501
+    name: Cliniq s.r.o., Bezručova 5, 811 09 Bratislava
+- id: A04367025
+  lastName: ŽÁČKOVÁ
+  firstName: Martina
+  dtValidFrom: '2024-03-28T09:06:38.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928025201
+  zp:
+    - 24
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928025201
+    name: Cliniq s.r.o., Bezručova 5, 811 09 Bratislava
+- id: A47765001
+  lastName: ZVANCIGEROVÁ
+  firstName: Ivana
+  dtValidFrom: '2024-03-28T09:13:51.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928001201
+    name: Cliniq s.r.o, Poliklinika Bezručova,Bezručova 5, 811 09 Bratislava
+- id: A97019009
+  lastName: CHRÍBIKOVÁ
+  firstName: Adela
+  dtValidFrom: '2024-03-28T09:13:04.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928009201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928009201
+    name: Cliniq s.r.o., Poliklinika Bezručova, Bezručova 5,811 09 Bratislava
+- id: A66180801
+  lastName: KOPÁČIKOVÁ
+  firstName: Kristína
+  dtValidFrom: '2024-04-09T06:10:10.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P25534027101
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P25534027101
+    name: Nemocnica BORY, I.Kadlečíka 2, Bratislava
+- id: A95423011
+  lastName: LAUDON
+  firstName: VILIAM
+  dtValidFrom: '2024-05-13T12:55:22.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P24720011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P24720011201
+    name: Hipcentrum s.r.o.
+- id: A90378060
+  lastName: CHUDÁ
+  firstName: Stela
+  dtValidFrom: '2024-04-09T11:51:12.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N28027060201
+  zp:
+    - 24
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: N28027060201
+    name: MUDr. STELA CHUDÁ
+- id: A96758009
+  lastName: FERIANEC
+  firstName: Vladimír
+  dtValidFrom: '2024-04-23T09:10:48.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P81643009201
+  zp:
+    - 24
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P81643009201
+    name: Gynsana, s.r.o.
+- id: A18069049
+  lastName: Hlavatá
+  firstName: Tereza
+  dtValidFrom: '2024-04-23T11:05:55.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P89104049201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P89104049201
+    name: Premedix, Jelšova 1, 831 01 Bratislava
+- id: A78036020
+  lastName: PLEVA
+  firstName: Miloslav
+  dtValidFrom: '2024-04-24T12:52:00.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N57879020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N57879020201
+    name: Súkromná ambulancia pre dospelých ObZS - NOVOŤ
+- id: A19695045
+  lastName: SAMELOVÁ
+  firstName: Barbora
+  dtValidFrom: '2024-04-25T08:17:33.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P40707045207
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P40707045207
+    name: UNB, ŠN Pod. Biskup., Bratislava
+- id: A50948020
+  lastName: LANČARIČ
+  firstName: Ján
+  dtValidFrom: '2024-05-02T09:01:33.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N64737020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N64737020201
+    name: Ambulancia všeobecného lekára pre dospelých
+- id: A78088013
+  lastName: BOŽÍK
+  firstName: Michal
+  dtValidFrom: '2024-05-07T09:40:51.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P04373011201
+  zp:
+    - 24
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: P04373011201
+    name: Expert Medical, Strečnianska, Bratislava
+- id: A51465020
+  lastName: Martišiková
+  firstName: Janka
+  dtValidFrom: '2024-05-16T07:15:00.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P55603020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P55603020201
+    name: Majapraktik, s.r.o.
+- id: A63060020
+  lastName: BAČOVÁ
+  firstName: Libuša
+  dtValidFrom: '2024-05-23T11:11:48.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P29027020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P29027020201
+    name: Mlynské Nivy 18890/5, Bratislava 821 09
+- id: A78719004
+  lastName: Rentka
+  firstName: Miroslav
+  dtValidFrom: '2025-02-18T07:35:04.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N68667004201
+  JRUZID: null
+  pzsRec:
+    id: N68667004201
+    name: MUDr. Rentka Miroslav
+- id: A44474056
+  lastName: VANÍKOVÁ
+  firstName: Mária
+  dtValidFrom: '2024-05-28T12:20:40.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P53866056201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P53866056201
+    name: SIRCO, s.r.o., Karpatská 804/9, 089 01 Svidník
+- id: A94205105
+  lastName: Šestáková
+  firstName: Monika
+  dtValidFrom: '2024-06-03T06:36:52.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P81688105201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P81688105201
+    name: PsychCentrum s.r.o.
+- id: A94205105
+  lastName: Šestáková
+  firstName: Monika
+  dtValidFrom: '2024-06-03T06:38:16.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P81688105202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P81688105202
+    name: PsychCentrum s.r.o.
+- id: A75296020
+  lastName: Šmídová
+  firstName: Martina
+  dtValidFrom: '2024-06-10T05:43:51.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P14293020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P14293020201
+    name: MPH Medical Group s.r.o
+- id: A25067020
+  lastName: VARGOVÁ
+  firstName: Andrea
+  dtValidFrom: '2024-06-26T11:24:54.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P13469020203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P13469020203
+    name: MDclinic a.s. Radlinského 27 811 07 Bratislava
+- id: A82574011
+  lastName: TOMČÍK
+  firstName: Pavel
+  dtValidFrom: '2024-07-01T08:01:22.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P87029011101
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P87029011101
+    name: AGEL Clinic s.r.o. Jelačičova 8 821 08 Bratislava
+- id: A39732007
+  lastName: Tamila
+  firstName: Petrytsyuk
+  dtValidFrom: '2024-07-01T17:50:53.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P01177008201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P01177008201
+    name: TAMIMEDICAL s.r.o.
+- id: A37713020
+  lastName: Žingor
+  firstName: Jaroslav
+  dtValidFrom: '2024-07-03T17:03:41.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P79648020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P79648020201
+    name: HERMED, spol. s.r.o.
+- id: A63797020
+  lastName: MAGEROVÁ
+  firstName: Martina
+  dtValidFrom: '2024-07-17T08:02:24.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N84271020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N84271020201
+    name: ALIAN s.r.o.
+- id: A94976004
+  lastName: VOLAŇKOVÁ-
+  firstName: LEGEŇOVÁ Viera
+  dtValidFrom: '2024-07-24T07:58:45.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - p36845004205
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: p36845004205
+    name: Nemocnica svätého Michala, a.s. Bratislava
+- id: A75406011
+  lastName: Csorgo
+  firstName: Peter
+  dtValidFrom: '2024-07-29T06:34:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P68550011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P68550011201
+    name: RochMed s.r.o.
+- id: A07851013
+  lastName: Mesiarik
+  firstName: Lukáš
+  dtValidFrom: '2024-08-01T12:48:58.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N47369010401
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N47369010401
+    name: Medicentrum s.r.o.
+- id: A58979027
+  lastName: VIŠŇOVSKÁ
+  firstName: Lucia
+  dtValidFrom: '2024-08-02T05:51:44.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P33908027201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P33908027201
+    name: Ambulancia RBLR, PROFY, s.r.o.
+- id: A46565020
+  lastName: GAĽOVÁ
+  firstName: SLÁVA
+  dtValidFrom: '2024-08-02T07:18:54.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P61045020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P61045020201
+    name: MEDIPRACT, s.r.o.
+- id: A21600009
+  lastName: KORKH
+  firstName: Nataliia
+  dtValidFrom: '2024-09-13T09:54:03.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928009202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928009202
+    name: Cliniq s.r.o., Poliklinika Bezručova, Bezručova 5, 811 09 Bratislava
+- id: A12077007
+  lastName: Sviteková
+  firstName: Andrea
+  dtValidFrom: '2024-08-20T09:01:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P38302008201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P38302008201
+    name: Detská amb, MUDr. Sviteková, Košťany n.T.
+- id: A48938005
+  lastName: BALLX
+  firstName: Ján
+  dtValidFrom: '2024-08-21T06:29:33.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P34099005201
+  JRUZID: null
+  pzsRec:
+    id: P34099005201
+    name: "Psychoterapia s.r.o., \tŽelezničiarska 4, 811 04 Bratislava"
+- id: A85742011
+  lastName: Erdelský
+  firstName: Peter
+  dtValidFrom: '2024-08-26T09:51:07.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P19444011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P19444011201
+    name: Ortopedická ambulancia FYZIOKLINIK s.r.o.
+- id: A08194020
+  lastName: KUŠPEĽ
+  firstName: Andrej
+  dtValidFrom: '2024-08-27T10:07:00.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P31487020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P31487020201
+    name: KAMED s.r.o.
+- id: A75899020
+  lastName: Cajchanová
+  firstName: Annamária
+  dtValidFrom: '2024-08-30T08:49:45.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P13469020203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P13469020203
+    name: MDclinic
+- id: A89859011
+  lastName: PEKARA
+  firstName: Adam
+  dtValidFrom: '2025-08-12T08:45:12.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P49970011201
+  JRUZID: null
+  pzsRec:
+    id: P49970011201
+    name: Ortoport s.r.o.
+- id: A45624009
+  lastName: Vološin
+  firstName: Igor
+  dtValidFrom: '2024-09-10T08:07:51.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P29242009201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P29242009201
+    name: GYNVOL s.r.o.
+- id: A13075020
+  lastName: HELIENKOVÁ
+  firstName: Katarína
+  dtValidFrom: '2024-09-13T09:54:58.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P42573020204
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P42573020204
+    name: Cliniq s.r.o., Poliklinika Bezručova, Bezručova 5, 811 09 Bratislava
+- id: A88810020
+  lastName: Galádová
+  firstName: Ľubomíra
+  dtValidFrom: '2024-09-11T11:00:18.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P78678020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P78678020201
+    name: FULLMED s.r.o.
+- id: A77339046
+  lastName: MARTINUS
+  firstName: Kristína
+  dtValidFrom: '2024-09-13T09:51:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928046201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928046201
+    name: Cliniq s.r.o., Poliklinika Bezručova, Bezručova 5, 811 09 Bratislava
+- id: A77339025
+  lastName: MARTINUS
+  firstName: Kristína
+  dtValidFrom: '2024-09-13T09:52:41.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928025201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928025201
+    name: Cliniq s.r.o., Poliklinika Bezručova, Bezručova 5, 811 09 Bratislava
+- id: A47307048
+  lastName: Láclav
+  firstName: Martin
+  dtValidFrom: '2024-09-18T07:51:09.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N40203048201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N40203048201
+    name: gastroenterológia
+- id: A73006004
+  lastName: KOZMON
+  firstName: Michal
+  dtValidFrom: '2024-09-18T07:59:09.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P19444011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P19444011201
+    name: Neurologická ambulancia, Fyzioklinik, s.r.o., Plynárenská 7/C
+- id: A61551019
+  lastName: Šurmáneková
+  firstName: Klaudia
+  dtValidFrom: '2024-09-19T16:31:59.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P64658019201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P64658019201
+    name: AGEL Mammacentrum sv.Agáty a.s.
+- id: A19467020
+  lastName: Mokranová
+  firstName: Sarah
+  dtValidFrom: '2024-09-24T10:26:03.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P91151020228
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P91151020228
+    name: ÚVN Ružomberok SNP, Všeob.amb.pre dosp.
+- id: A59634020
+  lastName: Grygoryk
+  firstName: Marta
+  dtValidFrom: '2024-09-30T07:27:05.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P59333020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P59333020201
+    name: Ž+Ž s.r.o. ambulancia všeobecného lekára
+- id: A95476004
+  lastName: ADAMSON
+  firstName: CHOVANCOVÁ Martina
+  dtValidFrom: '2024-10-03T06:16:47.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P27106004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P27106004201
+    name: Solem Clinic, s.r.o.
+- id: A87167008
+  lastName: Gerová
+  firstName: Renáta
+  dtValidFrom: '2024-10-07T07:57:02.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P56502008203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P56502008203
+    name: MEDI-INFANS Kláštor p. Znievom
+- id: A28933009
+  lastName: SEMIVAN
+  firstName: Michal
+  dtValidFrom: '2024-10-24T07:21:50.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P78229009201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P78229009201
+    name: PrenatalGyn Care s.r.o. Trnavská Cesta 4330/67, 821 04 Bratislava
+- id: A31130007
+  lastName: Dzurík
+  firstName: Ľubomír
+  dtValidFrom: '2024-10-30T09:17:29.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P09842008201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P09842008201
+    name: PEDIATRIA POPRAD s.r.o.
+- id: A58520801
+  lastName: STOGNII
+  firstName: Karina
+  dtValidFrom: '2024-10-30T10:40:14.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P78246018201
+  JRUZID: null
+  pzsRec:
+    id: P78246018201
+    name: Esthetic, s.r.o., Partizánska 2, 811 03 Bratislava
+- id: A72204064
+  lastName: Rendeková
+  firstName: Erika
+  dtValidFrom: '2024-11-03T16:52:59.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P43208064201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P43208064201
+    name: Endimed s.r.o.
+- id: A92711020
+  lastName: HLAVATÝ
+  firstName: Tibor
+  dtValidFrom: '2024-11-05T09:53:06.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928020201
+    name: Cliniq s.r.o., Poliklina Bezručova, Bezručova 5, 811 09 Bratislava
+- id: A33307020
+  lastName: Lukáš
+  firstName: Vančo
+  dtValidFrom: '2024-11-18T11:41:21.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P98287020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P98287020201
+    name: Diversitas s.r.o.
+- id: A78905018
+  lastName: SEMANOVÁ
+  firstName: Mária
+  dtValidFrom: '2024-11-21T09:44:04.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P48896018201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P48896018201
+    name: Duo Clinic, s.r.o. Cintorínska 3/b, 811 08 Bratislava
+- id: A44388020
+  lastName: UHLÍKOVÁ
+  firstName: Gabriela
+  dtValidFrom: '2024-12-05T08:56:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P99761020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P99761020202
+    name: ALTAREA MEDICA, s.r.o.
+- id: A08837009
+  lastName: Bernátová
+  firstName: Jana
+  dtValidFrom: '2024-12-10T11:51:14.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P90244009201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P90244009201
+    name: FAMILIA SANA, s.r.o.
+- id: A81903801
+  lastName: SZAKÁL
+  firstName: Marko
+  dtValidFrom: '2024-12-19T15:56:07.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P43059107101
+  JRUZID: null
+  pzsRec:
+    id: P43059107101
+    name: NÚDCH Limbová 1 Bratislava
+- id: A22298004
+  lastName: BONDROVÁ
+  firstName: Miroslava
+  dtValidFrom: '2025-01-02T18:50:59.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928004201
+    name: Cliniq s.r.o., Poliklinika Bezručova 5, 81109 Bratislava
+- id: A74494014
+  lastName: GRÉDI
+  firstName: Viktor
+  dtValidFrom: '2025-02-28T07:51:19.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928014201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928014201
+    name: Cliniq, s.r.o., Bezručova 3, 811 09 Bratislava
+- id: A26443020
+  lastName: KITKOVÁ
+  firstName: Michaela
+  dtValidFrom: '2025-01-01T16:03:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928020201
+    name: Cliniq s.r.o., Poliklinika Bezručova 5, 81109
+- id: A11344027
+  lastName: HRUŠKOVÁ
+  firstName: Monika
+  dtValidFrom: '2025-01-02T09:40:39.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P93329027202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P93329027202
+    name: Špec. nemocnica pre ortopedickú protetiku, Záhradnícka 42, Bratislava
+- id: A74494014
+  lastName: GRÉDI
+  firstName: Viktor
+  dtValidFrom: '2025-01-02T18:31:33.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928014401
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928014401
+    name: Cliniq s.r.o., Poliklinika Bezručova 5, 81109 Bratislava
+- id: A03654012
+  lastName: Ravlo
+  firstName: Oleg
+  dtValidFrom: '2025-01-08T11:22:10.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P65358012201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P65358012201
+    name: S - med, s.r.o.
+- id: A68332004
+  lastName: Galbavá
+  firstName: Mária
+  dtValidFrom: '2025-01-10T08:18:35.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - O47465004202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: O47465004202
+    name: NZZ Neurolog.ambulancia Stará Turá
+- id: A79840020
+  lastName: Muth
+  firstName: Mojmír
+  dtValidFrom: '2025-01-10T08:40:21.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P47457020203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P47457020203
+    name: MOOTIL-MED s.r.o. Amb.Stará Turá
+- id: A40400020
+  lastName: Kršáková
+  firstName: Eva
+  dtValidFrom: '2025-01-10T11:30:38.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P62643020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P62643020202
+    name: Veromon s.r.o.
+- id: A81221011
+  lastName: HOUNDJO
+  firstName: Gilbert
+  dtValidFrom: '2025-01-13T08:47:53.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - O95326011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: O95326011201
+    name: Struhárová 2, 900 51 ZOhor
+- id: A84457020
+  lastName: PEKAROVIČ
+  firstName: Peter
+  dtValidFrom: '2025-01-15T14:35:12.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - O27639020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: O27639020202
+    name: MUDr. Pekarovič Peter
+- id: A60654020
+  lastName: Tichá
+  firstName: Katarína
+  dtValidFrom: '2025-01-15T19:58:10.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P27399020217
+  JRUZID: null
+  pzsRec:
+    id: P27399020217
+    name: PRO SANUS, a. s.
+- id: A06069801
+  lastName: ODYNAK
+  firstName: Taras
+  dtValidFrom: '2025-01-17T10:07:15.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P63213020209
+  JRUZID: null
+  pzsRec:
+    id: P63213020209
+    name: Ichtos s.r.o. Nová Dubnica
+- id: A61204020
+  lastName: KIRSANOVA
+  firstName: Maryna
+  dtValidFrom: '2025-01-17T10:08:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P82937020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P82937020202
+    name: Polymorf s.r.o., Brezová pod Bradlom
+- id: A06069020
+  lastName: ODYNAK
+  firstName: Taras
+  dtValidFrom: '2025-01-17T10:20:34.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P63213020209
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P63213020209
+    name: Ichtos s.r.o.
+- id: B70003802
+  lastName: Kopecká
+  firstName: Veronika
+  dtValidFrom: '2025-01-21T09:29:56.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P75834802201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P75834802201
+    name: White Dent sro
+- id: A92819020
+  lastName: VAJO
+  firstName: TAMAŠKOVÁ TÍMEA
+  dtValidFrom: '2025-01-27T13:35:55.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P44694020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P44694020201
+    name: CS MED, s.r.o.
+- id: A73006004
+  lastName: KOZMON
+  firstName: Michal
+  dtValidFrom: '2026-01-15T12:36:48.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P14640004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P14640004201
+    name: Poliklinika Trenčianska, Trenčianska 53/B
+- id: A62797020
+  lastName: BENÁKOVÁ
+  firstName: Lenka
+  dtValidFrom: '2025-02-06T08:24:54.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N57929020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N57929020201
+    name: NZZ Ambulancia pre dospelých, Beckov
+- id: A40538020
+  lastName: MARTINUSOVÁ
+  firstName: Eva
+  dtValidFrom: '2025-02-07T06:26:08.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N44845020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N44845020201
+    name: NZZ amb. Nové Mesto nad Váhom
+- id: A87993020
+  lastName: Podolák
+  firstName: Roman
+  dtValidFrom: '2025-02-07T07:25:58.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N59729020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N59729020201
+    name: Neštátna ambulancia pre dospelých, Dolná Súča
+- id: A81166020
+  lastName: BIRÁSOVÁ
+  firstName: Oľga
+  dtValidFrom: '2025-02-07T09:36:36.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N42313020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N42313020201
+    name: Neštátne zdrav.zariadenie, TN
+- id: A71402020
+  lastName: Dokoupilová
+  firstName: Soňa
+  dtValidFrom: '2025-02-07T09:45:54.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P09636020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P09636020201
+    name: Dermapraktik s.r.o.
+- id: A24231001
+  lastName: Širilová
+  firstName: Alica
+  dtValidFrom: '2025-02-10T10:19:54.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P90347001202
+  zp:
+    - 24
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: P90347001202
+    name: ASM TN s.r.o.
+- id: A99384020
+  lastName: Csánó
+  firstName: Erika
+  dtValidFrom: '2025-02-12T09:40:01.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P33164020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P33164020201
+    name: CETMED s.r.o.
+- id: A24231001
+  lastName: ŠIRILOVÁ
+  firstName: ALICA
+  dtValidFrom: '2025-04-09T07:35:53.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N90347001201
+  zp:
+    - 24
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: N90347001201
+    name: ASM TN, s.r.o.
+- id: A95482064
+  lastName: VOGLOVÁ
+  firstName: VILMA
+  dtValidFrom: '2025-05-22T05:25:32.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N94843064201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N94843064201
+    name: INTEND s.r.o.
+- id: A90362001
+  lastName: Vogl
+  firstName: Štefan
+  dtValidFrom: '2025-02-13T11:02:44.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P94843001202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P94843001202
+    name: INTEND s.r.o.
+- id: A90362001
+  lastName: Vogl
+  firstName: Štefan
+  dtValidFrom: '2025-02-13T11:16:34.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P94843001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P94843001201
+    name: Intend s.r.o
+- id: A90362001
+  lastName: Vogl
+  firstName: Štefan
+  dtValidFrom: '2025-02-13T11:44:02.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N94843001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N94843001201
+    name: INTEND s.r.o.
+- id: A21943013
+  lastName: AL
+  firstName: GHOUBARI Abdel Rahim
+  dtValidFrom: '2025-02-14T10:22:59.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P40707184805
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P40707184805
+    name: Univerzitná nemocnica Bratislava
+- id: A88307001
+  lastName: Benedikt
+  firstName: Rudolf
+  dtValidFrom: '2025-02-17T12:10:17.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N73640001201
+  zp:
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N73640001201
+    name: Chirint s.r.o.
+- id: A97470018
+  lastName: ZGAŽAROVÁ
+  firstName: Simona
+  dtValidFrom: '2025-02-17T12:57:00.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P03826018201
+  JRUZID: null
+  pzsRec:
+    id: P03826018201
+    name: DERMAREVOLTA, s.r.o.
+- id: A51290049
+  lastName: Litvínová
+  firstName: Jana
+  dtValidFrom: '2025-03-31T08:31:57.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N36631049201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N36631049201
+    name: JALIT, s.r.o.
+- id: A54498011
+  lastName: OLEXÍK
+  firstName: Jaroslav
+  dtValidFrom: '2025-02-19T09:54:07.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P93329011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P93329011201
+    name: Špec. nemocnica pre ortopedickú protetiku, Bratislava
+- id: A46694004
+  lastName: Žeňuch
+  firstName: Ján
+  dtValidFrom: '2025-02-21T09:11:54.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N81816004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N81816004201
+    name: neurologická ambulancia
+- id: A53917049
+  lastName: GALLOVIČOVÁ
+  firstName: JARMILA
+  dtValidFrom: '2025-03-07T05:10:16.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N38266049201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N38266049201
+    name: JAGAL, s.r.o.
+- id: A58375020
+  lastName: TÉGLÁSSSY
+  firstName: Renáta
+  dtValidFrom: '2025-03-07T09:26:08.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P39723020201
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P39723020201
+    name: Benedictus s.r.o.
+- id: A81097004
+  lastName: Oľga
+  firstName: Vranková
+  dtValidFrom: '2025-03-07T10:01:27.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N66429004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N66429004201
+    name: Neurologická ambulancia Trenčín s.r.o.
+- id: A63910801
+  lastName: Simanová
+  firstName: Lenka
+  dtValidFrom: '2025-03-11T09:41:37.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P65639001201
+  zp:
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P65639001201
+    name: Nemocnica AGEL Bánovce s.r.o
+- id: A28028020
+  lastName: PASCHENKO
+  firstName: Eva
+  dtValidFrom: '2025-03-12T09:22:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P32818020201
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P32818020201
+    name: MUDr.Michal Rusnák, s.r.o.
+- id: A23028020
+  lastName: PASCHENKO
+  firstName: Eva
+  dtValidFrom: '2025-03-12T09:27:37.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P32818020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P32818020201
+    name: MUDr.Michal Rusnák, s.r.o.
+- id: A29747020
+  lastName: IVANČÍKOVÁ
+  firstName: Bronislava
+  dtValidFrom: '2025-03-13T12:49:47.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P03713020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P03713020201
+    name: BeneVobis s.r.o, Pri železnici 1737, 033 01 Liptovský Hrádok
+- id: A60711801
+  lastName: GUSEV
+  firstName: Roman
+  dtValidFrom: '2025-03-17T12:13:09.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P15496004201
+  JRUZID: null
+  pzsRec:
+    id: P15496004201
+    name: Health Medical Centre s.r.o., Rontgenová 3751/28, 851 01 Bratislava
+- id: A62977068
+  lastName: Bafrnec
+  firstName: Libor
+  dtValidFrom: '2025-03-18T11:14:38.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - O32163068201
+  zp:
+    - 24
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: O32163068201
+    name: NZZ cievna chirurgická ambulancia Moravská 31 Vráble
+- id: A54563020
+  lastName: Grochola
+  firstName: Jaroslav
+  dtValidFrom: '2025-03-19T07:58:52.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N28499020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N28499020201
+    name: Ambulancia všeobecného lekára pre dospelých Mnoheľova 2 Poprad
+- id: A76928018
+  lastName: DOSTÁLOVÁ
+  firstName: ' Denisa'
+  dtValidFrom: '2025-03-19T09:27:25.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P87029018201
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P87029018201
+    name: AGEL Clinic s.r.o., Jelačičová 8
+- id: A76926018
+  lastName: DOSTÁLOVÁ
+  firstName: Denisa
+  dtValidFrom: '2025-03-19T09:30:04.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P87029018201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P87029018201
+    name: AGEL Clinic s.r.o., Jelačičová 8
+- id: A59166011
+  lastName: ZAŤKA
+  firstName: Michal
+  dtValidFrom: '2025-03-26T13:34:48.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P14640011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P14640011201
+    name: Poliklinika Trenčianska, Trenčianska 53/B, 821 09 Bratislava
+- id: A45957012
+  lastName: KOŽÁK
+  firstName: Pavol
+  dtValidFrom: '2025-03-27T09:20:33.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P72826012202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P72826012202
+    name: PEMIMED s.r.o.
+- id: A45764011
+  lastName: AL
+  firstName: KHOURI Ihsan
+  dtValidFrom: '2025-03-31T12:26:48.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P03631011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P03631011201
+    name: Shams, s.r.o.
+- id: A88544020
+  lastName: ĎURIŠOVÁ
+  firstName: Katarína
+  dtValidFrom: '2025-04-01T08:30:08.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P28804020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P28804020201
+    name: TESI-CARE, s.r.o.
+- id: A23002099
+  lastName: Gabrišová
+  firstName: Alena
+  dtValidFrom: '2025-04-02T09:05:11.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P57714050201
+  JRUZID: null
+  pzsRec:
+    id: P57714050201
+    name: DIABETES CENTRUM, s.r.o.
+- id: A23002050
+  lastName: Gabrišová
+  firstName: Alena
+  dtValidFrom: '2025-04-02T09:24:49.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P57714050201
+  zp:
+    - 24
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: P57714050201
+    name: DIABETES CENTRUM s.r.o.
+- id: A68991001
+  lastName: DOSTÁL
+  firstName: Miroslav
+  dtValidFrom: '2025-04-02T12:12:51.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P38531001202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P38531001202
+    name: Mastramed
+- id: A40783801
+  lastName: PLESNÍKOVÁ
+  firstName: Paulína
+  dtValidFrom: '2025-04-03T07:13:50.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P40707015101
+  JRUZID: null
+  pzsRec:
+    id: P40707015101
+    name: UNB, Nemocnica Ružinov, Bratislava
+- id: A81042020
+  lastName: Süliová
+  firstName: Regina
+  dtValidFrom: '2025-04-03T14:20:12.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P58656020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P58656020201
+    name: PROMETEUM s.r.o.
+- id: A66524045
+  lastName: FABIANOVÁ
+  firstName: MAGDALÉNA
+  dtValidFrom: '2025-05-12T07:14:19.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N95309045201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N95309045201
+    name: MEDEOS, s.r.o.
+- id: A80728004
+  lastName: Gregová
+  firstName: Zuzana
+  dtValidFrom: '2025-04-10T10:47:55.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P36605004202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P36605004202
+    name: NsP SPIŠSKÁ NOVÁ VES a.s. ul. Janského
+- id: A24998045
+  lastName: ŠKUBLOVÁ
+  firstName: Andrea
+  dtValidFrom: '2025-04-11T08:03:56.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - O43529045201
+  zp:
+    - 24
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: O43529045201
+    name: Neštátna reumatologická ambulancia Záhradnícka 42, 82108 Bratislava
+- id: A25254099
+  lastName: Zigová
+  firstName: Andrea
+  dtValidFrom: '2025-04-29T07:49:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P42383003201
+  JRUZID: null
+  pzsRec:
+    id: P42383003201
+    name: Fakultná nemocnica Trenčín
+- id: A41116020
+  lastName: RATVAJOVÁ
+  firstName: Michaela
+  dtValidFrom: '2025-05-05T08:51:50.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P47306020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P47306020201
+    name: Tamice, s.r.o.
+- id: A85326018
+  lastName: CHRÍBIKOVÁ
+  firstName: Anna
+  dtValidFrom: '2025-05-05T11:31:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P50346018201
+  JRUZID: null
+  pzsRec:
+    id: P50346018201
+    name: ADERMA s.r.o., Lipnická 2/A, 90042 Dunajská Lužná
+- id: A93702801
+  lastName: HAIDAKEVYCH
+  firstName: '- SOKOLIUK Mariia'
+  dtValidFrom: '2025-05-12T08:09:39.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P07423064201
+  zp:
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: P07423064201
+    name: Proctocare s.r.o. Bernolákova 811 07 Bratislava
+- id: A80051045
+  lastName: Molnárová
+  firstName: Leščišinová Monika
+  dtValidFrom: '2025-05-16T11:21:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - O82579045201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: O82579045201
+    name: Reumatologická ambulancia, Poliklinika Juh
+- id: I40982828
+  lastName: Vanousová
+  firstName: Eva
+  dtValidFrom: '2025-05-21T11:21:24.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N34535141201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N34535141201
+    name: Nemocnica Dr. Vojtecha Alexandra v Kežmarku n.o.
+- id: A89692056
+  lastName: LETTRICHOVÁ
+  firstName: Eva
+  dtValidFrom: '2025-05-22T08:54:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - O09924056201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: O09924056201
+    name: NZZ Palúčanská 25, Liptovský Mikuláš
+- id: A52273801
+  lastName: FEDOTOVÁ
+  firstName: Oľga
+  dtValidFrom: '2025-05-28T08:55:06.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P05962020201
+  zp:
+    - 24
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P05962020201
+    name: Rimed, s.r.o. Babuškova 2, 821 03 Bratislava
+- id: A00100009
+  lastName: HATALOVÁ
+  firstName: Anna
+  dtValidFrom: '2025-06-05T07:04:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P17811009201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P17811009201
+    name: Gyn-MeD, s.r.o.
+- id: A49512009
+  lastName: BANYACSKY
+  firstName: Alexander
+  dtValidFrom: '2025-06-05T09:01:17.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P17811009201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P17811009201
+    name: Gyn-MeD, s.r.o.
+- id: A59012020
+  lastName: KOTLÁR
+  firstName: Patrik
+  dtValidFrom: '2025-06-10T05:30:54.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P96854020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P96854020201
+    name: EVA-HEALTHCARE s.r.o.
+- id: A88312005
+  lastName: Kalaš
+  firstName: Martin
+  dtValidFrom: '2025-06-10T11:24:15.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P06480005201
+  JRUZID: null
+  pzsRec:
+    id: P06480005201
+    name: Kvalium s.r.o.
+- id: A48594063
+  lastName: Hofierková
+  firstName: Iveta
+  dtValidFrom: '2025-06-18T12:12:34.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P74583063235
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P74583063235
+    name: FMC - dialyzačné služby, s.r.o.
+- id: A89279015
+  lastName: Rushchyn
+  firstName: Vira
+  dtValidFrom: '2025-07-07T07:04:18.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P76026015203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P76026015203
+    name: Lexum s.r.o. Nové Mesto nad Váhom
+- id: A90793020
+  lastName: Stará
+  firstName: Magdaléna
+  dtValidFrom: '2025-07-16T07:57:09.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P69786020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P69786020201
+    name: STARBIOS s. r. o., Hlavná 50, 931 01  Šamorín
+- id: A01832801
+  lastName: Kmeťová
+  firstName: Martina
+  dtValidFrom: '2025-07-25T06:53:51.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P91151014101
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P91151014101
+    name: ÚVN Ružomberok - ORL amb.IV.
+- id: A70026002
+  lastName: Prívarová
+  firstName: Mária
+  dtValidFrom: '2025-07-31T06:05:40.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P42383002202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P42383002202
+    name: Fakultná nemocnica Trenčín
+- id: A07960020
+  lastName: Buriková
+  firstName: Miriam
+  dtValidFrom: '2025-08-01T07:55:36.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P99032020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P99032020202
+    name: OK AMBULANCIA A.S
+- id: A13912043
+  lastName: KORMANÍKOVÁ
+  firstName: Barbora
+  dtValidFrom: '2025-09-02T08:22:06.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P31683043204
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P31683043204
+    name: Onkologický ústav sv.Alžbety, s.r.o.
+- id: A05472014
+  lastName: Šišková
+  firstName: Michaela
+  dtValidFrom: '2025-09-05T06:21:11.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P41507014201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P41507014201
+    name: Medicentrum PN, s.r.o
+- id: A57662020
+  lastName: Kubišová
+  firstName: Janka
+  dtValidFrom: '2025-09-07T12:14:59.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P86940020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P86940020201
+    name: KUBIMEDIC s.r.o.
+- id: A84676010
+  lastName: LABAŠ
+  firstName: PETER
+  dtValidFrom: '2025-10-03T11:33:02.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P24720010201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P24720010201
+    name: HIPCENTRUM s.r.o.
+- id: B38334802
+  lastName: Šidlová
+  firstName: Lucia
+  dtValidFrom: '2025-09-29T07:27:48.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P75834802202
+  JRUZID: null
+  pzsRec:
+    id: P75834802202
+    name: White Dent s.r.o. Turany
+- id: A93570020
+  lastName: Lisá
+  firstName: Zuzana
+  dtValidFrom: '2025-10-02T10:10:45.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P72629020201
+  JRUZID: null
+  pzsRec:
+    id: P72629020201
+    name: Medical Centrum s.r.o.
+- id: A71259020
+  lastName: Zen
+  firstName: Al Deen Adel
+  dtValidFrom: '2025-10-17T11:39:05.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P03350020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P03350020201
+    name: VLDBELA s.r.o.
+- id: B08839802
+  lastName: ADAMIČKA
+  firstName: Matúš
+  dtValidFrom: '2025-10-31T06:44:05.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P88110802201
+  JRUZID: null
+  pzsRec:
+    id: P88110802201
+    name: Martin Dental Center s.r.o.
+- id: A09732007
+  lastName: Znaková
+  firstName: Denisa
+  dtValidFrom: '2025-11-11T10:20:44.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P64516008201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P64516008201
+    name: DZ-Ped s.r.o. v Lokci
+- id: A02347020
+  lastName: MUDr.
+  firstName: Dávid Forró
+  dtValidFrom: '2025-11-12T09:37:33.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P57430020201
+  JRUZID: null
+  pzsRec:
+    id: P57430020201
+    name: For-Med s.r.o., 927 01  Šala
+- id: A42303001
+  lastName: Jančovičová
+  firstName: Janka
+  dtValidFrom: '2025-11-12T09:56:53.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P57882045202
+  JRUZID: null
+  pzsRec:
+    id: P57882045202
+    name: ROMJAN, s.r.o.
+- id: A42303045
+  lastName: Jančovičová
+  firstName: Janka
+  dtValidFrom: '2025-11-17T07:29:29.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P57882045203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P57882045203
+    name: ROMJAN, s.r.o.
+- id: A91437020
+  lastName: MORICOVÁ
+  firstName: Štefánia
+  dtValidFrom: '2025-11-20T08:02:10.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P59790230210
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P59790230210
+    name: Euromedix a.s
+- id: A56424011
+  lastName: ZAMBORSKÝ
+  firstName: Radoslav
+  dtValidFrom: '2025-11-27T10:47:46.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928011201
+    name: Cliniq s.r.o.
+- id: A57007063
+  lastName: FEKETE
+  firstName: Jozef
+  dtValidFrom: '2025-12-03T12:01:15.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P74583208622
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P74583208622
+    name: FMC - dialyzačné služby, s.r.o.
+- id: A73006004
+  lastName: KOZMON
+  firstName: Michal
+  dtValidFrom: '2026-01-19T09:02:42.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P07423004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P07423004201
+    name: Proctocare s.r.o.
+- id: A13151018
+  lastName: Leóna
+  firstName: Minčič
+  dtValidFrom: '2026-01-21T07:49:54.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P35955018201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P35955018201
+    name: Skin Poetry s.r.o.
+- id: A18728020
+  lastName: HLAVATA
+  firstName: Alena
+  dtValidFrom: '2026-01-22T06:55:02.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928020201
+    name: Cliniq s.r.o. , Bezručova 5, 811 09 Bratislava
+- id: A98630020
+  lastName: Kubániová
+  firstName: Dominika
+  dtValidFrom: '2026-02-09T07:07:33.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P59612020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P59612020201
+    name: Radvaň VLD s.r.o.
+- id: A69291020
+  lastName: Liptáková
+  firstName: Lívia
+  dtValidFrom: '2026-02-09T07:08:58.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P99544020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P99544020201
+    name: AmbiCare s.r.o.
+- id: a71100011
+  lastName: MUDr.
+  firstName: Ladislav Ledényi
+  dtValidFrom: '2026-01-29T11:10:39.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P49970011201
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P49970011201
+    name: Ortoport s.r.o.
+- id: A72073020
+  lastName: Panicová
+  firstName: Lenka
+  dtValidFrom: '2026-02-09T07:05:48.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P53518020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P53518020201
+    name: MUDr. Krnáč Štefan s.r.o.
+- id: A91960020
+  lastName: Sujová
+  firstName: Tatiana
+  dtValidFrom: '2026-02-09T07:10:39.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - O33945020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: O33945020202
+    name: MUDr. Sujová Tatiana
+- id: A59912020
+  lastName: MIGAŠOVÁ
+  firstName: ' Mária'
+  dtValidFrom: '2026-02-11T08:25:16.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P63125020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P63125020201
+    name: APL DOS s.r.o.
+- id: A58303007
+  lastName: HERCZEG
+  firstName: RAČICKÁ Jitka
+  dtValidFrom: '2026-02-19T09:34:30.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P27399020215
+  zp:
+    - 24
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P27399020215
+    name: PRO SANUS, a.s. , Einsteinova25 , 851 01 Bratislava
+- id: A38895015
+  lastName: CHYTILOVÁ
+  firstName: Silvia
+  dtValidFrom: '2026-03-02T10:43:47.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P75538015201
+  JRUZID: null
+  pzsRec:
+    id: P75538015201
+    name: Očné Centrum Chytil, Bratislava
+- id: A53154027
+  lastName: Pavleová
+  firstName: ''
+  dtValidFrom: '2026-03-03T07:11:50.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P63267027202
+  zp:
+    - 24
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: P63267027202
+    name: FORMULA-SLOVAKIA s.r.o.
+- id: A87928020
+  lastName: VAĽKOVÁ
+  firstName: Martina
+  dtValidFrom: '2026-03-05T13:42:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P43511020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P43511020201
+    name: MediPrevent s.r.o., Bratislava 842 31
+- id: A33274020
+  lastName: CYMBALOVÁ
+  firstName: Daniela
+  dtValidFrom: '2026-03-12T09:54:02.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P84788020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P84788020201
+    name: Váš Lekár, AMBULANCIE s.r.o.
+- id: A58502801
+  lastName: HAIDAKEVYCH-SOKOLIUK
+  firstName: Mariia
+  dtValidFrom: '2026-03-23T09:01:45.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P33021004202
+  zp:
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: P33021004202
+    name: DoktorPro s.r.o.
