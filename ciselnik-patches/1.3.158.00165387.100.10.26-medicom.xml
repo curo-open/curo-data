@@ -1427,14 +1427,6 @@
         </PolozkaCiselnika>
         <PolozkaCiselnika>
             <codeValue>_</codeValue>
-            <displayName></displayName>
-            <Skratka>V03s</Skratka>
-            <Popis></Popis>
-            <Body>270</Body>
-            <Priplatok></Priplatok>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <codeValue>_</codeValue>
             <displayName>Odobratie krvi venepunkciou do jednej striekačky alebo do jednej skúmavky, vrátane odberovej
                 súpravy, za každú súpravu.
             </displayName>
@@ -1640,14 +1632,6 @@
             <Skratka>4571a</Skratka>
             <Popis>C-reaktívny proteín</Popis>
             <Body>380</Body>
-            <Priplatok></Priplatok>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <codeValue>_</codeValue>
-            <displayName></displayName>
-            <Skratka>H0001</Skratka>
-            <Popis></Popis>
-            <Body>0</Body>
             <Priplatok></Priplatok>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
@@ -1973,14 +1957,6 @@
             <Skratka>H0008</Skratka>
             <Popis>Stanovenie indexu ABI oscilometrickou metódou</Popis>
             <Body>100</Body>
-            <Priplatok></Priplatok>
-        </PolozkaCiselnika>
-        <PolozkaCiselnika>
-            <codeValue>_</codeValue>
-            <displayName></displayName>
-            <Skratka>3842a</Skratka>
-            <Popis></Popis>
-            <Body>0</Body>
             <Priplatok></Priplatok>
         </PolozkaCiselnika>
         <PolozkaCiselnika>
