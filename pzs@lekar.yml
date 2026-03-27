@@ -9333,3 +9333,16 @@
   pzsRec:
     id: P33021004202
     name: DoktorPro s.r.o.
+- id: A93570020
+  lastName: Lisá
+  firstName: Zuzana
+  dtValidFrom: '2026-03-27T07:17:51.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P98233020201
+  JRUZID: null
+  pzsRec:
+    id: P98233020201
+    name: PoliVita s.r.o.
