@@ -7729,7 +7729,7 @@
 - id: A81221011
   lastName: HOUNDJO
   firstName: Gilbert
-  dtValidFrom: '2025-01-13T08:47:53.000Z'
+  dtValidFrom: '2026-04-01T12:05:45.000Z'
   dtValidTo: null
   dtSuspendFrom: null
   dtSuspendTo: null
@@ -7742,7 +7742,7 @@
   JRUZID: null
   pzsRec:
     id: O95326011201
-    name: Struhárová 2, 900 51 ZOhor
+    name: Neštátna ortopedická ambulancia Sruhárová 2 900 51 Zohor
 - id: A84457020
   lastName: PEKAROVIČ
   firstName: Peter
@@ -9346,3 +9346,20 @@
   pzsRec:
     id: P98233020201
     name: PoliVita s.r.o.
+- id: a97764011
+  lastName: HORZOV
+  firstName: Volodimir
+  dtValidFrom: '2026-04-01T13:25:35.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - p81264011202
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: p81264011202
+    name: Fakultná Nemocnica AGEL Skalica
