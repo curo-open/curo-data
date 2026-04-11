@@ -9363,3 +9363,16 @@
   pzsRec:
     id: p81264011202
     name: Fakultná Nemocnica AGEL Skalica
+- id: A07678004
+  lastName: LAZAR
+  firstName: Mário
+  dtValidFrom: '2026-04-11T13:18:48.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P31805004201
+  JRUZID: null
+  pzsRec:
+    id: P31805004201
+    name: Spineo clin.
