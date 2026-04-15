@@ -9376,3 +9376,37 @@
   pzsRec:
     id: P31805004201
     name: Spineo clin.
+- id: A77804020
+  lastName: DŽUPA
+  firstName: Richard
+  dtValidFrom: '2026-04-14T12:05:44.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P44111020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P44111020201
+    name: Pediatria Modra, spol. s r.o.
+- id: A77339046
+  lastName: MARTINUS
+  firstName: Kristína
+  dtValidFrom: '2026-04-14T12:12:13.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12928046202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12928046202
+    name: Cliniq s.r.o.
