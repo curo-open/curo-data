@@ -9410,3 +9410,20 @@
   pzsRec:
     id: P12928046202
     name: Cliniq s.r.o.
+- id: A04950013
+  lastName: MAKÁŇ
+  firstName: Filip
+  dtValidFrom: '2026-04-21T12:18:03.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P14640013201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P14640013201
+    name: Poliklinika Trenčianska
