@@ -9427,3 +9427,52 @@
   pzsRec:
     id: P14640013201
     name: Poliklinika Trenčianska
+- id: A90605001
+  lastName: REMIŠOVÁ
+  firstName: Sylvia
+  dtValidFrom: '2026-04-22T06:34:34.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P27399001209
+  zp:
+    - 24
+  JRUZID: null
+  pzsRec:
+    id: P27399001209
+    name: PRO SANUS a.s.
+- id: A57365050
+  lastName: Gondová
+  firstName: Judita
+  dtValidFrom: '2026-04-22T07:31:42.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P45132050201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P45132050201
+    name: JUGOMED s.r.o.
+- id: A57365001
+  lastName: Gondová
+  firstName: Judita
+  dtValidFrom: '2026-04-22T07:32:40.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P45132001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P45132001201
+    name: JUGOMED s.r.o.
