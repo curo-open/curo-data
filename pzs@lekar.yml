@@ -9476,3 +9476,20 @@
   pzsRec:
     id: P45132001201
     name: JUGOMED s.r.o.
+- id: A39036004
+  lastName: PETRINCOVÁ
+  firstName: Mária
+  dtValidFrom: '2026-04-27T14:20:20.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P33021004202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P33021004202
+    name: DoktorPro
