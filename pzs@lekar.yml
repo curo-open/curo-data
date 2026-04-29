@@ -9493,3 +9493,20 @@
   pzsRec:
     id: P33021004202
     name: DoktorPro
+- id: A22689020
+  lastName: SANDTNEROVÁ
+  firstName: Agnesa
+  dtValidFrom: '2026-04-28T11:40:47.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P45642020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P45642020201
+    name: KZS s.r.o. Kubačova 19 Bratislava - Rača
