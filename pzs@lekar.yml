@@ -4557,9 +4557,9 @@
     id: P40707015101
     name: UNB, Nemocnica Ružinov Bratislava
 - id: A17493020
-  lastName: Dammak
+  lastName: DAMMAK
   firstName: Viera
-  dtValidFrom: '2023-03-30T08:18:12.000Z'
+  dtValidFrom: '2026-05-05T13:13:20.000Z'
   dtValidTo: null
   dtSuspendFrom: null
   dtSuspendTo: null
@@ -4572,7 +4572,7 @@
   JRUZID: null
   pzsRec:
     id: P04935020202
-    name: SORISSO s.r.o
+    name: SORISSO, s.r.o. Hlavná 54/92 Pusté Uľany
 - id: A80453004
   lastName: Gabrišková
   firstName: Monika
