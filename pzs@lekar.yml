@@ -9510,3 +9510,20 @@
   pzsRec:
     id: P45642020201
     name: KZS s.r.o. Kubačova 19 Bratislava - Rača
+- id: A85083011
+  lastName: SIJKA
+  firstName: Peter
+  dtValidFrom: '2026-05-07T11:08:45.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P12524011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P12524011201
+    name: FITNEST s.r.o.
