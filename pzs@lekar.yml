@@ -9527,3 +9527,20 @@
   pzsRec:
     id: P12524011201
     name: FITNEST s.r.o.
+- id: A57127004
+  lastName: HARING
+  firstName: Jozef
+  dtValidFrom: '2026-05-09T10:27:52.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P32515004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P32515004201
+    name: VERTEBRA, s.r.o.
