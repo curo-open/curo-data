@@ -9561,3 +9561,54 @@
   pzsRec:
     id: P07423010201
     name: Proctocare s.r.o.
+- id: A64506011
+  lastName: BUKVA
+  firstName: Pavol
+  dtValidFrom: '2026-05-18T16:33:56.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P33908011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P33908011201
+    name: PROFY, s.r.o.
+- id: A72200027
+  lastName: ŽOLDOŠOVÁ
+  firstName: Tamara
+  dtValidFrom: '2026-05-20T11:59:16.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P24720027201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P24720027201
+    name: HIPCENTRUM s.r.o.
+- id: A72200027
+  lastName: ŽOLDOŠOVÁ
+  firstName: Tamara
+  dtValidFrom: '2026-05-20T12:02:00.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P24720027501
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P24720027501
+    name: HIPCENTRUM s.r.o.
