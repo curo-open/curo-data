@@ -9612,3 +9612,16 @@
   pzsRec:
     id: P24720027501
     name: HIPCENTRUM s.r.o.
+- id: A89859011
+  lastName: PEKARA
+  firstName: Adam
+  dtValidFrom: '2026-05-22T11:02:49.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P85664011201
+  JRUZID: null
+  pzsRec:
+    id: P85664011201
+    name: Ortopéd Pekara s.r.o.
