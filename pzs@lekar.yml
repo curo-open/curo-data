@@ -9655,3 +9655,20 @@
   pzsRec:
     id: P27106020202
     name: Solem Clinic, s.r.o.
+- id: A83637009
+  lastName: SAVCA
+  firstName: Olga
+  dtValidFrom: '2026-05-29T13:11:54.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P53133009201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P53133009201
+    name: BS Klinika s.r.o.
