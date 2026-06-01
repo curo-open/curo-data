@@ -9672,3 +9672,37 @@
   pzsRec:
     id: P53133009201
     name: BS Klinika s.r.o.
+- id: A90418020
+  lastName: ANDERLOVÁ
+  firstName: Stojanka
+  dtValidFrom: '2026-06-01T11:24:37.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P83423020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P83423020201
+    name: Ambulancia Všeobecné lekárstvo, Robotnícka 1, 831 03 Bratislava
+- id: I99763141
+  lastName: Oravkinová
+  firstName: Zuzana
+  dtValidFrom: '2026-06-01T12:23:27.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P28861141201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P28861141201
+    name: LogoPoint s.r.o., Továrenská 14, 811 09 Bratislava
