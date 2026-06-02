@@ -1311,9 +1311,9 @@
     id: N22001001201
     name: Interná ambulancia Nemocnica Poprad a.s.
 - id: A43547020
-  lastName: Žitňanová
-  firstName: Mária
-  dtValidFrom: '2022-08-04T19:54:28.000Z'
+  lastName: Mudr.
+  firstName: Mária Žitňanová
+  dtValidFrom: '2026-06-02T08:25:04.000Z'
   dtValidTo: null
   dtSuspendFrom: null
   dtSuspendTo: null
@@ -1326,7 +1326,7 @@
   JRUZID: null
   pzsRec:
     id: P00255020201
-    name: Curae s.r.o.
+    name: curae s.r.o.
 - id: A43622020
   lastName: SVITLICA
   firstName: GRÉTA
@@ -6628,9 +6628,9 @@
     id: P12928025201
     name: Cliniq s.r.o., Bezručova 5, 811 09 Bratislava
 - id: A47765001
-  lastName: ZVANCIGEROVÁ
+  lastName: Zvancigerová
   firstName: Ivana
-  dtValidFrom: '2024-03-28T09:13:51.000Z'
+  dtValidFrom: '2026-06-02T07:14:00.000Z'
   dtValidTo: null
   dtSuspendFrom: null
   dtSuspendTo: null
@@ -6643,7 +6643,7 @@
   JRUZID: null
   pzsRec:
     id: P12928001201
-    name: Cliniq s.r.o, Poliklinika Bezručova,Bezručova 5, 811 09 Bratislava
+    name: Interné centrum Poliklinika Bezručova Bratislava
 - id: A97019009
   lastName: CHRÍBIKOVÁ
   firstName: Adela
@@ -9706,3 +9706,71 @@
   pzsRec:
     id: P28861141201
     name: LogoPoint s.r.o., Továrenská 14, 811 09 Bratislava
+- id: A54855020
+  lastName: TVRDÁ
+  firstName: Iveta
+  dtValidFrom: '2026-06-02T07:27:30.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P50858020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P50858020201
+    name: Milá Doktorka s.r.o.
+- id: A85954002
+  lastName: GREGUŠ
+  firstName: Lukáš
+  dtValidFrom: '2026-06-02T07:35:08.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P40707002201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P40707002201
+    name: UNB Nem. ak. L. Dérera Bratislava
+- id: A67704020
+  lastName: Mudr.
+  firstName: Oľga Polacká
+  dtValidFrom: '2026-06-02T08:19:22.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P37069020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P37069020201
+    name: OMP Medical s.r.o.
+- id: A88846014
+  lastName: OZOROVSKÁ
+  firstName: Silvia
+  dtValidFrom: '2026-06-02T08:23:08.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P20890014201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P20890014201
+    name: SORL, s.r.o. Fedinova 9, Bratislava
