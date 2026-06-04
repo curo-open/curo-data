@@ -9774,3 +9774,54 @@
   pzsRec:
     id: P20890014201
     name: SORL, s.r.o. Fedinova 9, Bratislava
+- id: A20539022
+  lastName: NIEMEC
+  firstName: Ján
+  dtValidFrom: '2026-06-03T09:56:20.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P48545008201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P48545008201
+    name: Alolim
+- id: A40527020
+  lastName: PASHCHENKO
+  firstName: Eva
+  dtValidFrom: '2026-06-03T09:58:45.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N66407020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N66407020201
+    name: Doktor-Vysoké Tatry, spol.s.r.o.
+- id: A38813004
+  lastName: HORVÁTHOVÁ
+  firstName: Monika
+  dtValidFrom: '2026-06-03T11:40:44.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P69360004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P69360004201
+    name: SINALGIS, s.r.o.
