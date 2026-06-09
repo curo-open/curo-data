@@ -9825,3 +9825,20 @@
   pzsRec:
     id: P69360004201
     name: SINALGIS, s.r.o.
+- id: A26374020
+  lastName: GERGIŠÁKOVÁ
+  firstName: Hana
+  dtValidFrom: '2026-06-08T13:18:42.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P49707020206
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P49707020206
+    name: Rodinný doktor
