@@ -9842,3 +9842,20 @@
   pzsRec:
     id: P49707020206
     name: Rodinný doktor
+- id: A84717008
+  lastName: Malcovská
+  firstName: Denisa
+  dtValidFrom: '2026-06-10T09:45:39.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P81880008201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P81880008201
+    name: Alimed s.r.o.
