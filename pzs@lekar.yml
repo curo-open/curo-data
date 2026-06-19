@@ -9859,3 +9859,20 @@
   pzsRec:
     id: P81880008201
     name: Alimed s.r.o.
+- id: A64437020
+  lastName: Činčala
+  firstName: Ľubomír
+  dtValidFrom: '2026-06-19T08:24:32.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P17518020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P17518020201
+    name: NZZ-ambulancia pre dospelých
