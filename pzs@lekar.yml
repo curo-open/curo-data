@@ -9876,3 +9876,29 @@
   pzsRec:
     id: P17518020201
     name: NZZ-ambulancia pre dospelých
+- id: A50864801
+  lastName: Veselovská
+  firstName: Nicole
+  dtValidFrom: '2026-07-01T07:50:28.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - p72713020201
+  JRUZID: null
+  pzsRec:
+    id: p72713020201
+    name: MOJMED-NZZ, s.r.o.
+- id: A23614018
+  lastName: Vavrek
+  firstName: Ivana
+  dtValidFrom: '2026-07-01T08:36:58.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P90937018201
+  JRUZID: null
+  pzsRec:
+    id: P90937018201
+    name: MUDr. Vavrek Ivana
