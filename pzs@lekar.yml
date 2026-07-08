@@ -9936,3 +9936,20 @@
   pzsRec:
     id: P50769009201
     name: Univerzitná nemocnica AGEL Milosrdní bratia s.r.o.
+- id: A78445104
+  lastName: KOLNÍKOVÁ
+  firstName: Miriam
+  dtValidFrom: '2026-07-07T09:42:23.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P43059104203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P43059104203
+    name: Neurologická ambulancia
