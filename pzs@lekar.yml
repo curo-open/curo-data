@@ -9970,3 +9970,18 @@
   pzsRec:
     id: P41468018201
     name: ATRIM SK s.r.o.
+- id: A41895005
+  lastName: Banasová
+  firstName: Anna
+  dtValidFrom: '2026-07-15T16:39:35.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P70133005201
+  zp:
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P70133005201
+    name: MEDI - ZONE, s.r.o.
