@@ -10002,3 +10002,16 @@
   pzsRec:
     id: P86027011201
     name: Štefániková 1, 915 31 Nové Mesto nad Váhom
+- id: A45033004
+  lastName: LILOVÁ
+  firstName: Christina
+  dtValidFrom: '2026-07-18T10:42:07.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P14640004201
+  JRUZID: null
+  pzsRec:
+    id: P14640004201
+    name: Poliklinika Trenčianska
