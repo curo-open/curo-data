@@ -10015,3 +10015,20 @@
   pzsRec:
     id: P14640004201
     name: Poliklinika Trenčianska
+- id: A71600009
+  lastName: Borošová
+  firstName: Monika
+  dtValidFrom: '2026-07-21T12:26:53.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P41861009201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P41861009201
+    name: Femme, s.r.o.
