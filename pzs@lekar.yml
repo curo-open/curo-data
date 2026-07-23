@@ -10032,3 +10032,20 @@
   pzsRec:
     id: P41861009201
     name: Femme, s.r.o.
+- id: A31349049
+  lastName: RAVLO
+  firstName: Natalia
+  dtValidFrom: '2026-07-22T12:25:27.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P33021004202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P33021004202
+    name: DoktorPro
