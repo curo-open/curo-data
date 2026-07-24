@@ -10049,3 +10049,20 @@
   pzsRec:
     id: P33021004202
     name: DoktorPro
+- id: A95311020
+  lastName: Šimo
+  firstName: Viliam
+  dtValidFrom: '2026-07-23T06:31:04.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P32578020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P32578020201
+    name: Medixx s.r.o.
