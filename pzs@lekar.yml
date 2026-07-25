@@ -10066,3 +10066,37 @@
   pzsRec:
     id: P32578020201
     name: Medixx s.r.o.
+- id: A58037020
+  lastName: MASÁR
+  firstName: Oto
+  dtValidFrom: '2026-07-24T06:50:19.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P50769020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P50769020202
+    name: Univrzitná NsP Milosrdní bratia spol. s.r.o
+- id: B23406016
+  lastName: Koniarová
+  firstName: Alena
+  dtValidFrom: '2026-07-24T09:29:26.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P05768802201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P05768802201
+    name: OrthoSmile4U / OrthoDent
