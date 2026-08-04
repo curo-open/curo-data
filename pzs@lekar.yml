@@ -3540,9 +3540,9 @@
     id: N84313063201
     name: Pemax-Nefro, s.r.o., Nefrologická ambulancia, Sv. Jakuba 21, Bardejov
 - id: A67747020
-  lastName: Rutajová
-  firstName: ''
-  dtValidFrom: '2022-11-24T07:45:21.000Z'
+  lastName: RUTAIOVÁ
+  firstName: Martina
+  dtValidFrom: '2026-07-29T06:37:40.000Z'
   dtValidTo: null
   dtSuspendFrom: null
   dtSuspendTo: null
@@ -3555,7 +3555,7 @@
   JRUZID: null
   pzsRec:
     id: P71408020201
-    name: Všeobecný lekár DNV, s.r.o. Istrijská 8B, 8A Bratislava
+    name: Všeobecný lekár DNV, s.r.o
 - id: A25604801
   lastName: Takáčová
   firstName: ''
@@ -10100,3 +10100,69 @@
   pzsRec:
     id: P05768802201
     name: OrthoSmile4U / OrthoDent
+- id: A60177018
+  lastName: MARTIŠKOVÁ
+  firstName: Dušička Vanda
+  dtValidFrom: '2026-07-29T11:36:27.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P41825018201
+  zp:
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P41825018201
+    name: derm-Atelier, s.r.o. Jelšová 1, Bratislava 831 01
+- id: A01928013
+  lastName: KOPPER
+  firstName: Róbert
+  dtValidFrom: '2026-07-31T11:01:02.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P75247011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P75247011201
+    name: pharco s.r.o., Pavlovičova 3, Bratislava
+- id: A53675011
+  lastName: FILAN
+  firstName: Peter
+  dtValidFrom: '2026-08-03T10:31:25.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P04373811201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P04373811201
+    name: Expert Medical Services s.r.o.
+- id: A53675011
+  lastName: FILAN
+  firstName: Peter
+  dtValidFrom: '2026-08-03T10:39:08.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P04373011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P04373011201
+    name: Expert Medical Services s.r.o.
