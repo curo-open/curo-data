@@ -10166,3 +10166,88 @@
   pzsRec:
     id: P04373011201
     name: Expert Medical Services s.r.o.
+- id: A89118019
+  lastName: ŠIMUNEKOVÁ
+  firstName: Eva
+  dtValidFrom: '2026-08-05T06:54:20.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P38561019209
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P38561019209
+    name: Národný onkologický ústav Bratislava
+- id: A00534020
+  lastName: Benkóczki
+  firstName: Judit
+  dtValidFrom: '2026-08-05T07:42:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P18668174202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P18668174202
+    name: APS Dunajská Streda n.o.
+- id: A00534020
+  lastName: Benkóczki
+  firstName: Judit
+  dtValidFrom: '2026-08-05T07:42:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P51102001101
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P51102001101
+    name: Nemocnica s poliklinikou Dunajská Streda, a.s.
+- id: A00534020
+  lastName: Benkóczki
+  firstName: Judit
+  dtValidFrom: '2026-08-05T07:42:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P65694020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P65694020201
+    name: MEDIFORTE s.r.o.
+- id: A00534020
+  lastName: Benkóczki
+  firstName: Judit
+  dtValidFrom: '2026-08-05T07:42:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P77356020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P77356020201
+    name: Vitality s.r.o.
