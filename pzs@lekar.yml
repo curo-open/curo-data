@@ -10203,7 +10203,7 @@
 - id: A00534020
   lastName: Benkóczki
   firstName: Judit
-  dtValidFrom: '2026-08-05T07:42:43.000Z'
+  dtValidFrom: '2026-08-05T07:42:44.000Z'
   dtValidTo: null
   dtSuspendFrom: null
   dtSuspendTo: null
@@ -10220,7 +10220,7 @@
 - id: A00534020
   lastName: Benkóczki
   firstName: Judit
-  dtValidFrom: '2026-08-05T07:42:43.000Z'
+  dtValidFrom: '2026-08-05T07:42:45.000Z'
   dtValidTo: null
   dtSuspendFrom: null
   dtSuspendTo: null
@@ -10237,7 +10237,7 @@
 - id: A00534020
   lastName: Benkóczki
   firstName: Judit
-  dtValidFrom: '2026-08-05T07:42:43.000Z'
+  dtValidFrom: '2026-08-05T07:42:46.000Z'
   dtValidTo: null
   dtSuspendFrom: null
   dtSuspendTo: null
@@ -10251,3 +10251,18 @@
   pzsRec:
     id: P77356020201
     name: Vitality s.r.o.
+- id: A98829027
+  lastName: Martin
+  firstName: Benčo
+  dtValidFrom: '2026-08-06T07:16:48.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N85233027201
+  zp:
+    - 24
+  JRUZID: null
+  pzsRec:
+    id: N85233027201
+    name: Neurorehabilitacia s.r.o.
