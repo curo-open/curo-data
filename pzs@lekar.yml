@@ -10266,3 +10266,20 @@
   pzsRec:
     id: N85233027201
     name: Neurorehabilitacia s.r.o.
+- id: A66981045
+  lastName: KOLLÁR
+  firstName: Marcela
+  dtValidFrom: '2026-08-07T08:40:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P59385045201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P59385045201
+    name: MEDIPAL, s.r.o.
