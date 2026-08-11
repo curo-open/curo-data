@@ -10283,3 +10283,37 @@
   pzsRec:
     id: P59385045201
     name: MEDIPAL, s.r.o.
+- id: A72846009
+  lastName: CHRASTINOVÁ
+  firstName: Marianna
+  dtValidFrom: '2026-08-10T06:58:39.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P84713009206
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P84713009206
+    name: NOVAPHARM, s.r.o.
+- id: A91611015
+  lastName: Štetinová
+  firstName: Tamara
+  dtValidFrom: '2026-08-10T12:35:19.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P75847015202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P75847015202
+    name: VESELÝ Očná Klinika, s.r.o.
