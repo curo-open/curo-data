@@ -10317,3 +10317,20 @@
   pzsRec:
     id: P75847015202
     name: VESELÝ Očná Klinika, s.r.o.
+- id: A78059020
+  lastName: Pavlovová
+  firstName: Jana
+  dtValidFrom: '2026-08-14T09:27:56.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P47657020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P47657020201
+    name: HEDAK, s.r.o.
