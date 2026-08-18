@@ -10334,3 +10334,37 @@
   pzsRec:
     id: P47657020201
     name: HEDAK, s.r.o.
+- id: A14682020
+  lastName: holan
+  firstName: jana
+  dtValidFrom: '2026-08-17T11:18:03.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N92965020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N92965020201
+    name: TRUMED, sro
+- id: A90941011
+  lastName: MURÁRIK
+  firstName: Štefan
+  dtValidFrom: '2026-08-17T14:35:49.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P11232011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P11232011201
+    name: Poliklinika Karlova Ves, Líščie údolie 98/57, 84104 Karlova Ves
