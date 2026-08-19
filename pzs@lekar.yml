@@ -10368,3 +10368,20 @@
   pzsRec:
     id: P11232011201
     name: Poliklinika Karlova Ves, Líščie údolie 98/57, 84104 Karlova Ves
+- id: A58714048
+  lastName: KOVALČÍKOVÁ
+  firstName: Katarína
+  dtValidFrom: '2026-08-18T05:01:33.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P93083048201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P93083048201
+    name: Nemocnica A. Wintera, n.o. Piešťany
