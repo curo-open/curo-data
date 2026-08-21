@@ -10385,3 +10385,20 @@
   pzsRec:
     id: P93083048201
     name: Nemocnica A. Wintera, n.o. Piešťany
+- id: A96795801
+  lastName: SAKOVÁ
+  firstName: Barbora
+  dtValidFrom: '2026-08-20T10:34:41.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P57192004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P57192004201
+    name: Rehabilitačná nemocnica Agel Hlohovec s.r.o.
