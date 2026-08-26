@@ -10402,3 +10402,16 @@
   pzsRec:
     id: P57192004201
     name: Rehabilitačná nemocnica Agel Hlohovec s.r.o.
+- id: A69739020
+  lastName: Gima
+  firstName: Štefan
+  dtValidFrom: '2026-08-25T05:55:41.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P90797020202
+  JRUZID: null
+  pzsRec:
+    id: P90797020202
+    name: LEKSTAR s.r.o.
