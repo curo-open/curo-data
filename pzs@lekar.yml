@@ -11,7 +11,7 @@
     - 27
     - 25
     - 24
-  JRUZID: null
+  JRUZID: '00020054615'
 - id: A70961020
   lastName: Tomková
   firstName: Táňa
@@ -25,7 +25,7 @@
     - 27
     - 25
     - 24
-  JRUZID: null
+  JRUZID: '00020236865'
   pzsRec:
     ico: '46223495'
     id: P76520020201
@@ -58,7 +58,7 @@
     - 27
     - 25
     - 24
-  JRUZID: null
+  JRUZID: '00020809851'
 - id: A71357012
   lastName: Kollárik
   firstName: Boris
@@ -72,7 +72,7 @@
     - 27
     - 25
     - 24
-  JRUZID: null
+  JRUZID: '00020047569'
   pzsRec:
     ico: '45288631'
     id: P06204012201
@@ -138,7 +138,7 @@
     - 27
     - 25
     - 24
-  JRUZID: null
+  JRUZID: '00020213872'
   pzsRec:
     ico: '36725561'
     id: P68276001201
@@ -171,7 +171,7 @@
     - 27
     - 25
     - 24
-  JRUZID: null
+  JRUZID: '00020795894'
   pzsRec:
     ico: '36562882'
     id: P30385049204
@@ -204,7 +204,7 @@
     - 27
     - 25
     - 24
-  JRUZID: null
+  JRUZID: '00020218475'
   pzsRec:
     ico: null
     id: P52806004201
@@ -237,7 +237,7 @@
     - 27
     - 25
     - 24
-  JRUZID: null
+  JRUZID: '00020259990'
   pzsRec:
     ico: null
     id: P89851068201
@@ -270,7 +270,7 @@
     - 27
     - 25
     - 24
-  JRUZID: null
+  JRUZID: '00020259990'
   pzsRec:
     ico: null
     id: P89851068101
@@ -303,7 +303,7 @@
     - 27
     - 25
     - 24
-  JRUZID: null
+  JRUZID: '00020162418'
   pzsRec:
     ico: null
     id: N66407014201
@@ -334,7 +334,7 @@
     - P18138011201
   zp:
     - 27
-  JRUZID: null
+  JRUZID: '00020806188'
   pzsRec:
     id: P18138011201
     name: Orto-AS s.r.o.
@@ -351,7 +351,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020070330'
   pzsRec:
     id: P57012020201
     name: MEDACH s.r.o. Detvianska 3, Nové Zámky
@@ -368,7 +368,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020825741'
   pzsRec:
     id: P69706020201
     name: VINOVA Group s.r.o.
@@ -385,7 +385,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020237483'
   pzsRec:
     id: P97506020201
     name: Norimed s.r.o.
@@ -402,7 +402,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020802732'
   pzsRec:
     id: P66191020201
     name: GP ambulance s.r.o.
@@ -419,7 +419,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020075297'
   pzsRec:
     id: P72324040201
     name: Imuno-alergológia LBM s.r.o.
@@ -436,7 +436,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020182473'
   pzsRec:
     id: P12928048205
     name: Cliniq s. r. o. Bezručova 5, 811 09 Bratislava – mestská časť Staré Mesto
@@ -453,7 +453,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020182473'
   pzsRec:
     id: P12928048402
     name: Cliniq s. r. o.
@@ -470,7 +470,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021879556'
   pzsRec:
     id: P12928018202
     name: Cliniq s. r. o.
@@ -487,7 +487,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020163879'
   pzsRec:
     id: P04935020201
     name: Sorrisso, s.r.o.
@@ -500,7 +500,7 @@
   dtSuspendTo: null
   pzs:
     - P36845037101
-  JRUZID: null
+  JRUZID: '00020056560'
   pzsRec:
     id: P36845037101
     name: Nemocnica sv. Michala Neurochirurg. amb.
@@ -517,7 +517,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020359287'
   pzsRec:
     id: P74079020201
     name: LIEČ-PREV RK s.r.o.
@@ -534,7 +534,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021523410'
   pzsRec:
     id: P42573020201
     name: Cliniq GP, s.r.o.
@@ -551,7 +551,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020148672'
   pzsRec:
     id: P36845020208
     name: Nemocnica Sv. Michala Bratislava
@@ -568,7 +568,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020807236'
   pzsRec:
     id: P20052020201
     name: MedStan, s.r.o. Dulovo nám. 899/14 821 08 Bratislava
@@ -585,7 +585,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020118865'
   pzsRec:
     id: P76086004201
     name: AB NEURO s.r.o.
@@ -602,7 +602,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020183307'
   pzsRec:
     id: P86027020201
     name: Ševčíková Gabriela
@@ -619,7 +619,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00022041651'
   pzsRec:
     id: P71108004201
     name: NEURO KLINIK s.r.o.
@@ -636,7 +636,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020145769'
   pzsRec:
     id: P04935020201
     name: Sorrisso, s.r.o.
@@ -653,7 +653,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020037313'
   pzsRec:
     id: N79217008201
     name: ADRIAMED s.r.o., SNP 1, 083 01 Sabinov
@@ -670,7 +670,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020172441'
   pzsRec:
     id: P86027001801
     name: NsP Nové Mesto n/V internista
@@ -687,7 +687,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020131272'
   pzsRec:
     id: P20998020201
     name: MUDr. Beňová Alena s.r.o.
@@ -704,7 +704,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020080610'
   pzsRec:
     id: P53089020201
     name: MUDr. Zuzana Hlavičková s.r.o.
@@ -721,7 +721,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020122511'
   pzsRec:
     id: P84713020220
     name: Novapharm s.r.o.
@@ -738,7 +738,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020131132'
   pzsRec:
     id: P91232020202
     name: Rafaelo, s.r.o.
@@ -755,7 +755,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020136503'
   pzsRec:
     id: N54567050202
     name: MEDIVASA s.r.o.
@@ -772,7 +772,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020214755'
   pzsRec:
     id: P60648020202
     name: MUDr. Andrea Remišová s.r.o.
@@ -789,7 +789,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020131413'
   pzsRec:
     id: P44523020201
     name: Bibimed s.r.o.
@@ -806,7 +806,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020072864'
   pzsRec:
     id: P12928018201
     name: Poliklinika Bezručova, Bratislava
@@ -823,7 +823,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020061545'
   pzsRec:
     id: P12928049201
     name: Cliniq s. r. o.
@@ -840,7 +840,7 @@
     - '24'
     - '25'
     - '27'
-  JRUZID: null
+  JRUZID: '00020038279'
   pzsRec:
     id: p73865020201
     name: JA-SAN, spol. s r.o.
@@ -857,7 +857,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020038279'
   pzsRec:
     id: P73865020201
     name: JA-SAN, spol. s r.o.
@@ -874,7 +874,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020223533'
   pzsRec:
     id: P12928009201
     name: Cliniq s. r. o.
@@ -891,7 +891,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020370714'
   pzsRec:
     id: P23161020201
     name: Vaša ambulancia, s. r. o.
@@ -908,7 +908,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020153417'
   pzsRec:
     id: P24720001201
     name: Hipcentrum s.r.o.
@@ -925,7 +925,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020146759'
   pzsRec:
     id: P12928045202
     name: Cliniq s. r. o.
@@ -942,7 +942,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020146759'
   pzsRec:
     id: P12928232501
     name: Cliniq s. r. o.
@@ -959,7 +959,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020054813'
   pzsRec:
     id: P12928048203
     name: Cliniq s. r. o.
@@ -976,7 +976,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020054813'
   pzsRec:
     id: P12928048204
     name: Cliniq s. r. o.
@@ -993,7 +993,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020054813'
   pzsRec:
     id: P12928048401
     name: Cliniq s. r. o.
@@ -1010,7 +1010,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020054813'
   pzsRec:
     id: P12928048402
     name: Cliniq s. r. o.
@@ -1027,7 +1027,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020136586'
   pzsRec:
     id: P36845020215
     name: Univ. Nemoc. sv. Michala a.s. Bratislava
@@ -1044,7 +1044,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020155404'
   pzsRec:
     id: P09273020201
     name: Medik Sučany , s.r.o.
@@ -1061,7 +1061,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020238945'
   pzsRec:
     id: P25794008201
     name: Doktorka Barborka s.r.o.
@@ -1078,7 +1078,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020164489'
   pzsRec:
     id: P70864020201
     name: Practic care, s.r.o.
@@ -1108,7 +1108,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020167045'
   pzsRec:
     id: P66657020201
     name: Wesper, a.s.
@@ -1125,7 +1125,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020056917'
   pzsRec:
     id: P36845020208
     name: Univerzitná nemocnica-nemocnica Sv. Michala
@@ -1142,7 +1142,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020080230'
   pzsRec:
     id: P71859001201
     name: NEDIK-MED s.r.o.
@@ -1159,7 +1159,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020100343'
   pzsRec:
     id: P60780020213
     name: Praktická ambulancia s.r.o.
@@ -1176,7 +1176,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020059556'
   pzsRec:
     id: O98057008201
     name: všeobecný lekár pre deti a dorast
@@ -1193,7 +1193,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020059556'
   pzsRec:
     id: O98057008203
     name: Neštátna ambulancia Rišňovce
@@ -1208,7 +1208,7 @@
     - P17959018201
   zp:
     - 27
-  JRUZID: null
+  JRUZID: '00020243945'
   pzsRec:
     id: P17959018201
     name: MarkoDerma s.r.o.
@@ -1225,7 +1225,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020202016'
   pzsRec:
     id: P66388008202
     name: BabyHope, s.r.o., Nábrežná 3, 934 05 Levice
@@ -1242,7 +1242,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020144689'
   pzsRec:
     id: P54006004201
     name: MEDIVA neurologická ambulancia, s.r.o.
@@ -1259,7 +1259,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020089116'
   pzsRec:
     id: P12928009202
     name: Cliniq s. r. o.
@@ -1276,7 +1276,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020772539'
   pzsRec:
     id: P81875020201
     name: LiptovMed s.r.o.
@@ -1291,7 +1291,7 @@
     - P09520020201
   zp:
     - 27
-  JRUZID: null
+  JRUZID: '00020103669'
   pzsRec:
     id: P09520020201
     name: KR GP, s.r.o.
@@ -1306,7 +1306,7 @@
     - N22001001201
   zp:
     - 27
-  JRUZID: null
+  JRUZID: '00020164752'
   pzsRec:
     id: N22001001201
     name: Interná ambulancia Nemocnica Poprad a.s.
@@ -1323,7 +1323,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020259107'
   pzsRec:
     id: P00255020201
     name: curae s.r.o.
@@ -1340,7 +1340,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020101119'
   pzsRec:
     id: N81713020201
     name: Medipraktik Michalovce, s.r.o.
@@ -1357,7 +1357,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020084323'
   pzsRec:
     id: P71859001201
     name: NEDIK-MED s.r.o.
@@ -1374,7 +1374,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020084323'
   pzsRec:
     id: P71859063201
     name: NEDIK-MED s.r.o.
@@ -1391,7 +1391,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020074050'
   pzsRec:
     id: P07596020201
     name: HALMO, s. r. o.
@@ -1404,7 +1404,7 @@
   dtSuspendTo: null
   pzs:
     - P41668015201
-  JRUZID: null
+  JRUZID: '00020805768'
   pzsRec:
     id: P41668015201
     name: Mauro Simon optik
@@ -1421,7 +1421,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020217527'
   pzsRec:
     id: P11154011201
     name: PP-ORTO
@@ -1451,7 +1451,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020135869'
   pzsRec:
     id: P43979004204
     name: Nemocnica AGEL Košice-Šaca a.s.
@@ -1468,7 +1468,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020223541'
   pzsRec:
     id: P74606004201
     name: Neurologická ambulancia Rožňava s.r.o.
@@ -1485,7 +1485,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020146502'
   pzsRec:
     id: P40684020201
     name: Med.LaVita s.r.o.
@@ -1502,7 +1502,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020229787'
   pzsRec:
     id: P13376020201
     name: LESAMED s.r.o.
@@ -1519,7 +1519,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020224630'
   pzsRec:
     id: P78095020201
     name: Schwarzwasser Medica s.r.o. Poštová 59 Bernolákovo 90027
@@ -1536,7 +1536,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020114682'
   pzsRec:
     id: N50139019201
     name: Všeobecná nemocnica s poliklinikou Lučenec n.o.
@@ -1549,7 +1549,7 @@
   dtSuspendTo: null
   pzs:
     - N33067322201
-  JRUZID: null
+  JRUZID: '00020068672'
   pzsRec:
     id: N33067322201
     name: FNPO
@@ -1565,7 +1565,7 @@
   zp:
     - 24
     - 25
-  JRUZID: null
+  JRUZID: '00020116174'
   pzsRec:
     id: P04035020201
     name: RS Health Consulting s.r.o.
@@ -1582,7 +1582,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020102851'
   pzsRec:
     id: P42397020201
     name: HELIM s.r.o. súkromná ambulancia Hasičská 16 Lubochňa
@@ -1599,7 +1599,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020149795'
   pzsRec:
     id: P27471808201
     name: KIDMED s.r.o.
@@ -1614,7 +1614,7 @@
     - P88447020201
   zp:
     - 27
-  JRUZID: null
+  JRUZID: '00020087326'
   pzsRec:
     id: P88447020201
     name: MARKO MEDIK, s.r.o., Cukrová 3, Bratislava
@@ -1631,7 +1631,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021046008'
   pzsRec:
     id: N84209020201
     name: NsP Sv. Jakuba n.o. Bardejov
@@ -1648,7 +1648,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020147781'
   pzsRec:
     id: N54567049202
     name: MEDIVASA s.r.o.
@@ -1665,7 +1665,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020788444'
   pzsRec:
     id: P70030020201
     name: MUDr. Katarína Dobríková, s.r.o.
@@ -1682,7 +1682,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020174462'
   pzsRec:
     id: P84715001202
     name: Medcentrum s.r.o. J.Milca 33 Žilina
@@ -1699,7 +1699,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020179743'
   pzsRec:
     id: O85633008201
     name: Neštátna ambulancia pre deti a dorast
@@ -1716,7 +1716,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020089132'
   pzsRec:
     id: P59076020202
     name: MEDIP. s.r.o
@@ -1733,7 +1733,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020062303'
   pzsRec:
     id: P19582008201
     name: PEDHO s. r. o. Ľudovíta Štúra 1564/44 Bardejov 085 01
@@ -1750,7 +1750,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020112942'
   pzsRec:
     id: P69337001201
     name: InterStorm sro.
@@ -1767,7 +1767,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020231874'
   pzsRec:
     id: P87482020201
     name: MUDr. Marcela Rajzáková s.r.o.
@@ -1784,7 +1784,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020250445'
   pzsRec:
     id: P12928012201
     name: Cliniq s. r. o.
@@ -1801,7 +1801,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020752051'
   pzsRec:
     id: P49707020201
     name: LH med s.r.o.
@@ -1818,7 +1818,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020088696'
   pzsRec:
     id: N77024031207
     name: Ambulancia hematológie a transfúziológie
@@ -1835,7 +1835,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020049623'
   pzsRec:
     id: N66391020201
     name: MEDITAM, s.r.o.
@@ -1852,7 +1852,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021190194'
   pzsRec:
     id: N33067049202
     name: FNsP J.A.Reimna Prešov
@@ -1869,7 +1869,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020198065'
   pzsRec:
     id: P45507020211
     name: Železničné zdravotníctvo Košice, s.r.o.
@@ -1886,7 +1886,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020218756'
   pzsRec:
     id: N41327020201
     name: APOLON, s.r.o., Kukorelliho 18, 08701 Giraltovce
@@ -1903,7 +1903,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020229118'
   pzsRec:
     id: P71859050201
     name: NEDIK-MED s.r.o.
@@ -1920,7 +1920,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020229118'
   pzsRec:
     id: P71859064201
     name: NEDIK-MED s.r.o.
@@ -1937,7 +1937,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020821468'
   pzsRec:
     id: P24720020201
     name: Hipcentrum s.r.o., Holubyho 41, Pezinok 90201
@@ -1954,7 +1954,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020071627'
   pzsRec:
     id: O85633008201
     name: Ambulancia všeobecného lekára pre deti a dorast
@@ -1971,7 +1971,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020071627'
   pzsRec:
     id: P85633008201
     name: Neštátna ambulancia pre deti a dorast
@@ -1988,7 +1988,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020257564'
   pzsRec:
     id: P22415020201
     name: RODMED s.r.o.
@@ -2005,7 +2005,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021501762'
   pzsRec:
     id: P50186020201
     name: PracticAll s.r.o.
@@ -2022,7 +2022,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020177341'
   pzsRec:
     id: P29723020201
     name: P29723020201
@@ -2039,7 +2039,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020224457'
   pzsRec:
     id: P78568020201
     name: Stakmed s.r.o.
@@ -2056,7 +2056,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020204988'
   pzsRec:
     id: P82987020202
     name: všeobecný lekár NsP Myjava
@@ -2073,7 +2073,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020112728'
   pzsRec:
     id: P27831049201
     name: Kardiologická ambulancia MUDr. Fazekaša, s.r.o.
@@ -2090,7 +2090,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020226692'
   pzsRec:
     id: P12928015201
     name: Cliniq s. r. o.
@@ -2107,7 +2107,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00022548655'
   pzsRec:
     id: P72629020201
     name: Medical Centrum s.r.o., Martin
@@ -2124,7 +2124,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020093605'
   pzsRec:
     id: P12849020201
     name: Milval s.r.o. Všeob. amb.Štúrovo
@@ -2141,7 +2141,7 @@
     - '24'
     - '25'
     - '27'
-  JRUZID: null
+  JRUZID: '00020130183'
   pzsRec:
     id: P82987020202
     name: Mokoš Peter
@@ -2158,7 +2158,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020185542'
   pzsRec:
     id: P60991020201
     name: LS-MEDIC s.r.o.
@@ -2175,7 +2175,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020120937'
   pzsRec:
     id: P16363020201
     name: OBOTO s.r.o. Demandice
@@ -2188,7 +2188,7 @@
   dtSuspendTo: null
   pzs:
     - P48427008202
-  JRUZID: null
+  JRUZID: '00020072195'
   pzsRec:
     id: P48427008202
     name: KM - MED s.r.o.
@@ -2205,7 +2205,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020043733'
   pzsRec:
     id: P84713001204
     name: Novapharm, Šancová 10, Bratislava
@@ -2222,7 +2222,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020144168'
   pzsRec:
     id: P38811064201
     name: Univerzitná nemocnica Martin
@@ -2239,7 +2239,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020040515'
   pzsRec:
     id: P66657049201
     name: Wesper, a.s.
@@ -2255,7 +2255,7 @@
   zp:
     - 24
     - 27
-  JRUZID: null
+  JRUZID: '00020092201'
   pzsRec:
     id: P09262056201
     name: TOBAcare profil, s.r.o. Dom Zdravia Juh, M.R. Štefánika 2673 Vranov nad Topľou
@@ -2272,7 +2272,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020137063'
   pzsRec:
     id: P12928045201
     name: Cliniq s. r. o.
@@ -2289,7 +2289,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020137063'
   pzsRec:
     id: P12928232501
     name: Cliniq s. r. o.
@@ -2302,7 +2302,7 @@
   dtSuspendTo: null
   pzs:
     - P65948008201
-  JRUZID: null
+  JRUZID: '00020241444'
   pzsRec:
     id: P65948008201
     name: Jánskeho 4, Nitra
@@ -2319,7 +2319,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020235800'
   pzsRec:
     id: P66657049202
     name: Wesper, a.s.
@@ -2336,7 +2336,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020197877'
   pzsRec:
     id: P12009020201
     name: Zdravie TN s.r.o všeobecný lekár
@@ -2353,7 +2353,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020258331'
   pzsRec:
     id: P29680010201
     name: LC-CHIR s.r.o.
@@ -2370,7 +2370,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020258331'
   pzsRec:
     id: P29680010201
     name: LC-CHIR s.r.o.
@@ -2387,7 +2387,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020173878'
   pzsRec:
     id: P56870020201
     name: VALRAD, s.r.o.
@@ -2404,7 +2404,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020233110'
   pzsRec:
     id: P40707045201
     name: Univerzitná nemocnica Bratislava
@@ -2421,7 +2421,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020759999'
   pzsRec:
     id: P57745020201
     name: Všeobecná ambulancia pre dospelých Šarišské Dravce
@@ -2434,7 +2434,7 @@
   dtSuspendTo: null
   pzs:
     - P70864020201
-  JRUZID: null
+  JRUZID: '00020060182'
   pzsRec:
     id: P70864020201
     name: Practic care, s.r.o.
@@ -2449,7 +2449,7 @@
     - P12928004201
   zp:
     - 24
-  JRUZID: null
+  JRUZID: '00022143283'
   pzsRec:
     id: P12928004201
     name: Cliniq s. r. o.
@@ -2462,7 +2462,7 @@
   dtSuspendTo: null
   pzs:
     - P81753001201
-  JRUZID: null
+  JRUZID: '00022405955'
   pzsRec:
     id: P81753001201
     name: Metská poliklinika Šurany
@@ -2479,7 +2479,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020198800'
   pzsRec:
     id: P29189060201
     name: MUDR. Hartiníková Zuzana
@@ -2496,7 +2496,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020081121'
   pzsRec:
     id: P42573020202
     name: Cliniq GP, s.r.o.
@@ -2513,7 +2513,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020259073'
   pzsRec:
     id: O44282001201
     name: NZZ Interná ambulancia
@@ -2530,7 +2530,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020794525'
   pzsRec:
     id: P54463020201
     name: MOJA POLIKLINIKA
@@ -2547,7 +2547,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00022142699'
   pzsRec:
     id: P53300020201
     name: MediElic, s.r.o., CIZS, Nemocničná 1, Šala 92701
@@ -2564,7 +2564,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020085866'
   pzsRec:
     id: P16521010401
     name: P16521010401
@@ -2581,7 +2581,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00022450241'
   pzsRec:
     id: P50769010101
     name: P50769010101
@@ -2615,7 +2615,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020752051'
   pzsRec:
     id: P49481020201
     name: Zdravá Župa, s.r.o.
@@ -2632,7 +2632,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020122123'
   pzsRec:
     id: P45904014201
     name: AZIMED-ORL s.r.o.
@@ -2649,7 +2649,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020238358'
   pzsRec:
     id: P84346020201
     name: MUDr. TURSKÁ Jela s.r.o. všeobecná lekárka pre dospelých
@@ -2666,7 +2666,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020133054'
   pzsRec:
     id: P24514020201
     name: EL Medica s.r.o.
@@ -2683,7 +2683,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020161295'
   pzsRec:
     id: P83432020201
     name: DAMED s.r.o.
@@ -2700,7 +2700,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020118899'
   pzsRec:
     id: P12928050201
     name: Cliniq s. r. o.
@@ -2717,7 +2717,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020215950'
   pzsRec:
     id: P12928040201
     name: Cliniq s. r. o.
@@ -2734,7 +2734,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020236857'
   pzsRec:
     id: P12928011201
     name: Cliniq s. r. o.
@@ -2751,7 +2751,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020072203'
   pzsRec:
     id: P12928011202
     name: Cliniq s. r. o.
@@ -2768,7 +2768,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020107165'
   pzsRec:
     id: P12928012202
     name: Cliniq s. r. o.
@@ -2785,7 +2785,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020791224'
   pzsRec:
     id: P12928004202
     name: Cliniq s. r. o. Bezručova 5, 811 09 Bratislava
@@ -2802,7 +2802,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021100748'
   pzsRec:
     id: P50438020201
     name: PRAKTIKMED spol. s.r.o. BRATISLAVA
@@ -2819,7 +2819,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020182473'
   pzsRec:
     id: P12928048204
     name: Gastroenterologické centrum Poliklinika Bezručova Bratislava
@@ -2832,7 +2832,7 @@
   dtSuspendTo: null
   pzs:
     - P25011008201
-  JRUZID: null
+  JRUZID: '00020157905'
   pzsRec:
     id: P25011008201
     name: LMF med s.r.o.
@@ -2849,7 +2849,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021144092'
   pzsRec:
     id: P26573020201
     name: MEDMARU, s.r.o., Pri jazdiarni 1, 040 01 Košice
@@ -2866,7 +2866,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020033221'
   pzsRec:
     id: P96728020201
     name: JTK medical s.r.o.
@@ -2883,7 +2883,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020805040'
   pzsRec:
     id: P96728060201
     name: JTK medical s.r.o.
@@ -2900,7 +2900,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020239760'
   pzsRec:
     id: P61232004201
     name: Neospace
@@ -2917,7 +2917,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020166690'
   pzsRec:
     id: P33034020203
     name: Palmed s.r.o.
@@ -2934,7 +2934,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020139986'
   pzsRec:
     id: P99032020202
     name: OK AMBULANCIA, a.s.
@@ -2951,7 +2951,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020074944'
   pzsRec:
     id: P60780020201
     name: Praktická ambulancia s.r.o.
@@ -2968,7 +2968,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020141982'
   pzsRec:
     id: P60780020205
     name: Praktická Ambulancia, s.r.o.
@@ -2985,7 +2985,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020064879'
   pzsRec:
     id: P79023020201
     name: RUŽINOVSKÁ POLIKLINIKA a.s.
@@ -3002,7 +3002,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020117305'
   pzsRec:
     id: P50908020201
     name: MUDr. Šteffeková s.r.o.
@@ -3015,7 +3015,7 @@
   dtSuspendTo: null
   pzs:
     - P79802008201
-  JRUZID: null
+  JRUZID: '00020139051'
   pzsRec:
     id: P79802008201
     name: Ambulancia VLDD s.r.o.
@@ -3032,7 +3032,7 @@
     - '24'
     - '25'
     - '27'
-  JRUZID: null
+  JRUZID: '00020156865'
   pzsRec:
     id: P74817008201
     name: Elimedic s.r.o.
@@ -3045,7 +3045,7 @@
   dtSuspendTo: null
   pzs:
     - P74817008201
-  JRUZID: null
+  JRUZID: '00020156865'
   pzsRec:
     id: P74817008201
     name: Elimedic s.r.o.
@@ -3077,7 +3077,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020203378'
   pzsRec:
     id: P35577020201
     name: TOP-MEDICA s.r.o.
@@ -3094,7 +3094,7 @@
     - '24'
     - '25'
     - '27'
-  JRUZID: null
+  JRUZID: '00021143789'
   pzsRec:
     id: P23161020201
     name: AB VITALITA, s.r.o.
@@ -3111,7 +3111,7 @@
     - '24'
     - '25'
     - '27'
-  JRUZID: null
+  JRUZID: '00020141198'
   pzsRec:
     id: P66867008201
     name: Zdravotné stredisko Záporožská 12
@@ -3128,7 +3128,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020060612'
   pzsRec:
     id: P24720001201
     name: Hipcentrum s.r.o.
@@ -3143,7 +3143,7 @@
     - P90284020203
   zp:
     - 27
-  JRUZID: null
+  JRUZID: '00020784237'
   pzsRec:
     id: P90284020203
     name: Merci, n.o. Babuškova 2 Bratislava
@@ -3160,7 +3160,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020066833'
   pzsRec:
     id: P49707020201
     name: LH med s.r.o.
@@ -3177,7 +3177,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020059556'
   pzsRec:
     id: O98057008202
     name: Neštátna ambulancia Lehota
@@ -3194,7 +3194,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020632030'
   pzsRec:
     id: P91151045201
     name: Ústredná vojenská nemocnica SNP Ružomberok FN
@@ -3211,7 +3211,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020119731'
   pzsRec:
     id: P29224050201
     name: G-Pharma, s.r.o. Kapitulská 1 97401 Banská Bystrica
@@ -3228,7 +3228,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020137709'
   pzsRec:
     id: P54463004201
     name: Moja poliklinika a.s. MARTIN
@@ -3245,7 +3245,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020797213'
   pzsRec:
     id: P26621020201
     name: SIMIAL s.r.o., ČK 85 25 , 02901 Námestovo
@@ -3262,7 +3262,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020073722'
   pzsRec:
     id: P49707020201
     name: Rodinný doktor Záporožská 12 85101 Bratislava
@@ -3279,7 +3279,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020058426'
   pzsRec:
     id: P17223011201
     name: END-ORT s.r.o. Hálkova 3 01001 Žilina
@@ -3296,7 +3296,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020816401'
   pzsRec:
     id: P70827004201
     name: NeurOne, n.o.
@@ -3313,7 +3313,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020253167'
   pzsRec:
     id: N42231010202
     name: Fakultná nemocnica s poliklinikou Banská Bystrica
@@ -3330,7 +3330,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020222527'
   pzsRec:
     id: P29189027201
     name: Nemocničná a.s. Nemocnica Malacky
@@ -3347,7 +3347,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020069183'
   pzsRec:
     id: P29723020201
     name: Benediktus MRM, s.r.o. Cukrová 14, 81108 Bratislava
@@ -3364,7 +3364,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020205027'
   pzsRec:
     id: P75954020201
     name: MITAMED s.r.o
@@ -3380,7 +3380,7 @@
   zp:
     - 24
     - 27
-  JRUZID: null
+  JRUZID: '00020057782'
   pzsRec:
     id: P24215020202
     name: Prados sro
@@ -3397,7 +3397,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020197810'
   pzsRec:
     id: P50769001205
     name: Univerzitná NsP Milosrdní bratia, spol.s.r.o. nám SNP 10 81465 Bratislava
@@ -3426,7 +3426,7 @@
   zp:
     - 24
     - 27
-  JRUZID: null
+  JRUZID: '00020704854'
   pzsRec:
     id: P02929018201
     name: SKIN CARE Šancová 110 83104 Bratislava
@@ -3443,7 +3443,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020171369'
   pzsRec:
     id: P00708009201
     name: GYNOSAN, s.r.o.
@@ -3456,7 +3456,7 @@
   dtSuspendTo: null
   pzs:
     - P41531020201
-  JRUZID: null
+  JRUZID: '00020149597'
   pzsRec:
     id: P41531020201
     name: Zdravotné stredisko MUDr. Anna Danišová, s.r.o.
@@ -3473,7 +3473,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020194023'
   pzsRec:
     id: P77920005201
     name: simaMENT s.r.o.
@@ -3490,7 +3490,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020237202'
   pzsRec:
     id: N22785008201
     name: MUDr. Katarína Tóthová
@@ -3503,7 +3503,7 @@
   dtSuspendTo: null
   pzs:
     - P33167025401
-  JRUZID: null
+  JRUZID: '00020122859'
   pzsRec:
     id: P33167025401
     name: ZÁCHRANNÁ SLUŽBA - Event Medical Solutions, s.r.o.
@@ -3518,7 +3518,7 @@
     - P94462004202
   zp:
     - 27
-  JRUZID: null
+  JRUZID: '00020109179'
   pzsRec:
     id: P94462004202
     name: Mlynská dolina s.r.o.  Staré Grunty
@@ -3535,7 +3535,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020252821'
   pzsRec:
     id: N84313063201
     name: Pemax-Nefro, s.r.o., Nefrologická ambulancia, Sv. Jakuba 21, Bardejov
@@ -3552,7 +3552,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021533377'
   pzsRec:
     id: P71408020201
     name: Všeobecný lekár DNV, s.r.o
@@ -3567,7 +3567,7 @@
     - P40707015103
   zp:
     - 25
-  JRUZID: null
+  JRUZID: '00021767363'
   pzsRec:
     id: P40707015103
     name: UNB Nemocnica sv C a M Bratislava
@@ -3614,7 +3614,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020157764'
   pzsRec:
     id: P50908020201
     name: MUDR.Šteffeková Darina r.r.o
@@ -3627,7 +3627,7 @@
   dtSuspendTo: null
   pzs:
     - P27399018203
-  JRUZID: null
+  JRUZID: '00022819296'
   pzsRec:
     id: P27399018203
     name: 'PRO SANUS, a.s., Einstainova 25, 851 01 Bratislava, Prevádzka: Jelačičova 7, 821 08 Bratislava'
@@ -3640,7 +3640,7 @@
   dtSuspendTo: null
   pzs:
     - P05757040201
-  JRUZID: null
+  JRUZID: '00020072385'
   pzsRec:
     id: P05757040201
     name: NZZ ImunoVital Centrum Jašíkova 2
@@ -3657,7 +3657,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020104485'
   pzsRec:
     id: P55931020201
     name: Mediplus Michalovce, s.r.o.
@@ -3674,7 +3674,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020151528'
   pzsRec:
     id: P86027063202
     name: NsP Nové Mesto n/V nefrologická ambulancia
@@ -3691,7 +3691,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021706189'
   pzsRec:
     id: P59086001201
     name: MEDANTE clinic s.r.o.
@@ -3708,7 +3708,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020180642'
   pzsRec:
     id: P84715020202
     name: Medcentrum Žilina
@@ -3725,7 +3725,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020077533'
   pzsRec:
     id: P27399020212
     name: PRO SANUS, a.s.
@@ -3742,7 +3742,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020817102'
   pzsRec:
     id: N33067013101
     name: Fakultná nemocnica s poliklinikou J. A. Reimana Prešov
@@ -3757,7 +3757,7 @@
     - P54224015201
   zp:
     - 27
-  JRUZID: null
+  JRUZID: '00020257598'
   pzsRec:
     id: P54224015201
     name: ŽMURK s.r.o. Oftamologická ambulancia Šustekova 2422/2, 85104 Bratislava
@@ -3774,7 +3774,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020042370'
   pzsRec:
     id: P12928015201
     name: Cliniq s. r. o.
@@ -3791,7 +3791,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020163382'
   pzsRec:
     id: P12928012201
     name: Cliniq s. r. o.
@@ -3808,7 +3808,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020127239'
   pzsRec:
     id: P12928045201
     name: Cliniq s. r. o., Bezručova 5, 811 09 Bratislava
@@ -3825,7 +3825,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020163382'
   pzsRec:
     id: P12928012401
     name: 012 JZS Urológia, Cliniq s . r. o. Bezručova 2531/5 Bratislava 81109
@@ -3842,7 +3842,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020223533'
   pzsRec:
     id: P12928009401
     name: 009 - JZS Gynekológia, Cliniq s. r. o., Bezručova 2531/5 Bratislava 81109
@@ -3859,7 +3859,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020236857'
   pzsRec:
     id: P12928011401
     name: 011 JZS Ortopédia, Cliniq s. r. o. , Bezručova 2531/5 Bratislava 81109
@@ -3876,7 +3876,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020072203'
   pzsRec:
     id: P12928011401
     name: 011 JZS Ortopédia, Cliniq s. r. o., Bezručova 2531/5 Bratislava, 81109
@@ -3893,7 +3893,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020107165'
   pzsRec:
     id: P12928012401
     name: 012 JZS Urológia, Cliniq s. r. o., Bezručova 2531/5, Bratislava 81109
@@ -3906,7 +3906,7 @@
   dtSuspendTo: null
   pzs:
     - P19444011201
-  JRUZID: null
+  JRUZID: '00021095419'
   pzsRec:
     id: P19444011201
     name: Neurologická ambulancia FYZIOKLINIK, s.r.o., Mlynské nivy 61/A, 82105 Bratislava
@@ -3923,7 +3923,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020092821'
   pzsRec:
     id: P59129020201
     name: MUDr. Ján Jozef, s.r.o.
@@ -3938,7 +3938,7 @@
     - P05962020201
   zp:
     - 27
-  JRUZID: null
+  JRUZID: '00020784237'
   pzsRec:
     id: P05962020201
     name: Rimed, s.r.o.
@@ -3955,7 +3955,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020090734'
   pzsRec:
     id: P95540020201
     name: NEMESIA s.r.o.
@@ -3972,7 +3972,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020042297'
   pzsRec:
     id: P04373011201
     name: Expert Medical Services s.r.o.
@@ -3989,7 +3989,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020793972'
   pzsRec:
     id: P89104004201
     name: Premedix
@@ -4006,7 +4006,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020815171'
   pzsRec:
     id: P02157020201
     name: Klemens Medical s.r.o. Ľ. Štúra 18, 94002 Nové Zámky
@@ -4023,7 +4023,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020066833'
   pzsRec:
     id: P49707020203
     name: Všeobecný lekár pre dospelých
@@ -4040,7 +4040,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020072351'
   pzsRec:
     id: P81753020204
     name: Mestská poliklinika, SNP 2, Šurany
@@ -4057,7 +4057,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020120952'
   pzsRec:
     id: P31683040203
     name: Onkologický ústav sv. Alžbety, Bratislava
@@ -4074,7 +4074,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020181988'
   pzsRec:
     id: P04373011201
     name: Expert Medical Services s.r.o.
@@ -4091,7 +4091,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020074589'
   pzsRec:
     id: P98355020201
     name: MDclinic
@@ -4106,7 +4106,7 @@
     - P22002015201
   zp:
     - 27
-  JRUZID: null
+  JRUZID: '00020212825'
   pzsRec:
     id: P22002015201
     name: K&M, Saratovská 24, Bratislava s.r.o.
@@ -4123,7 +4123,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020039012'
   pzsRec:
     id: P38533020201
     name: KOVI praktik s.r.o.
@@ -4140,7 +4140,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020128740'
   pzsRec:
     id: P49970011201
     name: Ortoport s.r.o., Fedinova 9 Bratislava
@@ -4157,7 +4157,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020795100'
   pzsRec:
     id: P72361027201
     name: Ambulancia FBLR
@@ -4174,7 +4174,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020161527'
   pzsRec:
     id: P93330020201
     name: SPAOLO s.r.o
@@ -4191,7 +4191,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021013164'
   pzsRec:
     id: P23897020201
     name: LV-Pro s.r.o. Dunajská Streda
@@ -4208,7 +4208,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020079612'
   pzsRec:
     id: P04035020201
     name: RS Health Consulting s.r.o. Nové Zámky
@@ -4221,7 +4221,7 @@
   dtSuspendTo: null
   pzs:
     - P74130015403
-  JRUZID: null
+  JRUZID: '00021504600'
   pzsRec:
     id: P74130015403
     name: EXCIMER spol. s.r.o., J Stanislava 20/E. 841 05 Bratislava
@@ -4238,7 +4238,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020817920'
   pzsRec:
     id: P36845020202
     name: Univerzitná nemocnica Nemocnica svätého Michala, a. s.
@@ -4255,7 +4255,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020161063'
   pzsRec:
     id: P86690020201
     name: RP-Med s.r.o. všeobecná ambulancia pre dospelých
@@ -4268,7 +4268,7 @@
   dtSuspendTo: null
   pzs:
     - P35717008201
-  JRUZID: null
+  JRUZID: '00020241444'
   pzsRec:
     id: P35717008201
     name: Visped s.r.o., Čajkovského 44, 94911 Nitra
@@ -4285,7 +4285,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00022529556'
   pzsRec:
     id: P13936020201
     name: JLQM s.r.o.
@@ -4302,7 +4302,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020167292'
   pzsRec:
     id: P79023001201
     name: Ružinovská Poliklinika s.s.
@@ -4319,7 +4319,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020075131'
   pzsRec:
     id: P19483020201
     name: Ambulancia všeobecného lekára pre dospelých
@@ -4336,7 +4336,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020795886'
   pzsRec:
     id: P79232020201
     name: ZDRAVOTNÉ STREDISKO Nitrianske Rudno
@@ -4352,7 +4352,7 @@
   zp:
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020100806'
   pzsRec:
     id: P49455020201
     name: VITACARE
@@ -4369,7 +4369,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020061529'
   pzsRec:
     id: P36037020201
     name: Toppraktik s.r.o.
@@ -4386,7 +4386,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021760764'
   pzsRec:
     id: P27399020207
     name: PROSANUS a.s. Einsteinova 25, 851 01 Bratislava
@@ -4403,7 +4403,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020252110'
   pzsRec:
     id: P42535020201
     name: MiriaMed s.r.o.
@@ -4420,7 +4420,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020169744'
   pzsRec:
     id: P77253001203
     name: InterPraktik s.r.o.Veličná
@@ -4437,7 +4437,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020128773'
   pzsRec:
     id: P42915003201
     name: Poliklinika Karlova Ves
@@ -4454,7 +4454,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021119664'
   pzsRec:
     id: N19681154202
     name: Národný ústav detskej TaRCH, n.o., Dolný Smokovec
@@ -4469,7 +4469,7 @@
     - P95852020201
   zp:
     - 25
-  JRUZID: null
+  JRUZID: '00020127924'
   pzsRec:
     id: P95852020201
     name: LIMIMED s.r.o.
@@ -4486,7 +4486,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020238085'
   pzsRec:
     id: N55857019201
     name: POKO-POPRAD, s.r.o. Mnoheľova 842/2 05801 Poprad
@@ -4503,7 +4503,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020241956'
   pzsRec:
     id: P64308020201
     name: Prakt. a estet. medicína s.r.o.
@@ -4520,7 +4520,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020139812'
   pzsRec:
     id: N93673020201
     name: Hormed,s.r.o.,Nižná
@@ -4537,7 +4537,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020115986'
   pzsRec:
     id: P63620020202
     name: HEALTH MANAGEMENT GROUP s.r.o.
@@ -4552,7 +4552,7 @@
     - P40707015101
   zp:
     - 25
-  JRUZID: null
+  JRUZID: '00022782312'
   pzsRec:
     id: P40707015101
     name: UNB, Nemocnica Ružinov Bratislava
@@ -4569,7 +4569,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020163879'
   pzsRec:
     id: P04935020202
     name: SORISSO, s.r.o. Hlavná 54/92 Pusté Uľany
@@ -4586,7 +4586,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020064648'
   pzsRec:
     id: P84713004203
     name: NOVAPHARM s.r.o
@@ -4603,7 +4603,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020119756'
   pzsRec:
     id: P58656020201
     name: PROMETEUM s.r.o.
@@ -4633,7 +4633,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021501762'
   pzsRec:
     id: P86144020201
     name: ORDINÁCIA s.r.o.
@@ -4650,7 +4650,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021815196'
   pzsRec:
     id: P87239020201
     name: DESPLAZARSA s.r.o. BRATISLAVA
@@ -4667,7 +4667,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00022384838'
   pzsRec:
     id: P85834020201
     name: Zdravotné stredisko Šenkvice
@@ -4684,7 +4684,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020236865'
   pzsRec:
     id: P76620020201
     name: Ambulancia Modrá, s.r.o.
@@ -4701,7 +4701,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020174785'
   pzsRec:
     id: P81095020202
     name: FNsP Nové Zámky, Slovenská 11
@@ -4718,7 +4718,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020117925'
   pzsRec:
     id: P24679001201
     name: interná ambulancia BM
@@ -4735,7 +4735,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020137477'
   pzsRec:
     id: P59248020201
     name: DUPPRA s.r.o.
@@ -4748,7 +4748,7 @@
   dtSuspendTo: null
   pzs:
     - P46969020201
-  JRUZID: null
+  JRUZID: '00020144572'
   pzsRec:
     id: P46969020201
     name: MediConty s.r.o.
@@ -4764,7 +4764,7 @@
   zp:
     - 24
     - 25
-  JRUZID: null
+  JRUZID: '00021595574'
   pzsRec:
     id: P40707184802
     name: Lekár
@@ -4781,7 +4781,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020720090'
   pzsRec:
     id: P00489009201
     name: Gynekológ
@@ -4798,7 +4798,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020255592'
   pzsRec:
     id: P76050020202
     name: H.A.M. Academy s.r.o.
@@ -4811,7 +4811,7 @@
   dtSuspendTo: null
   pzs:
     - P90994008201
-  JRUZID: null
+  JRUZID: '00020114328'
   pzsRec:
     id: P90994008201
     name: Madar Med s.r.io.
@@ -4828,7 +4828,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020244703'
   pzsRec:
     id: P60780020202
     name: Praktická Ambulancia s.r.o.
@@ -4856,7 +4856,7 @@
     - P23815020201
   zp:
     - 24
-  JRUZID: null
+  JRUZID: '00021474531'
   pzsRec:
     id: P23815020201
     name: MUDr. EMIL MILEV s.r.o. Nové Zámky
@@ -4873,7 +4873,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020173167'
   pzsRec:
     id: P12928001201
     name: Cliniq s. r. o., Bezručova 5, 811 09 Bratislava
@@ -4890,7 +4890,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020163382'
   pzsRec:
     id: P12928322201
     name: Cliniq s. r. o., Bezručova 5, 811 09 Bratislava
@@ -4903,7 +4903,7 @@
   dtSuspendTo: null
   pzs:
     - P36845001101
-  JRUZID: null
+  JRUZID: '00021903018'
   pzsRec:
     id: P36845001101
     name: Univerzitná nemocnica - Nemocnica svätého Michala, a. s.
@@ -4920,7 +4920,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020220489'
   pzsRec:
     id: P27399020213
     name: PRO SANUS, a.s., Einsteinova 25, 85101 Bratislava
@@ -4937,7 +4937,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020178810'
   pzsRec:
     id: P24720001201
     name: Hipcentrum s.r.o., Holubyho 41, 90201 Pezinok
@@ -4967,7 +4967,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020252821'
   pzsRec:
     id: N84313208601
     name: Pemax-Nefro, s.r.o., Nefrologická ambulancia, Sv. Jakuba 21, Bardejov
@@ -4984,7 +4984,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020195384'
   pzsRec:
     id: P39644020201
     name: MAŠ-LEK, s.r.o.
@@ -5001,7 +5001,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020066163'
   pzsRec:
     id: P72508020201
     name: DIAGMED s.r.o. Mlynská 26, Košice
@@ -5018,7 +5018,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020104402'
   pzsRec:
     id: P38167049201
     name: Heart consulting ,s.r.o. Štúrova 4330/25 Liptovský Mikuláš
@@ -5035,7 +5035,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020177853'
   pzsRec:
     id: P27399020210
     name: PRO SANUS a.s. Bratislava
@@ -5052,7 +5052,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020166542'
   pzsRec:
     id: R50192020201
     name: Senecká 1595/23, Pezinok 90201
@@ -5082,7 +5082,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020204400'
   pzsRec:
     id: P59790020210
     name: Euromedix, a.s.
@@ -5099,7 +5099,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020073722'
   pzsRec:
     id: P84788020202
     name: všeobecný lekár pre dospelých
@@ -5116,7 +5116,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020260436'
   pzsRec:
     id: N76389020201
     name: LEK HUMANITA s.r.o.
@@ -5133,7 +5133,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020123899'
   pzsRec:
     id: P47776020201
     name: všeobecný lekár
@@ -5146,7 +5146,7 @@
   dtSuspendTo: null
   pzs:
     - p40707027502
-  JRUZID: null
+  JRUZID: '00020819306'
   pzsRec:
     id: p40707027502
     name: UNB, Nem. Staré Mesto, Bratislava
@@ -5163,7 +5163,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021533377'
   pzsRec:
     id: P71408050201
     name: Všeobecný lekár DNV
@@ -5180,7 +5180,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020170528'
   pzsRec:
     id: P59086004201
     name: MEDANTE Clinic. s.r.o.
@@ -5197,7 +5197,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020255055'
   pzsRec:
     id: P49970011201
     name: ORTOPORT s.r.o., Fedinova 9, Bratislava
@@ -5213,7 +5213,7 @@
   zp:
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020100806'
   pzsRec:
     id: P40707018101
     name: UNB Nem. Staré Mesto, Bratislava
@@ -5230,7 +5230,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020194908'
   pzsRec:
     id: P23906020201
     name: Ambulancia všeobecného lekárstva - G G ambulancia, s. r. o.
@@ -5247,7 +5247,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020252037'
   pzsRec:
     id: P25534048203
     name: gastroenterológ
@@ -5264,7 +5264,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021220124'
   pzsRec:
     id: P66051975801
     name: Liptovská nemocnica s poliklinikou MUDr.Ivana Stodolu Liptovský Mikuláš
@@ -5281,7 +5281,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020162590'
   pzsRec:
     id: P16826011201
     name: Ortoped 7, s.r.o.
@@ -5298,7 +5298,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021816939'
   pzsRec:
     id: P45360020201
     name: TOMCARE, s.r.o.
@@ -5311,7 +5311,7 @@
   dtSuspendTo: null
   pzs:
     - P94462004202
-  JRUZID: null
+  JRUZID: '00021095419'
   pzsRec:
     id: P94462004202
     name: Medicínske zariadenie Mlynská dolina s.r.o., Staré Grunty 56, 841 04 Bratislava
@@ -5326,7 +5326,7 @@
     - P16521011401
   zp:
     - 25
-  JRUZID: null
+  JRUZID: '00020184149'
   pzsRec:
     id: P16521011401
     name: ortopéd
@@ -5339,7 +5339,7 @@
   dtSuspendTo: null
   pzs:
     - P31683802214
-  JRUZID: null
+  JRUZID: '00020014569'
   pzsRec:
     id: P31683802214
     name: Onkologický ústav sv. Alžbety Bratislava
@@ -5354,7 +5354,7 @@
     - N35733020201
   zp:
     - 27
-  JRUZID: null
+  JRUZID: '00020241162'
   pzsRec:
     id: N35733020201
     name: MED-AID, s.r.o.
@@ -5369,7 +5369,7 @@
     - P40707031209
   zp:
     - 27
-  JRUZID: null
+  JRUZID: '00020124038'
   pzsRec:
     id: P40707031209
     name: UNB ŠGN Podunajské Biskupice - Bratislava
@@ -5386,7 +5386,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020046918'
   pzsRec:
     id: P59086020202
     name: MEDANTE Clinic s.r.o.
@@ -5403,7 +5403,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020239935'
   pzsRec:
     id: P24465020202
     name: MUHLIK s.r.o., Brnenská 330, Kúty
@@ -5433,7 +5433,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020171989'
   pzsRec:
     id: P35383020201
     name: FaMa Med s.r.o., P. Horova 14, 841 07 Bratislava
@@ -5450,7 +5450,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020179354'
   pzsRec:
     id: P96713010201
     name: MEDLIFE plus, s.r.o.
@@ -5467,7 +5467,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020242806'
   pzsRec:
     id: P43979187502
     name: Nemocnica AGEL Košice - Šaca, a.s.
@@ -5482,7 +5482,7 @@
     - P49707020202
   zp:
     - 27
-  JRUZID: null
+  JRUZID: '00020784237'
   pzsRec:
     id: P49707020202
     name: LH med s.r.o.
@@ -5499,7 +5499,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020200176'
   pzsRec:
     id: P49707001201
     name: LH med s.r.o., Malacky
@@ -5516,7 +5516,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021134796'
   pzsRec:
     id: P91318020201
     name: Profi VLD, s.r.o.
@@ -5533,7 +5533,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020215273'
   pzsRec:
     id: P60780020202
     name: Praktická ambulancia s.r.o. Seberíniho 1, Bratislava
@@ -5550,7 +5550,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020156006'
   pzsRec:
     id: P94003020201
     name: všeobecný lekár pre dospelých
@@ -5567,7 +5567,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020183141'
   pzsRec:
     id: P89104004201
     name: Premedix, Jelšová 1, 831 01 Bratislava
@@ -5584,7 +5584,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020128492'
   pzsRec:
     id: P49970011201
     name: ORTOPORT, s.r.o.
@@ -5601,7 +5601,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021776760'
   pzsRec:
     id: P39798020201
     name: PLZCH s.r.o.
@@ -5618,7 +5618,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020075693'
   pzsRec:
     id: P78858020201
     name: Varia Medica s.r.o.
@@ -5648,7 +5648,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020193025'
   pzsRec:
     id: P95589048201
     name: IMUNO GASTRO TOP s.r.o.
@@ -5665,7 +5665,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020134490'
   pzsRec:
     id: P12928004201
     name: Cliniq s.r.o.
@@ -5682,7 +5682,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020126421'
   pzsRec:
     id: P84713020234
     name: NOVAPHARM, s.r.o., ProCare, Priemyselná 12, 962 01 Žiar nad Hronom
@@ -5708,7 +5708,7 @@
   dtSuspendTo: null
   pzs:
     - P27495008201
-  JRUZID: null
+  JRUZID: '00020230827'
   pzsRec:
     id: P27495008201
     name: MEDICPED, s.r.o.
@@ -5725,7 +5725,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020095535'
   pzsRec:
     id: N34535068201
     name: Nemocnica Dr. Vojtecha Alexandra v Kežmarku n.o.
@@ -5755,7 +5755,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020187696'
   pzsRec:
     id: P12928009201
     name: Cliniq s.r.o.
@@ -5772,7 +5772,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020112298'
   pzsRec:
     id: P07438045201
     name: REMEDIUM, s.r.o.
@@ -5789,7 +5789,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020168506'
   pzsRec:
     id: P79294025401
     name: SAPIENTIA, s.r.o.
@@ -5806,7 +5806,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020236865'
   pzsRec:
     id: P25854020201
     name: TT-MED. s.r.o., Drieňová 38, Bratislava
@@ -5823,7 +5823,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020827440'
   pzsRec:
     id: P49018020205
     name: Winterklinik s.r.o
@@ -5840,7 +5840,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021816319'
   pzsRec:
     id: P79359020201
     name: LUCAMED SK, s.r.o.
@@ -5857,7 +5857,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020125001'
   pzsRec:
     id: P27399020206
     name: PRO SANUS, a.s. , Einsteinova 25, 851 01 Bratislava
@@ -5874,7 +5874,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020243614'
   pzsRec:
     id: P49970011201
     name: ORTOPORT, s.r.o.
@@ -5891,7 +5891,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020089470'
   pzsRec:
     id: P48069020201
     name: Pro vobis s.r.o
@@ -5907,7 +5907,7 @@
   zp:
     - 24
     - 27
-  JRUZID: null
+  JRUZID: '00020234142'
   pzsRec:
     id: P79294020201
     name: Nemocnica sv. Michala
@@ -5924,7 +5924,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00023062557'
   pzsRec:
     id: P25534013201
     name: Nemocnica Bory, a.s.
@@ -5941,7 +5941,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020806741'
   pzsRec:
     id: P25534064201
     name: Nemocnica Bory
@@ -5958,7 +5958,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020248829'
   pzsRec:
     id: P79186001203
     name: Nemocnica AAGEL Žiar nad Hronom a Banská Štiavnica s.r.o.
@@ -5975,7 +5975,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020220711'
   pzsRec:
     id: P60780020209
     name: Praktická Ambulancia s.r.o. Račianska 26F 83102 Bratislava
@@ -5991,7 +5991,7 @@
   zp:
     - 24
     - 25
-  JRUZID: null
+  JRUZID: '00020231684'
   pzsRec:
     id: P33668020201
     name: Poliklinika AGEL
@@ -6008,7 +6008,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020749644'
   pzsRec:
     id: P83759001201
     name: JUMED, s.r.o., Svätý Jur
@@ -6025,7 +6025,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020132833'
   pzsRec:
     id: P05757040201
     name: NZZ InumoVital Centrum, Jašíková 2, 821 03, Bratislava
@@ -6042,7 +6042,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020228698'
   pzsRec:
     id: P40707001205
     name: UNB, Nem. Staré Mesto Bratislava
@@ -6076,7 +6076,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020788303'
   pzsRec:
     id: P42573020203
     name: Centrum všeobecného lekárstva, Poliklinika Bezručova Bratislava
@@ -6119,7 +6119,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00023150733'
   pzsRec:
     id: P82987004203
     name: neurologická ambulancia
@@ -6136,7 +6136,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020127791'
   pzsRec:
     id: N84209027202
     name: NSP Sv. Jakuba Bardejov
@@ -6153,7 +6153,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020079976'
   pzsRec:
     id: P36845015101
     name: Nemocnica svätého Michala, a.s.
@@ -6200,7 +6200,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020164158'
   pzsRec:
     id: P83652008201
     name: ARS CURANDI s.r.o.
@@ -6217,7 +6217,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020103784'
   pzsRec:
     id: P01881008201
     name: BABY-MEDCARE s.r.o.
@@ -6234,7 +6234,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020110136'
   pzsRec:
     id: P90887068201
     name: Poliklinika PROFY, Prievozská 6, Bratislava
@@ -6249,7 +6249,7 @@
     - P17427010201
   zp:
     - 25
-  JRUZID: null
+  JRUZID: '00020083291'
   pzsRec:
     id: P17427010201
     name: Medicare - Strečianska 13, 85106
@@ -6266,7 +6266,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020200549'
   pzsRec:
     id: P84713020238
     name: NOVAPHARM s.r.o, Tematínska 5/A, 851 05 Bratislava
@@ -6279,7 +6279,7 @@
   dtSuspendTo: null
   pzs:
     - P96198008201
-  JRUZID: null
+  JRUZID: '00020085890'
   pzsRec:
     id: P96198008201
     name: EPIKA, s.r.o., Mýtna 5, 811 07 Bratislava
@@ -6296,7 +6296,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020806220'
   pzsRec:
     id: P08955011201
     name: Senior House ReFit
@@ -6313,7 +6313,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020806345'
   pzsRec:
     id: P27399020211
     name: PRO SANUS, a.s. Einsteinova 25 851 01 Bratislava
@@ -6330,7 +6330,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020078028'
   pzsRec:
     id: P75247077201
     name: pharco s.r.o, Pavlovičova 3, Bratislava
@@ -6360,7 +6360,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020137097'
   pzsRec:
     id: P84713004209
     name: NOVAPHARM, s.r.o. Tematínska 5/A 851 05 Bratislava
@@ -6377,7 +6377,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020075099'
   pzsRec:
     id: P84713020236
     name: NOVAPHARM, s.r.o. Tematínska 5/A 851 05 Bratislava
@@ -6394,7 +6394,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020140075'
   pzsRec:
     id: P12928014201
     name: Poliklinika Bezručova, Bezručova 5, BA
@@ -6411,7 +6411,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020148151'
   pzsRec:
     id: P12928154201
     name: Poliklinika Bezručova, Bezručova 5, BA
@@ -6428,7 +6428,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020154076'
   pzsRec:
     id: P12928154202
     name: Poliklinika Bezručova, Bezručova 5, BA
@@ -6445,7 +6445,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020034864'
   pzsRec:
     id: P61854020201
     name: Christ Cross Medical s.r.o.
@@ -6462,7 +6462,7 @@
     - '24'
     - '25'
     - '27'
-  JRUZID: null
+  JRUZID: '00020163382'
   pzsRec:
     id: P12928109201
     name: Cliniq s.r.o., Poliklinika Bezučova, Bezručova 5, 81109 BA
@@ -6479,7 +6479,7 @@
     - '24'
     - '25'
     - '27'
-  JRUZID: null
+  JRUZID: '00020187696'
   pzsRec:
     id: P12928533501
     name: Cliniq s.r.o., Poliklinika Bezručova, Bezručova 5, 81109 BA
@@ -6496,7 +6496,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021144092'
   pzsRec:
     id: P70864020201
     name: PRACTIC CARE, s.r.o.
@@ -6513,7 +6513,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00022788558'
   pzsRec:
     id: P24720011201
     name: Hipcentrum s.r.o.
@@ -6547,7 +6547,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020168951'
   pzsRec:
     id: P66657018203
     name: wesper,  a.s.  jurkovičová  19,  080001  Prešov
@@ -6560,7 +6560,7 @@
   dtSuspendTo: null
   pzs:
     - P76239049201
-  JRUZID: null
+  JRUZID: '00020218376'
   pzsRec:
     id: P76239049201
     name: Nemocnica AGEL Levoča a.s.
@@ -6573,7 +6573,7 @@
   dtSuspendTo: null
   pzs:
     - P76239015202
-  JRUZID: null
+  JRUZID: '00020218376'
   pzsRec:
     id: P76239015202
     name: Nemocnica AGEL Levoča a.s.
@@ -6590,7 +6590,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020132221'
   pzsRec:
     id: P40707031207
     name: UNB Nem. ak. L. Dérera Bratislava
@@ -6607,7 +6607,7 @@
     - '24'
     - '25'
     - '27'
-  JRUZID: null
+  JRUZID: '00020084224'
   pzsRec:
     id: P12928533501
     name: Cliniq s.r.o., Bezručova 5, 811 09 Bratislava
@@ -6623,7 +6623,7 @@
   zp:
     - 24
     - 27
-  JRUZID: null
+  JRUZID: '00020257010'
   pzsRec:
     id: P12928025201
     name: Cliniq s.r.o., Bezručova 5, 811 09 Bratislava
@@ -6640,7 +6640,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020256145'
   pzsRec:
     id: P12928001201
     name: Interné centrum Poliklinika Bezručova Bratislava
@@ -6657,7 +6657,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020119988'
   pzsRec:
     id: P12928009201
     name: Cliniq s.r.o., Poliklinika Bezručova, Bezručova 5,811 09 Bratislava
@@ -6674,7 +6674,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00022757264'
   pzsRec:
     id: P25534027101
     name: Nemocnica BORY, I.Kadlečíka 2, Bratislava
@@ -6691,7 +6691,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020785069'
   pzsRec:
     id: P24720011201
     name: Hipcentrum s.r.o.
@@ -6707,7 +6707,7 @@
   zp:
     - 24
     - 25
-  JRUZID: null
+  JRUZID: '00020083796'
   pzsRec:
     id: N28027060201
     name: MUDr. STELA CHUDÁ
@@ -6723,7 +6723,7 @@
   zp:
     - 24
     - 27
-  JRUZID: null
+  JRUZID: '00020159760'
   pzsRec:
     id: P81643009201
     name: Gynsana, s.r.o.
@@ -6740,7 +6740,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020782595'
   pzsRec:
     id: P89104049201
     name: Premedix, Jelšova 1, 831 01 Bratislava
@@ -6757,7 +6757,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020219598'
   pzsRec:
     id: N57879020201
     name: Súkromná ambulancia pre dospelých ObZS - NOVOŤ
@@ -6774,7 +6774,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020146734'
   pzsRec:
     id: P40707045207
     name: UNB, ŠN Pod. Biskup., Bratislava
@@ -6791,7 +6791,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020107231'
   pzsRec:
     id: N64737020201
     name: Ambulancia všeobecného lekára pre dospelých
@@ -6807,7 +6807,7 @@
   zp:
     - 24
     - 25
-  JRUZID: null
+  JRUZID: '00020116414'
   pzsRec:
     id: P04373011201
     name: Expert Medical, Strečnianska, Bratislava
@@ -6824,7 +6824,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020161022'
   pzsRec:
     id: P55603020201
     name: Majapraktik, s.r.o.
@@ -6841,7 +6841,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020097226'
   pzsRec:
     id: P29027020201
     name: Mlynské Nivy 18890/5, Bratislava 821 09
@@ -6854,7 +6854,7 @@
   dtSuspendTo: null
   pzs:
     - N68667004201
-  JRUZID: null
+  JRUZID: '00020215984'
   pzsRec:
     id: N68667004201
     name: MUDr. Rentka Miroslav
@@ -6871,7 +6871,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020106670'
   pzsRec:
     id: P53866056201
     name: SIRCO, s.r.o., Karpatská 804/9, 089 01 Svidník
@@ -6888,7 +6888,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020180220'
   pzsRec:
     id: P81688105201
     name: PsychCentrum s.r.o.
@@ -6905,7 +6905,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020180220'
   pzsRec:
     id: P81688105202
     name: PsychCentrum s.r.o.
@@ -6922,7 +6922,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020184677'
   pzsRec:
     id: P14293020201
     name: MPH Medical Group s.r.o
@@ -6939,7 +6939,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020241568'
   pzsRec:
     id: P13469020203
     name: MDclinic a.s. Radlinského 27 811 07 Bratislava
@@ -6956,7 +6956,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020234779'
   pzsRec:
     id: P87029011101
     name: AGEL Clinic s.r.o. Jelačičova 8 821 08 Bratislava
@@ -6973,7 +6973,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020710406'
   pzsRec:
     id: P01177008201
     name: TAMIMEDICAL s.r.o.
@@ -6990,7 +6990,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00022108344'
   pzsRec:
     id: P79648020201
     name: HERMED, spol. s.r.o.
@@ -7007,7 +7007,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020121299'
   pzsRec:
     id: N84271020201
     name: ALIAN s.r.o.
@@ -7024,7 +7024,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020245577'
   pzsRec:
     id: p36845004205
     name: Nemocnica svätého Michala, a.s. Bratislava
@@ -7041,7 +7041,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020144440'
   pzsRec:
     id: P68550011201
     name: RochMed s.r.o.
@@ -7058,7 +7058,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020198974'
   pzsRec:
     id: N47369010401
     name: Medicentrum s.r.o.
@@ -7075,7 +7075,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020234316'
   pzsRec:
     id: P33908027201
     name: Ambulancia RBLR, PROFY, s.r.o.
@@ -7092,7 +7092,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020812525'
   pzsRec:
     id: P61045020201
     name: MEDIPRACT, s.r.o.
@@ -7109,7 +7109,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00023426687'
   pzsRec:
     id: P12928009202
     name: Cliniq s.r.o., Poliklinika Bezručova, Bezručova 5, 811 09 Bratislava
@@ -7126,7 +7126,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020182366'
   pzsRec:
     id: P38302008201
     name: Detská amb, MUDr. Sviteková, Košťany n.T.
@@ -7156,7 +7156,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020789178'
   pzsRec:
     id: P19444011201
     name: Ortopedická ambulancia FYZIOKLINIK s.r.o.
@@ -7173,7 +7173,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020798120'
   pzsRec:
     id: P31487020201
     name: KAMED s.r.o.
@@ -7190,7 +7190,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021504048'
   pzsRec:
     id: P13469020203
     name: MDclinic
@@ -7203,7 +7203,7 @@
   dtSuspendTo: null
   pzs:
     - P49970011201
-  JRUZID: null
+  JRUZID: '00021094990'
   pzsRec:
     id: P49970011201
     name: Ortoport s.r.o.
@@ -7220,7 +7220,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020232328'
   pzsRec:
     id: P29242009201
     name: GYNVOL s.r.o.
@@ -7237,7 +7237,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020073722'
   pzsRec:
     id: P42573020204
     name: Cliniq s.r.o., Poliklinika Bezručova, Bezručova 5, 811 09 Bratislava
@@ -7254,7 +7254,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020065918'
   pzsRec:
     id: P78678020201
     name: FULLMED s.r.o.
@@ -7271,7 +7271,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020168506'
   pzsRec:
     id: P12928046201
     name: Cliniq s.r.o., Poliklinika Bezručova, Bezručova 5, 811 09 Bratislava
@@ -7288,7 +7288,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020168506'
   pzsRec:
     id: P12928025201
     name: Cliniq s.r.o., Poliklinika Bezručova, Bezručova 5, 811 09 Bratislava
@@ -7305,7 +7305,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00022151963'
   pzsRec:
     id: N40203048201
     name: gastroenterológia
@@ -7322,7 +7322,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021095419'
   pzsRec:
     id: P19444011201
     name: Neurologická ambulancia, Fyzioklinik, s.r.o., Plynárenská 7/C
@@ -7339,7 +7339,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021941919'
   pzsRec:
     id: P64658019201
     name: AGEL Mammacentrum sv.Agáty a.s.
@@ -7356,7 +7356,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00022109227'
   pzsRec:
     id: P91151020228
     name: ÚVN Ružomberok SNP, Všeob.amb.pre dosp.
@@ -7373,7 +7373,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020072351'
   pzsRec:
     id: P59333020201
     name: Ž+Ž s.r.o. ambulancia všeobecného lekára
@@ -7390,7 +7390,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021052691'
   pzsRec:
     id: P27106004201
     name: Solem Clinic, s.r.o.
@@ -7407,7 +7407,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020062436'
   pzsRec:
     id: P56502008203
     name: MEDI-INFANS Kláštor p. Znievom
@@ -7424,7 +7424,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020172821'
   pzsRec:
     id: P78229009201
     name: PrenatalGyn Care s.r.o. Trnavská Cesta 4330/67, 821 04 Bratislava
@@ -7441,7 +7441,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020151833'
   pzsRec:
     id: P09842008201
     name: PEDIATRIA POPRAD s.r.o.
@@ -7471,7 +7471,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020229118'
   pzsRec:
     id: P43208064201
     name: Endimed s.r.o.
@@ -7488,7 +7488,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020081121'
   pzsRec:
     id: P12928020201
     name: Cliniq s.r.o., Poliklina Bezručova, Bezručova 5, 811 09 Bratislava
@@ -7505,7 +7505,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020243465'
   pzsRec:
     id: P98287020201
     name: Diversitas s.r.o.
@@ -7522,7 +7522,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020802443'
   pzsRec:
     id: P48896018201
     name: Duo Clinic, s.r.o. Cintorínska 3/b, 811 08 Bratislava
@@ -7539,7 +7539,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020238424'
   pzsRec:
     id: P99761020202
     name: ALTAREA MEDICA, s.r.o.
@@ -7556,7 +7556,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020204665'
   pzsRec:
     id: P90244009201
     name: FAMILIA SANA, s.r.o.
@@ -7586,7 +7586,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020771713'
   pzsRec:
     id: P12928004201
     name: Cliniq s.r.o., Poliklinika Bezručova 5, 81109 Bratislava
@@ -7603,7 +7603,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021504246'
   pzsRec:
     id: P12928014201
     name: Cliniq, s.r.o., Bezručova 3, 811 09 Bratislava
@@ -7620,7 +7620,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020794772'
   pzsRec:
     id: P12928020201
     name: Cliniq s.r.o., Poliklinika Bezručova 5, 81109
@@ -7637,7 +7637,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020795100'
   pzsRec:
     id: P93329027202
     name: Špec. nemocnica pre ortopedickú protetiku, Záhradnícka 42, Bratislava
@@ -7654,7 +7654,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021504246'
   pzsRec:
     id: P12928014401
     name: Cliniq s.r.o., Poliklinika Bezručova 5, 81109 Bratislava
@@ -7671,7 +7671,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020222923'
   pzsRec:
     id: P65358012201
     name: S - med, s.r.o.
@@ -7688,7 +7688,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020065751'
   pzsRec:
     id: O47465004202
     name: NZZ Neurolog.ambulancia Stará Turá
@@ -7705,7 +7705,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020196572'
   pzsRec:
     id: P47457020203
     name: MOOTIL-MED s.r.o. Amb.Stará Turá
@@ -7722,7 +7722,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020043725'
   pzsRec:
     id: P62643020202
     name: Veromon s.r.o.
@@ -7739,7 +7739,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020081600'
   pzsRec:
     id: O95326011201
     name: Neštátna ortopedická ambulancia Sruhárová 2 900 51 Zohor
@@ -7756,7 +7756,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020207411'
   pzsRec:
     id: O27639020202
     name: MUDr. Pekarovič Peter
@@ -7769,7 +7769,7 @@
   dtSuspendTo: null
   pzs:
     - P27399020217
-  JRUZID: null
+  JRUZID: '00020163887'
   pzsRec:
     id: P27399020217
     name: PRO SANUS, a. s.
@@ -7782,7 +7782,7 @@
   dtSuspendTo: null
   pzs:
     - P63213020209
-  JRUZID: null
+  JRUZID: '00021140314'
   pzsRec:
     id: P63213020209
     name: Ichtos s.r.o. Nová Dubnica
@@ -7799,7 +7799,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020046991'
   pzsRec:
     id: P82937020202
     name: Polymorf s.r.o., Brezová pod Bradlom
@@ -7816,7 +7816,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021140314'
   pzsRec:
     id: P63213020209
     name: Ichtos s.r.o.
@@ -7833,7 +7833,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00022191639'
   pzsRec:
     id: P75834802201
     name: White Dent sro
@@ -7850,7 +7850,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020195277'
   pzsRec:
     id: P44694020201
     name: CS MED, s.r.o.
@@ -7867,7 +7867,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021095419'
   pzsRec:
     id: P14640004201
     name: Poliklinika Trenčianska, Trenčianska 53/B
@@ -7884,7 +7884,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020130621'
   pzsRec:
     id: N57929020201
     name: NZZ Ambulancia pre dospelých, Beckov
@@ -7901,7 +7901,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020157327'
   pzsRec:
     id: N44845020201
     name: NZZ amb. Nové Mesto nad Váhom
@@ -7918,7 +7918,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020224135'
   pzsRec:
     id: N59729020201
     name: Neštátna ambulancia pre dospelých, Dolná Súča
@@ -7935,7 +7935,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020131694'
   pzsRec:
     id: N42313020201
     name: Neštátne zdrav.zariadenie, TN
@@ -7952,7 +7952,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020150678'
   pzsRec:
     id: P09636020201
     name: Dermapraktik s.r.o.
@@ -7968,7 +7968,7 @@
   zp:
     - 24
     - 25
-  JRUZID: null
+  JRUZID: '00020182606'
   pzsRec:
     id: P90347001202
     name: ASM TN s.r.o.
@@ -7985,7 +7985,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020247573'
   pzsRec:
     id: P33164020201
     name: CETMED s.r.o.
@@ -8001,7 +8001,7 @@
   zp:
     - 24
     - 25
-  JRUZID: null
+  JRUZID: '00020182606'
   pzsRec:
     id: N90347001201
     name: ASM TN, s.r.o.
@@ -8018,7 +8018,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020249140'
   pzsRec:
     id: N94843064201
     name: INTEND s.r.o.
@@ -8035,7 +8035,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020249264'
   pzsRec:
     id: P94843001202
     name: INTEND s.r.o.
@@ -8052,7 +8052,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020249264'
   pzsRec:
     id: P94843001201
     name: Intend s.r.o
@@ -8069,7 +8069,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020249264'
   pzsRec:
     id: N94843001201
     name: INTEND s.r.o.
@@ -8086,7 +8086,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020259164'
   pzsRec:
     id: P40707184805
     name: Univerzitná nemocnica Bratislava
@@ -8101,7 +8101,7 @@
     - N73640001201
   zp:
     - 27
-  JRUZID: null
+  JRUZID: '00020127429'
   pzsRec:
     id: N73640001201
     name: Chirint s.r.o.
@@ -8131,7 +8131,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020105524'
   pzsRec:
     id: N36631049201
     name: JALIT, s.r.o.
@@ -8148,7 +8148,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020210886'
   pzsRec:
     id: P93329011201
     name: Špec. nemocnica pre ortopedickú protetiku, Bratislava
@@ -8165,7 +8165,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020258349'
   pzsRec:
     id: N81816004201
     name: neurologická ambulancia
@@ -8182,7 +8182,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020065041'
   pzsRec:
     id: N38266049201
     name: JAGAL, s.r.o.
@@ -8216,7 +8216,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020252912'
   pzsRec:
     id: N66429004201
     name: Neurologická ambulancia Trenčín s.r.o.
@@ -8231,7 +8231,7 @@
     - P65639001201
   zp:
     - 27
-  JRUZID: null
+  JRUZID: '00022014864'
   pzsRec:
     id: P65639001201
     name: Nemocnica AGEL Bánovce s.r.o
@@ -8248,7 +8248,7 @@
     - '24'
     - '25'
     - '27'
-  JRUZID: null
+  JRUZID: '00020184461'
   pzsRec:
     id: P32818020201
     name: MUDr.Michal Rusnák, s.r.o.
@@ -8265,7 +8265,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020162418'
   pzsRec:
     id: P32818020201
     name: MUDr.Michal Rusnák, s.r.o.
@@ -8282,7 +8282,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020370243'
   pzsRec:
     id: P03713020201
     name: BeneVobis s.r.o, Pri železnici 1737, 033 01 Liptovský Hrádok
@@ -8311,7 +8311,7 @@
   zp:
     - 24
     - 27
-  JRUZID: null
+  JRUZID: '00020123428'
   pzsRec:
     id: O32163068201
     name: NZZ cievna chirurgická ambulancia Moravská 31 Vráble
@@ -8328,7 +8328,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020066437'
   pzsRec:
     id: N28499020201
     name: Ambulancia všeobecného lekára pre dospelých Mnoheľova 2 Poprad
@@ -8345,7 +8345,7 @@
     - '24'
     - '25'
     - '27'
-  JRUZID: null
+  JRUZID: '00020092649'
   pzsRec:
     id: P87029018201
     name: AGEL Clinic s.r.o., Jelačičová 8
@@ -8362,7 +8362,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020150942'
   pzsRec:
     id: P87029018201
     name: AGEL Clinic s.r.o., Jelačičová 8
@@ -8379,7 +8379,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021462361'
   pzsRec:
     id: P14640011201
     name: Poliklinika Trenčianska, Trenčianska 53/B, 821 09 Bratislava
@@ -8396,7 +8396,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020055182'
   pzsRec:
     id: P72826012202
     name: PEMIMED s.r.o.
@@ -8413,7 +8413,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020257887'
   pzsRec:
     id: P03631011201
     name: Shams, s.r.o.
@@ -8430,7 +8430,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020144192'
   pzsRec:
     id: P28804020201
     name: TESI-CARE, s.r.o.
@@ -8443,7 +8443,7 @@
   dtSuspendTo: null
   pzs:
     - P57714050201
-  JRUZID: null
+  JRUZID: '00020062428'
   pzsRec:
     id: P57714050201
     name: DIABETES CENTRUM, s.r.o.
@@ -8459,7 +8459,7 @@
   zp:
     - 24
     - 25
-  JRUZID: null
+  JRUZID: '00020062428'
   pzsRec:
     id: P57714050201
     name: DIABETES CENTRUM s.r.o.
@@ -8476,7 +8476,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020151411'
   pzsRec:
     id: P38531001202
     name: Mastramed
@@ -8489,7 +8489,7 @@
   dtSuspendTo: null
   pzs:
     - P40707015101
-  JRUZID: null
+  JRUZID: '00022113831'
   pzsRec:
     id: P40707015101
     name: UNB, Nemocnica Ružinov, Bratislava
@@ -8506,7 +8506,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00022087969'
   pzsRec:
     id: P58656020201
     name: PROMETEUM s.r.o.
@@ -8523,7 +8523,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020157467'
   pzsRec:
     id: N95309045201
     name: MEDEOS, s.r.o.
@@ -8540,7 +8540,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021786934'
   pzsRec:
     id: P36605004202
     name: NsP SPIŠSKÁ NOVÁ VES a.s. ul. Janského
@@ -8556,7 +8556,7 @@
   zp:
     - 24
     - 25
-  JRUZID: null
+  JRUZID: '00020179594'
   pzsRec:
     id: O43529045201
     name: Neštátna reumatologická ambulancia Záhradnícka 42, 82108 Bratislava
@@ -8586,7 +8586,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020133989'
   pzsRec:
     id: P47306020201
     name: Tamice, s.r.o.
@@ -8614,7 +8614,7 @@
     - P07423064201
   zp:
     - 25
-  JRUZID: null
+  JRUZID: '00021497037'
   pzsRec:
     id: P07423064201
     name: Proctocare s.r.o. Bernolákova 811 07 Bratislava
@@ -8631,7 +8631,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020108544'
   pzsRec:
     id: O82579045201
     name: Reumatologická ambulancia, Poliklinika Juh
@@ -8648,7 +8648,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020670030'
   pzsRec:
     id: N34535141201
     name: Nemocnica Dr. Vojtecha Alexandra v Kežmarku n.o.
@@ -8665,7 +8665,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020110417'
   pzsRec:
     id: O09924056201
     name: NZZ Palúčanská 25, Liptovský Mikuláš
@@ -8681,7 +8681,7 @@
   zp:
     - 24
     - 27
-  JRUZID: null
+  JRUZID: '00023524390'
   pzsRec:
     id: P05962020201
     name: Rimed, s.r.o. Babuškova 2, 821 03 Bratislava
@@ -8698,7 +8698,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021787064'
   pzsRec:
     id: P17811009201
     name: Gyn-MeD, s.r.o.
@@ -8715,7 +8715,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020783981'
   pzsRec:
     id: P17811009201
     name: Gyn-MeD, s.r.o.
@@ -8732,7 +8732,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021993076'
   pzsRec:
     id: P96854020201
     name: EVA-HEALTHCARE s.r.o.
@@ -8762,7 +8762,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020080909'
   pzsRec:
     id: P74583063235
     name: FMC - dialyzačné služby, s.r.o.
@@ -8779,7 +8779,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021072848'
   pzsRec:
     id: P76026015203
     name: Lexum s.r.o. Nové Mesto nad Váhom
@@ -8796,7 +8796,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020208054'
   pzsRec:
     id: P69786020201
     name: STARBIOS s. r. o., Hlavná 50, 931 01  Šamorín
@@ -8813,7 +8813,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00022101554'
   pzsRec:
     id: P91151014101
     name: ÚVN Ružomberok - ORL amb.IV.
@@ -8830,7 +8830,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020201406'
   pzsRec:
     id: P42383002202
     name: Fakultná nemocnica Trenčín
@@ -8847,7 +8847,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020782124'
   pzsRec:
     id: P99032020202
     name: OK AMBULANCIA A.S
@@ -8864,7 +8864,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021571203'
   pzsRec:
     id: P31683043204
     name: Onkologický ústav sv.Alžbety, s.r.o.
@@ -8881,7 +8881,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021513437'
   pzsRec:
     id: P41507014201
     name: Medicentrum PN, s.r.o
@@ -8898,7 +8898,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020101697'
   pzsRec:
     id: P86940020201
     name: KUBIMEDIC s.r.o.
@@ -8915,7 +8915,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020095006'
   pzsRec:
     id: P24720010201
     name: HIPCENTRUM s.r.o.
@@ -8941,7 +8941,7 @@
   dtSuspendTo: null
   pzs:
     - P72629020201
-  JRUZID: null
+  JRUZID: '00020356192'
   pzsRec:
     id: P72629020201
     name: Medical Centrum s.r.o.
@@ -8958,7 +8958,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00024056053'
   pzsRec:
     id: P03350020201
     name: VLDBELA s.r.o.
@@ -8971,7 +8971,7 @@
   dtSuspendTo: null
   pzs:
     - P88110802201
-  JRUZID: null
+  JRUZID: '00021759915'
   pzsRec:
     id: P88110802201
     name: Martin Dental Center s.r.o.
@@ -8988,7 +8988,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020254678'
   pzsRec:
     id: P64516008201
     name: DZ-Ped s.r.o. v Lokci
@@ -9001,7 +9001,7 @@
   dtSuspendTo: null
   pzs:
     - P57430020201
-  JRUZID: null
+  JRUZID: '00020814968'
   pzsRec:
     id: P57430020201
     name: For-Med s.r.o., 927 01  Šala
@@ -9014,7 +9014,7 @@
   dtSuspendTo: null
   pzs:
     - P57882045202
-  JRUZID: null
+  JRUZID: '00020083846'
   pzsRec:
     id: P57882045202
     name: ROMJAN, s.r.o.
@@ -9031,7 +9031,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020083846'
   pzsRec:
     id: P57882045203
     name: ROMJAN, s.r.o.
@@ -9048,7 +9048,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020204400'
   pzsRec:
     id: P59790230210
     name: Euromedix a.s
@@ -9065,7 +9065,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020253811'
   pzsRec:
     id: P12928011201
     name: Cliniq s.r.o.
@@ -9082,7 +9082,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020159315'
   pzsRec:
     id: P74583208622
     name: FMC - dialyzačné služby, s.r.o.
@@ -9099,7 +9099,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021095419'
   pzsRec:
     id: P07423004201
     name: Proctocare s.r.o.
@@ -9116,7 +9116,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020816542'
   pzsRec:
     id: P35955018201
     name: Skin Poetry s.r.o.
@@ -9133,7 +9133,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021523410'
   pzsRec:
     id: P12928020201
     name: Cliniq s.r.o. , Bezručova 5, 811 09 Bratislava
@@ -9150,7 +9150,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020101549'
   pzsRec:
     id: P59612020201
     name: Radvaň VLD s.r.o.
@@ -9167,7 +9167,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020139234'
   pzsRec:
     id: P99544020201
     name: AmbiCare s.r.o.
@@ -9184,7 +9184,7 @@
     - '24'
     - '25'
     - '27'
-  JRUZID: null
+  JRUZID: '00020788907'
   pzsRec:
     id: P49970011201
     name: Ortoport s.r.o.
@@ -9201,7 +9201,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020221156'
   pzsRec:
     id: P53518020201
     name: MUDr. Krnáč Štefan s.r.o.
@@ -9218,7 +9218,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020180204'
   pzsRec:
     id: O33945020202
     name: MUDr. Sujová Tatiana
@@ -9235,7 +9235,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020192241'
   pzsRec:
     id: P63125020201
     name: APL DOS s.r.o.
@@ -9251,7 +9251,7 @@
   zp:
     - 24
     - 27
-  JRUZID: null
+  JRUZID: '00021500319'
   pzsRec:
     id: P27399020215
     name: PRO SANUS, a.s. , Einsteinova25 , 851 01 Bratislava
@@ -9280,7 +9280,7 @@
   zp:
     - 24
     - 25
-  JRUZID: null
+  JRUZID: '00020218806'
   pzsRec:
     id: P63267027202
     name: FORMULA-SLOVAKIA s.r.o.
@@ -9297,7 +9297,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020243226'
   pzsRec:
     id: P43511020201
     name: MediPrevent s.r.o., Bratislava 842 31
@@ -9314,7 +9314,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020140687'
   pzsRec:
     id: P84788020201
     name: Váš Lekár, AMBULANCIE s.r.o.
@@ -9329,7 +9329,7 @@
     - P33021004202
   zp:
     - 25
-  JRUZID: null
+  JRUZID: '00022264063'
   pzsRec:
     id: P33021004202
     name: DoktorPro s.r.o.
@@ -9342,7 +9342,7 @@
   dtSuspendTo: null
   pzs:
     - P98233020201
-  JRUZID: null
+  JRUZID: '00020356192'
   pzsRec:
     id: P98233020201
     name: PoliVita s.r.o.
@@ -9359,7 +9359,7 @@
     - '24'
     - '25'
     - '27'
-  JRUZID: null
+  JRUZID: '00022953681'
   pzsRec:
     id: p81264011202
     name: Fakultná Nemocnica AGEL Skalica
@@ -9372,7 +9372,7 @@
   dtSuspendTo: null
   pzs:
     - P31805004201
-  JRUZID: null
+  JRUZID: '00020107512'
   pzsRec:
     id: P31805004201
     name: Spineo clin.
@@ -9389,7 +9389,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020106241'
   pzsRec:
     id: P44111020201
     name: Pediatria Modra, spol. s r.o.
@@ -9406,7 +9406,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020168506'
   pzsRec:
     id: P12928046202
     name: Cliniq s.r.o.
@@ -9438,7 +9438,7 @@
     - P27399001209
   zp:
     - 24
-  JRUZID: null
+  JRUZID: '00020225231'
   pzsRec:
     id: P27399001209
     name: PRO SANUS a.s.
@@ -9455,7 +9455,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020068466'
   pzsRec:
     id: P45132050201
     name: JUGOMED s.r.o.
@@ -9472,7 +9472,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020068466'
   pzsRec:
     id: P45132001201
     name: JUGOMED s.r.o.
@@ -9489,7 +9489,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020210043'
   pzsRec:
     id: P33021004202
     name: DoktorPro
@@ -9506,7 +9506,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020166542'
   pzsRec:
     id: P45642020201
     name: KZS s.r.o. Kubačova 19 Bratislava - Rača
@@ -9523,7 +9523,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020162434'
   pzsRec:
     id: P12524011201
     name: FITNEST s.r.o.
@@ -9540,7 +9540,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020071791'
   pzsRec:
     id: P32515004201
     name: VERTEBRA, s.r.o.
@@ -9557,7 +9557,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00022055529'
   pzsRec:
     id: P07423010201
     name: Proctocare s.r.o.
@@ -9574,7 +9574,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020127460'
   pzsRec:
     id: P33908011201
     name: PROFY, s.r.o.
@@ -9591,7 +9591,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020255212'
   pzsRec:
     id: P24720027201
     name: HIPCENTRUM s.r.o.
@@ -9608,7 +9608,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020255212'
   pzsRec:
     id: P24720027501
     name: HIPCENTRUM s.r.o.
@@ -9621,7 +9621,7 @@
   dtSuspendTo: null
   pzs:
     - P85664011201
-  JRUZID: null
+  JRUZID: '00021094990'
   pzsRec:
     id: P85664011201
     name: Ortopéd Pekara s.r.o.
@@ -9634,7 +9634,7 @@
   dtSuspendTo: null
   pzs:
     - P14364027201
-  JRUZID: null
+  JRUZID: '00020237301'
   pzsRec:
     id: P14364027201
     name: PROMEDIS BA s.r.o.
@@ -9651,7 +9651,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020834479'
   pzsRec:
     id: P27106020202
     name: Solem Clinic, s.r.o.
@@ -9668,7 +9668,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00022974075'
   pzsRec:
     id: P53133009201
     name: BS Klinika s.r.o.
@@ -9685,7 +9685,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020256889'
   pzsRec:
     id: P83423020201
     name: Ambulancia Všeobecné lekárstvo, Robotnícka 1, 831 03 Bratislava
@@ -9702,7 +9702,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020823977'
   pzsRec:
     id: P28861141201
     name: LogoPoint s.r.o., Továrenská 14, 811 09 Bratislava
@@ -9719,7 +9719,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00022578421'
   pzsRec:
     id: P50858020201
     name: Milá Doktorka s.r.o.
@@ -9736,7 +9736,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020069357'
   pzsRec:
     id: P40707002201
     name: UNB Nem. ak. L. Dérera Bratislava
@@ -9753,7 +9753,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020225751'
   pzsRec:
     id: P37069020201
     name: OMP Medical s.r.o.
@@ -9770,7 +9770,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020218293'
   pzsRec:
     id: P20890014201
     name: SORL, s.r.o. Fedinova 9, Bratislava
@@ -9787,7 +9787,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020213971'
   pzsRec:
     id: P48545008201
     name: Alolim
@@ -9804,7 +9804,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020131876'
   pzsRec:
     id: N66407020201
     name: Doktor-Vysoké Tatry, spol.s.r.o.
@@ -9821,7 +9821,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020080073'
   pzsRec:
     id: P69360004201
     name: SINALGIS, s.r.o.
@@ -9838,7 +9838,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020063442'
   pzsRec:
     id: P49707020206
     name: Rodinný doktor
@@ -9855,7 +9855,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020117966'
   pzsRec:
     id: P81880008201
     name: Alimed s.r.o.
@@ -9872,7 +9872,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020145017'
   pzsRec:
     id: P17518020201
     name: NZZ-ambulancia pre dospelých
@@ -9915,7 +9915,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020189155'
   pzsRec:
     id: P00840020201
     name: MEDLI s.r.o.
@@ -9932,7 +9932,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00021124789'
   pzsRec:
     id: P50769009201
     name: Univerzitná nemocnica AGEL Milosrdní bratia s.r.o.
@@ -9949,7 +9949,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020051272'
   pzsRec:
     id: P43059104203
     name: Neurologická ambulancia
@@ -9966,7 +9966,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00023064124'
   pzsRec:
     id: P41468018201
     name: ATRIM SK s.r.o.
@@ -9981,7 +9981,7 @@
     - P70133005201
   zp:
     - 27
-  JRUZID: null
+  JRUZID: '00020128211'
   pzsRec:
     id: P70133005201
     name: MEDI-ZONE, s.r.o.
@@ -9998,7 +9998,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020231569'
   pzsRec:
     id: P86027011201
     name: Štefániková 1, 915 31 Nové Mesto nad Váhom
@@ -10011,7 +10011,7 @@
   dtSuspendTo: null
   pzs:
     - P14640004201
-  JRUZID: null
+  JRUZID: '00020110474'
   pzsRec:
     id: P14640004201
     name: Poliklinika Trenčianska
@@ -10028,7 +10028,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020118238'
   pzsRec:
     id: P41861009201
     name: Femme, s.r.o.
@@ -10045,7 +10045,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020149282'
   pzsRec:
     id: P33021004202
     name: DoktorPro
@@ -10062,7 +10062,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020184628'
   pzsRec:
     id: P32578020201
     name: Medixx s.r.o.
@@ -10079,7 +10079,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020194551'
   pzsRec:
     id: P50769020202
     name: Univrzitná NsP Milosrdní bratia spol. s.r.o
@@ -10096,7 +10096,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020023214'
   pzsRec:
     id: P05768802201
     name: OrthoSmile4U / OrthoDent
@@ -10111,7 +10111,7 @@
     - P41825018201
   zp:
     - 27
-  JRUZID: null
+  JRUZID: '00020801270'
   pzsRec:
     id: P41825018201
     name: derm-Atelier, s.r.o. Jelšová 1, Bratislava 831 01
@@ -10128,7 +10128,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020046611'
   pzsRec:
     id: P75247011201
     name: pharco s.r.o., Pavlovičova 3, Bratislava
@@ -10145,7 +10145,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020161402'
   pzsRec:
     id: P04373811201
     name: Expert Medical Services s.r.o.
@@ -10162,7 +10162,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020161402'
   pzsRec:
     id: P04373011201
     name: Expert Medical Services s.r.o.
@@ -10179,7 +10179,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020803201'
   pzsRec:
     id: P38561019209
     name: Národný onkologický ústav Bratislava
@@ -10196,7 +10196,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020183182'
   pzsRec:
     id: P18668174202
     name: APS Dunajská Streda n.o.
@@ -10213,7 +10213,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020183182'
   pzsRec:
     id: P51102001101
     name: Nemocnica s poliklinikou Dunajská Streda, a.s.
@@ -10230,7 +10230,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020183182'
   pzsRec:
     id: P65694020201
     name: MEDIFORTE s.r.o.
@@ -10247,7 +10247,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020183182'
   pzsRec:
     id: P77356020201
     name: Vitality s.r.o.
@@ -10262,7 +10262,7 @@
     - N85233027201
   zp:
     - 24
-  JRUZID: null
+  JRUZID: '00020124673'
   pzsRec:
     id: N85233027201
     name: Neurorehabilitacia s.r.o.
@@ -10279,7 +10279,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020211769'
   pzsRec:
     id: P59385045201
     name: MEDIPAL, s.r.o.
@@ -10296,7 +10296,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020088233'
   pzsRec:
     id: P84713009206
     name: NOVAPHARM, s.r.o.
@@ -10313,7 +10313,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020153904'
   pzsRec:
     id: P75847015202
     name: VESELÝ Očná Klinika, s.r.o.
@@ -10330,7 +10330,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020221438'
   pzsRec:
     id: P47657020201
     name: HEDAK, s.r.o.
@@ -10347,7 +10347,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00022031215'
   pzsRec:
     id: N92965020201
     name: TRUMED, sro
@@ -10364,7 +10364,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020206769'
   pzsRec:
     id: P11232011201
     name: Poliklinika Karlova Ves, Líščie údolie 98/57, 84104 Karlova Ves
@@ -10381,7 +10381,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020054987'
   pzsRec:
     id: P93083048201
     name: Nemocnica A. Wintera, n.o. Piešťany
@@ -10398,7 +10398,7 @@
     - 24
     - 25
     - 27
-  JRUZID: null
+  JRUZID: '00020793600'
   pzsRec:
     id: P57192004201
     name: Rehabilitačná nemocnica Agel Hlohovec s.r.o.
@@ -10411,7 +10411,7 @@
   dtSuspendTo: null
   pzs:
     - P90797020202
-  JRUZID: null
+  JRUZID: '00022752604'
   pzsRec:
     id: P90797020202
     name: LEKSTAR s.r.o.
