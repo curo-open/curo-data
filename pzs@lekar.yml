@@ -10415,3 +10415,20 @@
   pzsRec:
     id: P90797020202
     name: LEKSTAR s.r.o.
+- id: A62995013
+  lastName: SESTRIENKA
+  firstName: Libor
+  dtValidFrom: '2026-09-01T12:53:55.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P40707013203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P40707013203
+    name: UNB Nemocnica sv. C. a M.
