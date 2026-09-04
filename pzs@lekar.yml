@@ -10432,3 +10432,20 @@
   pzsRec:
     id: P40707013203
     name: UNB Nemocnica sv. C. a M.
+- id: A55026020
+  lastName: DINKA
+  firstName: Jozef
+  dtValidFrom: '2026-09-02T11:17:15.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - O52455020201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: O52455020201
+    name: Neštátna Ambulancia Nobelova 34 Bratislava
