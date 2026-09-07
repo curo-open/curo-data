@@ -10449,3 +10449,37 @@
   pzsRec:
     id: O52455020201
     name: Neštátna Ambulancia Nobelova 34 Bratislava
+- id: A13259020
+  lastName: Nováková
+  firstName: Beáta
+  dtValidFrom: '2026-09-04T08:53:11.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P58163020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P58163020202
+    name: Anevita s.r.o
+- id: A13259001
+  lastName: Nováková
+  firstName: Beáta
+  dtValidFrom: '2026-09-04T08:54:22.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P58163001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P58163001201
+    name: Anevita s.r.o
