@@ -5521,9 +5521,9 @@
     id: P91318020201
     name: Profi VLD, s.r.o.
 - id: A68101020
-  lastName: PARDUBSKÁ
-  firstName: Mária
-  dtValidFrom: '2023-08-22T09:27:40.000Z'
+  lastName: Marek
+  firstName: Puška
+  dtValidFrom: '2026-09-09T12:24:16.000Z'
   dtValidTo: null
   dtSuspendFrom: null
   dtSuspendTo: null
@@ -5536,7 +5536,7 @@
   JRUZID: '00020215273'
   pzsRec:
     id: P60780020202
-    name: Praktická ambulancia s.r.o. Seberíniho 1, Bratislava
+    name: Praktická Ambulancia, s.r.o.
 - id: A51658020
   lastName: El
   firstName: Khawajová Janka MUDr.
