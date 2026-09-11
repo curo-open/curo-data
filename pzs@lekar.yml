@@ -10483,3 +10483,20 @@
   pzsRec:
     id: P58163001201
     name: Anevita s.r.o
+- id: A91101801
+  lastName: Stanislav
+  firstName: Shulzhenko
+  dtValidFrom: '2026-09-10T18:41:01.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P81264027201
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P81264027201
+    name: Fakultná nemocnica AGEL Skalica
