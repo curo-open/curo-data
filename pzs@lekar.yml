@@ -10500,3 +10500,19 @@
   pzsRec:
     id: P81264027201
     name: Fakultná nemocnica AGEL Skalica
+- id: A52832063
+  lastName: Pružincová
+  firstName: Jana
+  dtValidFrom: '2026-09-11T06:17:26.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P35998063209
+  zp:
+    - 24
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: P35998063209
+    name: KMI medical s.r.o.
