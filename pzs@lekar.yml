@@ -10516,3 +10516,20 @@
   pzsRec:
     id: P35998063209
     name: KMI medical s.r.o.
+- id: A14579004
+  lastName: ŠTOFÍKOVÁ
+  firstName: Alžbeta
+  dtValidFrom: '2026-09-12T11:39:28.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - p40707004214
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: p40707004214
+    name: UNB Nemocnica Ružinov Bratislava
