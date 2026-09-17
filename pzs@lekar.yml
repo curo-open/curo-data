@@ -10533,3 +10533,37 @@
   pzsRec:
     id: p40707004214
     name: UNB Nemocnica Ružinov Bratislava
+- id: A00591009
+  lastName: SERESOVÁ
+  firstName: Zuzana
+  dtValidFrom: '2026-09-15T06:59:45.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P48642009201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P48642009201
+    name: ZUNAGYN s.r.o.
+- id: A03090004
+  lastName: Kurčová
+  firstName: Sandra
+  dtValidFrom: '2026-09-15T09:58:07.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N72637004201
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: N72637004201
+    name: Poliklinika Dg.Centrum NEU
