@@ -9986,9 +9986,9 @@
     id: P70133005201
     name: MEDI-ZONE, s.r.o.
 - id: A65714011
-  lastName: POPELKA
-  firstName: Vladimír
-  dtValidFrom: '2026-07-17T11:07:29.000Z'
+  lastName: Pravda
+  firstName: Ľudovít
+  dtValidFrom: '2026-09-18T10:51:44.000Z'
   dtValidTo: null
   dtSuspendFrom: null
   dtSuspendTo: null
@@ -10001,7 +10001,7 @@
   JRUZID: '00020231569'
   pzsRec:
     id: P86027011201
-    name: Štefániková 1, 915 31 Nové Mesto nad Váhom
+    name: NsP NMnV
 - id: A45033004
   lastName: LILOVÁ
   firstName: Christina
@@ -10567,3 +10567,51 @@
   pzsRec:
     id: N72637004201
     name: Poliklinika Dg.Centrum NEU
+- id: A61689025
+  lastName: Nagyová
+  firstName: Kristína
+  dtValidFrom: '2026-09-17T04:59:41.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P69706020201
+  zp:
+    - 24
+  JRUZID: null
+  pzsRec:
+    id: P69706020201
+    name: VINOVA Group s.r.o.
+- id: A53937004
+  lastName: TAKÁČOVÁ
+  firstName: Kristína
+  dtValidFrom: '2026-09-17T11:11:05.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P08955004201
+  zp:
+    - 24
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: P08955004201
+    name: ReFit Medical Center o.z.
+- id: A56035801
+  lastName: Lavreshyna
+  firstName: Olena
+  dtValidFrom: '2026-09-18T05:57:43.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P41468010201
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P41468010201
+    name: ATRIM SK s.r.o.
