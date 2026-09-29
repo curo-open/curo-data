@@ -10648,3 +10648,20 @@
   pzsRec:
     id: P35998063205
     name: KMI MEDICAl s.r.o.
+- id: A58494048
+  lastName: MÁJEK
+  firstName: Juraj
+  dtValidFrom: '2026-09-28T08:09:50.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P31683048203
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P31683048203
+    name: Onkologický ústav sv. Alžbety, Bratislava
