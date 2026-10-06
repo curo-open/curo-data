@@ -10682,3 +10682,71 @@
   pzsRec:
     id: P40707206201
     name: Univerzitná nemocnica Bratislava
+- id: A22935018
+  lastName: Alena
+  firstName: Konečná
+  dtValidFrom: '2026-10-01T10:04:29.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P44633018201
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P44633018201
+    name: CUTIS-AK, s.r.o.
+- id: A50789011
+  lastName: Marcinko
+  firstName: Ján
+  dtValidFrom: '2026-10-01T12:31:27.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N30277011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N30277011201
+    name: Ortho-Medica s.r.o.
+- id: A54498011
+  lastName: OLEXÍK
+  firstName: Jaroslav
+  dtValidFrom: '2026-10-02T11:48:57.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P08955011201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P08955011201
+    name: ReFit Medical Center o.z.
+- id: A68804014
+  lastName: Stanko
+  firstName: Michal
+  dtValidFrom: '2026-10-05T10:02:11.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P46062014201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P46062014201
+    name: TOPMED MS s.r.o
