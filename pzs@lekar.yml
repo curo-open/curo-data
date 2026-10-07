@@ -10750,3 +10750,37 @@
   pzsRec:
     id: P46062014201
     name: TOPMED MS s.r.o
+- id: A43048020
+  lastName: MALÁKOVÁ
+  firstName: Mária
+  dtValidFrom: '2026-10-06T05:52:02.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P36845020219
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P36845020219
+    name: Univerzitná nemocnica - Nemocnica svätého Michala, a.s.
+- id: A68101028
+  lastName: Pardubská
+  firstName: Mária
+  dtValidFrom: '2026-10-06T11:59:52.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P60780020202
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P60780020202
+    name: Praktická Ambulancia, s.r.o.
