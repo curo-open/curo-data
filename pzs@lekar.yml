@@ -10784,3 +10784,20 @@
   pzsRec:
     id: P60780020202
     name: Praktická Ambulancia, s.r.o.
+- id: A00698020
+  lastName: Turčanová
+  firstName: Veronika
+  dtValidFrom: '2026-10-07T08:30:31.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P98233020202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P98233020202
+    name: PoliVita s.r.o. Bottova 11630/21 03601 Martin
