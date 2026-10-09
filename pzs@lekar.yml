@@ -5521,9 +5521,9 @@
     id: P91318020201
     name: Profi VLD, s.r.o.
 - id: A68101020
-  lastName: Marek
-  firstName: Puška
-  dtValidFrom: '2026-09-09T12:24:16.000Z'
+  lastName: Pardubská
+  firstName: Mária
+  dtValidFrom: '2026-10-08T05:36:11.000Z'
   dtValidTo: null
   dtSuspendFrom: null
   dtSuspendTo: null
@@ -10801,3 +10801,54 @@
   pzsRec:
     id: P98233020202
     name: PoliVita s.r.o. Bottova 11630/21 03601 Martin
+- id: A76504801
+  lastName: Cibulková
+  firstName: Dominika
+  dtValidFrom: '2026-10-08T06:04:14.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P20970001101
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P20970001101
+    name: FN Trnava, A. Žarnova
+- id: A71951014
+  lastName: Sabo
+  firstName: Marián
+  dtValidFrom: '2026-10-08T06:54:47.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P20979014202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P20979014202
+    name: FN Trnava ORL
+- id: A56882010
+  lastName: LOPATKOVÁ
+  firstName: Miroslava
+  dtValidFrom: '2026-10-08T11:03:23.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P26592038401
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P26592038401
+    name: Concept Clinic Medical s.r.o.
