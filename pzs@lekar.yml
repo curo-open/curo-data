@@ -10852,3 +10852,20 @@
   pzsRec:
     id: P26592038401
     name: Concept Clinic Medical s.r.o.
+- id: a68101020
+  lastName: MUDr.
+  firstName: PARDUBSKÁ Mária
+  dtValidFrom: '2026-10-12T15:00:03.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - p60780020202
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: p60780020202
+    name: Praktická Ambulancia s.r.o.
