@@ -10869,3 +10869,20 @@
   pzsRec:
     id: p60780020202
     name: Praktická Ambulancia s.r.o.
+- id: A87024037
+  lastName: Durný
+  firstName: Peter
+  dtValidFrom: '2026-10-13T16:38:59.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P79469011202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P79469011202
+    name: Nemocnica Agel Zvolen
