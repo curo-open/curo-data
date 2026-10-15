@@ -10886,3 +10886,20 @@
   pzsRec:
     id: P79469011202
     name: Nemocnica Agel Zvolen
+- id: A30676099
+  lastName: THOLT
+  firstName: Bohuslav
+  dtValidFrom: '2026-10-14T06:17:59.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - O24016023502
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: O24016023502
+    name: Neštátna zdravotnícka ambulancia Pov. Bystrica
