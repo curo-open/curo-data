@@ -10903,3 +10903,20 @@
   pzsRec:
     id: O24016023502
     name: Neštátna zdravotnícka ambulancia Pov. Bystrica
+- id: A02727801
+  lastName: Syniachenko
+  firstName: Polina
+  dtValidFrom: '2026-10-16T09:24:57.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P27399020206
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P27399020206
+    name: PRO SANUS a.s., Bratislava
