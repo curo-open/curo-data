@@ -10920,3 +10920,20 @@
   pzsRec:
     id: P27399020206
     name: PRO SANUS a.s., Bratislava
+- id: A32400007
+  lastName: Biathová
+  firstName: Marianna
+  dtValidFrom: '2026-10-28T11:58:46.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P09039008201
+  zp:
+    - '24'
+    - '25'
+    - '27'
+  JRUZID: null
+  pzsRec:
+    id: P09039008201
+    name: Centrum podpory PSK
