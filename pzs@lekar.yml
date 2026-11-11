@@ -10955,3 +10955,19 @@
     id: P33021004202
     name: Doktorpro Bratislava
     JRUZID: null
+- id: A34944801
+  lastName: Monika
+  firstName: Vicianová
+  dtValidFrom: '2026-11-11T08:48:29.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P06823008201
+  zp:
+    - 25
+  JRUZID: null
+  pzsRec:
+    id: P06823008201
+    name: ARCLINIC s.r.o.
+    JRUZID: null
