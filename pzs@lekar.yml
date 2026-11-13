@@ -10971,3 +10971,39 @@
     id: P06823008201
     name: ARCLINIC s.r.o.
     JRUZID: null
+- id: B61602802
+  lastName: Hriňa
+  firstName: Tomáš
+  dtValidFrom: '2026-11-12T07:02:00.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P44756802201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P44756802201
+    name: Eurodent Medima sro
+    JRUZID: null
+- id: A08497004
+  lastName: Martina
+  firstName: Kelemenová
+  dtValidFrom: '2026-11-12T12:57:59.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P77941004201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P77941004201
+    name: Nemocnica AGEL Komárno s.r.o.
+    JRUZID: null
