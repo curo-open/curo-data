@@ -11007,3 +11007,39 @@
     id: P77941004201
     name: Nemocnica AGEL Komárno s.r.o.
     JRUZID: null
+- id: A52222001
+  lastName: Jana
+  firstName: Hudáková
+  dtValidFrom: '2026-11-13T09:13:05.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P51226001201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P51226001201
+    name: Ambulancia vnútorného lekárstva
+    JRUZID: null
+- id: A12840010
+  lastName: LANCZ
+  firstName: KLIKÁČOVÁ Anita
+  dtValidFrom: '2026-11-13T11:46:27.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P79294010201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P79294010201
+    name: SAPENTIA, s.r.o.
+    JRUZID: null
