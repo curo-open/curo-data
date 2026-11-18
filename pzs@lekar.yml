@@ -2756,9 +2756,9 @@
     id: P12928011202
     name: Cliniq s. r. o.
 - id: A84659012
-  lastName: LACHKOVIČOVÁ
+  lastName: MRAVOVÁ
   firstName: Lívia
-  dtValidFrom: '2022-08-22T12:31:07.000Z'
+  dtValidFrom: '2026-11-17T08:04:04.000Z'
   dtValidTo: null
   dtSuspendFrom: null
   dtSuspendTo: null
@@ -2771,7 +2771,7 @@
   JRUZID: '00020107165'
   pzsRec:
     id: P12928012202
-    name: Cliniq s. r. o.
+    name: Klinika Famivel Bezručova Bratislava
 - id: A18154004
   lastName: KREHEĽOVÁ
   firstName: Ivana
@@ -11042,4 +11042,22 @@
   pzsRec:
     id: P79294010201
     name: SAPENTIA, s.r.o.
+    JRUZID: null
+- id: A40691004
+  lastName: Jakub
+  firstName: Sedlák
+  dtValidFrom: '2026-11-17T11:27:46.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P81264010101
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P81264010101
+    name: Fakultná Nemocnica Skalica AGEL
     JRUZID: null
