@@ -11061,3 +11061,21 @@
     id: P81264010101
     name: Fakultná Nemocnica Skalica AGEL
     JRUZID: null
+- id: A31289048
+  lastName: KUNČÁK
+  firstName: Branislav
+  dtValidFrom: '2026-11-20T14:06:36.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - P07741048201
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: P07741048201
+    name: GASTROENTEROLÓG s.r.o. J.Kráľa 3, Nové Zámky 94002
+    JRUZID: null
