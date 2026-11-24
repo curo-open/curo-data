@@ -11079,3 +11079,21 @@
     id: P07741048201
     name: GASTROENTEROLÓG s.r.o. J.Kráľa 3, Nové Zámky 94002
     JRUZID: null
+- id: A70720049
+  lastName: Alušík
+  firstName: Daniel
+  dtValidFrom: '2026-11-23T08:10:05.000Z'
+  dtValidTo: null
+  dtSuspendFrom: null
+  dtSuspendTo: null
+  pzs:
+    - N33067049202
+  zp:
+    - 24
+    - 25
+    - 27
+  JRUZID: null
+  pzsRec:
+    id: N33067049202
+    name: Fakultná nemocnica s poliklinikou J. A. Reimana Prešov
+    JRUZID: null
